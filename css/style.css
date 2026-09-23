@@ -353,6 +353,44 @@ section { padding: 84px 0; }
 .contact-box p { color: var(--muted); margin-bottom: 30px; }
 .contact-box .btn { font-size: 1rem; }
 
+/* Episode archive */
+.archive-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 860px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+.archive-row {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px;
+  transition: border-color 0.2s, transform 0.2s;
+}
+.archive-row:hover { border-color: var(--accent); transform: translateX(4px); }
+.archive-row img {
+  width: 120px;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+.archive-row-body { flex: 1; min-width: 0; }
+.archive-row-label { color: var(--accent); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.05em; }
+.archive-row-body h3 { font-size: 0.95rem; margin: 4px 0; line-height: 1.4; }
+.archive-row-meta { color: var(--muted); font-size: 0.8rem; }
+.archive-row > i { color: var(--muted); flex-shrink: 0; }
+
+@media (max-width: 560px) {
+  .archive-row img { width: 88px; }
+  .archive-row-body h3 { font-size: 0.88rem; }
+}
+
 /* Footer */
 footer {
   border-top: 1px solid var(--border);
