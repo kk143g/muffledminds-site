@@ -221,6 +221,46 @@ section { padding: 84px 0; }
 
 .view-all { text-align: center; margin-top: 40px; }
 
+/* Episode detail page */
+.ep-detail { padding: 140px 0 90px; }
+.ep-detail .wrap { max-width: 860px; }
+.breadcrumb { color: var(--muted); font-size: 0.85rem; margin-bottom: 18px; }
+.breadcrumb a { color: var(--muted); }
+.breadcrumb a:hover { color: var(--accent); }
+.ep-detail > .wrap > .ep-num {
+  color: var(--accent);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  margin-bottom: 10px;
+}
+.ep-detail h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: clamp(1.7rem, 4vw, 2.6rem);
+  line-height: 1.25;
+  margin-bottom: 18px;
+}
+.ep-detail-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-bottom: 32px;
+}
+.ep-detail-meta span { display: inline-flex; align-items: center; gap: 8px; }
+.ep-detail-meta i { color: var(--accent); }
+.video-embed {
+  position: relative;
+  aspect-ratio: 16/9;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  margin-bottom: 28px;
+}
+.video-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; }
+.ep-detail-desc { color: var(--muted); font-size: 1.05rem; line-height: 1.75; margin-bottom: 36px; }
+
 /* Guests */
 .guest-list {
   display: grid;
