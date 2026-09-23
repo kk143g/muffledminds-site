@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muffledminds.com/sitemap.xml
