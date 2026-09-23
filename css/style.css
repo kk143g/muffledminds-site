@@ -48,7 +48,7 @@ header {
 }
 
 .brand { display: flex; align-items: center; gap: 10px; }
-.brand img { width: 34px; height: 34px; }
+.brand img { width: 34px; height: 34px; border: 1px solid var(--border); }
 .brand span {
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
@@ -290,7 +290,7 @@ footer .foot-brand {
   display: flex; align-items: center; justify-content: center; gap: 8px;
   margin-bottom: 14px; color: var(--text); font-family: 'Poppins', sans-serif; letter-spacing: 0.05em;
 }
-footer .foot-brand img { width: 22px; height: 22px; }
+footer .foot-brand img { width: 22px; height: 22px; border: 1px solid var(--border); }
 footer .foot-links { display: flex; gap: 20px; justify-content: center; margin: 16px 0; flex-wrap: wrap; }
 footer .foot-links a:hover { color: var(--accent); }
 
