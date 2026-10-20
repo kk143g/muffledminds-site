@@ -33,4 +33,4 @@ Remove any existing `A`/`CNAME`/parking records on `@` and `www` first. DNS prop
 
 ## Updating content
 
-Everything lives in `index.html` (content + episode cards), `css/style.css` (styling), and `assets/logo.svg` (logo — swap in your real logo file and update the `src`/`href` references if you'd rather use the original PNG).
+Everything lives in `index.html` (content + episode cards), `css/style.css` (styling), and `assets/icon.png` / `assets/logo.png` (logo).
