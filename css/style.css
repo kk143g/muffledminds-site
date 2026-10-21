@@ -479,30 +479,30 @@ h1, h2, h3 { letter-spacing: -0.02em; }
 
 
 
-/* Phone hero: mic top-left, portrait top-right, text below (as on the reference) */
+/* Phone hero: text starts at the top, over the mic (left) and portrait (right) like the reference */
 @media (max-width: 760px) {
-  .hero { min-height: auto; align-items: flex-start; padding: 300px 20px 70px; }
-  .hero-content { transform: none; }
-  .hero-portrait { top: 0; right: -16%; bottom: auto; width: 74%; height: 400px; }
-  .hero-portrait img { object-position: 50% 12%; }
+  .hero { min-height: 100svh; align-items: flex-start; padding: 84px 20px 70px; }
+  .hero-content { transform: none; text-shadow: 0 2px 18px rgba(0,0,0,0.85); }
+  .hero-portrait { top: 0; right: -34%; bottom: auto; width: 82%; height: 560px; }
+  .hero-portrait img { object-position: 50% 10%; }
   .hero-portrait::after {
     background:
-      linear-gradient(90deg, var(--bg) 0%, rgba(5,5,5,0.35) 28%, transparent 62%),
-      linear-gradient(0deg, var(--bg) 0%, rgba(5,5,5,0.7) 22%, transparent 55%),
-      linear-gradient(180deg, rgba(5,5,5,0.35) 0%, transparent 15%);
+      linear-gradient(90deg, var(--bg) 0%, rgba(5,5,5,0.3) 25%, transparent 60%),
+      linear-gradient(0deg, var(--bg) 0%, rgba(5,5,5,0.6) 25%, transparent 58%),
+      linear-gradient(180deg, rgba(5,5,5,0.3) 0%, transparent 15%);
   }
   .hero-mic {
     display: block;
     top: 0;
-    left: -2%;
+    left: -3%;
     bottom: auto;
-    width: 46vw;
-    max-width: 200px;
-    height: 270px;
+    width: 42vw;
+    max-width: 190px;
+    height: 280px;
     object-fit: cover;
     object-position: bottom;
-    opacity: 1;
+    opacity: 0.85;
   }
   .hero-spot { bottom: -6%; }
-  .hero h1 { font-size: clamp(2.9rem, 14vw, 4.2rem); }
+  .hero h1 { font-size: clamp(2.9rem, 14vw, 4.2rem); text-shadow: none; }
 }
