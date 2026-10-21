@@ -126,7 +126,7 @@ header {
   z-index: 0;
   pointer-events: none;
 }
-.hero-content { position: relative; z-index: 2; max-width: 900px; }
+.hero-content { position: relative; z-index: 2; max-width: 900px; transform: translateY(-9vh); }
 .hero-logo { width: clamp(84px, 9vw, 116px); height: auto; margin: 0 auto 22px; position: relative; z-index: 2; filter: drop-shadow(0 10px 30px rgba(216,176,104,0.18)); }
 .hero .eyebrow { letter-spacing: 0.2em; font-size: 0.8rem; }
 .hero h1 {
@@ -150,8 +150,9 @@ header {
   margin-top: 18px;
   letter-spacing: 0.04em;
 }
+.hero p.lead span { display: block; }
 .hero p.lead {
-  max-width: 620px;
+  max-width: 680px;
   margin: 18px auto 0;
   color: var(--muted);
   font-size: 1.1rem;
