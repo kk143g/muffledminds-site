@@ -105,6 +105,55 @@
   </div>
 </section>
 
+<section id="guest-carousel" class="gc" aria-label="Guests and host">
+  <p class="gc-hint"><span class="gc-hint-hover">Hover over a guest to meet them</span><span class="gc-hint-touch">Tap a guest to meet them</span></p>
+  <div class="gc-stage">
+    <button class="gc-arrow gc-prev" type="button" aria-label="Previous guests"><i class="fa-solid fa-chevron-left"></i></button>
+    <div class="gc-pages">
+      <div class="gc-page is-active">
+          <figure class="gc-person" tabindex="0" role="group" aria-label="Babur Ayub">
+            <div class="gc-figure">
+              <img class="gc-reflect" src="assets/guests/babur-idle.webp" alt="" aria-hidden="true" loading="lazy">
+              <img class="gc-idle" src="assets/guests/babur-idle.webp" alt="Babur Ayub, Corporate Trainer, Business Development Consultant" width="619" height="1000">
+              <img class="gc-wave" src="assets/guests/babur-wave.webp" alt="" aria-hidden="true" width="619" height="1000" loading="lazy">
+            </div>
+            <figcaption class="gc-card">
+              <strong class="gc-name">Babur Ayub</strong>
+              <span class="gc-role">Corporate Trainer, Business Development Consultant</span>
+              <a class="gc-play" href="https://www.youtube.com/watch?v=yTbTQlwi-YM" target="_blank" rel="noopener"><i class="fa-solid fa-play"></i> Play episode</a>
+            </figcaption>
+          </figure>
+          <figure class="gc-person" data-host="true" tabindex="0" role="group" aria-label="Khawar Shahzad">
+            <div class="gc-figure">
+              <img class="gc-reflect" src="assets/guests/khawar-idle.webp" alt="" aria-hidden="true" loading="lazy">
+              <img class="gc-idle" src="assets/guests/khawar-idle.webp" alt="Khawar Shahzad, Podcast Host, Software Developer" width="619" height="1000">
+              <img class="gc-wave" src="assets/guests/khawar-wave.webp" alt="" aria-hidden="true" width="619" height="1000" loading="lazy">
+            </div>
+            <figcaption class="gc-card">
+              <strong class="gc-name">Khawar Shahzad</strong>
+              <span class="gc-role">Podcast Host, Software Developer</span>
+              <a class="gc-play" href="https://youtube.com/@muffledminds" target="_blank" rel="noopener"><i class="fa-solid fa-play"></i> Watch on YouTube</a>
+            </figcaption>
+          </figure>
+          <figure class="gc-person" tabindex="0" role="group" aria-label="Haji Rafiq">
+            <div class="gc-figure">
+              <img class="gc-reflect" src="assets/guests/haji-idle.webp" alt="" aria-hidden="true" loading="lazy">
+              <img class="gc-idle" src="assets/guests/haji-idle.webp" alt="Haji Rafiq, Owner of Four Seasons Footwear" width="619" height="1000">
+              <img class="gc-wave" src="assets/guests/haji-wave.webp" alt="" aria-hidden="true" width="619" height="1000" loading="lazy">
+            </div>
+            <figcaption class="gc-card">
+              <strong class="gc-name">Haji Rafiq</strong>
+              <span class="gc-role">Owner of Four Seasons Footwear</span>
+              <a class="gc-play" href="https://www.youtube.com/watch?v=jDsFK7zONGI" target="_blank" rel="noopener"><i class="fa-solid fa-play"></i> Play episode</a>
+            </figcaption>
+          </figure>
+      </div>
+    </div>
+    <button class="gc-arrow gc-next" type="button" aria-label="Next guests"><i class="fa-solid fa-chevron-right"></i></button>
+  </div>
+  <div class="gc-dots" role="tablist" aria-label="Guest pages"></div>
+</section>
+
 <section id="about">
   <div class="wrap about-grid">
     <div>
@@ -394,5 +443,6 @@
 </footer>
 
 <script src="js/script.js"></script>
+<script src="js/guests.js"></script>
 </body>
 </html>
