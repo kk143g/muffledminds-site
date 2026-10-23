@@ -22,8 +22,8 @@
     f.style.setProperty('--z', 20 - rank);
     f.innerHTML =
       '<div class="gc-figure">' +
-        '<img class="gc-reflect" data-src="assets/guests/' + p.img + '-idle.webp" alt="" aria-hidden="true">' +
-        '<img class="gc-idle" data-src="assets/guests/' + p.img + '-idle.webp" alt="' + esc(p.name + ', ' + p.role) + '" width="558" height="900">' +
+        '<img class="gc-reflect" data-src="assets/guests/' + (p.idleImg || p.img + '-idle') + '.webp" alt="" aria-hidden="true">' +
+        '<img class="gc-idle" data-src="assets/guests/' + (p.idleImg || p.img + '-idle') + '.webp" alt="' + esc(p.name + ', ' + p.role) + '" width="558" height="900">' +
         '<img class="gc-wave" data-src="assets/guests/' + p.img + '-wave.webp" alt="" aria-hidden="true" width="558" height="900">' +
         '<span class="gc-hit"></span><span class="gc-arm"></span>' +
       '</div>' +
@@ -40,13 +40,14 @@
     const chunks = [];
     for (let i = 0; i < data.guests.length; i += per) chunks.push(data.guests.slice(i, i + per));
     pagesEl.innerHTML = '';
-    pages = chunks.map(chunk => {
+    pages = chunks.map((chunk, pageIndex) => {
       const left = chunk.filter((_, i) => i % 2 === 0);
       const right = chunk.filter((_, i) => i % 2 === 1);
       const page = document.createElement('div');
       page.className = 'gc-page';
       left.slice().reverse().forEach((g, i) => page.appendChild(figure(g, 'left', left.length - i)));
-      page.appendChild(figure(data.host, 'host', 0));
+      const hostPose = data.hostPoses ? data.hostPoses[pageIndex % data.hostPoses.length] : {};
+      page.appendChild(figure(Object.assign({}, data.host, hostPose), 'host', 0));
       right.forEach((g, i) => page.appendChild(figure(g, 'right', i + 1)));
       pagesEl.appendChild(page);
       return page;
