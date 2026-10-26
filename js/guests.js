@@ -31,6 +31,7 @@
         '<strong class="gc-name">' + esc(p.name) + '</strong>' +
         '<span class="gc-role">' + esc(p.role) + '</span>' +
         '<a class="gc-play" href="' + esc(p.url) + '" target="_blank" rel="noopener"><i class="fa-solid fa-play"></i> ' + esc(p.label) + '</a>' +
+        (p.url2 ? '<a class="gc-play" href="' + esc(p.url2) + '" target="_blank" rel="noopener"><i class="fa-solid fa-globe"></i> ' + esc(p.label2) + '</a>' : '') +
       '</figcaption>';
     return f;
   }

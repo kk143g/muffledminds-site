@@ -606,6 +606,7 @@ h1, h2, h3 { letter-spacing: -0.02em; }
 .gc-play { margin-top: 6px; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: #9ca3af; transition: color 0.2s; }
 .gc-play i { font-size: 0.6rem; color: #d8b068; margin-right: 4px; }
 .gc-play:hover { color: #d8b068; }
+.gc-play + .gc-play { margin-top: 2px; }
 
 .gc-arrow {
   position: absolute;
