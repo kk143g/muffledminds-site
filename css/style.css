@@ -548,7 +548,7 @@ h1, h2, h3 { letter-spacing: -0.02em; }
 }
 .gc-left { --lean: var(--tilt); }
 .gc-right { --lean: calc(var(--tilt) * -1); }
-.gc-host { --lean: 0deg; --hs: 1.1; --w: calc(var(--ph) * 0.62 * var(--hs)); }
+.gc-host { --lean: 0deg; --hs: 1.04; --ov: 0.07; transform: translateY(calc(var(--ph) * 0.045)); --w: calc(var(--ph) * 0.62 * var(--hs)); }
 .gc-host .gc-figure { height: calc(var(--ph) * var(--hs)); }
 .gc-figure {
   position: relative;
