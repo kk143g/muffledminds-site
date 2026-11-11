@@ -12,6 +12,17 @@
     });
   });
 
+  // Transcript language tabs (Roman Urdu / English).
+  const trTabs = Array.from(document.querySelectorAll('.tr-tab'));
+  trTabs.forEach(t => t.addEventListener('click', () => {
+    trTabs.forEach(x => {
+      const on = x === t;
+      x.classList.toggle('is-active', on);
+      x.setAttribute('aria-selected', on ? 'true' : 'false');
+    });
+    document.querySelectorAll('.tr-panel').forEach(p => { p.hidden = p.id !== 'tr-' + t.dataset.tr; });
+  }));
+
   // Section jump links: smooth scroll, and highlight the section being read.
   const links = Array.from(document.querySelectorAll('.ep-jump a'));
   if (!links.length) return;

@@ -137,9 +137,20 @@ def build(slug):
     topics = "\n      ".join(topic_chip(t) for t in d["topics"])
     faq = "\n".join(
         f'      <details class="faq-item"><summary>{e(q["q"])}</summary><p>{e(q["a"])}</p></details>' for q in d["faq"])
-    transcript = "\n".join(
-        f'      <p><a class="ts" href="{yt}&amp;t={int(p["start"])}s" data-seek="{int(p["start"])}" target="_blank" rel="noopener">{mmss(p["start"])}</a> {e(p["text"])}</p>'
-        for p in d["transcript"])
+    def tr_html(items):
+        return "\n".join(
+            f'          <p><a class="ts" href="{yt}&amp;t={int(p["start"])}s" data-seek="{int(p["start"])}" target="_blank" rel="noopener">{mmss(p["start"])}</a> {e(p["text"])}</p>'
+            for p in items)
+    if d.get("transcript_en"):
+        transcript_block = (
+            '        <div class="tr-tabs" role="tablist" aria-label="Transcript language">\n'
+            '          <button type="button" class="tr-tab is-active" role="tab" id="tr-tab-ur" aria-controls="tr-ur" aria-selected="true" data-tr="ur">Roman Urdu <span>as spoken in the video</span></button>\n'
+            '          <button type="button" class="tr-tab" role="tab" id="tr-tab-en" aria-controls="tr-en" aria-selected="false" data-tr="en">English</button>\n'
+            '        </div>\n'
+            f'        <div class="tr-panel" role="tabpanel" id="tr-ur" aria-labelledby="tr-tab-ur" lang="ur-Latn">\n{tr_html(d["transcript"])}\n        </div>\n'
+            f'        <div class="tr-panel" role="tabpanel" id="tr-en" aria-labelledby="tr-tab-en" lang="en" hidden>\n{tr_html(d["transcript_en"])}\n        </div>')
+    else:
+        transcript_block = f'        <div class="tr-panel">\n{tr_html(d["transcript"])}\n        </div>'
     glinks = "".join(
         f'<a href="{e(l["url"])}" target="_blank" rel="noopener" class="btn btn-outline"><i class="fa-solid fa-link"></i> {e(l["label"])}</a>'
         for l in guest.get("links", []))
@@ -261,7 +272,7 @@ def build(slug):
       <details class="transcript">
         <summary><i class="fa-solid fa-chevron-down"></i> Read the full transcript</summary>
         <div class="transcript-body">
-{transcript}
+{transcript_block}
         </div>
       </details>
     </div>

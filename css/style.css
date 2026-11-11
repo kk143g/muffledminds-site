@@ -430,6 +430,17 @@ section { padding: 84px 0; }
 .transcript-body { padding: 4px 22px 22px; max-height: 640px; overflow-y: auto; }
 .transcript-body p { margin-bottom: 12px; font-size: 0.95rem; }
 .transcript-body .ts { color: var(--accent); font-weight: 600; font-variant-numeric: tabular-nums; margin-right: 10px; }
+.tr-tabs { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 18px; position: sticky; top: 0; padding: 8px 0; background: var(--card); z-index: 2; }
+.tr-tab {
+  font: inherit; font-size: 0.88rem; font-weight: 500; cursor: pointer; padding: 8px 18px; border-radius: 999px; color: #d1d5db;
+  background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.14); transition: border-color 0.2s, color 0.2s, background 0.2s;
+}
+.tr-tab span { margin-left: 6px; font-size: 0.75rem; color: var(--muted); }
+.tr-tab:hover { border-color: #d8b068; color: #fff; }
+.tr-tab.is-active { background: #d8b068; border-color: #d8b068; color: #000; font-weight: 600; }
+.tr-tab.is-active span { color: rgba(0,0,0,0.6); }
+.tr-tab:focus-visible { outline: 2px solid #d8b068; outline-offset: 3px; }
+.tr-panel[hidden] { display: none; }
 .faq-item { background: var(--card); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 10px; }
 .faq-item summary { cursor: pointer; padding: 14px 18px; font-weight: 600; color: #fff; }
 .faq-item p { padding: 0 18px 4px; }
