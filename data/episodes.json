@@ -3,14 +3,16 @@
   {
    "key": "podcast",
    "name": "Podcast",
-   "match": []
+   "match": [],
+   "playlist": "https://www.youtube.com/playlist?list=PLGwxKscM0gb04P3OGD_oVpbESOYBWZee4"
   },
   {
    "key": "find-your-clarity",
    "name": "Find Your Clarity",
    "match": [
     "find your clarity"
-   ]
+   ],
+   "playlist": "https://www.youtube.com/playlist?list=PLVgjRivsQeSk"
   }
  ],
  "episodes": [

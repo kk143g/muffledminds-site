@@ -26,6 +26,7 @@ DATA = ROOT / "data" / "episodes.json"
 CHANNEL_ID = "UCouniEJHJulndxq3Rakon7Q"
 FEED = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
 SITE = "https://muffledminds.com"
+CHANNEL_URL = "https://youtube.com/@muffledminds"
 HOME_COUNT = 9
 NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
 
@@ -119,6 +120,30 @@ def fetch_new(cfg):
     return added
 
 
+def discover_playlists(cfg):
+    """Fill in a series' YouTube playlist by matching its name to a playlist title on the channel."""
+    missing = [s for s in cfg["series"] if not s.get("playlist")]
+    if not missing:
+        return
+    try:
+        page = get("https://www.youtube.com/@muffledminds/playlists?hl=en").read().decode("utf-8", "ignore")
+    except Exception as e:
+        print("WARNING: could not read the channel's playlists:", e)
+        return
+    found = {}
+    for m in re.finditer(r'"contentId":"(PL[^"]+)"', page):
+        t = re.findall(r'"lockupMetadataViewModel":\{"title":\{"content":"([^"]+)"', page[max(0, m.start() - 12000):m.start()])
+        if t:
+            found[html.unescape(t[-1]).strip().lower()] = m.group(1)
+    for s in missing:
+        pid = found.get(s["name"].strip().lower())
+        if pid:
+            s["playlist"] = f"https://www.youtube.com/playlist?list={pid}"
+            print("playlist found:", s["name"], s["playlist"])
+        else:
+            print(f"WARNING: no playlist found for series '{s['name']}' - its button falls back to the channel")
+
+
 def fmt_date(iso):
     y, m, d = (int(x) for x in iso.split("-"))
     return date(y, m, d).strftime("%-d %b %Y")
@@ -172,7 +197,7 @@ def tabs_html(cfg, prefix, limit, archive):
         shown = mine if limit is None else mine[:limit]
         tabs.append(
             f'      <button class="ep-tab{" is-active" if on else ""}" role="tab" id="{"" if archive else "h-"}tab-{k}" aria-controls="{"" if archive else "h-"}panel-{k}" '
-            f'aria-selected="{"true" if on else "false"}" data-tab="{k}">{html.escape(s["name"])} <span>{len(mine)}</span></button>\n')
+            f'aria-selected="{"true" if on else "false"}" data-tab="{k}" data-playlist="{html.escape(s.get("playlist") or CHANNEL_URL)}">{html.escape(s["name"])} <span>{len(mine)}</span></button>\n')
         more = ('      <div class="view-all ep-more-wrap" hidden><button type="button" class="btn btn-outline ep-more">'
                 '<i class="fa-solid fa-chevron-down"></i> Show more episodes</button></div>\n') if archive else ""
         panels.append(
@@ -180,8 +205,15 @@ def tabs_html(cfg, prefix, limit, archive):
             f'      <div class="ep-grid{" ep-grid-3" if archive else ""}">\n' + "".join(card(e, prefix) for e in shown) + '      </div>\n'
             + more + '    </div>\n')
     cls = "ep-tabs ep-tabs-top" if archive else "ep-tabs"
-    return (f'    <div class="{cls}" role="tablist" aria-label="Episode series"{" data-hash" if archive else ""}>\n'
-            + "".join(tabs) + '    </div>\n' + "".join(panels))
+    out = (f'    <div class="{cls}" role="tablist" aria-label="Episode series"{" data-hash" if archive else ""}>\n'
+           + "".join(tabs) + '    </div>\n' + "".join(panels))
+    if not archive:
+        first = cfg["series"][0]
+        out += ('    <div class="view-all" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">\n'
+                '      <a href="episodes/index.html" class="btn btn-primary" data-ep-archive><i class="fa-solid fa-list"></i> Browse Full Archive</a>\n'
+                f'      <a href="{html.escape(first.get("playlist") or CHANNEL_URL)}" target="_blank" rel="noopener" class="btn btn-outline" data-ep-yt><i class="fa-brands fa-youtube"></i> View All On YouTube</a>\n'
+                '    </div>\n')
+    return out
 
 
 def render(cfg):
@@ -209,6 +241,7 @@ def main():
     cfg = json.loads(DATA.read_text())
     if "--no-fetch" not in sys.argv:
         fetch_new(cfg)
+        discover_playlists(cfg)
     DATA.write_text(json.dumps(cfg, indent=1, ensure_ascii=False) + "\n")
     render(cfg)
     print(f"{len(cfg['episodes'])} episodes")

@@ -199,8 +199,8 @@
     </div>
 <!-- HOME-EPISODES:START -->
     <div class="ep-tabs" role="tablist" aria-label="Episode series">
-      <button class="ep-tab is-active" role="tab" id="h-tab-podcast" aria-controls="h-panel-podcast" aria-selected="true" data-tab="podcast">Podcast <span>32</span></button>
-      <button class="ep-tab" role="tab" id="h-tab-find-your-clarity" aria-controls="h-panel-find-your-clarity" aria-selected="false" data-tab="find-your-clarity">Find Your Clarity <span>5</span></button>
+      <button class="ep-tab is-active" role="tab" id="h-tab-podcast" aria-controls="h-panel-podcast" aria-selected="true" data-tab="podcast" data-playlist="https://www.youtube.com/playlist?list=PLGwxKscM0gb04P3OGD_oVpbESOYBWZee4">Podcast <span>32</span></button>
+      <button class="ep-tab" role="tab" id="h-tab-find-your-clarity" aria-controls="h-panel-find-your-clarity" aria-selected="false" data-tab="find-your-clarity" data-playlist="https://www.youtube.com/playlist?list=PLVgjRivsQeSk">Find Your Clarity <span>5</span></button>
     </div>
     <div class="ep-panel" role="tabpanel" id="h-panel-podcast" aria-labelledby="h-tab-podcast" data-panel="podcast">
       <div class="ep-grid">
@@ -322,11 +322,11 @@
       </a>
       </div>
     </div>
-<!-- HOME-EPISODES:END -->
     <div class="view-all" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
-      <a href="episodes/index.html" class="btn btn-primary"><i class="fa-solid fa-list"></i> Browse Full Archive</a>
-      <a href="https://youtube.com/@muffledminds" target="_blank" rel="noopener" class="btn btn-outline"><i class="fa-brands fa-youtube"></i> View All On YouTube</a>
+      <a href="episodes/index.html" class="btn btn-primary" data-ep-archive><i class="fa-solid fa-list"></i> Browse Full Archive</a>
+      <a href="https://www.youtube.com/playlist?list=PLGwxKscM0gb04P3OGD_oVpbESOYBWZee4" target="_blank" rel="noopener" class="btn btn-outline" data-ep-yt><i class="fa-brands fa-youtube"></i> View All On YouTube</a>
     </div>
+<!-- HOME-EPISODES:END -->
   </div>
 </section>
 

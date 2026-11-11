@@ -20,6 +20,11 @@
       t.setAttribute('aria-selected', on ? 'true' : 'false');
     });
     panels.forEach(p => { p.hidden = p.dataset.panel !== key; });
+    const tab = tabs.find(t => t.dataset.tab === key);
+    const yt = document.querySelector('[data-ep-yt]');
+    if (yt && tab && tab.dataset.playlist) yt.href = tab.dataset.playlist;
+    const arch = document.querySelector('[data-ep-archive]');
+    if (arch) arch.href = 'episodes/index.html' + (key === tabs[0].dataset.tab ? '' : '#' + key);
     if (updateHash && document.querySelector('.ep-tabs[data-hash]')) history.replaceState(null, '', key === tabs[0].dataset.tab ? location.pathname : '#' + key);
   }
 
