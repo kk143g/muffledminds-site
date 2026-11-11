@@ -427,13 +427,13 @@ section { padding: 84px 0; }
 .transcript summary::-webkit-details-marker { display: none; }
 .transcript summary i { color: var(--accent); margin-right: 10px; transition: transform 0.2s; }
 .transcript[open] summary i { transform: rotate(180deg); }
-.transcript-body { padding: 4px 22px 22px; max-height: 640px; overflow-y: auto; }
+.transcript-body { padding: 0 22px 22px; max-height: 640px; overflow-y: auto; }
 .transcript-body p { margin-bottom: 12px; font-size: 0.95rem; }
 .transcript-body .ts { color: var(--accent); font-weight: 600; font-variant-numeric: tabular-nums; margin-right: 10px; }
-.tr-tabs { display: flex; gap: 8px; flex-wrap: wrap; margin: 14px 0 18px; position: sticky; top: 0; padding: 8px 0; background: var(--card); z-index: 2; }
+.tr-tabs { display: flex; gap: 8px; flex-wrap: wrap; margin: 0 -22px 18px; position: sticky; top: 0; padding: 12px 22px; background: #0e0e0e; border-bottom: 1px solid var(--border); z-index: 5; }
 .tr-tab {
   font: inherit; font-size: 0.88rem; font-weight: 500; cursor: pointer; padding: 8px 18px; border-radius: 999px; color: #d1d5db;
-  background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.14); transition: border-color 0.2s, color 0.2s, background 0.2s;
+  background: #1b1b1b; border: 1px solid #3a3a3a; transition: border-color 0.2s, color 0.2s, background 0.2s;
 }
 .tr-tab span { margin-left: 6px; font-size: 0.75rem; color: var(--muted); }
 .tr-tab:hover { border-color: #d8b068; color: #fff; }
