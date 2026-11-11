@@ -240,6 +240,8 @@ def render(cfg):
                      "itemListElement": items}, indent=2, ensure_ascii=False)
     text = replace_block(text, "EPISODES-LD", f'<script type="application/ld+json">\n{ld}\n</script>\n')
     arch.write_text(text)
+    import build_episode_page
+    build_episode_page.refresh_related(cfg)
 
 
 def main():

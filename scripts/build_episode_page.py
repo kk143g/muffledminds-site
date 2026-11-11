@@ -73,19 +73,42 @@ def topic_chip(t):
 
 
 def related_cards(cfg, vid, series, n=3):
-    eps = cfg["episodes"]
-    same = [x for x in eps if x["series"] == series and x["id"] != vid]
-    other = [x for x in eps if x["series"] != series and x["id"] != vid]
-    out = []
-    for x in (same + other)[:n]:
-        href = x["page"] if x.get("page") else f"https://www.youtube.com/watch?v={x['id']}"
-        ext = "" if x.get("page") else ' target="_blank" rel="noopener"'
-        out.append(
-            f'      <a class="ep-card" href="{href}"{ext}>\n'
-            f'        <div class="ep-thumb"><img src="https://img.youtube.com/vi/{x["id"]}/hqdefault.jpg" alt="{e(x["title"])} thumbnail" loading="lazy"><span class="play"><i class="fa-solid fa-circle-play"></i></span></div>\n'
-            f'        <div class="ep-body"><div class="ep-num">{e(x["label"])}</div><h3>{e(x["title"])}</h3></div>\n'
-            f'      </a>\n')
-    return "".join(out)
+    """Other episodes from the same series/playlist, newest first (same cards as the episode lists)."""
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import update_episodes
+    mine = [x for x in cfg["episodes"] if x["series"] == series and x["id"] != vid][:n]
+    return "".join(update_episodes.card(x, "") for x in mine)
+
+
+def more_heading(cfg, series_key):
+    ser = next(s for s in cfg["series"] if s["key"] == series_key)
+    if ser["key"] == "podcast":
+        return "More From Muffled Minds Podcast", "Browse All Podcast Episodes"
+    return (f'More From Muffled Minds <span class="gold">Series: {e(ser["name"])}</span>',
+            f'Browse All {e(ser["name"])} Episodes')
+
+
+def refresh_related(cfg):
+    """Rewrite the 'Keep Listening' block of every episode page: series-aware heading, same-series cards."""
+    pat = re.compile(
+        r'(<div class="eyebrow">Keep Listening</div>\s*<h2>)(.*?)(</h2>\s*</div>\s*<div class="ep-grid">\n)(.*?)'
+        r'(    </div>\n    <div class="view-all">\n      <a href=")([^"]*)(" class="btn btn-outline"><i class="fa-solid fa-list"></i> )(.*?)(</a>)', re.S)
+    n = 0
+    for ep in cfg["episodes"]:
+        if not ep.get("page"):
+            continue
+        path = ROOT / "episodes" / ep["page"]
+        if not path.exists():
+            continue
+        title, btn = more_heading(cfg, ep["series"])
+        cards = related_cards(cfg, ep["id"], ep["series"])
+        text = path.read_text()
+        new, k = pat.subn(lambda m: m.group(1) + title + m.group(3) + cards + m.group(5)
+                          + f"index.html#{ep['series']}" + m.group(7) + btn + m.group(9), text, count=1)
+        if k and new != text:
+            path.write_text(new)
+            n += 1
+    return n
 
 
 def build(slug):
@@ -99,6 +122,7 @@ def build(slug):
     mins = round(d["duration"] / 60)
     guest = d["guest"]
     head_label, crumb_label = heading_label(d, ser)
+    more_title, more_btn = more_heading(cfg, d["series"])
     jump = "\n".join(f'      <a href="#{k}">{e(v)}</a>' for k, v in SECTIONS)
 
     # ---- JSON-LD -----------------------------------------------------------
@@ -301,12 +325,12 @@ def build(slug):
   <div class="wrap">
     <div class="section-head">
       <div class="eyebrow">Keep Listening</div>
-      <h2>More From Muffled Minds</h2>
+      <h2>{more_title}</h2>
     </div>
     <div class="ep-grid">
 {related_cards(cfg, vid, d["series"])}    </div>
     <div class="view-all">
-      <a href="index.html#{d["series"]}" class="btn btn-outline"><i class="fa-solid fa-list"></i> Browse All Episodes</a>
+      <a href="index.html#{d["series"]}" class="btn btn-outline"><i class="fa-solid fa-list"></i> {more_btn}</a>
     </div>
   </div>
 </section>
@@ -352,6 +376,7 @@ def build(slug):
     sys.path.insert(0, str(ROOT / "scripts"))
     import update_episodes
     update_episodes.render(cfg)
+    print("related blocks refreshed on", refresh_related(cfg), "pages")
     print("built", f"episodes/{slug}.html")
 
 
