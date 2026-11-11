@@ -394,6 +394,46 @@ section { padding: 84px 0; }
 .contact-box p { color: var(--muted); margin-bottom: 30px; }
 .contact-box .btn { font-size: 1rem; }
 
+/* Episode detail: section jump links */
+.ep-jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 26px; }
+.ep-jump a {
+  padding: 8px 16px; border-radius: 999px; font-size: 0.85rem; font-weight: 500; color: #d1d5db;
+  background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.14);
+  transition: border-color 0.2s, color 0.2s, background 0.2s;
+}
+.ep-jump a:hover { border-color: #d8b068; color: #fff; }
+.ep-jump a.is-active { background: #d8b068; border-color: #d8b068; color: #000; font-weight: 600; }
+.ep-detail [id] { scroll-margin-top: 92px; }
+
+/* Episode detail: content blocks */
+.ep-detail .ep-block { margin-top: 56px; }
+.ep-detail .ep-block h2 { font-family: 'Outfit', sans-serif; font-size: 1.5rem; margin-bottom: 18px; }
+.ep-detail .ep-block h3 { font-family: 'Outfit', sans-serif; font-size: 1.05rem; color: var(--accent); margin: 26px 0 12px; }
+.ep-detail .ep-block p { color: #d1d5db; line-height: 1.85; margin-bottom: 14px; }
+.ep-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+.ep-list li { position: relative; padding: 12px 16px 12px 44px; background: var(--card); border: 1px solid var(--border); border-radius: 10px; color: #e5e7eb; line-height: 1.55; }
+.ep-list li::before { content: "\f00c"; font-family: "Font Awesome 6 Free"; font-weight: 900; position: absolute; left: 16px; top: 13px; color: var(--accent); font-size: 0.85rem; }
+.ep-chapters { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+.ep-chapters a { display: flex; gap: 16px; align-items: baseline; padding: 11px 16px; background: var(--card); border: 1px solid var(--border); border-radius: 10px; transition: border-color 0.2s; }
+.ep-chapters a:hover { border-color: var(--accent); }
+.ch-time { color: var(--accent); font-weight: 600; font-variant-numeric: tabular-nums; min-width: 52px; }
+.ch-title { color: #e5e7eb; }
+.guest-card { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 24px 26px; }
+.guest-name { font-family: 'Outfit', sans-serif; font-size: 1.25rem; font-weight: 700; color: var(--accent); }
+.guest-role { color: var(--muted); font-size: 0.9rem; margin: 4px 0 14px; }
+.ep-note { font-size: 0.88rem; color: var(--muted) !important; }
+.transcript { background: var(--card); border: 1px solid var(--border); border-radius: 14px; }
+.transcript summary { cursor: pointer; padding: 16px 20px; font-weight: 600; list-style: none; color: #fff; }
+.transcript summary::-webkit-details-marker { display: none; }
+.transcript summary i { color: var(--accent); margin-right: 10px; transition: transform 0.2s; }
+.transcript[open] summary i { transform: rotate(180deg); }
+.transcript-body { padding: 4px 22px 22px; max-height: 640px; overflow-y: auto; }
+.transcript-body p { margin-bottom: 12px; font-size: 0.95rem; }
+.transcript-body .ts { color: var(--accent); font-weight: 600; font-variant-numeric: tabular-nums; margin-right: 10px; }
+.faq-item { background: var(--card); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 10px; }
+.faq-item summary { cursor: pointer; padding: 14px 18px; font-weight: 600; color: #fff; }
+.faq-item p { padding: 0 18px 4px; }
+
 /* Episode tabs + 3-up archive grid */
 .ep-tabs { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 0 auto 34px; }
 .ep-tab {
