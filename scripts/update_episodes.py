@@ -213,6 +213,11 @@ def tabs_html(cfg, prefix, limit, archive):
                 '      <a href="episodes/index.html" class="btn btn-primary" data-ep-archive><i class="fa-solid fa-list"></i> Browse Full Archive</a>\n'
                 f'      <a href="{html.escape(first.get("playlist") or CHANNEL_URL)}" target="_blank" rel="noopener" class="btn btn-outline" data-ep-yt><i class="fa-brands fa-youtube"></i> View All On YouTube</a>\n'
                 '    </div>\n')
+    else:
+        first = cfg["series"][0]
+        out += ('    <div class="view-all">\n'
+                f'      <a href="{html.escape(first.get("playlist") or CHANNEL_URL)}" target="_blank" rel="noopener" class="btn btn-outline" data-ep-yt><i class="fa-brands fa-youtube"></i> View All On YouTube</a>\n'
+                '    </div>\n')
     return out
 
 
