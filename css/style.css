@@ -402,6 +402,7 @@ section { padding: 84px 0; }
   background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.14);
   transition: border-color 0.2s, color 0.2s, background 0.2s;
 }
+.ep-tabs-top { margin-top: 56px; }
 .ep-tab span { margin-left: 6px; font-size: 0.78rem; color: var(--muted); }
 .ep-tab:hover { border-color: #d8b068; color: #fff; }
 .ep-tab.is-active { background: #d8b068; border-color: #d8b068; color: #000; font-weight: 600; }

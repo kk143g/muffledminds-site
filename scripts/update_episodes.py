@@ -159,13 +159,9 @@ def replace_block(text, name, body):
     return pat.sub(lambda m: m.group(1) + body + m.group(2), text)
 
 
-def render(cfg):
+def tabs_html(cfg, prefix, limit, archive):
+    """Series tabs + one card grid per series. Archive: all cards (JS pages them 9 at a time)."""
     eps = cfg["episodes"]
-
-    home = ROOT / "index.html"
-    cards = "".join(card(e, "episodes/") for e in eps[:HOME_COUNT])
-    home.write_text(replace_block(home.read_text(), "HOME-EPISODES", cards))
-
     tabs, panels = [], []
     for i, s in enumerate(cfg["series"]):
         mine = [e for e in eps if e["series"] == s["key"]]
@@ -173,17 +169,29 @@ def render(cfg):
             continue
         k = s["key"]
         on = i == 0
+        shown = mine if limit is None else mine[:limit]
         tabs.append(
-            f'      <button class="ep-tab{" is-active" if on else ""}" role="tab" id="tab-{k}" aria-controls="panel-{k}" '
+            f'      <button class="ep-tab{" is-active" if on else ""}" role="tab" id="{"" if archive else "h-"}tab-{k}" aria-controls="{"" if archive else "h-"}panel-{k}" '
             f'aria-selected="{"true" if on else "false"}" data-tab="{k}">{html.escape(s["name"])} <span>{len(mine)}</span></button>\n')
+        more = ('      <div class="view-all ep-more-wrap" hidden><button type="button" class="btn btn-outline ep-more">'
+                '<i class="fa-solid fa-chevron-down"></i> Show more episodes</button></div>\n') if archive else ""
         panels.append(
-            f'    <div class="ep-panel" role="tabpanel" id="panel-{k}" aria-labelledby="tab-{k}" data-panel="{k}"{"" if on else " hidden"}>\n'
-            f'      <div class="ep-grid ep-grid-3">\n' + "".join(card(e, "") for e in mine) + '      </div>\n'
-            f'      <div class="view-all ep-more-wrap" hidden><button type="button" class="btn btn-outline ep-more">'
-            f'<i class="fa-solid fa-chevron-down"></i> Show more episodes</button></div>\n'
-            f'    </div>\n')
-    body = ('    <div class="ep-tabs" role="tablist" aria-label="Episode series">\n' + "".join(tabs) + '    </div>\n'
-            + "".join(panels))
+            f'    <div class="ep-panel" role="tabpanel" id="{"" if archive else "h-"}panel-{k}" aria-labelledby="{"" if archive else "h-"}tab-{k}" data-panel="{k}"{"" if on else " hidden"}>\n'
+            f'      <div class="ep-grid{" ep-grid-3" if archive else ""}">\n' + "".join(card(e, prefix) for e in shown) + '      </div>\n'
+            + more + '    </div>\n')
+    cls = "ep-tabs ep-tabs-top" if archive else "ep-tabs"
+    return (f'    <div class="{cls}" role="tablist" aria-label="Episode series"{" data-hash" if archive else ""}>\n'
+            + "".join(tabs) + '    </div>\n' + "".join(panels))
+
+
+def render(cfg):
+    eps = cfg["episodes"]
+
+    home = ROOT / "index.html"
+    home.write_text(replace_block(home.read_text(), "HOME-EPISODES",
+                                  tabs_html(cfg, "episodes/", limit=HOME_COUNT, archive=False)))
+
+    body = tabs_html(cfg, "", limit=None, archive=True)
     arch = ROOT / "episodes" / "index.html"
     text = replace_block(arch.read_text(), "EPISODES", body)
 
