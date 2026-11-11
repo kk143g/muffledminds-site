@@ -394,6 +394,24 @@ section { padding: 84px 0; }
 .contact-box p { color: var(--muted); margin-bottom: 30px; }
 .contact-box .btn { font-size: 1rem; }
 
+/* Episode tabs + 3-up archive grid */
+.ep-tabs { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 0 auto 34px; }
+.ep-tab {
+  font: inherit; font-weight: 500; font-size: 0.95rem; cursor: pointer;
+  padding: 10px 22px; border-radius: 999px; color: #d1d5db;
+  background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.14);
+  transition: border-color 0.2s, color 0.2s, background 0.2s;
+}
+.ep-tab span { margin-left: 6px; font-size: 0.78rem; color: var(--muted); }
+.ep-tab:hover { border-color: #d8b068; color: #fff; }
+.ep-tab.is-active { background: #d8b068; border-color: #d8b068; color: #000; font-weight: 600; }
+.ep-tab.is-active span { color: rgba(0,0,0,0.6); }
+.ep-tab:focus-visible { outline: 2px solid #d8b068; outline-offset: 3px; }
+.ep-panel[hidden], .ep-card[hidden], .ep-more-wrap[hidden] { display: none !important; }
+.ep-grid-3 { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 960px) { .ep-grid-3 { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .ep-grid-3 { grid-template-columns: 1fr; } }
+
 /* Episode archive */
 .archive-list {
   display: flex;

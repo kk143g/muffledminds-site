@@ -1,0 +1,388 @@
+{
+ "series": [
+  {
+   "key": "podcast",
+   "name": "Podcast",
+   "match": []
+  },
+  {
+   "key": "find-your-clarity",
+   "name": "Find Your Clarity",
+   "match": [
+    "find your clarity"
+   ]
+  }
+ ],
+ "episodes": [
+  {
+   "id": "c2wnuI_7sEY",
+   "title": "The Psychology Of Seduction: How To Become Impossible To Ignore",
+   "label": "FIND YOUR CLARITY #05",
+   "series": "find-your-clarity",
+   "date": "2026-11-05",
+   "minutes": 29,
+   "guest": "",
+   "page": ""
+  },
+  {
+   "id": "9dwpJaXiNTc",
+   "title": "Stand-Up Comedy Club | Aftab Iqbal Reviving Comedians | Faizan Malik",
+   "label": "SEASON 2 · EP 3",
+   "series": "podcast",
+   "date": "2026-10-31",
+   "minutes": 42,
+   "guest": "",
+   "page": ""
+  },
+  {
+   "id": "hZRfG2Oq7XM",
+   "title": "The AI Parenting: Is ChatGPT Raising Your Child?",
+   "label": "FIND YOUR CLARITY #04",
+   "series": "find-your-clarity",
+   "date": "2026-10-29",
+   "minutes": 38,
+   "guest": "",
+   "page": ""
+  },
+  {
+   "id": "Jij__I3skBU",
+   "title": "Mehngi Shadi, Travel Agent Scams & Pakistani Visa Issues | LITSO",
+   "label": "SEASON 2 · EP 2",
+   "series": "podcast",
+   "date": "2026-10-24",
+   "minutes": 59,
+   "guest": "",
+   "page": ""
+  },
+  {
+   "id": "NgMEhgLfRTg",
+   "title": "Rich vs Poor: Ghurbat Jaib Mein Ya Soch Mein?",
+   "label": "FIND YOUR CLARITY #03",
+   "series": "find-your-clarity",
+   "date": "2026-10-22",
+   "minutes": 37,
+   "guest": "",
+   "page": ""
+  },
+  {
+   "id": "yTbTQlwi-YM",
+   "title": "From Caves to AI: How Did Humans Get Here? | Find Your Clarity",
+   "label": "FIND YOUR CLARITY #02",
+   "series": "find-your-clarity",
+   "date": "2026-10-17",
+   "minutes": 31,
+   "guest": "",
+   "page": "find-your-clarity-02.html"
+  },
+  {
+   "id": "oy9_g_2Hpsc",
+   "title": "Psychiatrist Se Dar Kyun Lagta Hai? | Dr. Nughza Zaheer",
+   "label": "SEASON 2 · EP 1",
+   "series": "podcast",
+   "date": "2026-10-16",
+   "minutes": 51,
+   "guest": "Dr. Nughza Zaheer",
+   "page": "s2-ep-01.html"
+  },
+  {
+   "id": "MEX6xRvJZX8",
+   "title": "Why Is Pakistan Behind? Pakistanis are Hypocrites? | Find Your Clarity",
+   "label": "FIND YOUR CLARITY #01",
+   "series": "find-your-clarity",
+   "date": "2026-10-11",
+   "minutes": 29,
+   "guest": "",
+   "page": "find-your-clarity-01.html"
+  },
+  {
+   "id": "HDDyWKLPfXQ",
+   "title": "Mehngai vs Comedy | Laughter Therapy ft. Rao Mubeen & Harsh Gujral",
+   "label": "EP #24",
+   "series": "podcast",
+   "date": "2026-05-01",
+   "minutes": 50,
+   "guest": "Rao Mubeen (Standup Comedian)",
+   "page": "ep-24.html"
+  },
+  {
+   "id": "VTgfOdFQbdI",
+   "title": "National College of Arts | NCA Life & Stories",
+   "label": "EP #23",
+   "series": "podcast",
+   "date": "2026-03-12",
+   "minutes": 48,
+   "guest": "",
+   "page": "ep-23.html"
+  },
+  {
+   "id": "PCN6lJ_Wzgc",
+   "title": "Why Is Gen-Z Mentally Exhausted? Parenting & Psychology",
+   "label": "EP #22",
+   "series": "podcast",
+   "date": "2026-02-28",
+   "minutes": 54,
+   "guest": "Momina Yahya (Psychologist)",
+   "page": "ep-22.html"
+  },
+  {
+   "id": "_lQkjUDwkNo",
+   "title": "Basant Special | Jashn-e-Basant After 25 Years",
+   "label": "BASANT SPECIAL",
+   "series": "podcast",
+   "date": "2026-02-13",
+   "minutes": 24,
+   "guest": "",
+   "page": "basant-special.html"
+  },
+  {
+   "id": "JjW6AYfflEY",
+   "title": "Assistant Transportation Officer | Pakistan Railways' Downfall",
+   "label": "EP #21",
+   "series": "podcast",
+   "date": "2026-02-06",
+   "minutes": 48,
+   "guest": "",
+   "page": "ep-21.html"
+  },
+  {
+   "id": "oxRDmsP4z3Q",
+   "title": "Job vs Business | E-Commerce | Digital Marketing",
+   "label": "EP #20",
+   "series": "podcast",
+   "date": "2026-01-31",
+   "minutes": 53,
+   "guest": "Hasham Saleem",
+   "page": "ep-20.html"
+  },
+  {
+   "id": "lvY0px1g4lA",
+   "title": "Speech Therapy Explained | Early Intervention, Parents & Reality",
+   "label": "EP #19",
+   "series": "podcast",
+   "date": "2026-01-17",
+   "minutes": 65,
+   "guest": "",
+   "page": "ep-19.html"
+  },
+  {
+   "id": "1_7kGklcwQ8",
+   "title": "From Reels to Stand-Up Comedy | Content Creation in Pakistan",
+   "label": "EP #18",
+   "series": "podcast",
+   "date": "2026-01-11",
+   "minutes": 64,
+   "guest": "Hannan Dar",
+   "page": "ep-18.html"
+  },
+  {
+   "id": "BJyKE4T0yY4",
+   "title": "Youth Entrepreneurship | Software House | Client Hunting",
+   "label": "EP #17",
+   "series": "podcast",
+   "date": "2026-01-03",
+   "minutes": 61,
+   "guest": "",
+   "page": "ep-17.html"
+  },
+  {
+   "id": "QjLinOaX7Dg",
+   "title": "The Stress of the Dream Home | Expectation vs Reality",
+   "label": "EP #16",
+   "series": "podcast",
+   "date": "2025-12-26",
+   "minutes": 37,
+   "guest": "",
+   "page": "ep-16.html"
+  },
+  {
+   "id": "0iktjcvb2ig",
+   "title": "Ducky Bhai | DG-ISPR Press Conference | Bondi Beach Shooting — Weekly Buzz",
+   "label": "WEEKLY BUZZ 02",
+   "series": "podcast",
+   "date": "2025-12-21",
+   "minutes": 71,
+   "guest": "",
+   "page": "weekly-buzz-02.html"
+  },
+  {
+   "id": "1U_330nHGa0",
+   "title": "Why Marriage Has Become So Difficult Today",
+   "label": "EP #15",
+   "series": "podcast",
+   "date": "2025-12-20",
+   "minutes": 56,
+   "guest": "",
+   "page": "ep-15.html"
+  },
+  {
+   "id": "KhFayW35K4M",
+   "title": "Little Panther of Pakistan Hockey",
+   "label": "EP #14",
+   "series": "podcast",
+   "date": "2025-12-13",
+   "minutes": 47,
+   "guest": "",
+   "page": "ep-14.html"
+  },
+  {
+   "id": "dyxMFZSdyjk",
+   "title": "How Day, Night & Seasons Are Made? — Muffled Minds Documentary",
+   "label": "DOCUMENTARY 01",
+   "series": "podcast",
+   "date": "2025-12-08",
+   "minutes": 4,
+   "guest": "",
+   "page": "documentary-01.html"
+  },
+  {
+   "id": "WXFL8BmJmBY",
+   "title": "Traffic Challans, FIRs & Karachi Children Manhole Incident — Weekly Buzz",
+   "label": "WEEKLY BUZZ 01",
+   "series": "podcast",
+   "date": "2025-12-05",
+   "minutes": 36,
+   "guest": "",
+   "page": "weekly-buzz-01.html"
+  },
+  {
+   "id": "eff6IjAYye0",
+   "title": "From Melody to Legacy | Naeem Wazir — Son of the Bakshi Wazir",
+   "label": "EP #13",
+   "series": "podcast",
+   "date": "2025-11-28",
+   "minutes": 66,
+   "guest": "Naeem Wazir",
+   "page": "ep-13.html"
+  },
+  {
+   "id": "OWn5V62oNUI",
+   "title": "From Outlier to Outstanding",
+   "label": "EP #12",
+   "series": "podcast",
+   "date": "2025-11-22",
+   "minutes": 62,
+   "guest": "",
+   "page": "ep-12.html"
+  },
+  {
+   "id": "S8AHd1xpOTI",
+   "title": "Real vs Reel Charity | Footprints of Impact",
+   "label": "EP #11",
+   "series": "podcast",
+   "date": "2025-11-15",
+   "minutes": 59,
+   "guest": "",
+   "page": "ep-11.html"
+  },
+  {
+   "id": "jDsFK7zONGI",
+   "title": "Footprints of Success",
+   "label": "EP #10",
+   "series": "podcast",
+   "date": "2025-11-07",
+   "minutes": 68,
+   "guest": "Haji M. Rafiq",
+   "page": "ep-10.html"
+  },
+  {
+   "id": "Gzdg6A29RR0",
+   "title": "Why Our Education System Is Failing | Schooling vs Skills",
+   "label": "EP #9",
+   "series": "podcast",
+   "date": "2025-10-31",
+   "minutes": 58,
+   "guest": "",
+   "page": "ep-09.html"
+  },
+  {
+   "id": "ckxk8sqfZDM",
+   "title": "Cricket & Chaos – PCB Match Fixing, Balanced Life",
+   "label": "EP #8",
+   "series": "podcast",
+   "date": "2025-10-25",
+   "minutes": 83,
+   "guest": "",
+   "page": "ep-08.html"
+  },
+  {
+   "id": "rbjaUPG2D5w",
+   "title": "Society's Dilemma",
+   "label": "EP #7",
+   "series": "podcast",
+   "date": "2025-10-18",
+   "minutes": 44,
+   "guest": "",
+   "page": "ep-07.html"
+  },
+  {
+   "id": "ZKlcsmBW1_Y",
+   "title": "Pakistan's Downfall — 295C — Lazawal Ishq | Part 02",
+   "label": "EP #6",
+   "series": "podcast",
+   "date": "2025-10-13",
+   "minutes": 36,
+   "guest": "",
+   "page": "ep-06-part-02.html"
+  },
+  {
+   "id": "fgW31Cc6T5g",
+   "title": "Pakistan's Downfall — Traffic — System Failure | Part 01",
+   "label": "EP #6",
+   "series": "podcast",
+   "date": "2025-10-10",
+   "minutes": 52,
+   "guest": "",
+   "page": "ep-06-part-01.html"
+  },
+  {
+   "id": "JHKNWQ5LutM",
+   "title": "AI and the Future of Human Minds - Job Fear",
+   "label": "EP #5",
+   "series": "podcast",
+   "date": "2025-10-04",
+   "minutes": 61,
+   "guest": "",
+   "page": "ep-05.html"
+  },
+  {
+   "id": "TssEk2utX0M",
+   "title": "Youth Mental Health Crisis In Pakistan",
+   "label": "EP #4",
+   "series": "podcast",
+   "date": "2025-09-26",
+   "minutes": 50,
+   "guest": "",
+   "page": "ep-04.html"
+  },
+  {
+   "id": "pFeqH9I8rKg",
+   "title": "Masks of Everyday Life | Mental Health",
+   "label": "EP #3",
+   "series": "podcast",
+   "date": "2025-09-17",
+   "minutes": 28,
+   "guest": "",
+   "page": "ep-03.html"
+  },
+  {
+   "id": "v-OYXl2wEL0",
+   "title": "Why Silence Hurts More Than Words?",
+   "label": "EP #2",
+   "series": "podcast",
+   "date": "2025-09-12",
+   "minutes": 31,
+   "guest": "",
+   "page": "ep-02.html"
+  },
+  {
+   "id": "qY4jdTNgNJo",
+   "title": "Why We Stay Silent About Mental Health?",
+   "label": "EP #1",
+   "series": "podcast",
+   "date": "2025-09-09",
+   "minutes": 26,
+   "guest": "",
+   "page": "ep-01.html"
+  }
+ ]
+}
