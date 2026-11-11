@@ -1,0 +1,31 @@
+name: Update episodes
+
+on:
+  schedule:
+    - cron: "0 5 * * 0"   # every Sunday 05:00 UTC (10:00 Pakistan time)
+  workflow_dispatch:       # "Run workflow" button for a manual sync
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch new episodes and rebuild lists
+        run: python3 scripts/update_episodes.py
+      - name: Commit and push if anything changed
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "Khawar Shahzad"
+            git config user.email "khawarkhang@gmail.com"
+            git add -A
+            git commit -m "Weekly sync: add new YouTube episodes"
+            git push
+          else
+            echo "No new episodes."
+          fi
