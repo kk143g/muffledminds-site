@@ -1,0 +1,592 @@
+{
+ "id": "hZRfG2Oq7XM",
+ "series": "find-your-clarity",
+ "label": "FIND YOUR CLARITY #04",
+ "title": "The AI Parenting: Is ChatGPT Raising Your Child?",
+ "seo_title": "The AI Parenting | Find Your Clarity #04 | Muffled Minds",
+ "seo_description": "Babur Ayub on AI parenting: kids who ask ChatGPT before their parents, why curiosity is dying, and why AI is never responsible for what you do.",
+ "keywords": [
+  "AI parenting",
+  "is ChatGPT raising your child",
+  "ChatGPT for kids",
+  "kids and AI",
+  "first generation raised by algorithms",
+  "why curiosity is dying",
+  "AI is not responsible",
+  "will AI take jobs",
+  "parenting in the age of AI",
+  "Babur Ayub",
+  "Find Your Clarity",
+  "Muffled Minds",
+  "Urdu podcast",
+  "Pakistani podcast"
+ ],
+ "date": "2026-10-29",
+ "duration": 2262,
+ "guest": {
+  "bio": [
+   "Babur Ayub has 25+ years of leadership experience in Pakistan's retail and fashion industry, including Chenone, Hang Ten, Servis Group, Imperial Stores, Khas Stores and Onieo.",
+   "He is a lecturer at STEP IADM, a startup mentor, and the author of \"Management by Qur'an\". He appears in Find Your Clarity, the short-episode series by Muffled Minds in which each episode takes one big question everyone is confused about and looks for clarity."
+  ],
+  "links": [
+   {
+    "label": "Full Find Your Clarity series",
+    "url": "https://www.youtube.com/playlist?list=PLVgjRivsQeSk"
+   }
+  ],
+  "name": "Babur Ayub",
+  "role": "Retail & fashion leader · Lecturer · Author"
+ },
+ "summary": [
+  "In this episode of Find Your Clarity, host Khawar Shahzad talks with Babur Ayub about AI parenting: children today ask ChatGPT before they ask their parents, and the question is whether we are raising the first generation brought up by algorithms. The conversation separates two very different things — parents using AI cleverly to raise their children, and parents simply handing a child a phone because they have no time — and it asks what that choice is doing to curiosity, to responsibility, and to the child's mind.",
+  "Babur Ayub argues that real AI parenting looks like a mother who asks AI for a five-minute story and then spends the remaining hour telling it herself and personalising it with her child, or a parent who feeds a baby's crying and feeding patterns into AI and gets back guidance on what to check. Handing the child a phone just to free yourself, he says, is not AI parenting at all: it is the modern version of putting a baby in a cradle and letting someone rock it, and its first effect is on the eyesight, with hospitals seeing countless children of three to five whose eyesight is weak. Curiosity, he says, is almost finished, because an answer that once took days now takes seconds: a student only wants his paper solved, and in Pakistan a boy recently asked AI how to get rid of his father and was told which poison to use. AI, the episode explains, only answers from the data of the last ten or twenty years that was fed into it, and through our prompts we are also raising the AI itself.",
+  "The episode closes with practical rules: parents should give children right sense, right energy and a right prompt, and teach them how to know what to believe, and busy parents do have time, since the few hours left after work, sleep and meals are most precious when spent with the children. Babur Ayub ends by asking what we are saving time for — microwaves and air fryers finish everything in minutes, yet the time saved goes to more screen time — and says that life belongs to the productive, while a phone that does not help your survival leaves you lost in nothingness."
+ ],
+ "we_discuss": [
+  "What AI parenting really means",
+  "Is ChatGPT replacing parents?",
+  "Have parents handed their children over to AI?",
+  "The first generation being raised by algorithms",
+  "Why curiosity is dying nowadays",
+  "AI is not responsible for any action you take",
+  "Will AI take jobs? How new inventions create new jobs",
+  "How busy parents can manage their time",
+  "Practical rules of parenting in the AI age"
+ ],
+ "takeaways": [
+  "Real AI parenting is parents using AI smartly: a mother can get a five-minute story from AI and then spend the remaining time telling it herself and personalising it with her child.",
+  "Children now ask ChatGPT before they ask their parents, and a sixteen-year-old will follow AI's instructions before he listens to his father.",
+  "Instant answers are almost finishing curiosity: a question that once took days to answer now takes seconds, and a student only wants his paper solved.",
+  "AI only answers from the data it was fed, it cannot create anything of its own, and through our prompts we are also raising the AI.",
+  "A child cannot tell a court that AI told him to do it: the answer AI gives cannot be challenged, and AI itself has no standing to answer for it.",
+  "New inventions always take some jobs and create new ones: the calculator and the ATM were criticised the same way, and new departments and jobs followed.",
+  "Parents should give children right sense, right energy and a right prompt, and teach them how to know what to believe.",
+  "Busy parents do have time: after work, sleep and meals there are still three or four hours in the day, and that time is most precious when spent with the children."
+ ],
+ "chapters": [
+  {
+   "end": 82,
+   "start": 0,
+   "title": "Highlights"
+  },
+  {
+   "end": 232,
+   "start": 82,
+   "title": "The AI parenting"
+  },
+  {
+   "end": 400,
+   "start": 232,
+   "title": "Is ChatGPT replacing parents?"
+  },
+  {
+   "end": 470,
+   "start": 400,
+   "title": "Parents have handed over their child to AI"
+  },
+  {
+   "end": 854,
+   "start": 470,
+   "title": "First generation being raised by algorithms"
+  },
+  {
+   "end": 1163,
+   "start": 854,
+   "title": "Why curiosity is dead nowadays"
+  },
+  {
+   "end": 1366,
+   "start": 1163,
+   "title": "AI is not responsible for any action you take"
+  },
+  {
+   "end": 1654,
+   "start": 1366,
+   "title": "New jobs creation after new inventions"
+  },
+  {
+   "end": 1865,
+   "start": 1654,
+   "title": "Parents' responsibility in the era of AI"
+  },
+  {
+   "end": 2140,
+   "start": 1865,
+   "title": "How parents can manage their time"
+  },
+  {
+   "end": 2262,
+   "start": 2140,
+   "title": "Rules of parenting"
+  }
+ ],
+ "transcript": [
+  {
+   "start": 0,
+   "text": "A question was asked, ke bachcha kitna padha hua hai. It tells you that if he is behaving like this, or if he is crying at this time, then you check his daant, you check his pet. The guidance is all you get from artificial intelligence. But don't you think parents ne bhi abhi apni jaan chhudane ke liye, ke unke paas time nahi hai, unhone gadgets, phones, unke hawale kar diye hain, aur bas. And I believe it is the first generation which is being raised by algorithms. Your child will not listen to you so easily. He will follow the instructions of AI, aur agar AI kahta hai ke this is not good for the mental health, to aap woh bachcha, 16 saal ka hai, woh AI ki baat maan lega, but he will not listen to his father. What about the curiosity? Yeh hamare mind mein koi thought chalta tha, yaar yeh kaise hota"
+  },
+  {
+   "start": 39,
+   "text": "hai, uska jawaab dhoondne mein hamein kai din lag jaate thay. But now aap ne ChatGPT se poocha, foran aap ko uska answer mil gaya. Ab woh jo curiosity hai woh to khatm ho gayi, almost. Pichle dinon ye Pakistan mein bhi hua tha ke usne kaha ke mera walid jo hai mere saath acha salook nahi karta, to how to get rid of my father? Guide me, how can I be a king? Yeh to badshah kabhi zindagi mein nahi ban sakta. Iska matlab hai, zamana jo hai na, woh decline ki taraf ja raha hai, deterioration ho rahi hai, yeh tabahi ki taraf ja raha hai, qayamat ki nishaniyan hain. Hamein, hamein simply is perception pe nahi rehna chahiye ke bachay ke haath mein mobile hai to parents AI parenting pe chale gaye. No, they are actually spoiling. Phir hum bachon ko phone de dete hain. Nahi to aap karte kya hain?"
+  },
+  {
+   "start": 73,
+   "text": "Aap ki apni productive activity hai kya? Hum as a parent khud spoiled hain. Assalam-o-Alaikum everyone, welcome to Muffled Minds series, Find Your Clarity. I'm your host Khawar. Aaj ka hamara topic hai: The AI Parenting. AI aane ke baad jo parenting hai woh kitni change ho gayi hai with respect to previous time, jis time mein ye kuch bhi AI, ChatGPT, is tarah ki koi bhi cheezein nahi hoti thi. And once again, welcome sir to the show. To aap ko kya lagta hai ke since you are also a parent, so kitni cheezein jo hain woh change ho gayi hain? Ab jo parenting hai, woh hamare, jab mere zamane ki agar main baat karoon to ek direct interaction…"
+  },
+  {
+   "start": 131,
+   "text": "Woh to khair abhi AI mein bhi hai, lekin woh parenting different thi. Uske jo teaching models thay woh different thay, jo inspirations thi woh hum different stories se liya karte thay, aur jo ghar ka mahaul tha usko hum ek different pattern pe, maine yeh andaaza lagaya ke woh us par hamari training hoti thi aur woh badi stereotype thi ke aap ke paas lage bandhe chand ek usool hain, uske mutaabik aap unhi models ke andar aapne rehna hai aur usi tarah ka aapne banna hai, usi tarah ka aapne dikhna hai. Matlab khaas taur pe aap yeh dekhein ke jab us zamane mein jab shadiyan hoti thi to ek question kiya jaata tha ke bachcha kitna padha hua hai, to agar batate thay ke isne master's kiya hua hai, to woh that was quite sufficient, chahe usne Islamiyat mein kiya hua hai, chahe usne Mutalia Pakistan mein kiya hua hai, to is tarah ke kuch stigmas thay, kuch rules"
+  },
+  {
+   "start": 184,
+   "text": "thay jo tay kiye hue thay, bachchi kitni padhi hui hai, itni padhi hui hai, is se zyada hum ne nahi padhani, to woh saara ka saara parenting ka hi outcome tha, ke jo, jis mein se hum guzre, aur woh us zamane mein shadiyan kaise tay hoti thi aur relationship building kaise hoti thi, yeh sab kuch. Lekin agar aap dekhein to woh, jab iske baad phir woh jo AI ki, jis pe aap mobile tak to aa gaye, mobile ke era tak aa gaye, lekin information phase se aage aap exactly, maine jab apne bachchon ke liye parenting ki, maine aur meri wife ne, to woh mobile ka era tha, usmein mobile tha, artificial intelligence nahi thi, lekin jab mere bachchon ke bachche ab aage se aa rahe hain, to woh purely, they are depending on AI parenting. Pehle bachche ammi abbu se sawaal poochte thay, ab direct ChatGPT se poochte hain. Ab isko aap divide karein ke ek bracket hai, ek"
+  },
+  {
+   "start": 243,
+   "text": "se chaar saal tak ki, phir ek bracket hai paanch se aath saal tak ki, phir nau se terah saal tak ki, kyunke is poore in age brackets ke andar woh evolve kar raha hai bachcha. Aur agar aap pehli phase ko le lein, woh one se four years tak ki, hum yeh samajhte hain ke jaise isko mobile pakda diya hai to ab yeh usmein se khud question nahi kar sakta AI ko, aur woh khud se usse guidance nahi le sakta. Yahan parents have to be very smart, ke jo story sunane mein ya jo story construct karne mein, jo bachche ko hum kahani sunate hain, usko agar pehle construct karne mein ek ghanta lagta tha, to ab aap AI ko wahi mother ek prompt de ke to ek woh chhoti si story five minutes ki jo hai woh generate karwa sakti hai, lekin woh story sunani usi ne hai."
+  },
+  {
+   "start": 298,
+   "text": "Aur kya, ke woh jo ek minute mein usne kaam kar liya hai, baaki jo 59 minutes hain woh personalise kar sakti hai apne bachche ke saath, personal time de sakti hai. To these are the benefits of AI parenting. Lekin ab usmein aur bhi badi saari facilities aa gayi hain, na, ke yeh mera bachcha jo hai raat ko itne baje roz uth kar rota hai, aur aapne woh ek uski ki hui hai mapping, ki hui hai, itne baje rota hai, phir itne baje yeh lazmi khane ke liye kuch maangta hai, is time tak yeh relaxed rehta hai, to uske woh patterns aap jab AI ko feed kar dete hain in form of prompt, to AI aap ko batata hai ke yeh agar is tarah ka behave kar raha hai ya is tarah ki iski soch hai, is waqt rota hai to aap iska daant check karein"
+  },
+  {
+   "start": 346,
+   "text": "Aap iska pet check karein, aap yeh karein, woh karein, is tarah ki jo guidance hai woh saari aap ko artificial intelligence se mil jaati hai. But again, ke woh saara ka saara kaam karna parents ne hai, mother ne aur father ne, direct tangible resources ke saath. Ab hum AI parenting se kya matlab lete hain, aam fehm usmein ke bhai aapne to bachcha technology ke hawale kar diya hai, hum to yahi samajhte hain na, jo raw question hai woh yeh aayega ke achha ji, AI parenting hai, that means ke aapne bachcha jo hai woh aapne computer ke hawale kar diya, mobile uske haath mein de diya hai, uske haath mein laptop de diya hai aapne, aur woh apna kaam kar raha hai aur usmein maze kar raha hai. I think this is a wrong perception. The right perception is that your parents are smart enough to get the"
+  },
+  {
+   "start": 392,
+   "text": "desired results from AI, which results are beneficial for the grooming of their, but don't you think parents ne bhi abhi apni jaan chhudane ke liye, ke unke paas time nahi hai, unhone gadgets, phones, unke hawale kar diye hain, aur bas. Nahi to ye time, ye parenting mein to nahi aata na. This is not AI parenting. This is something, ke jaise aap ne purane zamano mein bachay ko jhulay mein daal diya, haan, aur usko aap ne kaha ke chalo koi banda isko hilata rahega aur ye jhulay mein jab tak rahega ye busy rahega, ke kuch na kuch activity ho rahi hai. Is zamane mein kyunke woh jhulay nahi hain, ya is zamane mein woh outdoor nahi hai, ya is zamane mein woh us tarah ka environment nahi hai. To aap kya karte hain? Aap bachay ko mobile pakda dete hain ke chalo is mein ye cartoon"
+  },
+  {
+   "start": 438,
+   "text": "network dekhta rahega ya koi aur is tarah ki, lekin lekin ye dangerous nahi hai. But this is not AI parenting. This is something nonsense. Ke aap bachay ko agar aap usko apni jaan chhudane ke liye mobile de rahe hain to uski sab se pehla effect uski eyesight pe ho raha hai. Uski nazar kamzor. Ab aap ke paas cases hain is tarah ke. Ab aap fact check karein na to aap ke paas is tarah ke bachon ki tadad hospitals mein beshumar aa rahi hai. Jinki nazrein kamzor hain aur uski ek main wajah woh teen se paanch saal tak ke jo bachay hain unki nazar kamzor hai. I said it is very weak."
+  },
+  {
+   "start": 478,
+   "text": "And I believe it's the first generation which is being raised by algorithms. By algorithms I mean they use social media. For example, Instagram use. So the videos that they are watching are coming on their feed, on their news feed, on the basis of an algorithm. The video they watch more, its algorithm matches with their thinking, and the next video they will see, woh usi algorithm, usi soch ki base pe dekh rahe honge. Asal mein jo yeh algorithms ka model hai, jo yeh real intelligence, jo original intelligence hai, woh bhi to algorithm based hai na, ke aap jis cheez ke baare mein zyada sochte hain saara din, raat ko jab aap sote hain to aap ko khwab mein wahi cheez nazar aati hai, to yeh algorithm ka result hai na. Jo cheez aap zyada aam zindagi mein bhi karenge, other than mobile phone, other than the social media platforms, aap ko woh cheez aapke repeat hoti rahegi aap ki life mein. Jab hamare zamane mein parenting ho rahi thi to algorithm kya"
+  },
+  {
+   "start": 532,
+   "text": "establish hota tha? Itne baje aapne nashta karna hai, itne baje aapne lunch karna hai, itne baje aapne school ka kaam karna hai, itne baje aapne so jaana hai. To woh ek algorithm aisa develop hota tha ke uske beech mein wahi jo limited information flow tha aapke paas, usi ki base pe aap ki thoughts generate hoti thi, thoughts grow karti thi, thoughts establish hoti thi aur ek mindset ban raha tha aapka. Lekin yeh jo AI ki aap baat kar rahe hain, parenting, yeh jo bachcha mobile pe social media networks tak jiski access ho gayi hai, aap yeh andaaza lagayein ke uski age kitni hai, woh one to four years ka nahi hai, woh five to eight years ka nahi hai, woh nine to thirteen years ka nahi hai, woh probably thirteen to eighteen years ka bachcha hai jo ke apni senses develop kar chuka hai, jisko thodi liberty aur thodi freedom mil chuki hai ke woh apne mobile ke upar"
+  },
+  {
+   "start": 579,
+   "text": "Matlab, ek bada common sa question hai ke ek bachcha apne baap se ya apni maan se baat karta hai, woh uski age hai, solah saal, ke mere sab friends ke paas mobile phones hain, and they are very active on Instagram, I have not made an account on Instagram till today. To Father kya kehte hain usko? Ke chalo beta, aise karte hain ke hum AI se poochte hain aur usko yeh question feed karte hain, ke this is the situation and my son is asking for having access on social media. To"
+  },
+  {
+   "start": 623,
+   "text": "we should do it or not. So, if you want that your child should not use the social media network yet, because it is a wastage of time and there is unfiltered information coming in, and his algorithm can develop anywhere. So, your child will not listen to you so easily. He will follow the instructions of AI. And if AI says that this is not good for the mental health, to aap woh bachcha jo 16 saal ka hai woh AI ki baat maan lega, but he will not listen to his father. But hum AI ko train bhi kar sakte hain. Agar main aap se, let's say, poochhoon, I have my child by my side, agar main tum se yeh poochhoon ke iske liye phone abhi sahi hai ke nahi sahi hai, to tumne yeh jawaab dena, hum usko train kar sakte hain,"
+  },
+  {
+   "start": 670,
+   "text": "Woh algorithm aap set kar denge, usko continuously woh questions poochhenge, aur woh aap ko ek do dinon mein, teen dinon mein, aap ki prompt se aap ko understand kar jayega, ke yeh banda mujh se kis kisam ke questions poochta hai, to maine usko kis kisam ka, yaani actually you are raising AI along with your children, you are also raising the AI. AI kya hai? Yeh jo artificial intelligence khud se to generate nahi kar raha, woh thoughts, yeh pichhle 10 ya 20 saalon ka jo data hai jo social media pe float hua, emails ke zariye generate hua, books mein maujood tha, literature ki shakal mein, incidents ki shakal mein, jo history record hui, woh saare ka saara data was being"
+  },
+  {
+   "start": 713,
+   "text": "was being stored somewhere through some channels, through some tools, and we were not aware of that fact. To jab woh saara ek jagah par store ho gaya, to ab uske paas woh saara situations ka, situational data maujood hai, ke agar takkar hui thi, kitne log faut ho gaye thay, bus kidhar se kidhar ja rahi thi, jahaz ka kya bana. Ab aap kya samajhte hain ke AI aap ko khud se koi cheez create karke de raha hai? Nahi, woh unhi existing experiences ke andar se aapke experience ko response karne ke liye, aapke question ko response karne ke liye, woh uske andar se ek apni model create karta hai aur woh model aap ko aap ki prompt ke mutaabik feed kar deta hai, whereas he is not, AI is not authorised or is not free enough to create something from its own system, that is all based on the thoughts"
+  },
+  {
+   "start": 764,
+   "text": "And experiences and literature and ideas we have already fed. To hum ek tarah se AI ko raise bhi kar rahe hain, na, aap kitni achhi tarah se raise karte hain, that is the question. Yes, to bilkul aapki baat theek hai. Like, jo AI hai, agar hum ChatGPT ki baat karein, to us mein hum different models use karte hain. Ab woh jo model hai, woh train hua hai, woh data jo us ke paas already tha, jaise aap ne bataya, 10-20 saal ka data already tha, ek jagah pe unhon ne us model ko us data ke base par train kiya, and then unhon ne woh model publicly available kiya taake log us ko use kar sakein. Ab agar hum ChatGPT se woh model use karke koi question poochte hain,"
+  },
+  {
+   "start": 804,
+   "text": "To us ka to answer woh hamein karta hai, based on jo us ke paas data pada hua hai, aur woh apne aap ko refine bhi karta hai. Jo aap ne poocha hai, us ne apne aap ko train bhi kar liya hai, saath hi. Ab next person use usi ke related question poochhega, to woh previous data plus jo pichhle shakhs ne poocha tha, us ka data combine karke, and then phir aap — this is how you are raising it, this is how you are actually helping AI to grow. Hum aap ka prompt us ke store mein chala gaya. Ab kisi bhi duniya ke bande ne agar us se milti-julti koi question ki, to aap ka prompt wahan pe us ki feed ke taur pe kaam aayega."
+  },
+  {
+   "start": 843,
+   "text": "Us ne usi se us ko refine karna hai, us ko train karna hai, us ko mold karna hai, aur us ne woh idea doosre bande ko present kar dena hai. To aap to continuous basis pe us ke saath ye kaam kar rahe hain. But what about the curiosity? Ke jaise bachpan mein humein, for example, koi ek question milta tha, ya hamare mind mein koi thought chalta tha, yaar yeh kaise hota hai? Us ka jawab dhoondne mein humein kai din lag jaate the. Kai din chhodein, kai ghante to lag hi jaate the. But now, ek thought hai aapke mind mein, aap ne ChatGPT se poocha, foran aap ko us ka answer mil gaya. Thought aaya, us ka answer mil gaya, wind up."
+  },
+  {
+   "start": 880,
+   "text": "Next thought. So ab woh jo curiosity hai, woh to khatm ho gayi, almost. Dekhiye, depend karta hai ke aapke question ki value, ya question ki strength, ya question ki uniqueness kya hai? Curiosity, dekhiye na, ek general aam aadmi ki curiosity kya hai? Ek student ki curiosity kya hai? I'm talking about Pakistan, based on my experience. Mujhe yeh paper solve karna hai, mere yeh chaar subjects hain, us mein mujhe AI help out kare. To AI kya kar raha hai? AI jo hai woh aap ko koi educate nahi kar raha. AI us sense mein aap dekhein to aap ko sirf ek automated si information aap ko forward kar raha hai. Kya aapki curiosity us se khatm ho rahi hai? If you are asking AI that I want to solve my question paper and this is the exam, this is the subject name, to mujhe us mein feed karein."
+  },
+  {
+   "start": 936,
+   "text": "Us ne exactly us ke mutaabik, kyunki us ke paas duniya ke educational systems ka, universities ka woh syllabus maujood hai, us ne aap ko us ka response kar diya. If my curiosity is so cheap, or the level of curiosity is not that high, if that is not creating any entertainment or amusement, and if I am not trapped in a simple question ke jis ka jawab nahi mil raha hai, jaise woh pichhle dinon ye Pakistan mein bhi hua tha ke us ne kaha ke mera walid jo hai mere saath achha salook nahi karta, to how to get rid of my father? To ab us mein kya hua, us ne us ko kaha ke idhar ye wala poison is tarah se karke dena hai, us ne woh poison import bhi kiya, us ne woh aa kar ek attempt bhi ki, to I mean, aap dekhein ke stupidity ka level dekhein na, ke aapki curiosity kya thi, to find out the kind of poison which can help me get rid of my father because"
+  },
+  {
+   "start": 985,
+   "text": "He is not, he is very straight and he is a man of principle and he is not allowing me to do this and this and this. To aap depend karta hai ke aapki curiosity hai kya? Matlab, for example, meri curiosity hai ke I want to know ke jo human evolution kya tha, ek hai na. Ab main woh saara ka saara kahan se padhta tha? Pehle kitaabon se padhta tha, nikaalta tha, us mein mujhe bada time lag jaata tha. You're right in saying ke aap ko pata chalana hai aur fori taur pe pata chalana hai, aur aap chahte hain ke 10-15 minute mein mujhe us ka synopsis de de. Woh to aap ko ek mil jaata hai ke yeh koi 10,000 saal pehle yeh wali species thi, phir us ne evolve kiya, homo sapiens bane, phir human beings, phir wisdom, phir sanity, phir tribal system, phir cave"
+  },
+  {
+   "start": 1031,
+   "text": "Society and all that. To is had tak to aapki curiosity ko woh serve kar sakta hai, but the real curiosity is that, abhi bhi us ko bole, 'Who am I?', to woh aap ko kya jawab dega? This is one of the biggest questions, who am I? Or who is God? Jab Moses ka jo qissa hai, ke woh pahaad pe chale gaye, Musa alaihissalam, to unhon ne wahan pe jaa ke kaha, loudly, ke God, I am here. To, I want to see you,"
+  },
+  {
+   "start": 1068,
+   "text": "I want to know about you, then he got a reply, so God said, 'Here am I.' Unhon ne kaha, 'Aap kaise hain, aap kis tarah ke hain?' To God replied, 'I am what I am, no gender, and I am not even a female, not a male, not something else, I am what I am.' I mean, this curiosity still remains a curiosity, I am what I am, and who am I? As a human being, I possess, I keep all the negative and positive energies, theek hai."
+  },
+  {
+   "start": 1110,
+   "text": "I could not kill even a single negativity from my character, even though I have all the scriptures, I have all the divine messages, lekin mere andar se woh negativity nahi khatm ho saki, to how come AI can help you out if you are not willing, if you are not willing to, you know, abandon something from within yourself which is negative and which is not beneficial for you, to phir aap ko koi bhi theek nahi kar sakta, not even AI. Lekin aapke prompt pe bada depend karta hai ke aap jab us ko parenting ke liye use kar rahe hain, to aap ka prompt should be designed in such a fashion which should be helpful for the kid and that should be understandable by you as a parent, ke mujhe yeh cheez samajh aa jaye taake main un guidelines ke mutaabik, tips ke mutaabik apne bachche ko us par guide karoon."
+  },
+  {
+   "start": 1163,
+   "text": "Aapki woh poison wali example hai na, mujhe ek story yaad aa gayi. One of my relatives used ChatGPT to solve one query. Un ka jo bijli ka bill tha na, matlab un ke jo meter ki reading thi na, woh 200 unit se upar chali gayi, matlab do-chaar unit upar chali gayi, to meter ki reading bhi ho gayi. Ab unhon ne socha ke yaar, maine matlab jaldi meter change nahi kiya — they had multiple meters — to unhon ne kaha ke ab main is ko kaise resolve kar sakta hoon? To unhon ne ChatGPT se poocha ke yaar, mere na jo bijli ke units hain na, woh 204 ya 205 jo hai woh ab chale gaye hain, in ko main reduce kaise kar sakta hoon? ChatGPT ne un ko kya reply diya? ChatGPT ne kaha ke aap WAPDA ke office jayein, wahan pe koi aap ko bande jo bhi baithe honge, aap un se request karein, aap un ko thode paise bhi de dein. Literally, ChatGPT ne ye bataya ke aap un ko thode se paise bhi de dein."
+  },
+  {
+   "start": 1204,
+   "text": "Unhon ne kaha, 'Chalo, main ye try karta hoon.' Lekin paise wali baat kis tarah se — to very next prompt mein, woh apni baat se mukar gaya, kyunki woh voice model use kar rahe the na, us ka matlab, in written to kuch nahi tha, abhi voice model use kar rahe the, to us mein kaha ke, 'Nahi nahi, main woh kisi aur sense mein baat kar raha tha, ke aisa nahi hai, aap aise na dena,' to aise na dena, ye bhi ho raha hai. Haan, to aap kehte hain, dekhein, ChatGPT ya AI ke jitne bhi platforms hain, woh — they are not exactly reliable models. To aap ye khatra to mol le hi nahi sakte."
+  },
+  {
+   "start": 1249,
+   "text": "Aap us ke saath likh lete hain ke, 'I am reviewing your feed, and I will let you know if I am supposed to make some changes, so that AI should learn that my word is not going to be the word of God and the person who has given me the prompt is wise enough and is sitting with open eyes, open brain, and he or she is analyzing my response.' Specially, unhon ne neeche likha hota hai, jitne bhi AI models hain na, ke, 'I am an AI, I can also make mistakes.' It doesn't take you [unclear], it doesn't take you — aap kuch kar guzre hain."
+  },
+  {
+   "start": 1291,
+   "text": "Aur woh to baad mein kahega ke, jaise aap ne abhi example diya hai, us ne deny kar diya, 'Maine to kisi aur sense mein kaha tha.' To, I mean, yeh ek reciprocal system hai, aap achhi baat karenge, kitni gehri baat karenge, kitni to-the-point baat karenge, kitna achha prompt denge, kitna us ko, yaani kitni depth mein jaa ke us se poochhenge, woh aap ko aapke intelligence level ke mutaabik dega. Ek layman ko, woh kehta hai ke, yaar, 'I want to be king, I want to be the king, guide me, how can I be a king?'"
+  },
+  {
+   "start": 1330,
+   "text": "To us ko woh aisa hi jawab dega. Us ko samajh aa jayegi ke yeh banda poochhne wala ek pagal baitha hua hai, bewaqoof aadmi baitha hua hai idhar, jo keh raha hai, 'Main badshah banna chahta hoon.' Yeh to badshah kabhi zindagi mein nahi ban sakta, jo marzi feed kar do, is ne woh shuru kar dena hai, yahi bana dega aap ko. Haan, AI bana dega. Aur aap ko aise aise formulae dega ke aap agar woh kar guzrein to ho sakta hai aap pakde jayein, aap ko saza ho jaye, koi aap ko punishment. Aur yeh jo answer hai, woh challenge bhi nahi hoga, woh nahi keh sakta na ke court mein nahi keh sakta, 'Bhai mujhe to AI ne bataya tha,' to who the hell AI is exactly. So, coming back to my previous question about curiosity,"
+  },
+  {
+   "start": 1369,
+   "text": "I was coming to that, let's just say a student, okay? Agar main apne aap ko compare karoon, jab hum student the aur aaj ke jo student hain, un ko compare karein. Humein ek question milta tha, hum apna mind use karte the, right, us ko solve karne ke liye, either it could be some mathematical problem, you can say, koi bhi, koi bhi problem ho sakti hai, hum apna mind use karte the, hamara mind, jis tarah AI ke models train ho rahe hain, hamara jo mind hai, woh bhi train ho raha hota tha, but now, ek question milta hai, teacher ki taraf se student ko, student jo hai, woh AI use karta hai, us ka answer jo hai woh present kar deta hai teacher ko, to us ka mind to use nahi ho raha. So where we are now heading? Yeh curiosity nahi hai."
+  },
+  {
+   "start": 1414,
+   "text": "Yeh need hai us ki na, ek badi limited si scope ke saath us ki need hai ke mujhe yeh parcha hal karna hai, us ka yeh sawal hai, is ka yeh jawab kaise hona chahiye, to woh aap ko lage bande, ussoolon ke mutaabik, us ka jawab de dega aur aapka kaam poora ho gaya, fulfil ho gaye aap. Curiosity to woh cheez hai na jismein there are troubles and there are mysteries and there are unknown facts involved, that is a curiosity, and it remains a curiosity. Haan, woh hogi. I can totally, you know, understand what you are saying ke curiosity yeh wali hai, but us se next step pe aa gaya woh."
+  },
+  {
+   "start": 1451,
+   "text": "Dekhiye na, suno, meri baat suniye. Jab calculator aaya tha to bade criticism ka saamna karna pada tha ke yaar, hum to aise karke woh kar lete the, hisaab-kitaab kar lete the. Is ka matlab hai zamana jo hai na woh decline ki taraf ja raha hai, deterioration ho rahi hai, yeh tabaahi ki taraf ja raha hai, qayamat ki nishani hai. Yeh is tarah ki baatein karte the, sirf calculator aane se. Ab aap AI ki baat kar rahe hain ke ji, woh saara ka saara aap ko ek solved paper hi aapke saamne rakh deta hai, balki ab aap bachche us se poochte hain ke is dafa ka guess bana ke do humein, yeh matric mein aur intermediate mein kya aana hai, woh aap ko guess papers tayyar karke deta hai ke aap sirf yeh tayyar kar lein. To aap ko koi bewaqoof bhi hoga na jo us pe risk lega ke, 'Bhai mujhe to AI ne kaha tha,' to maine kar liya. Aapke maa-baap bhi aap ko maarenge aur teachers bhi"
+  },
+  {
+   "start": 1501,
+   "text": "Maarenge ke yaar ye kaun hota hai hamare mamlaat mein, zindagi ke mamlaat mein mudakhlat kare? Ek had tak aap ne uski mudakhlat ko invite karna hai, apni strength aur apni capacity aur apni affordability ke mutabiq. Aapki is example se mujhe ek aur example yaad aa rahi hai, calculator se, jab ATMs aayi thi na, machine, to proposal diya gaya unka ke ab ATM machines aani hain, aapko manually paise jo hai na woh nahi dene padenge. Theek hai. Logon ne, jo clerks the, jo bank mein kaam karte the, un sab ne bada criticise kiya, yaar hamari to job chali jayegi, agar machine paise dena shuru ho jayegi to hum kya karenge bank mein baith ke?"
+  },
+  {
+   "start": 1540,
+   "text": "Unhone again usko back nahi kiya, lekin again calculator ki tarah woh machine aa gayi, ek nayi jobs create hui uske respect se. To abhi bhi yehi hoga, uske liye technical staff ki zaroorat hai, uske peeche bhi banda roz feed karta hai, usmein aage cash rakhta hai, phir usmein problem aa jati hai, agar woh theek tarah se respond nahi karti, mera card phas jata hai usmein, to phir woh saari services ke liye naye departments create hue, nayi jobs create hui. Abhi jaise AI ko humne woh samajh liya hai ke ek robotic model hoga ke jaise usko cheez denge woh humein cheez dega aur baat hal ho jayegi. Aise to nahi hai na ke hum kisi utopian world mein to nahi reh rahe ke jaise humne socha aur waisa ho gaya."
+  },
+  {
+   "start": 1581,
+   "text": "You have to have right sense, you have to pour in right energy and you have to be wise enough to develop your prompt so that you get the right thing out of the AI. Ab aap uska theek utilization karein. Matlab aap ne training sessions mein, maybe it's just a suggestion from my side, ke jo students hain unko right use of AI jo hai na woh bhi matlab batayein. Woh hamara ek program hai usmein ke woh information filtration ke upar hai, ke how to know what to believe. Yaani kaise jana jaye ke sach kya hai?"
+  },
+  {
+   "start": 1620,
+   "text": "Usmein humne iska ek chapter rakha hua hai ke aapke paas information social media se aa rahi hai, AI generated hai. Bahut sari cheezein aapko fake hain, real lagti hain. Real hai to woh aap doubt karte hain, fake hain. To aap kaise judge karenge ke jo mujh tak maloomat pahunch rahi hai, written ya pictorial form mein, ya news ki shakal mein, ya awaz ki shakal mein, yeh theek bhi hai, authentic bhi hai ya nahi? To isko hum kaise filter out karein, to reach a point where I say how to know what to believe. To iske upar hamara ek poora training session hai iske upar. To like parents ko bhi hum, because we are talking about parenting..."
+  },
+  {
+   "start": 1658,
+   "text": "So parents ko bhi apne bachchon ko time to time ye realise karwana chahiye ke, achha, ChatGPT is purpose ke liye aap use karo, but apne mind ko bhi use karo. Ab har cheez jo hai woh aap robotic way mein na karo. It's a natural way. Asal mein woh jo parents hain na, they are not trained to train their kids. Theek hai na, jaise main, jab main chhota tha, to my parents were not trained to train me how to use the mobile. We educated them in a way ke ye mobile aa gaya hai, ab ismein button aap karenge to ye ho jayega. Likewise, abhi jo current hamari generation Z ke jo bachche paida ho rahe hain, woh generation Z is not fully equipped with the knowledge and idea, how to run and what are the benefits and what are the deep merits of the AI."
+  },
+  {
+   "start": 1708,
+   "text": "So when parents are not trained, this is becoming the sole responsibility of the generation which is using AI ke woh khud usse seekhein. Isliye aap direct usko hit karein. Jab hum training bhi karate hain, to hum us direct client ko hit karte hain jo us situation mein se guzar raha hai. Not to the parents because parents ek had tak chaar se paanch saal ya aath saal ki umar tak to apne bache ko AI se information leke apne culture, apne mahaul, apni background ke mutabiq unko train kar dega. Lekin jab bacha khud sensible ho jayega to woh he will not listen to his parents, he or she, because woh uske liye zyada authentic ho jayega ke woh AI usko kya keh raha hai. And usko ye pata hai ke AI is a technology and this technology is stronger than the human being."
+  },
+  {
+   "start": 1759,
+   "text": "This is the kind of impression we are creating ke human brain se zyada strong AI hai, whereas it is not. Human brain hi to uska parent hai, usi ne to isko create kiya hai. To isliye mera khayal hai ke isko bada rationally dekhne ki zaroorat hai aur isko filter out karke chalane ki zaroorat hai. Humein simply is perception pe nahi rehna chahiye ke bache ke haath mein mobile hai to parents AI parenting pe chale gaye. Nahi, they are actually spoiling themselves and their kids. Haan, exactly, spoiling. Mujhe ek example yaad hai ke kal I had to visit a doctor. To wahan pe ek family thi, unka jo bacha hai na woh matlab shararatein kar raha tha, to doctor ne parents ko kaha ke iska jo screen time hai woh kam karein, halanke parents ne nahi bataya ke achha ye phone dekhta hai, ye jo harkatein kar raha hai..."
+  },
+  {
+   "start": 1807,
+   "text": "Raha hai, iska matlab ye phone zyada dekhta hai. Jo bhi reels, cartoons, jo bhi hum bachchon ko dikhate hain, woh zyada matlab dekh raha hai. To woh kaise usne judge kiya? Jo woh harkatein kar raha tha, jo woh chhoti-chhoti shararatein, jo usmein aggression tha us type ka, to usse jo hai woh doctor ne judge kiya. So ab woh jo screen time hai woh kam kaise kiya jaye? Woh ek cheez hai. Ek norm create ho gayi hai ke achha bachchon ko phone dena hai, khana khate hue dena hai, [unclear], to usko control kaise kiya jaye? Uske multiple ways ho sakte hain. Aap chaar saal tak ki umar tak agar bache ko phone pakda hi dete hain..."
+  },
+  {
+   "start": 1846,
+   "text": "To yeh to straight away you are shifting the burden, parents are shifting their burden on technology, ke chalo iske bahane ye behla rahega bacha to hum koi aur kaam kar lenge. I think this is criminal. Lekin, aajkal ke time mein, is speedy life ke andar, parents kaise manage karein apne time ko? Parents ke paas to, parents ne apna basically woh manage hi to nahi kar rahe. Unko manage karna hai. Time hai unke paas, sab kuch hai unke paas, lekin woh usko manage nahi kar pa rahe. Yaani apne din ki activities, aaj ke parents mein aur aaj se 20 saal pehle ke parents mein ki activities mein kitna difference hai? Aaj ke parents ke paas activities ye chali gayi hai ke unhone week mein ya two weeks mein ek movie zaroor dekhni hai. Unhone khud bhi social media pe time spent karna hai."
+  },
+  {
+   "start": 1902,
+   "text": "Unke paas productive activity kya hai in parents ke paas? Aap mujhe batayein, as a parent aapke paas productive activity aapki khatm ho jati hai chaar ghanton mein. Ab aapke bache chhote hain. Aap un bachchon ke saath woh time spend karne ki bajaye aap us dauran scroll karte hain, Instagram and other platforms. What are you trying to get out of it? Aapko usse kya faida ho raha hai? Actually, you are also killing your time. You are also frustrated. This generation, these parents ki jo ye generation hai, woh khud bhi frustrated hai. Exactly. But being as a son I am not able to get some time for my father."
+  },
+  {
+   "start": 1944,
+   "text": "Being as a husband, mere paas bachchon ke liye time nahi nikalta. Speedy life mein main, matlab, koshish karte hain, main ek general baat kar raha hoon, koshish karte hain but nahi time nikalta, to phir hum bachon ko phone de dete hain. Nahi to aap karte kya hain? Speedy life mein aapki productive activity hai kya? Again, ke unka future banana hai, bachon ka future banana hai. Aapki apni productive activity hai kya? Kaam karna. Aapka kaam khatm ho gaya paanch ghante mein? Nahi khatm hona hai. Aapne ek ghanta, do ghanta exercise bhi karni hai. You want to take time for yourself as well. Ab aapke bachchon ko aap kitna time de rahe hain? Actually, as a father, as a parent, aap apne bachchon ko koi time de rahe hain? Main de raha hoon."
+  },
+  {
+   "start": 1988,
+   "text": "Yahi mera sawal hai ke time hum kaise nikalein? Koshish aap kar rahe hain, but time nahi nikal raha, isliye ke bache spoil ho rahe hain. Hum khud spoil ho chuke hain, hum as a parent khud spoiled hain. Ab main apna kitna sara time usko scroll karke guzar deta hoon. Agar main nahi karta, misal ke taur pe, main kya karoon us time pe? Maine ek course training program develop karna hai, uske upar main continuously 3 ghante se zyada kaam nahi kar sakta, main stuck ho jata hoon. Phir main roz 3 ghante kaam karta hoon, usse zyada nahi kar sakta. Ab mere paas hain din mein 15 ghante, 3 ghante maine woh nikal diye, 6 ghante maine neend ke nikal diye, 9 ghante ho gaye."
+  },
+  {
+   "start": 2026,
+   "text": "Baaki ghanton mein aap mujhe batayein ke main kya karoon? Khana kha liya, ek aadhe ghante ki activity hai, three times ka jo meal hai. Uske alawa maine travel kar liya, thoda chhota-mota kahin idhar-udhar chala gaya, aadhe ghante ki ya ek ghante ki woh activity hai. Phir aapke paas time bacha, phir mere paas time bacha, to phir maine usko unproductively use kiya. Main phir bhi productive nahi hua. Main productive kaise hounga? Kyun? Kyunki mera jo model of life hai, ya jo meri circumstances hain, they have not left me productive. That is eating my time. Phir humein align karne ki zaroorat hai, humein align karne ki zaroorat hai. Ab woh jo teen ya chaar ghante mere paas bache hain na, that is the best time and that is more precious if I spend that time with my children."
+  },
+  {
+   "start": 2074,
+   "text": "To make it more productive, you know, listen to their ideas, get their questions, share and exchange your views, take some time out of their screen time as well, so that they can divert from their mobile screen to a face-to-face talk. Isi wajah se phir humne days nikaal liye. Aaj Father's Day hai, aaj Mother's Day hai, aaj Teachers' Day hai. Today is Brother's Day. Today is Brother's Day. We have specified a day, right? Because we are not capable to spend some time for them. Yes, so we are going into digital friendships and relationships."
+  },
+  {
+   "start": 2113,
+   "text": "Hum kaun se tangible relationships, face-to-face, direct relationships se to nikal gaye hum. To aaj, brother, I still believe ke bache ko mobile pakdaane ka matlab yeh hai ke mother is not involved in some productive activity. Mother is also busy in her mobile and scrolling something and trying to kill her time, so in any case this cannot be appreciated. So if we summarize this AI parenting, we have to prioritize the things ke humne apna kaam kar liya, apne gym ko bhi time de liya, and then humein yeh jo time hai, particular jo slot hai, ke bachon ko deni hai, parents ko deni hai, ghar mein jo hai woh deni hai, khud bhi sacrifice karna hai na. Hum to sacrifice karna bhool gaye hain. Hum kehte hain saari cheezein auto pe chali jayein. Hum kehte hain hamare ghar mein itni cheezein aa gayi hain ke yeh cheez paanch minute mein ban jati hai, yeh..."
+  },
+  {
+   "start": 2170,
+   "text": "Cheez das minute mein ban jati hai, yeh microwave hai, yeh air fryer hai, yeh aur kya hai? To hum to saari cheezein us pe, hum chahte hain ke hum time bacha kis ke liye rahe hain? Matlab, this is a very important question ke agar yeh saari cheezein hamari paanch, das, pandrah minute mein complete ho jayengi to hum time kis ke liye bacha rahe hain? Hamare is zamane mein, is daur mein, mere age ke bande isliye time bacha rahe hain ke they should have more time, more screen time, more screen time. To agar main screen time ke liye itni sari cheezein sacrifice kar raha hoon, that means I am very much unproductive. I have lost the right to live. No, no. Zindagi duniya kin logon ki hai, jo productive hain, jo smart hain, those who have learned the art of survival. To if, aapko mobile phone to survival ke liye helpful nahi hai, aapko koi kahin kisi maidan mein woh kamyabi to nahi dila raha..."
+  },
+  {
+   "start": 2220,
+   "text": "Mein woh kamyabi to nahi dila raha. You're just lost in yourself, you're just lost in nothingness, yaani bemaksad. To yeh aapka, mera, hum, har generation ke jo log jo abhi zinda hain aur jinke paas kisi bhi age bracket mein bache hain, yeh unka loss hai aur unki nakami hai. Now that makes more sense. Thank you. And hopefully aap log ko bhi clarity mil gayi hogi ke yeh parenting actual mein hai kya aur humein actual mein karna kya chahiye, basically. So thank you so much for staying with us. If you haven't subscribed, please subscribe,"
+  },
+  {
+   "start": 2259,
+   "text": "Like and share. See you in the next episode. Allah Hafiz."
+  }
+ ],
+ "transcript_note": "This transcript was generated automatically with speech-to-text and lightly edited, so some words may be wrong, and passages that could not be made out are marked [unclear]. The first tab shows what is spoken in the video: Urdu written in Roman Urdu, with English kept as spoken. The English tab is a translation of the same transcript. The video is the authoritative version.",
+ "topics": [
+  {
+   "icon": "parenting",
+   "label": "AI & Parenting"
+  },
+  {
+   "icon": "psychology",
+   "label": "Psychology"
+  },
+  {
+   "icon": "education",
+   "label": "Children & Curiosity"
+  },
+  {
+   "icon": "mindset",
+   "label": "Responsibility"
+  },
+  {
+   "icon": "career",
+   "label": "Jobs & the Future"
+  },
+  {
+   "icon": "mental",
+   "label": "Time Management"
+  },
+  {
+   "icon": "society",
+   "label": "Technology & Society"
+  }
+ ],
+ "faq": [
+  {
+   "a": "According to the episode, children now ask ChatGPT before they ask their parents, and Babur Ayub calls this the first generation being raised by algorithms. But he draws a line: that only happens when parents hand the child a phone to free themselves; real AI parenting is parents using AI smartly for their children.",
+   "q": "Is ChatGPT raising our children?"
+  },
+  {
+   "a": "No. The guest says it is not AI parenting at all, it is something nonsense. He compares it to putting a baby in a cradle in the old days and letting someone rock it, and says its first effect is on the child's eyesight, with hospitals seeing countless children of three to five whose eyesight is weak.",
+   "q": "Is giving a child a mobile phone the same as AI parenting?"
+  },
+  {
+   "a": "Almost, the episode says: an answer that once took days now takes seconds, so a student only wants his paper solved instead of learning. But the value of curiosity depends on the question, and asking who am I, or who is God, is a curiosity that stays a curiosity.",
+   "q": "Is AI killing children's curiosity?"
+  },
+  {
+   "a": "No. The episode's example is a boy who asks AI how to become a king, and a child who cannot tell a court 'AI told me to do it', because AI's answer cannot be challenged and AI has no standing to answer for it. AI only answers from the data it was fed and the prompt it was given.",
+   "q": "Can AI be blamed for what a child does?"
+  },
+  {
+   "a": "The episode says new inventions create new jobs, not only take them. The calculator faced the same criticism, and when ATMs came, bank clerks feared losing their jobs, but new departments were created to feed the machines, fix them and serve the customers.",
+   "q": "Will AI take people's jobs?"
+  },
+  {
+   "a": "Babur Ayub, who has 25+ years of leadership experience in Pakistan's retail and fashion industry, including Chenone, Hang Ten, Servis Group, Imperial Stores, Khas Stores and Onieo. He is a lecturer at STEP IADM, a startup mentor, and the author of \"Management by Qur'an\".",
+   "q": "Who is the guest in this episode?"
+  }
+ ],
+ "transcript_en": [
+  {
+   "start": 0,
+   "text": "A question used to be asked: how much has the child studied? It tells you that if he is behaving like this, or if he is crying at this time, then you check his teeth, you check his stomach. That is all the guidance you get from artificial intelligence. But don't you think parents have also now handed them over just to free themselves, because they don't have time, they have handed over gadgets, phones, and that's it. And I believe it is the first generation which is being raised by algorithms. Your child will not listen to you so easily. He will follow the instructions of AI, and if AI says that this is not good for the mental health, then that child, who is 16 years old, will listen to AI, but he will not listen to his father. What about the curiosity? In our minds a thought used to run, man, how does this happen"
+  },
+  {
+   "start": 39,
+   "text": "it used to take us many days to find its answer. But now you asked ChatGPT, and at once you got its answer. Now that curiosity is finished, almost. In the past few days this also happened in Pakistan, that he said, my father does not treat me well, so how to get rid of my father? Guide me, how can I be a king? He can never become a king in his life. What this means is, the age we are in is heading towards decline, deterioration is happening, it is heading towards destruction, these are the signs of the Day of Judgement. We, we should not simply stay on this perception that since the child has a mobile in his hand, the parents have moved to AI parenting. No, they are actually spoiling. Then we hand phones to the children. Otherwise, what do you do?"
+  },
+  {
+   "start": 73,
+   "text": "What is your own productive activity? We as parents are spoiled ourselves. Peace be upon you, everyone, welcome to the Muffled Minds series, Find Your Clarity. I'm your host Khawar. Today's topic is: The AI Parenting. After AI came, how much has parenting changed compared to the previous time, a time when there was no AI, no ChatGPT, nothing of this kind. And once again, welcome sir to the show. So what do you think, since you are also a parent, how many things have changed? Now the parenting, our, if I talk about my time, then there was a direct interaction…"
+  },
+  {
+   "start": 131,
+   "text": "That, after all, is also there in AI now. But that parenting was different. Its teaching models were different, the inspirations were ones we used to take from different stories, and the atmosphere of the home, we put it on a different pattern, I have gathered that our training used to happen on that, and it was very stereotyped, that you have a few fixed principles, according to which you have to live within those same models, and you have to become that same way, and you have to appear that same way. I mean, especially look at this, that in those days when weddings used to happen, a question used to be asked: how much has the boy studied? So if they said that he has done a master's, then that was quite sufficient, whether he had done it in Islamiyat, whether he had done it in Pakistan Studies, so there were some stigmas like this, some rules"
+  },
+  {
+   "start": 184,
+   "text": "that had been decided, how much has the girl studied, this much she has studied, we will not educate her beyond this, so all of that was the outcome of parenting itself, which we went through, and how weddings were arranged in those days, and how relationship building used to happen, all of this. But if you look, then after that, the AI that came, on which you reached up to the mobile, you reached the era of the mobile, but beyond the information phase, exactly, when I did parenting for my children, my wife and I, it was the era of the mobile, there was a mobile in it, there was no artificial intelligence, but now when my children's children are coming ahead, they are purely depending on AI parenting. Earlier children used to ask their mother and father questions, now they ask ChatGPT directly. Now divide this: there is one bracket, one"
+  },
+  {
+   "start": 243,
+   "text": "to four years, then there is a bracket of five to eight years, then nine to thirteen years, because within all these age brackets the child is evolving. And if you take the first phase, the one to four years, we think that since we have handed him a mobile, now he cannot himself ask AI a question, and he cannot himself take guidance from it. Here parents have to be very smart, that in telling a story or in constructing a story, the story we tell the child, if it used to take an hour to construct it before, now the same mother can give AI a prompt and get a small story of five minutes generated, but that story has to be told by her herself."
+  },
+  {
+   "start": 298,
+   "text": "And what else, that the work it did in one minute, the remaining 59 minutes she can personalise with her child, she can give personal time. So these are the benefits of AI parenting. But now many more facilities have come in it, that my child wakes up crying every night at such-and-such a time, and you have done a mapping of his, done it, he cries at this time, then at this time he definitely asks for something to eat, until this time he stays relaxed, so when you feed those patterns of his to AI in the form of a prompt, then AI tells you that if he is behaving like this, or his thinking is like this, he cries at this time, then you check his teeth"
+  },
+  {
+   "start": 346,
+   "text": "You check his stomach, you do this, you do that, all such guidance you get from artificial intelligence. But again, all that work has to be done by the parents, by the mother and the father, with direct tangible resources. Now what do we mean by AI parenting, in the common understanding, that you have handed the child over to technology, we think the same, don't we, the raw question that will come is: well, AI parenting means you have handed the child over to the computer, you have put a mobile in his hand, you have put a laptop in his hand, and he is doing his own work and enjoying himself in it. I think this is a wrong perception. The right perception is that your parents are smart enough to get the"
+  },
+  {
+   "start": 392,
+   "text": "desired results from AI, which results are beneficial for the grooming of their, but don't you think parents have also now handed over gadgets, phones, just to free themselves, because they don't have time, and that's it. Otherwise this time, this does not come under parenting, does it? This is not AI parenting. This is something, like in the old days you put the child in a cradle, yes, and you said, let someone keep rocking it, and as long as he stays in the cradle he will stay busy, that some activity or the other is happening. In this age, because there are no cradles, or in this age there is no outdoor, or in this age there is no environment of that kind. So what do you do? You hand the child a mobile, saying, come on, in this he will keep watching cartoons"
+  },
+  {
+   "start": 438,
+   "text": "network, or something else of this kind — but, but, this is not dangerous. But this is not AI parenting. This is something nonsense. If you are giving the child a mobile just to free yourself from him, then its very first effect is happening on his eyesight. His eyesight is weak. Now you have cases like this. Now you do a fact check, and the number of such children coming to hospitals is countless. Children whose eyesight is weak, and one main reason for it is that the eyesight of children from three to five years old is weak. I said it is very weak."
+  },
+  {
+   "start": 478,
+   "text": "And I believe it's the first generation which is being raised by algorithms. By algorithms I mean they use social media. For example, Instagram use. So the videos that they are watching are coming on their feed, on their news feed, on the basis of an algorithm. The video they watch more, its algorithm matches with their thinking, and the next video they will see, they will be watching it on the basis of that same algorithm, that same thinking. Actually, this model of algorithms, this real intelligence, this original intelligence, is also algorithm based, isn't it, that whatever thing you think about more all day, at night when you sleep, you see that same thing in your dream, so that is the result of an algorithm. Whatever thing you do more in your ordinary life too, other than the mobile phone, other than the social media platforms, that thing will keep repeating itself for you in your life. When parenting was happening in our time, what was the algorithm"
+  },
+  {
+   "start": 532,
+   "text": "that was established? At this time you have to have breakfast, at this time you have to have lunch, at this time you have to do your school work, at this time you have to go to sleep. So an algorithm like that used to develop, that within it, on the basis of that limited information flow you had, your thoughts used to be generated, thoughts used to grow, thoughts used to be established, and a mindset of yours was being formed. But this AI you are talking about, parenting, this child who has now got access to social media networks on the mobile, just imagine what his age is: he is not a one-to-four-year-old, he is not a five-to-eight-year-old, he is not a nine-to-thirteen-year-old, he is probably a thirteen-to-eighteen-year-old child who has developed his senses, who has got a little liberty and a little freedom, that he, on his mobile"
+  },
+  {
+   "start": 579,
+   "text": "I mean, a very common question is that a child talks to his father or his mother, he is sixteen years old, saying: all my friends have mobile phones, and they are very active on Instagram, I have not made an account on Instagram till today. So what does the Father say to him? Saying, come on son, let's do this: we ask AI, and we feed it this question, that this is the situation and my son is asking for having access on social media. So"
+  },
+  {
+   "start": 623,
+   "text": "whether we should do it or not. So, if you want that your child should not use the social media network yet, because it is a wastage of time and there is unfiltered information coming in, and his algorithm can develop anywhere. So, your child will not listen to you so easily. He will follow the instructions of AI. And if AI says that this is not good for the mental health, then that child who is 16 years old will listen to AI, but he will not listen to his father. But we can also train AI. If I ask you, let's say, I have my child by my side, if I ask you whether a phone is right for him right now or not, then you have to give this answer, we can train it,"
+  },
+  {
+   "start": 670,
+   "text": "You set that algorithm, you keep asking it questions continuously, and within one or two days, within three days, it will understand you from your prompt, what kind of questions this person asks me, so what kind of, I mean, actually you are raising AI along with your children, you are also raising the AI. What is AI? This artificial intelligence is not generating thoughts on its own; this data of the last 10 or 20 years, which floated on social media, which was generated through emails, which was present in books, in the form of literature, in the form of incidents, the history that was recorded, all that data was being"
+  },
+  {
+   "start": 713,
+   "text": "stored somewhere through some channels, through some tools, and we were not aware of that fact. So when all of that got stored in one place, now it has all that data of situations, situational data, that if there was a collision, how many people died, where the bus was going from and to, what happened to the plane. Now what do you think, is AI creating something for you on its own? No, from within those same existing experiences, to respond to your experience, to respond to your question, it creates a model of its own from within it, and it feeds that model to you according to your prompt, whereas he is not, AI is not authorised or is not free enough to create something from its own system, that is all based on the thoughts"
+  },
+  {
+   "start": 764,
+   "text": "And experiences and literature and ideas we have already fed. So, in a way, we are also raising AI — how well you raise it, that is the question. Yes, so you are absolutely right. Like, the AI — if we talk about ChatGPT, we use different models in it. Now, the model that exists was trained on the data it already had; as you said, there was already 10–20 years of data in one place, and they trained that model on the basis of that data, and then they made that model publicly available so that people could use it. Now, if we ask ChatGPT a question using that model,"
+  },
+  {
+   "start": 804,
+   "text": "Then it does answer us, based on the data it has, and it also refines itself. What you asked, it has also trained itself on that, along with it. Now, when the next person asks it a related question, it combines the previous data plus the data of what the previous person asked, and then — this is how you are raising it, this is how you are actually helping AI to grow. Your prompt has gone into its store. Now, if any person anywhere in the world asks it a similar question, your prompt will work there as its feed."
+  },
+  {
+   "start": 843,
+   "text": "It will refine it from that, train it, mould it, and present that idea to another person. So you are doing this work with it on a continuous basis. But what about curiosity? Like, in childhood, for example, if we got a question, or a thought ran through our mind — \"How does this happen?\" — it would take us days to find the answer. Forget days, it would take hours at least. But now, there is a thought in your mind, you asked ChatGPT, and you got the answer right away. A thought came, its answer came, wind up."
+  },
+  {
+   "start": 880,
+   "text": "Next thought. So now that curiosity is almost finished. Look, it depends on what the value of your question is, or the strength of the question, or the uniqueness of the question. Curiosity — look, what is the curiosity of a general, ordinary person? What is a student's curiosity? I'm talking about Pakistan, based on my experience. \"I have to solve this paper, these are my four subjects, AI should help me out in them.\" So what is AI doing? AI is not educating you at all. If you look at it in that sense, AI is only forwarding you a kind of automated information. Is your curiosity dying because of that? If you are asking AI that I want to solve my question paper and this is the exam, this is the subject name, then feed me in that."
+  },
+  {
+   "start": 936,
+   "text": "It responded to you exactly according to that, because it has the syllabus of all the world's education systems and universities. If my curiosity is so cheap, or the level of curiosity is not that high, if that is not creating any entertainment or amusement, and if I am not trapped in a simple question whose answer I can't find — like what happened in Pakistan a few days ago, when someone said, \"My father doesn't treat me well, so how to get rid of my father?\" So what happened there? It told him, \"Give him this poison in this way.\" He even imported that poison, and he came and even made an attempt. So, I mean, look at the level of stupidity — what was your curiosity? To find out the kind of poison which can help me get rid of my father because"
+  },
+  {
+   "start": 985,
+   "text": "He is not, he is very straight and he is a man of principle and he is not allowing me to do this and this and this. So it depends on what your curiosity is. I mean, for example, my curiosity is that I want to know what human evolution was — you see. Now, where did I used to read all of that? I used to read it from books, look it up — it used to take me a long time. You're right in saying that you want to know, and find out right away, and you want it to give you its synopsis in 10–15 minutes. Well, you do get that — that some 10,000 years ago there was this species, then it evolved, homo sapiens came, then human beings, then wisdom, then sanity, then the tribal system, then cave"
+  },
+  {
+   "start": 1031,
+   "text": "Society and all that. So, up to that point, it can serve your curiosity, but the real curiosity is that, even now, if you tell him, \"Who am I?\", then what will he answer you? This is one of the biggest questions — who am I? Or who is God? The story of Moses is that he went up the mountain — Musa alaihissalam — and he went there and said, loudly, \"God, I am here.\" Then, I want to see you,"
+  },
+  {
+   "start": 1068,
+   "text": "I want to know about you, then he got a reply, so God said, \"Here am I.\" He said, \"How are you, what are you like?\" So God replied, \"I am what I am, no gender, and I am not even a female, not a male, not something else, I am what I am.\" I mean, this curiosity still remains a curiosity — I am what I am, and who am I? As a human being, I possess, I keep all the negative and positive energies, that's right."
+  },
+  {
+   "start": 1110,
+   "text": "I could not kill even a single negativity from my character, even though I have all the scriptures, I have all the divine messages, but that negativity could not be removed from within me — so how come AI can help you out, if you are not willing, if you are not willing to, you know, abandon something from within yourself which is negative and which is not beneficial for you? Then nobody can fix you, not even AI. But a lot depends on your prompt — when you are using it for parenting, your prompt should be designed in such a fashion which should be helpful for the kid, and that should be understandable by you as a parent, so that I understand this thing, so that I can guide my child on it according to those guidelines and tips."
+  },
+  {
+   "start": 1163,
+   "text": "That poison example of yours reminded me of a story. One of my relatives used ChatGPT to solve one query. Their electricity bill — I mean, their meter reading had gone above 200 units, I mean, it had gone two or four units above, and the meter reading had also been taken. Now they thought, \"I mean, I didn't get the meter changed quickly\" — they had multiple meters — so they said, \"How can I resolve this now?\" So they asked ChatGPT, \"My electricity units have now gone to 204 or 205, how can I reduce them?\" What reply did ChatGPT give them? ChatGPT said, \"Go to the WAPDA office, there will be some people sitting there, request them, and give them a little money too.\" Literally, ChatGPT told them to give them a little money too."
+  },
+  {
+   "start": 1204,
+   "text": "They said, \"Okay, let me try this.\" But how would the money part work — so in the very next prompt, it went back on its word, because they were using the voice model, you see; I mean, there was nothing in writing, they were using the voice model at the time, so in it, it said, \"No, no, I was talking in some other sense, it's not like that, don't give it like that,\" don't give it like that, this is also happening. So you say, look, ChatGPT or all the AI platforms — but they are not exactly reliable models. So you can't take this risk at all."
+  },
+  {
+   "start": 1249,
+   "text": "You write along with it, \"I am reviewing your feed, and I will let you know if I am supposed to make some changes, so that AI should learn that my word is not going to be the word of God and the person who has given me the prompt is wise enough and is sitting with open eyes, open brain, and he or she is analyzing my response.\" Specially, they have written below, in all the AI models, \"I am an AI, I can also make mistakes.\" It doesn't take you [unclear], it doesn't take you — you go ahead and do something."
+  },
+  {
+   "start": 1291,
+   "text": "And then later it will say — just as in the example you gave, it denied it — \"I was talking in some other sense.\" So, I mean, this is a reciprocal system: you will say something good, how deep you will speak, how to-the-point you will speak, how good a prompt you will give, how much — I mean, how deeply you go and ask it — it will give you according to your intelligence level. To a layman, it says, \"Look, I want to be king, I want to be the king, guide me, how can I be a king?\""
+  },
+  {
+   "start": 1330,
+   "text": "So it will give him the same kind of answer. It will understand that the person asking is a madman sitting there, a foolish man sitting here, who is saying, \"I want to become a king.\" He can never become a king in his life; feed him whatever you like, he will start that, he will make him that, yes, AI will make him that. And it will give you such formulae that if you go ahead and do them, you may get caught, you may be punished, you may get some punishment. And this answer of his cannot be challenged either; he cannot say in court, \"Brother, AI told me to do it\" — so who the hell AI is exactly. So, coming back to my previous question about curiosity,"
+  },
+  {
+   "start": 1369,
+   "text": "I was coming to that, let's just say a student, okay? If I compare myself — when we were students, and compare that with the students of today. We would get a question, we would use our minds, right, to solve it, either it could be some mathematical problem, you can say, it could be any problem, we would use our minds; our minds — just as AI's models are being trained — our minds were also being trained. But now, a question comes from the teacher to the student, the student uses AI, and presents its answer to the teacher, so his mind is not being used. So where we are now heading? This is not curiosity."
+  },
+  {
+   "start": 1414,
+   "text": "It is a need of his, you see, a need with a very limited scope — that I have to solve this paper, this is its question, how should its answer be? So it will give you the answer, according to the appointed people and the principles, and your work will be done, fulfilled. Curiosity is that thing in which there are troubles and there are mysteries and there are unknown facts involved, that is a curiosity, and it remains a curiosity. Yes, it will remain. I can totally, you know, understand what you are saying — that curiosity is this one — but from that, he moved to the next step."
+  },
+  {
+   "start": 1451,
+   "text": "Look, listen to me. When the calculator came, it faced a lot of criticism — \"We used to do it like this, we used to do our calculations.\" Meaning, the age is going towards decline, deterioration is happening, it is heading towards destruction, it is a sign of the Day of Judgement. They used to say such things, just because the calculator came. Now you are talking about AI — that it puts a completely solved paper in front of you; in fact, now children ask it, \"Make this year's guess paper for us, what will come in matric and intermediate?\" It prepares guess papers for you, saying, \"Just prepare this.\" So there would be some fool who takes a risk on it and says, \"Brother, AI told me, so I did it.\" Your parents will also beat you, and the teachers will too"
+  },
+  {
+   "start": 1501,
+   "text": "And the teachers will beat you too, saying, who is he to interfere in our matters, in the matters of life? To an extent, you have to invite his interference, according to your strength, your capacity and your affordability. Your example reminds me of another example, from the calculator, when the ATMs came, the machines — a proposal was given that now ATM machines would come and you would no longer have to hand out money manually. All right. The clerks, the people who worked in banks, all of them criticised it a lot, saying our jobs will go, if machines start giving out money, what will we do sitting in the bank?"
+  },
+  {
+   "start": 1540,
+   "text": "They did not back it again, but like the calculator, the machine came, and new jobs were created in its respect. So the same will happen now. It needs technical staff, and behind it a man feeds it every day, he puts cash in it, then a problem comes up — if it does not respond properly, my card gets stuck in it — then new departments were created for all those services, new jobs were created. Now, AI is something we have understood as a robotic model, that whatever you give it, it will give you something back and the matter will be solved. It is not like that — we are not living in some utopian world where whatever we thought just happens."
+  },
+  {
+   "start": 1581,
+   "text": "You have to have right sense, you have to pour in right energy and you have to be wise enough to develop your prompt so that you get the right thing out of the AI. Now use it properly. I mean, in your training sessions — maybe it's just a suggestion from my side — tell the students about the right use of AI as well. We have a program of ours on information filtration, on how to know what to believe. I mean, how do we know what is true?"
+  },
+  {
+   "start": 1620,
+   "text": "We have kept a chapter on it, that the information reaching you comes from social media, it is AI-generated. Many things seem fake to you, yet they look real. If it is real, you doubt it; if it is fake. So how will you judge whether the information reaching me, in written or pictorial form, or in the form of news, or in the form of voice, is right, is authentic or not? How do we filter it out, to reach a point where I say how to know what to believe? We have a whole training session on this. So, likewise, for parents too, because we are talking about parenting..."
+  },
+  {
+   "start": 1658,
+   "text": "So parents also need to make their children realise from time to time that, look, use ChatGPT for this purpose, but use your own mind too. Don't do everything in a robotic way. It's a natural way. Actually, parents are not trained to train their kids. Right — just as when I was little, my parents were not trained to train me how to use the mobile. We educated them in a way, that this mobile has come, now if you press a button in it, this will happen. Likewise, the children of our current Generation Z being born now — Generation Z is not fully equipped with the knowledge and idea of how to run it, and what the benefits are, and what the deep merits of AI are."
+  },
+  {
+   "start": 1708,
+   "text": "So when parents are not trained, this is becoming the sole responsibility of the generation which is using AI, that they learn it themselves. That is why you should hit the direct client. When we conduct training, we hit the direct client who is going through that situation, not the parents, because parents, up to a point — up to four or five years of age, or eight years — can train their child by taking information from AI according to their own culture, their environment, their background. But when the child himself becomes sensible, he will not listen to his parents, he or she, because AI will become more authentic for him, what AI is telling him. And he knows that AI is a technology and this technology is stronger than the human being."
+  },
+  {
+   "start": 1759,
+   "text": "This is the kind of impression we are creating, that AI is stronger than the human brain, whereas it is not. The human brain is its parent — it is the one that created it. So I think we need to look at it very rationally and run it after filtering it out. We should not simply stay on this perception that if the child has a mobile in his hand, the parents have moved to AI parenting. No, they are actually spoiling themselves and their kids. Yes, exactly, spoiling. I remember an example, yesterday I had to visit a doctor. There was a family there, and their child was being naughty, so the doctor told the parents to reduce his screen time, although the parents had not told him that he watches the phone — from the way he was behaving..."
+  },
+  {
+   "start": 1807,
+   "text": "...it means he watches the phone too much. Whatever reels, cartoons, whatever we show children, he is watching too much of it. So how did he judge it? From the way he was behaving, the little naughty acts, the aggression of that type in him — from that the doctor judged it. So now, how do we reduce the screen time? That is one thing. A norm has been created that children have to be given the phone, given it while they eat, [unclear] — so how do we control it? There can be multiple ways. If you hand a phone to a child up to the age of four..."
+  },
+  {
+   "start": 1846,
+   "text": "Then straight away you are shifting the burden — parents are shifting their burden on technology, thinking, with this excuse the child will stay occupied and we can do some other work. I think this is criminal. But in today's time, in this speedy life, how do parents manage their time? Parents, basically, are not managing it at all. They have to manage it. They have time, they have everything, but they are not able to manage it. I mean, in their daily activities, how much difference is there between the activities of today's parents and the parents of 20 years ago? Today's parents have activities like: they must watch a movie once a week or in two weeks. They themselves have to spend time on social media too."
+  },
+  {
+   "start": 1902,
+   "text": "What productive activity do these parents have? Tell me, as a parent, your productive activity finishes in four hours. Now your children are small. Instead of spending that time with those children, during that time you scroll Instagram and other platforms. What are you trying to get out of it? What benefit are you getting from it? Actually, you are also killing your time. You are also frustrated. This generation, this generation of these parents, is itself frustrated too. Exactly. But being as a son, I am not able to get some time for my father."
+  },
+  {
+   "start": 1944,
+   "text": "Being as a husband, I cannot find time for the children. In this speedy life, I mean, we try — I am speaking generally — we try, but time does not come out, so then we hand the phone to the children. Otherwise, what do you do? In this speedy life, what is your productive activity? Again, that their future has to be built, the children's future has to be built. What is your own productive activity? Working. Your work finished in five hours? It does not finish. You also have to exercise for an hour or two. You want to take time for yourself as well. Now, how much time are you giving your children? Actually, as a father, as a parent, are you giving your children any time? I am giving it."
+  },
+  {
+   "start": 1988,
+   "text": "That is my question, how do we find time? You are trying, but time is not coming out, because the children are getting spoiled. We ourselves have become spoiled, we as parents are ourselves spoiled. Now, I spend so much of my time scrolling through it. If I don't do it, for example, what should I do in that time? I have to develop a course training program. On it, I cannot work continuously for more than three hours, I get stuck. Then I work three hours a day, I cannot do more than that. Now I have fifteen hours in a day. I took out three hours for that, I took out six hours for sleep — that makes nine hours."
+  },
+  {
+   "start": 2026,
+   "text": "In the remaining hours, tell me, what should I do? I have eaten; that is an activity of half an hour — the meal three times a day. Apart from that, I have travelled, gone here and there a little, that is an activity of half an hour or an hour. Then time was left for you, then time was left for me, so then I used it unproductively. I still did not become productive. How would I become productive? Why? Because my model of life, or my circumstances, they have not left me productive. That is eating my time. Then we need to align ourselves, we need to align ourselves. Now, those three or four hours I have left, that is the best time and that is more precious if I spend that time with my children."
+  },
+  {
+   "start": 2074,
+   "text": "To make it more productive, you know, listen to their ideas, get their questions, share and exchange your views, take some time out of their screen time as well, so that they can divert from their mobile screen to a face-to-face talk. That is why we have come up with days. Today is Father's Day, today is Mother's Day, today is Teachers' Day. Today is Brother's Day. Today is Brother's Day. We have specified a day, right? Because we are not capable to spend some time for them. Yes, so we are going into digital friendships and relationships."
+  },
+  {
+   "start": 2113,
+   "text": "We have moved away from tangible relationships, face-to-face, direct relationships. So today, brother, I still believe that handing a mobile to a child means the mother is not involved in some productive activity. The mother is also busy on her mobile, scrolling something and trying to kill her time, so in any case this cannot be appreciated. So if we summarize this AI parenting, we have to prioritize the things — that we have done our work, we have given time to our gym too, and then this time we have, the particular slot, has to be given to the children, to the parents, to the home, and we have to sacrifice ourselves too. We have forgotten to sacrifice. We say everything should go on auto. We say so many things have come into our homes that this thing gets made in five minutes, this..."
+  },
+  {
+   "start": 2170,
+   "text": "...thing gets made in ten minutes, this is a microwave, this is an air fryer, what else is there? So we want everything on that — we want to save time, but for whom are we saving time? I mean, this is a very important question: if all these things of ours get completed in five, ten, fifteen minutes, then for whom are we saving time? In our age, in this era, men of my age are saving time so that they should have more time, more screen time, more screen time. So if I am sacrificing so many things for screen time, that means I am very much unproductive. I have lost the right to live. No, no. Life, the world belongs to those people who are productive, who are smart, those who have learned the art of survival. So if a mobile phone is not helpful for your survival, it is not giving you success in any field..."
+  },
+  {
+   "start": 2220,
+   "text": "It is not giving you that success. You're just lost in yourself, you're just lost in nothingness, meaning aimlessly. So this — yours, mine, ours, all the people of every generation who are alive now and who have children in any age bracket — this is their loss and their failure. Now that makes more sense. Thank you. And hopefully you all will also have got clarity on what this parenting actually is and what we actually need to do, basically. So thank you so much for staying with us. If you haven't subscribed, please subscribe,"
+  },
+  {
+   "start": 2259,
+   "text": "Like and share. See you in the next episode. Allah Hafiz."
+  }
+ ]
+}
