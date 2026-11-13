@@ -394,8 +394,8 @@ section { padding: 84px 0; }
 .contact-box p { color: var(--muted); margin-bottom: 30px; }
 .contact-box .btn { font-size: 1rem; }
 
-/* Episode detail: section jump links */
-.ep-jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 26px; }
+/* Episode detail: section jump links — sticky under the site header (63px) */
+.ep-jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 26px; position: sticky; top: 63px; z-index: 40; background: var(--bg); padding: 10px 0; }
 .ep-jump a {
   padding: 8px 16px; border-radius: 999px; font-size: 0.85rem; font-weight: 500; color: #d1d5db;
   background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.14);
