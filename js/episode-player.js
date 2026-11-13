@@ -33,7 +33,7 @@
     history.replaceState(null, '', '#' + targets[i].id);
   }));
   function spy() {
-    const y = window.scrollY + 130;
+    const y = window.scrollY + 180; // just past the 172px anchor scroll-margin, so the landed section counts as current
     let cur = -1;
     targets.forEach((t, i) => { if (t.getBoundingClientRect().top + window.scrollY <= y) cur = i; });
     links.forEach((a, i) => a.classList.toggle('is-active', i === cur));
