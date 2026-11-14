@@ -159,7 +159,22 @@ def meta_line(e):
     return " &middot; ".join(bits)
 
 
-def card(e, prefix):
+def home_label(label):
+    """Homepage-only wording: 'SEASON 2 · EP 27' -> 'SEASON 2 - EPISODE 27', 'EP #5' -> 'SEASON 1 - EPISODE 5',
+    'FIND YOUR CLARITY #06' -> 'FIND YOUR CLARITY - EPISODE 6'. Other labels (specials, buzz, documentary) stay as they are."""
+    m = re.fullmatch(r"SEASON (\d+) · EP (\d+)", label)
+    if m:
+        return f"SEASON {m.group(1)} - EPISODE {m.group(2)}"
+    m = re.fullmatch(r"EP #(\d+)", label)
+    if m:
+        return f"SEASON 1 - EPISODE {m.group(1)}"
+    m = re.fullmatch(r"(FIND YOUR CLARITY) #(\d+)", label)
+    if m:
+        return f"{m.group(1)} - EPISODE {int(m.group(2))}"
+    return label
+
+
+def card(e, prefix, home=False):
     local = e.get("page")
     href = f"{prefix}{local}" if local else f"https://www.youtube.com/watch?v={e['id']}"
     ext = "" if local else ' target="_blank" rel="noopener"'
@@ -169,7 +184,7 @@ def card(e, prefix):
         f'        <div class="ep-thumb"><img src="https://img.youtube.com/vi/{e["id"]}/hqdefault.jpg" alt="{t} thumbnail" loading="lazy">'
         f'<span class="play"><i class="fa-solid fa-circle-play"></i></span></div>\n'
         f'        <div class="ep-body">\n'
-        f'          <div class="ep-num">{html.escape(e["label"])}</div>\n'
+        f'          <div class="ep-num">{html.escape(home_label(e["label"]) if home else e["label"])}</div>\n'
         f'          <h3>{t}</h3>\n'
         f'          <div class="ep-meta">{meta_line(e)}</div>\n'
         f'        </div>\n'
@@ -202,7 +217,7 @@ def tabs_html(cfg, prefix, limit, archive):
                 '<i class="fa-solid fa-chevron-down"></i> Show more episodes</button></div>\n') if archive else ""
         panels.append(
             f'    <div class="ep-panel" role="tabpanel" id="{"" if archive else "h-"}panel-{k}" aria-labelledby="{"" if archive else "h-"}tab-{k}" data-panel="{k}"{"" if on else " hidden"}>\n'
-            f'      <div class="ep-grid{" ep-grid-3" if archive else ""}">\n' + "".join(card(e, prefix) for e in shown) + '      </div>\n'
+            f'      <div class="ep-grid{" ep-grid-3" if archive else ""}">\n' + "".join(card(e, prefix, home=not archive) for e in shown) + '      </div>\n'
             + more + '    </div>\n')
     cls = "ep-tabs ep-tabs-top" if archive else "ep-tabs"
     out = (f'    <div class="{cls}" role="tablist" aria-label="Episode series"{" data-hash" if archive else ""}>\n'
