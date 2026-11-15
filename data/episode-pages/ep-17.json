@@ -1,0 +1,854 @@
+{
+ "id": "BJyKE4T0yY4",
+ "series": "podcast",
+ "label": "EP #17",
+ "title": "Youth Entrepreneurship: Software House and Client Hunting",
+ "seo_title": "Youth Entrepreneurship | Software House | EP #17 | Muffled Minds",
+ "seo_description": "Abdullah Sheikh on starting a software house in Pakistan, client hunting, team management, AI impact and advice for young graduates.",
+ "keywords": [
+  "Abdullah Sheikh",
+  "Youth Entrepreneurship",
+  "Software House Pakistan",
+  "Client Hunting",
+  "COMSATS Lahore",
+  "Avicenna Enterprise",
+  "AI and Jobs",
+  "Pakistani Podcast",
+  "Muffled Minds",
+  "Urdu podcast",
+  "Startup Pakistan",
+  "Team Management"
+ ],
+ "date": "2026-01-03",
+ "duration": 3654,
+ "guest": {
+  "name": "Abdullah Sheikh",
+  "role": "Founder of Avicenna Enterprise Solutions · Software Engineer · COMSATS Lahore Graduate",
+  "bio": [
+   "Abdullah Sheikh is a COMSATS Lahore graduate who went from being a software engineer to building and running a software house with 40-50 employees.",
+   "He is from Lahore by birth, belongs to a Sheikh business family, started at COMSATS Lahore in spring 2011 and graduated in 2015."
+  ],
+  "links": [
+   {
+    "label": "Avicenna Enterprise Solutions",
+    "url": "https://avicennaenterprise.com"
+   },
+   {
+    "label": "Abdullah Sheikh on LinkedIn",
+    "url": "https://www.linkedin.com/in/abdullahshk/"
+   },
+   {
+    "label": "Full Muffled Minds Podcast series",
+    "url": "https://www.youtube.com/playlist?list=PLGwxKscM0gb04P3OGD_oVpbESOYBWZee4"
+   }
+  ]
+ },
+ "summary": [
+  "In Episode 17 of Muffled Minds, host Khawar Shahzad sits down with Abdullah Sheikh, a COMSATS Lahore graduate who went from being a software engineer to building and running a software house with 40-50 employees, to talk about youth entrepreneurship in Pakistan: what happens after the degree, why most graduates chase jobs, and what it really takes to start a software house from zero.",
+  "Abdullah traces his own journey from a Sheikh business family in Lahore, where his father told him he could never do a job, through COMSATS Lahore in the spring 2011 batch to graduation in 2015, and then freelancing, because a good job did not come. He explains the gap between university and professional life, why bookish knowledge is not enough, and how internships, teamwork and learning in the market matter more than the degree alone. He then covers partnerships, written agreements and documentation, client hunting on platforms like Fiverr, Upwork and Freelancer.com, and the difference between local and foreign clients.",
+  "The conversation then turns to team management, the impact of AI and ChatGPT on developers and clients, the shortage of jobs for graduates in Pakistan, and his three golden pieces of advice for young entrepreneurs: skill, communication and commitment. It closes with what success means to him and the Fish Jar Q/A, where he talks about why Pakistan still has plenty of opportunities."
+ ],
+ "we_discuss": [
+  "Abdullah Sheikh: from COMSATS Lahore to a 40-50 person software house",
+  "Degree ke baad kya: jobs vs creating jobs",
+  "University vs professional life: bookish knowledge and the market gap",
+  "Starting vs running a software house: zero se start, partners and documentation",
+  "Client hunting: freelancing first, platforms and local vs foreign clients",
+  "Team management: weekly tasks, commitment and delivery",
+  "AI after-effects: ChatGPT, juniors, clients and the basics",
+  "Employment in Pakistan, three golden advices, success and Fish Jar Q/A"
+ ],
+ "takeaways": [
+  "Start from zero: every software house starts with the founder doing everything himself, from opening the office to serving chai.",
+  "Learn freelancing first: spend two to four years freelancing before starting a software house, because it teaches you client communication, documentation and delivery.",
+  "Write everything down: partnerships, shares, effort and client requirements should all be documented, because verbal agreements lead to disputes.",
+  "Local clients and foreign clients are different: foreign clients work in a systemized way with clear lists and timelines, while local clients often have unclear expectations and limited budgets.",
+  "Commitment is everything: if you commit to delivering in a week or ten days, you have to deliver, and management without commitment is nothing.",
+  "AI saves time but juniors who depend on it completely stop learning: use AI as a helper, not as a replacement for basics.",
+  "There are far more graduates than jobs: universities pass out hundreds of students per batch while a software house can only hire one or two.",
+  "Skill, communication and commitment are the three golden advices: develop a skill, learn to communicate with clients, and deliver on your commitment.",
+  "Success is commitment: closing what you start and keeping your word is what success means, and opportunities in Pakistan have not ended, only their form has changed."
+ ],
+ "chapters": [
+  {
+   "start": 0,
+   "end": 137,
+   "title": "Introduction"
+  },
+  {
+   "start": 137,
+   "end": 356,
+   "title": "Youth mindset regarding Job/Business"
+  },
+  {
+   "start": 356,
+   "end": 734,
+   "title": "Universities Life vs Professional Life"
+  },
+  {
+   "start": 734,
+   "end": 1475,
+   "title": "Starting a Software House vs Running a Software House"
+  },
+  {
+   "start": 1475,
+   "end": 2184,
+   "title": "Client Hunting"
+  },
+  {
+   "start": 2184,
+   "end": 2298,
+   "title": "Team Management"
+  },
+  {
+   "start": 2298,
+   "end": 2914,
+   "title": "AI After-Effects"
+  },
+  {
+   "start": 2914,
+   "end": 3192,
+   "title": "Employment Opportunities in Pakistan"
+  },
+  {
+   "start": 3192,
+   "end": 3358,
+   "title": "Advices for Young Entrepreneur"
+  },
+  {
+   "start": 3358,
+   "end": 3463,
+   "title": "What is Success?"
+  },
+  {
+   "start": 3463,
+   "end": 3654,
+   "title": "Fish Jar Q/A"
+  }
+ ],
+ "transcript": [
+  {
+   "start": 6,
+   "text": "Assalamualaikum everyone, welcome to Muffled Minds, Find Your Clarity. I'm your host Khawar. Viewers, aaj ka jo sawal hai woh bahut hi simple hai, lekin bahut hi heavy hai. Degree ke baad kya? Hum mein se mostly log kya karte hain, ke degree ke baad ek race mein lag jate hain. Job dhoondo, experience lo aur service provide karo. Lekin kuchh log jo hote hain, woh is race se, jo hai woh, bahar nikal jate hain. Woh job dhoondne ke bajaye jobs create karne par focus karte hain. AI aa chuki hai, aaj ki jo young generation hai woh kaafi confuse hai ke like AI aane ke baad hamara kya hoga, aur aaj ke episode mein hum baat karenge software industry ki ground reality ke baare mein, aur aaj ke episode mein hum yeh bhi baat karenge ke agar aap ek zero se apna software house jo hai woh create karna chahte hain, set up karna chahte hain to uske kya steps ho sakte hain? And for that reason we have someone who is basically running a mid-level software house, Mr. Abdullah."
+  },
+  {
+   "start": 53,
+   "text": "Assalamualaikum Abdullah. Walekum Salam. Kaise hain aap? Alhamdulillah, theek. Achha, hamara typical ek signature person hai. Muffled Minds, you can say, what are you and where are you from? I am from Lahore by birth and I can say, like, I am committed because without commitment you cannot do anything or you cannot achieve anything in your future or in your life. Aur, and you are born, are, in Lahore, right? Yes, I am from Lahore by birth. Hum start se hi Lahore ke hain. Lahore mein reh rahe hain aur ab to kaafi time ho gaya hai."
+  },
+  {
+   "start": 94,
+   "text": "Humne kaafi kuchh dekh liya Lahore mein. Yaani ke even ke humne to yeh bhi dekha hua hai ke jo books mein aata tha, Mela Shalimar Bagh ka, Lahore ka, woh bhi humne khud dekha hua hai. Ab to nahi lagta, lekin jo purane log hain, hum sab ko pata hai ke yeh kaafi famous cheezein hain. Ab woh to obviously obsolete ho gayi hain, woh cheezein jo natural thi. Achha Abdullah bhai, agar hum start karein graduation se. Aapne graduation kahan se ki? Maine COMSATS Lahore se graduation ki, aur kaun sa year tha woh? 2015. 2015 tha. 2015 mein complete ho gayi thi. I guess 2011 mein mera batch start hua tha, spring mein, and 2015 mein usko complete kar diya. Nice. Achha, degree ke baad, jaise normally har ek student ke hota hai, every student wish ke humein koi job mil jaye, achhi. Kisi ka plan yeh hota hai ke humein ya to bahut badi company hire kar le, kyunki yeh hota hai ke groups mein kisi ek achhe bachche ki, woh achha hi bachcha hota hai, jiski achhi job lag jati hai."
+  },
+  {
+   "start": 146,
+   "text": "Baaki saare bhai ek doosre ko compare kar rahe hote hain ke yaar, iski agar 70-80 hazaar lag gayi to hamari bhi lag jayegi. Hmm. To that was the phase ke tab saare try karte hain aur har kisi pe woh phase aata bhi hai. Ek to pressure bhi hota hai ghar walon ka, ya khud bhi har koi expect kar raha hota hai ke main achhi jagah pe jaoon. To ab yahi tha, sab ke saath, ke try karte rahe job ka, hum, aur, but haan, matlab ke normally maine bhi jab degree ki to during degree jitne bhi, for example, students the, colleagues the, un sab ki thinking yahi thi, jobs wali, ke yaar humne itna CGPA lena hai aur CGPA lene ke baad hum kya karenge? Job karenge. Matlab ek badi software house mein, let's say, jaise ke agar aap software engineering kar rahe ho, bade software house mein hum job karenge. Kisi ka bhi business ka apna setup start karne ka mind tha hi nahi."
+  },
+  {
+   "start": 191,
+   "text": "To aapka kaise mind bana, degree ke baad, kyunki normally aapke bhi colleagues wahi honge jo ke normally hote hain? Aise hi hai. Mera thoda sa background yeh hai ke main Sheikh family se belong karta hoon, to ismein saare business hi karte hain. Haan. To by birth mere mein thodi si business ki to thi ke, inhein business hi karna hai, kyunki mere father bhi yahi kehte the ke yeh mulazmat nahi kar sakta. Theek hai? Ke isse nahi hogi. Theek hai? To mera thoda sa mindset yeh tha ke shayad business hi karna hai. Kyunki maine dekha bhi yahi tha ke hamari poori family mein, aaj hum market mein, ya jo kapde ka kaam kar rahe hain, to business hi karna hai. Even ke main agar kisi ko keh diya na ke shop, to shop pe kyun jaana hai? Yaani ke business, theek hai. To thoda sa yeh bhi mindset aata hai ke nahi, padh liya hai, achha padh liya to definitely yeh hai ke business start karenge."
+  },
+  {
+   "start": 235,
+   "text": "Lekin usse pehle sab ko job hi chahiye hoti hai. Job karein, experience gain karein, and then you have to start your business. To isliye yeh ke phir business ka mind to tha. Business to baad mein start kiya, lekin pehle humne bhi saari mehnat ki ke humein job mile, achhi job mile, tab nahi mili job, to jiski wajah se yeh hai ke freelancing start kar di, phir, theek hai, yaani ke disheart nahi ho ke nahi mil rahi to theek hai, aage kuchh bhi nahi hai, ek freelancing hoti hai, aap kar sakte ho, kyunki humein university mein bataya jata hai ke aapne, matlab ke padh rahe ho to isko aapne kaise utilise karna hai. Theek hai."
+  },
+  {
+   "start": 279,
+   "text": "But main aapko thoda sa, main agar maybe cut karoon, university mein jo hamara batch tha, mera bhi 11-15 wala batch tha, but I was in different department, we can say, to wahan pe humein to bilkul nahi bataya gaya tha ke achha, aap freelancing ya is taraf bhi jo hai woh ja sakte ho. Hamare teacher the, jinhone second semester mein humein keh diya tha ke yaar, yeh platforms hain, Usman Akram unka naam hai, Allah unko lambi zindagi de. To lekin tab humein itna idea nahi hota hai, na itni value hoti hai cheezon ki. To khair, unhone bata diya ke yaar, yeh Freelancer hai, yeh Freelancer platform hai, yeh Upwork hai, to yahan pe aap sign up kar lo. Humne bhi sign up karke tab chhod diye. Dekhenge, abhi to start hai, pata nahi kya cheezein hain. Kisi ne start kar diya, kyun nahi kiya. Phir ek LivePerson, ek website thi jahan sirf assignments hi hoti thi. Theek hai?"
+  },
+  {
+   "start": 322,
+   "text": "After a couple of, yeh keh lein ke, months ya semester guzarne ke baad humne realise kiya ke chalo isko start karte hain. Phir wahan se humne assignments karni start ki. Theek hai? Kyunki tab to humein as a professional level pe koi bhi kaam nahi aata tha. HTML CSS aane ka matlab yeh bhi nahi hota ke hum bahut hi achhi websites bana sakte hain. Theek hai? Humein wahan pe backend ki bhi zaroorat padti hai, database hoti hai, baaki cheezein bhi hoti hain, backend ki poori support hoti hai. To phir assignment se start kiya. To is tarah phir career ka humne start kiya, yaani ke ismein main tha, baaki dost bhi the, lekin aahista-aahista yeh hai ke phir stand-alone main isko leke chalta tha. Nice, nice. Agar hum thoda sa baat karein, pichhli podcast mein bhi ek hamare school owner the, unki different chains hain school ki. Unke saath hum baat kar rahe the ke unhone bhi yeh baat ki, jo padhai hai, let's just say ke aap graduation kar rahe ho, university mein ja rahe ho."
+  },
+  {
+   "start": 365,
+   "text": "Uska kabhi bhi maksad yahi nahi hona chahiye ke aap job jo hai woh in the end jo hai woh get karoge. Uska simple maksad jo hai na, woh aapka bhi yahi hona chahiye ke aapko shaoor aana chahiye. Society mein rehna kaise hai, deal kaise karna hai logon ke saath. To university mein aaj kal to yeh sikhaya nahi jata. Chalo, agar hum isko yeh dekhein ke yeh cheez to ek side pe rakh do. University ke baad karna kya hai? Aap opportunities, government level pe kya hain? Even ke universities ke apne kya initiatives hain ke students ko koi opportunities jo hai woh provide ki jayein? At least hamare time pe to nahi the. To aapko kya lagta hai ke, like, yeh kis side mein deficiency hai? Kis department ki yeh responsibility ho sakti hai?"
+  },
+  {
+   "start": 420,
+   "text": "Department ki — ab university mein hum log padhne jab jate hain, theek hai? Wahan pe jo normally maine bhi cheezein note ki hain ke ek jo hai student hai, agar woh achha padh gaya hai to uska jo mainly focus kya hoga ke main market mein to baad mein jaoon, lekin usko university se hi, usi department se, usko offers aana start hote hain ke aap idhar hi job kar lo. Theek hai? Woh teaching wali hai yeh. Haan, teacher ban jao. To unko bhi woh aasan lag raha hota hai ke unhone itna padha hota hai, itna achha CGPA maintain kiya hota hai, to woh kehte hain, ji, hum bhi phir idhar hi padhane lag jate hain. Theek hai? Yeh padhane lag jate hain. To even ke jo hamare colleagues the, unke saath bhi aise hua. Ek do the, unhone job start kar di wahan pe. Ab uska market mein koi link nahi hai. Theek hai? Usko pata hi nahi hai ke market mein kya cheez chal rahi hai. To woh aapko kaise guide karega? Even ke woh guide bhi nahi karega. Woh us word ka naam bhi nahi lega. Kyunki agar woh word ka naam lega to woh khud hi phans jayega. Theek hai? Kyunki uske paas reference nahi hoga. Ab mere paas reference nahi hai to main aapko market ki example bhi nahi doonga. Theek hai? Main university tak hi rakhunga."
+  },
+  {
+   "start": 463,
+   "text": "Ab yeh hai ke unmein se kisi ek aadhe student ka koi cousin, koi bhai, koi senior, koi ho jo usko guide kar de ke yaar, market bhi bahut achhi cheez hai. Yeh nahi ke sirf aap, aapne jo padha tha, ab woh usko padhane lag jaoge to aapka knowledge to limited ho gaya na. Jab aap isko market mein jaoge to jo bookish knowledge hai, usko convert kaise karna hai humne development mein, yeh to humein baad mein pata lagta hai. Theek hai? To yeh thoda sa gap hai ke university mein jo bachcha padha hai, woh padhane lag padega. To aapko woh kabhi bhi nahi batayega, na sikhayega. [unclear] ke even ke aapko jo hai padhne ke baad internship karni pade, free karni pade, paise deke karni pade, to usko karna, theek hai. To hamara bhi yahi mindset hai ke yaar, agar aapne internship bhi karni hai na, paise deke karni pade to aap karo, kyunki aap market mein jaoge, seekhoge, kya, then you can apply. Theek hai? Somewhere, aur dekhoge ke kya cheez yeh nahi hai, jaise maine jo book padh liya to mujhe saara kuchh ho gaya. Even ke hum bhi abhi padhte hain, abhi bhi padh rahe hain, koi bhi cheez nahi aati, jisko study karte hain, study karne ke baad deploy karte hain to woh ho nahi rahi hoti, ismein bade hurdles aati hain, to fix karna padta hai. Koi editorial ho gaya, koi nayi cheez ho gayi. To yeh nahi hai ke humne padh liya to saare kaam khud hi ho jayenge. Usko karte-karte bhi pata lagta hai ke yeh nahi ho rahe. Theek hai? To jab hum karenge, market mein jayenge to phir hum aage guide bhi karenge."
+  },
+  {
+   "start": 515,
+   "text": "To kuchh arse ke baad maine yeh suna tha ke, pata nahi, COMSATS ne kya kiya hai ke instead of ke jo students hain, unheen ko aage opportunity dene ke bajaye, woh COMSATS ne yeh kiya hai ke market se jo hai professionals, jis tarah aap ho gaye ho — mera experience ho gaya 10 saal se upar ka, aapka itna hi hai — to professors ko hire kiya hai ke aap aake inko padhao, taaki inko bookish knowledge se baahar nikal ke kaafi cheezein seekhne ko milein. Theek hai? Stuck ke humne jo padh liya hai, usi pe raho, kyunki woh hum padh rahe hain, hamari woh base hai, lekin usko real life mein kaise implement karna hai, that is the main thing. Theek hai?"
+  },
+  {
+   "start": 554,
+   "text": "True, true, true. Maine bhi yeh cheez realise ki, woh jo industry experience hai na, woh totally different hai. Aap bookish, jis tarah aapne baat ki, ke aap bookish ho, 4 saal aapne woh cheez padhi hai. Jab industry mein, professional life mein aake, jab woh apply karte hain to aapko pata chalta hai ke yaar, woh to just woh ek normal, jis tarah humein quizzes, for example, quizzes mein hota hai na ke padhaya kuchh jata hai, quiz mein kuchh aa jata hai. Kuchh to real life mein to yahi hai ke, jab hum hote hain, hamara mindset hota hai, theek hai, hum koi software bana rahe hain, bada achha hai. Humne railway ka system bana liya. Theek hai? Humne book management system bana liya, library management system bana liya. To it's, yeh keh lein ke hum, hamare paas uske liye poore do semester hote hain. Theek hai? Humne uski documentations karni hai, phir development karni hai. Even ke ab agar hum usko dekhein, ya jab humne pass out ho gaye, uske baad ek saal, do saal baad dekhein to aap khud realise kar rahe ho ke yaar, yeh jo humne chhe mahine, saal mein project kiya hai, yeh to maximum mein couple of weeks mein ho jayega. Aur isse koi worth bhi nahi hai."
+  },
+  {
+   "start": 595,
+   "text": "To isliye jab hum interview dene jate hain, hum bade shauq se kehte hain, ji, humne yeh system banaya hai. Woh kehte hain, iske ilawa kuchh banaya, woh dikhao. Aur aapne akele ne kya banaya? To main cheez kya hoti hai ke university mein sikhaya yeh jata hai ke aapne a team hi kaam karna hai, aur bahut achhi cheez hai jo baad mein bhi use hoti hai."
+  },
+  {
+   "start": 638,
+   "text": "Yeh nahi ke hum akele kaam kar lein. Us time to aapko achha lag raha hota hai, main akela kaam kar raha hoon. Lekin yeh positivity bhi hai aur negativity bhi hai aap mein ke aap team ke saath kaam karna nahi seekh rahe. Aap kehte ho, ji, yaar, main something like, main isko matlabi bhi keh sakta hoon, ke maine apna kaam kar liya. Mujhe development aati hai. Maine product bana liya, jo mere saath hai woh, usko main group mein hi na rakhun. Theek hai? To usse better hai ke aap cheezein seekho. Team ko saath lekar chalo. Kaam ko divide karo chunks mein, milestones mein. Kyunki aage bhi isi tarah hi kaam hota hai. Badi company mein jaoge, chhoti company mein jaoge, yeh saari cheezein aise hi chalti hain. Aapko kisi ke saath milke kaam karna padta hai. Someone will work on the documentation, requirements gathering, clients ke saath communication hoti hai, development hoti hai. Theek hai? Phir delivery hoti hai, testing hoti hai. To yeh saari cheezein isi tarah hi chalti hain. Koi bhi akela banda kaam nahi kar sakta aur kabhi bhi akele kaam nahi hua, jab tak aap kisi ko saath lekar nahi chaloge."
+  },
+  {
+   "start": 680,
+   "text": "Theek hai? To yeh to cheezein jo hai, sabse pehle apne mind mein humko daalni padni hain ke maine kisi ko saath lekar chalna hai, to hi kaam hona hai. Kyunki woh wali mindset hai na, ji, main akela galle pe baithunga to, theek hai, main nayi branch nahi bana sakta, wahan pe chori hogi, chori bhi hogi, lekin jab aap kisi ko, matlab ke, kisi ko attach karte ho, theek hai, matlab, again yeh keh sakte hain, risk factor jo hai woh involve to hota hai, risk factor, higher the risk, higher the reward, you can say, reward bhi, aur uske ilawa jab yeh hai ke aap kisi ko attach karte ho saath to definitely risk factor bhi to hota hai, lekin positivity bhi hoti hai usmein, theek hai. Aapka bhi risk badhta hai, aap kisi ka Allah waseela bana raha hai na aapko, theek hai? Aap kisi ke sar pe haath rakh rahe ho, to shayad aapko usi ki wajah se rizq mil raha ho. To yeh saari cheezein hoti hain. Aur yeh nahi ke kai jagahon pe humne cameras bhi lagaye hon to chori phir bhi ho rahi hai, aur cameras na lage hon to chori nahi ho rahi. Haan, nahi, yeh to aise chalta rehta hai. Yeh normal hai."
+  },
+  {
+   "start": 730,
+   "text": "Coming back to the software house thing. Jis tarah yeh hai ke gaadi lena jo hai woh to aasan hai, lekin usko rakhna jo hai woh mushkil hai. To aapko kya lagta hai, like, software house start karna zyada mushkil hai ya usko leke chalna zyada mushkil hai? Start karna to definitely aasan hi hai. Jis tarah aapko pata hai ke gaadi ki chabi mil gayi hai to lagayi hai to one-two-three karenge to gaadi start ho jati hai. Theek hai? Life start hui hai. Then yeh saari cheezein, lekin definitely kisi cheez ko leke chalna aur phir uske upar stick karna, yeh thoda sa mainly hai, ke na ke aap back off kar lo, quit kar do. Har kisi ke paas yeh hota hai ke yeh samajh nahi lag rahi, quit kar dete hain. Gaadi nahi chalani aati thi. Theek hai? Seekhi, ek dafa lagi, do dafa lagi, seekh gayi. Bike nahi aati thi, chalna nahi aata tha. Isi tarah hi tha na, hum chalte gaye, seekhte gaye. Agar aap quit karte jaoge to phir aap baithe rahoge, nahi ji, main chalunga, khada hoon, main gir jaunga. Theek hai?"
+  },
+  {
+   "start": 783,
+   "text": "Kuchh cheezein hain jo ke aap, theek hai, aag ko haath na lagao, usse haath jalega, par yeh nahi hai na ke aap ek do dafa karoge to, theek hai, teesri dafa nahi jalega, woh jalega. Haan, kaam mein, software house start karne mein, koi bhi start karne mein hurdles bhi aati hain, lekin uske andar yeh ke agar aapki motivation hai to definitely you can do anything, theek hai. It doesn't matter ke aapko kaam nahi aata, ya aap kaam seekhoge to yeh kaam hoga. Ab saare, saare seekh ke kaam start nahi karte. Kuchh kehte hain, ji, kaam seekh ke start karna chahiye, aapko loss kam hota hai. Theek hai? Lekin phir risk factor kahan pe gaya? Business mein hai risk factor. Agar aapke paas risk nahi hai to aap kuchh nahi kar sakte. Theek hai? Aapko, ji, mere paas abhi, ab, kai log hain jo sirf ye kehte hain, ji, humein laptop mil jaye, hum apna kaam start kar sakte hain."
+  },
+  {
+   "start": 823,
+   "text": "Aur kaiyon ke paas poore-poore ghar hain, achhe khaase ghar hain, laptop hain, latest har cheez hai, mobile hai, lekin woh YouTube pe videos dekh rahe hain. Theek hai? Karna aapne hi hai. Ab yeh hai ke thoda sa change ho gaya flow iska. Software house yeh hai ke start karna aasan bhi nahi hai aur, kya uska naam hai, mushkil bhi nahi hai. Yeh dono cheezein hain, jo hai, uske baad maintenance jo hai, uski, kisi bhi cheez ki maintenance hai, ya usko leke chalna, running mein, woh main cheez hai. Kyunki jab aap koi kisi cheez ko start karte ho to start hamesha zero se hi hota hai, until ke aapke saath koi partner na ho aapka. Agar partner bhi hoga aapke level par to woh bhi zero pe hi hai. Theek hai? Ya koi experienced senior mil jaye to phir hota hai ke, theek hai, hamare paas clients aa rahe hain, kaam ho raha hai. Lekin jab aap cheezon ko start karte ho to us time aap, like a self-employed hote ho. Theek hai?"
+  },
+  {
+   "start": 867,
+   "text": "Aapne khud hi office open karna hai. Aapne close karna hai. Theek hai? Aapne kisi ko gate pe receive karna hai, chhodne jaana hai, chai bhi deni hai, khana bhi dena hai, safai bhi karni hai. Even ke, even ke aap yeh keh lo ke kisi office boy ko bhi rakh doge na, aur aapke office mein limited si team hai, to aapka major part hota hi hai. Even ke sometime yeh hota hai ke light bhi band ho jayegi na, to office bhai phone kar dega, 'Sir, light nahi chal rahi, motor nahi chal rahi.' Is tarah ki cheezein commonly face karni padti hain. To yeh nahi hai ke office bana liya to ab aap, main CEO, meri taraf koi na aaye. Main baitha hoon, vlog laga diya hai, bas meeting ho gayi to mujhe bulane aaye. Ab khud bhi jaake bade kaam karne padte hain."
+  },
+  {
+   "start": 908,
+   "text": "True. To jab tak aap add-ons nahi karte rehte hain na, yaani ke main CEO hoon, tum mere se peeche, mere baad ya mere se pehle, theek hai, jo maine decisions lene hain, woh kisne lene hain, tab tak aap grow hi nahi kar sakte, theek hai. Agar aapne khud nahi kar rahe to aapko apni replacement mein ek pillar chahiye, centre mein, jo usko leke chale, usko engage kare, queries ko solve kare, woh beshak aap yeh keh lein technical query ho ya phir aapki office boy ki bhi queries hoti hain, different, theek hai, har kisi ki apni queries hoti hain, to aapko basically pillars hi chahiye hote hain ke woh usko leke chale, to then hi ek software house jo hai ya koi bhi business chalta hai."
+  },
+  {
+   "start": 946,
+   "text": "True, true, abhi aapne baat ki partner ki. To aap ko kya lagta hai ke, like, kya kya formalities aap keh lein ke, ya kya prerequisites aap keh lein ke, woh hone chaahie ek partner mein? Let's just say we are going to start a business, ham us mein partners hain, software house for example, woh ho sakta hai. To kya woh cheezein ho sakti hain jo hamein pehle se mind mein rakhni chaahie? Kyunki kaafi incidents maine sune hain ke partners the, kuchh arse baad unban hui, and then phir ladaaiyaan chal rahi hain, phir woh court cases jo hain, woh chal rahe hain ke, yaar nahin, mera itna share tha, mera itna share tha. To aap ko kya lagta hai, like, start se na, kya cheezein defined honi chaahie? Chhoti si baat hai ke, woh ham ne bhi baatein suni hain ke, yeh waise bhi sach bhi hai ke kehte hain ji, sharam sharam nahin hai, lekin waise hai. Ham log kisi se baat karte hue bhi na, yaar agla kya sochega?"
+  },
+  {
+   "start": 987,
+   "text": "Theek hai? Yeh cheezein jo hoti hain na, woh aap ko end mein nuqsaan hi pahunchaati hain. Jo bhi business start karna hai, us ko at least aap kahin likh lo. Jo bhi likhat-padat karni hai, woh achhi baat hai, theek hai. Jab bhi kisi business mein yeh cheez nahin hogi, to business aap ka doobega, theek hai? Woh ek matlab ke ek respect hoti hai. Mujhe aap ki respect hai, to main respect mein woh baat hi nahin karoon ga, maybe woh baat galat ho, theek hai? Ab mujhe pata hai ji, mera partner hai, woh aap achhe ho, kaam kar rahe ho, theek hai, aur aap hafte mein ek din aa rahe ho, theek hai, aur... par mujhe pata hai ke agar yeh hafte mein paanch din aayega, to productivity ki wajah se kaafi ham is ko grow kar sakte hain. Lekin woh nahin aa raha hai. Main is ko keh bhi nahin raha, idhar respect karke, ya mujhe pata hai ke ham as a partnership mein hain. Lekin week jab week..."
+  },
+  {
+   "start": 1031,
+   "text": "End hota hai, ya month end hota hai, ya payroll close hota hai, to us ko achhi khaasi percentage bhi jaani hai. Yeh saari cheezein divide hoti hain. Phir yeh cheezein mind mein aana start ho jaati hain ke nahin ji, main aaj kaam zyaada kar raha hoon, woh kaam kam kar raha hai. To rules predefined hone chaahie. Us ko bhi pata ho ke mera itna major part hai, meri itni percentage hai, theek hai, meri itni effort put hogi, to hai, aur jo bhi hai, is company ke liye hai, theek hai. Agar ham kuchh earn karenge, then we will spend on ourselves. Otherwise yeh hai ke jab aap kahoge ji, mujhe nahin paise bach rahe, yeh nahin ho raha, woh nahin ho raha, to partnership to wahin pe khatam hone start ho jaati hai. Aur partnership wahi hai ke bahut bada kahen jigra chaahie hota hai. Yeh nahin ke sirf ham partners ban jaate hain, do log, chaar log, to kaam start kar lete hain, do laptop le lete hain, aap saamne baith ke main hi baith gaya, main client se baat kar raha hoon, aap development kari ja rahe ho, to is tarah mein hi nahin kaam start hota hai. Badi cheezein face karni padti hain, bear bhi karni padti hain, compromise bhi karna padta hai. Agar aap..."
+  },
+  {
+   "start": 1080,
+   "text": "Mein compromise nahin hai, aap bilkul bhi kisi ki baat ko accept nahin kar sakte ke nahin, jo maine keh diya sahi hai, to woh phir aap hi sahi ho, woh bhi zyaada nahin chalegi. Haan, kyunki software industry mein, I believe ke aap ka 20 saal, 50 saal ka bhi experience ho gaya hai, but you never know ke ek chhota junior developer bhi agar koi cheez keh raha hai, koi baat kar raha hai, to woh bhi sahi ho sakti hai, kyunki woh cheez hi aisi hai. To jab, jaise aap ne baat ki, hausla aur bardasht aap mein agar nahin hai, compromise nahin hai, to phir to aap to us ko jo hai, woh kisi cheez mein rakho, aap kahoge nahin, aap to galat hi keh rahe ho. To aap pehle dekho ge, us ko value karoge. Achha, is ne baat kahi hai, let me verify."
+  },
+  {
+   "start": 1116,
+   "text": "Aap verify karoge, agar woh sahi hai to aap us ko value karoge. Simple, is mein koi woh buri baat bhi nahin hai. Haan, aise hi hai. Definitely you are right. Aap ki us baat se mujhe woh ek baat yaad aa gayi. Aap ne kaha ke in written cheezein honi chaahie. Mere ek senior the, product manager the, basically mere. To unhon ne mujhe ek incident jo hai, woh quote kiya. Woh kehte hain ke na, mera ek dost tha, maine us se na kuchh loan lena tha, like ek time mein, university ke time mein mujhe kuchh zaroorat padi, maine us se loan liya. To us ne kaha ke theek hai, main loan de deta hoon aap ko, lekin yeh ek document hai, yeh aap sign kar dein. To main pehle thoda sa, jo hai na, hesitate hua. Maine kaha yaar, yeh kya, kitni kitni raqam hai, aur woh mujhe keh raha hai ke sign kar do. Khair maine woh document padha. Us document ke upar likha hua tha ke yaar, maine aap ko itne paise diye hain, aap ne mujhe itne paise dene hain, aur us ki koi time limit nahin hai, aap kabhi bhi de do."
+  },
+  {
+   "start": 1159,
+   "text": "Lekin kal ko mujhe kuchh ho jaata hai, to is person ko aap ne paise dene hain. Kal ko aap ko kuchh ho jaaye, to aap yahaan pe us person ka naam de do ke jis ne paise dene hain. To kehte hain mujhe us ki woh baat jo hai na, woh itni achhi lagi ke yaar, ek chhoti si raqam ke liye, woh dekho, proper documentation hai, aur even ke yeh Islam mein bhi hai na... Aise hi hai. Documentation, len-den mein na, aap documentation aap ki honi chaahie. Woh aap ko bhi save kar raha hai, apne aap ko bhi save kar raha hai. Let's suppose aap ke paas bahut paise hain, us ke paas bhi hai, dono ki zaroorat nahin hai, sometimes pad jaati hai, theek hai. Ab Allah na kare kisi ko kuchh ho jaata hai, to woh ab aap ko hi pata hai, second person ko pata hi nahin hai. To hamaara to yeh bhi hai ke Allah na kare koi chala jaata hai, to ham ne us ko udhaar bhi waapis karna hai, agar pata hai to. Agar woh na waapis ho, to theek hai na, ek yeh bhi point hai na ke aap ke behalf pe koi to waapis kare."
+  },
+  {
+   "start": 1200,
+   "text": "To ham ne is ko udhaar bhi waapis karna hai, agar pata hai to. Agar woh na waapis ho, to theek hai na, ek yeh bhi point hai na ke aap ke behalf pe koi to waapis kare. Ham... agar woh kar sakta hai, jo nahin kar sakta, woh to alag baat hai na, woh log to phir maaf kar dete hain, lekin agar aap mein capability hai, aap us ko bear kar sakte ho, aap ke paas funding hai, saara kuchh hai, to aap us ko waapis karo. To aap likh lo, likhne se yeh hota hai ke cheezein remind ho jaati hain, aur kuchh bhi nahin hai, lekin nahin dene se to waise bhi nahin de rahe, lekin it's a good thing ke aap likh lo, is mein beshak woh aap ne jaise marzi dene hain, lekin jab aap ek dafa sign kar lete ho, commit kar lete ho na, to us mein hota hai ke nahin, maine commitment ki hai aur maine jaise marzi is ko poora karna hai, kyunki verbally to aap bhool bhi jaate ho, lekin jab aap ne sign kiya hota hai na, like ham employee se bhi agreement letter sign karwaate hain, theek hai, us mein badi cheezein..."
+  },
+  {
+   "start": 1244,
+   "text": "Ham verbally bhi bata dete hain, woh bhi bata dete hain, lekin jab tak ham likhte nahin hain na, ya un ko written email nahin karte, letter nahin hai, to even ke woh yeh bhi keh dete hain ke itni chhuttiyaan allow nahin hain, yeh itni kyun cut rahi hain, yeh to har ek cheez written hi hoti hai. Increments, everything should be paper. Haan, maine to is tarah ke bhi incidents dekhe hain ke parents ne kisi se loan liya hua hai, theek hai, and then matlab Allah ki raza, parents duniya se chale gaye hain. Baad mein log ghar aate hain, bachhon ke paas aate hain, yaar paise unhon ne dene the, to aap ke paas to koi cheez hi nahin hai, koi document, koi kuchh nahin hai. To at least woh yeh hai ke documentation — har project ko start karne ke liye, commitment ko start karne ke liye, agar koi documentation hi ham kar lein na, to yeh bahut hi beneficial hai. Like agar kisi client ke saath bhi kaam karein, dobara ham apni field mein waapis aa sakte hain ke agar ham client ka kaam kar rahe hain, theek hai, client ka kaam kar rahe hain, us time discussion ho rahi hai, one to one ke client keh raha hai maine yeh karna hai, yeh karna hai, mujhe bhi saara pata hai, main likhta ja raha hoon, apni aasaani ke liye, maine cheezein saari..."
+  },
+  {
+   "start": 1299,
+   "text": "Document kar li, client ko nahin bheji, theek hai. Client ko pata hai ji, mera project start ho gaya. Ham ne $1000, $2000 mein is ko lock kar liya. Kaam start kar diya ham ne, theek hai. After one month ham ne deliver karni hai. Us hi tarah jitni bhi aap ki conversation ho rahi hai na, us mein add-ons bhi honge, wish list bhi hongi. To aap ko karni padengi, aur aap kisi point pe jaa ke us ko yeh nahin keh sakte ke ham... maine tum se baat ki thi, discuss kiya tha, lekin ab yeh cheezein badhti ja rahi hongi. Ham ne is ko commitment nahin na kiya us ke saath ke us ko file bhi nahin share ki ke, theek hai, yeh terms thi, yeh budget lock ho gaya, yeh scope lock ho gaya, yeh time ho gaya, theek hai, aur ab is ke upar maine itna kaam karna hai, baaki jo cheezein hongi, woh out of the scope hongi, theek hai, out of the budget hogi."
+  },
+  {
+   "start": 1336,
+   "text": "Jab aap us ke saath bhi share nahin karte hain, us ko bhi pata hota hai ke kaam ho raha hai, ham... aur har kisi ke beech list hoti hai. Aap us ko yeh bhi nahin keh sakte ke nahin ji, ham kaam kar rahe hain, to ham ne yeh cheezein change nahin karni. To requirements matters a lot ke agar aap requirement share kar do ge, woh bhi padh lega, us ko pata hoga ke main agar koi cheez demand kar raha hoon, to us ne clearly likha hua hai ke extra will be charged, theek hai, aur plus timeline will be increased. To yeh cheezein hoti hain. To phir client bhi thoda shy feel karta hai, sometimes keh bhi dete hain, ham bhi kar dete hain. Lekin yeh nahin hai ke woh lakeer hogi patthar pe to kuchh nahin karna. Margin thoda sa hota hai, lekin kaafi dafa hamaara woh yeh hota hai ke extra kaam karne se bhi yeh hota hai ke bacha deta hai, aur... aur khair yeh to..."
+  },
+  {
+   "start": 1376,
+   "text": "Bhi zyaada important cheez hai ke jaise ke ek employee ne, ek developer ne koi kaam kiya aur us ne documentation nahin ki, ab woh employee chhod ke chala gaya, to woh to matlab ke owner ke liye to aur zyaada mushkil hai na ke documentation hi nahin hai us pe. Haan ji. Software industry ka masla nahin hai. Yeh basically masla na, is mein yeh main kahoon ga ke Pakistan mein, India mein, ya jahaan pe labour kaafi, yeh keh lo ke kam paison mein mil jaati hai, ham log job kar lete hain kyunki hamaare liye dollar aa raha hai, to yahi bahut matter karta hai ke ham dollar mein earn kar rahe hain, beshak woh ham kam hi kam earn kar rahe hote hain, theek hai. To jitne kam paise denge to requirements bhi kam hi hoti hain, theek hai. Aap use zyaada expect bhi nahin kar sakte. Aap software banaate ho, done. Requirements ka aap us ko [unclear]"
+  },
+  {
+   "start": 1423,
+   "text": "Software lete hain, files lete hain, documentation karwate hain, to woh usko complete kar lete hain. Agar woh kisi bahar se kaam karwayenge, USA se karwayenge, Canada se, baaki country se karwayenge, to wahan pe documentation lazmi hai, necessary thing hai, aapne unko deni hi deni hai, theek hai? Aur yahan pe jab woh cheezein low budget mein aap kaam kar rahe hote ho, to woh expect bhi nahin karte, aur hum log bhi nahin karte hain. Phir hum log seekhte bhi nahin hain. Aur jab humare se koi maang leta hai, to humein hota hai yeh to extra kaam hai, theek hai? Humne to test cases bhi nahin likhne. Humne develop kar diya hai, to bas theek hai, testing khud karo, even ke client aap ko pay kar raha hai, why he will test, theek hai, to na woh test karta hai, na woh aap ko design provide karta hai, usne idea aap ko diya, woh paise kharch raha hai, agar aap client ko kaho..."
+  },
+  {
+   "start": 1459,
+   "text": "Kahoge, ji theek hai, aap design mein lekar aao, test bhi karo, to woh aapke saath kaam kyun karega? To ye saari cheezein face karni padti hain, seekhna padta hai, theek hai, agar aapne software house start karna hai... badi cheezein hoti hain, ke ye nahin ke freelancing ka aapko kaam mil gaya hai to saara kuchh ho gaya. Agar hum abhi woh client wali side se baat karein, client hunting ki baat karein, to aapko kya lagta hai ke aaj ke time mein client milna jo hai, woh kitna mushkil hai? Client milna mushkil hai. Aasaan bhi hai, mushkil bhi hai. Kai logon ko to aise hi mil jaate hain. Yani ke main aapke saamne baitha hoon, baat kar raha hoon, koi idea hai to client aa gaya, theek hai? Warna nahin aaya to saal nahin aaye, theek hai? Wahi wali baat hai, commit karo to quit nahin karna chahiye aapko, theek hai? Mehnat karni padti hai. Kisi bhi naye business ko start karne ke liye aapko hurdles aati hain. Ye bhi nahin hai ke first day hi aapko client aa jayega aur hum start kar lenge aur saara kuchh ho jayega. Kaam milne se leke, kaam karne mein aur deliver karne mein badi cheezein aati hain, hurdles aati hain, theek hai? Ye nahin hai ke har cheez smooth chal rahi hai, to phir to kuchh bhi nahin hoga."
+  },
+  {
+   "start": 1513,
+   "text": "Hurdles aati hain, theek hai, ye bhi nahin hoga, aur doosra agar hum platforms ki baat karein ke Pakistan mein abhi kaun-kaun se platforms hain? Matlab usse pehle ek, let jaise ek graduate hai, usne apna software house start karna hai, uske paas kya-kya ways hain client hunt ke? Theek hai? Software house se pehle main yahi kahunga ke usko chahiye ke ekdam to software house start nahin karna chahiye. Agar software house start karna hai to usko phir chahiye ke pehle team ko ikattha kare, theek hai, terms seekhe, har ek cheez ka usko pata ho. Usse behtar hai ke pehle freelancing seekhe, theek hai, freelancing is a main thing, like is a backbone, theek hai. Agar aapko kuchh nahin aata to freelancing to start karo, aapke paas laptop hai, aap usko dekho cheezein kaise develop hoti hain, documentation kya hoti hai, client se baat kaise karni hai, aapko saare kaam aa jaate hain."
+  },
+  {
+   "start": 1561,
+   "text": "Aa jaate hain. Aapko client se baat nahin karni aati, theek hai, aap kehte ho ji main call pe hi nahin aa sakta. Client aapko message karke meeting ke liye bula raha hai, aap uske saath chat pe lage hue ho. Woh jo kaam aapne 5 minute ki call mein kar lena, uske liye aapko kam se kam 3 din lag jaane hain message pe, aur aap usko message sahi tarah convey bhi nahin kar pa rahe, theek hai? Ye cheezein matter karti hain. Aur aap freelancing ya kaam kar kiske liye rahe ho? Aap kar rahe ho bahar walon ke liye. Hum sab ki English achhi nahin hoti, kaiyon ki achhi bhi hoti hai, to aap usko improve kar sakte ho. Jis tarah har cheez nahin start mein aati, aap usko improve karo, client se baat karo, theek hai, aur hesitation khatam hogi, kaam karne mein maza bhi aayega, to definitely aap usko jo..."
+  },
+  {
+   "start": 1603,
+   "text": "Required cheez hai woh deliver bhi karoge, na ke aapko samajh nahin lag rahi aur aap client kuchh kehna chaah raha hai, aap kuchh bana ke de ja rahe ho, at the end loss kiska ho raha hai? Time to aapka loss ho raha hai, lekin aapko wahan se paise nahin milenge, kyunki client ko uske mutabiq cheez nahin mili, to aapke liye double loss hai. Ek to aapka time bhi lag gaya, aapne pura mahina laga diya, phir aapko paise bhi nahin mile, time bhi waste hua, to ye saari cheezein hain. To freelancing start karein, usmein badi cheezein seekhne ko milti hain, aapki communication achhi hoti hai, theek hai, aur uske ilawa ye ke aapko pata lagta hai ke maine Google kaise karna hai, how to... ye how to karna hai na, this is the main thing. Agar aapko how to karna aa jata hai to aap code likhna bhi seekh lete ho, aap cheezon ko find kar lete ho, theek hai, badi cheezein hain. Aur freelancing start karein, then you can start your software house, agar aapko lagta hai ke..."
+  },
+  {
+   "start": 1649,
+   "text": "Main kar sakta hoon, main committed hoon, main freelancing mein maine koi 2-3 saal laga liye, chaar saal, mujhe lag raha hai ke theek hai, main grow kar sakta hoon, main apne saath team leke chal sakta hoon, theek hai, aur clients ko project timely deliver kar sakta hoon, to then you should start your own setup. Platforms ka agar thoda sa... platforms ka yahi hai ke zyada tar jo Pakistan mein chal rahe hain, Pakistan ke ilawa bahar bhi chalte hain, lekin usmein yahi hai ke freelancing ke platforms mein aata hai Freelancer.com hai, Fiverr hai, Upwork hai, aur ismein Toptal bhi hai, kaafi aur bhi platforms hain jo chal rahe hain, lekin ye ke as a beginner jab aapke paas motivation bhi ho, motivation bhi hoti hai, budget nahin hota, to I will recommend ke aap us pe chale jao, Fiverr pe. Fiverr pe jao, aap apni gigs banao, theek hai, usko pyaari si gigs banao, banane ke baad aap easily us par stand kar sakte hain, clients wahan pe aapko khud approach karte hain, instead of ke aap kisi ko approach karo, theek hai, to usmein saari jo game hai na, woh yahi hai ke aapki gigs kitni achhi hain..."
+  },
+  {
+   "start": 1701,
+   "text": "Sakte hain. Clients wahan pe aapko khud approach karte hain, instead of ke aap kisi ko approach karo, theek hai, to usmein saari jo game hai na, woh yahi hai ke aapki gigs kitni achhi hain, theek hai, aapne likha kaise hua hai, present kaise kiya hua hai. Ye baaki, agar aap Upwork pe jaate ho, woh $20 minimum aapko monthly charge karte hain, aur uske ilawa aapko connects milte hain 100, aur per project pe bid karne ke upar aage 15 se 20 connects chale jaate hain, some zyada bhi jaate hain. Phir Freelancer.com bhi achhi site hai, lekin uske upar aapko kaafi active rehna padta hai, theek hai, like agar kisi ne project kiya hai na abhi post, to within a minute uske upar 50 bids aa jaati hain, theek hai? To within a second aapne client ko bid karni hai aur reply karna hai, aur usmein sometimes, zyada tar to yahi hota hai ke 80-90% jo client, jo customer hai ya freelancer hai, aap keh lo, sorry, woh auto-generated bids message kar rahe hote hain."
+  },
+  {
+   "start": 1751,
+   "text": "Rahe hote hain, to usmein competition kaafi zyada hai, lekin kaam milta hai, wahan se bhi awaam kaam le rahi hai, Fiverr se bhi le rahi hai, Upwork se bhi le rahi hai, kuchh log to local market se bhi kaam le rahe hain. Kaam lena aasaan hai, kaam mil jaata hai, kaam karne wale nahin milte, to aapne kaam karne wala banna hai, kyunki jo commitment hai na, woh kaam pakadne ke baad start hoti hai, na ke maine kaam pakad liya aur main usko deliver bhi nahin kar pa raha. Kyunki aaj kal awaam ye kehti hai ke mujhe HTML aa gayi hai, CSS aa gayi hai, to main website bana leta hoon. To HTML CSS ke ilawa bhi badi duniya hai, badi duniya keh raha hoon, kaafi cheezein jo aapko aani chahiye, theek hai? Agar aapko design ki dimensions ka hi nahin pata ke website mein mobile mein kya honi hain, to aap kaise karoge? Aapko ye nahin pata ke ek website hai, uske paanch sections hote hain, chaar hote hain, saat hote hain, theek hai? Aur itna content hona chahiye, itne MB ka ek page hona chahiye, theek hai? To aap to cheez bana ke usko de do ge, lekin woh mobile pe responsive nahin hogi..."
+  },
+  {
+   "start": 1794,
+   "text": "Hain, chaar hote hain, saat hote hain, theek hai, content hona chahiye, itne MB ka ek page hona chahiye, theek hai, to aap to cheez bana ke usko de do ge, lekin woh mobile pe responsive nahin hogi, website pe nahin achhi chalegi, Chrome pe dimensions aur hain, Safari pe aur hain, theek hai, same like mobile application, to sorry, mobile phone ke, un pe bhi aise hi hai, to ye saari cheezein hoti hain, ke jab tak, isliye main 3-4 saal isliye kaha ke har kisi ke liye 3-4 saal nahin hain, jo zyada efficient hai, jo zyada overtime karta hai, ab yahi hai ke ek banda 8 ghante kaam kar raha hai aur ek 16 ghante kaam kar raha hai, to aapke ek ke liye woh ek saal hai aur doosre ke liye woh 6 mahine hai. Ab 6 mahine mein jab woh interview dene jayega to woh aapse bhi zyada pay le raha hoga, aur aapne sirf 8 ghante kaam kiya."
+  },
+  {
+   "start": 1834,
+   "text": "Kyunki aapke paas ek ghanta bhi to, even ke extra ghanta, aapki apni mehnat hai, aur woh daily ka agar extra ghanta ek lagate ho to pure mahine mein woh kam se kam 22 ghante lagte hain, aur 22 ghante humein kisi product pe diye hon to ek achhi khaasi [unclear] teen din ka gap aa jata hai, sir. True, true. To ye cheezein is tarah count karte hain, phir jab hum kaam kar rahe hote hain, saari cheezein ke kaun kitna efficient hai, kaun kaise kaam kar raha hai. So it seems like easier said than done. Jo client expectations hain, agar hum un par thoda sa baat karein, ke let's just say ke ek local client hai aur ek foreign client hai, woh kahin se bhi ho sakta hai, mostly aap obviously jaise aap kaam kar rahe hain to foreign clients ke saath hi kaam kar rahe hain, to unki expectations kya hain agar hum compare karein local clients ke saath?"
+  },
+  {
+   "start": 1875,
+   "text": "Local clients and outside clients, they don't compromise on commitment. If you have committed this thing, I have to deliver it in one week or ten days, then I have to do it. Properly hone chahiye, aapko pata ho ke main jo kaam karne laga hoon aur yeh ho sakta hai, to woh kaam pakdein. Yeh nahi kaam pakad lein aur baad mein aap bhi dhoondte rahein kidhar hai. Yeh cheez nahi hai. Same local bhi hai. Jo banda paise kharch raha hai na, woh usko akal hoti hai. Aap kisi chhoti si example, main aksar deta hoon, ke ek pagal bhi hai na, pagal jo aapko road pe jaata hua nazar aa raha hai. Aap use paise kheencho ge na to woh aapko aage se maarega. Paise nahi dega. Uske yahan se paise ja rahe hain na to usko akal hai. Haan. To jo paise kharch raha hai na, usko akal hoti hai. Woh non-tech bhi hoga to usko akal hogi ke bhai main paise is cheez ke liye de raha hoon aur mujhe yeh cheez chahiye in the return."
+  },
+  {
+   "start": 1919,
+   "text": "Na aage bas paise de raha hoon aur mujhe bata bhi nahi rahe yeh kya cheez milegi aur kab milegi. Mil jayegi lekin kab? Agar aap tailor ke paas jaate ho, tailor kehta hai ji theek hai main kapde see deta hoon, at the end woh nahi seeta, theek hai, ya kab mil jayenge? Aap yeh nahi dekh ke aa jaate ho to aa jaana. Haan, matlab commitment hoti hai, obviously commitment mein hote hain, loop mein rehna padta hai uske saath, theek hai, yeh saari cheezein hoti hain aur aapko clear transparent rehna padta hai client ke saath bhi ke main yeh kaam kar raha hoon. Pakistaniyon ke saath to chal jaata hai ke theek hai kaam na bhi karo, theek hai? Bahar walon ke saath aapko karna hi padta hai. Lekin sometimes, sometimes kya hota hai ke aap jo local clients hain unki expectations jo hai na woh ek to clear nahi hoti, ek define bhi nahi hoti aur unki na hawa mein expectations hoti hain. Just like yeh to yaar obvious cheez hai, yeh to hona chahiye tha, chahiye. But as compared to foreign clients woh ek systemized..."
+  },
+  {
+   "start": 1974,
+   "text": "Way mein woh kaam karte hain, unki saari cheezein woh list down hoti hain. Yeh yeh cheez hai. Aap unko batate ho ke itna time lagega. Wahi wali baat hai ke unki to chalo yeh keh rahe hain ke ek natural language hi hai unki, theek hai, woh English hai, woh padh lete hain, understand kar lete hain. Hamein yahan pe saari cheez Urdu mein, hamein shauq bahut hai ke hum pant coat pehen lein, achhe kapde pehen lein, English newspaper beshak table pe rakh rahe hain lekin padhna nahi hai, theek hai? To jab tak hum padhne ki aadat nahi daalenge, hum vocabulary nahi sahi karenge, theek hai? To hamein bhi aadat nahi padegi. Jab hum padhenge nahi to hum kaise agle se kaam karwa sakte hain ya bata sakte hain. Ab hum idhar local bhi kaam karenge na to budget unka limited hi hoga. Lekin woh keh denge hamein Foodpanda ka clone bana dein. Ab Foodpanda ka clone banane baith jayein na to hamein pata hai ke hamein jo resources hain na kam se kam to..."
+  },
+  {
+   "start": 2020,
+   "text": "...kaafi cost bhi badh jaata hai, yaani ke servers hain, senior developers aayein uske liye aur ek banda nahi kaam karta, multiple resources kaam karte hain, backend ki team, design team, yeh woh saara. To agar kam se kam bhi hum six months bhi kaam kar lein, products nahi banenge to hamara crore se upar ka budget lag jaata hai, theek hai? Aur even ke unke agar Foodpanda ki hum baat karein, unki employees ki strength thi 1000 plus hogi, yeh bhi minimum matlab hoga. Ab hamare paas queries aati hain, ji theek hai humne restaurant start karna hai, aap hamein CRM bana dein. Haan. Ab CRM bhi, CRM kehna aasan hai lekin banane mein kaafi cheezein hoti hain. To ab chhoti chhoti cheezein hoti hain aisi jo karni padti hain. Lekin hamare yahan pe knowledge bahut kam hai, theek hai? Badhte nahi hain. Hamein sirf hota hai ke main paise kharch raha hoon to mujhe yeh cheez mil jaye."
+  },
+  {
+   "start": 2065,
+   "text": "Lekin woh paise kitne kharch raha hoon, na hone ke barabar. Lekin woh hamein nazar aa raha hota hai kyunke hum ek to kaam kar rahe hote hain aur hamein pata hota hai ke iska itna scope hai, iska yeh budget hai aur agar hum usko bahut zyada shrink bhi kar dein na ke 1 lakh wali cheez ka hum 10,000 bhi maang lein na to Pakistaniyon ke saath nahi, yaar, kyunke nazar kuchh nahi aa raha hota na. Hamari cheez aise hum dikha nahi sakte. Aisi cheez banti hai to nazar aati hai ke yaar kaam ho raha hai. Yaar paise lagaye ja raha hoon. Nazar hi kuchh nahi aa raha. Kya bana rahe ho? To yeh cheez aisi baat yeh hai ke thoda sa time lagega. Kaafi growth kar gaye hue hain hum Covid ke baad ke jab pata hi nahi remote kya cheez hai. Online stores kya hote hain? Har kisi ko tha ji maine dukaan nahi kholni hai. Ab awaam kehti hai ji humne dukaan nahi kholni. Humne dukaan physically nahi kholni. Virtual, matlab woh cheezein hongi. Online store hai, woh kholni hai. To bade logon ne grow kiya hai ismein, even ke mere kuchh jaane wale bhi hain, unhone kaafi grow kiya hai. Yaani ke woh ye keh... jahan pe hum baithe hue hain, itni si shop thi aur woh kaafi, kya uska naam hai? Maine kya unke teen-teen chaar-chaar shops hain, outlets hain, Lahore mein hai, Faisalabad mein hai. Unhone grow kiya hai kaafi. Yahin se online business hai. Theek hai? To again baat wahi hai na ke aapko situation ke accordingly apne aap ko mold karna padta hai. Jaise Covid aaya, Covid mein jo wallets the woh kitne jo hai woh in ho gaye, jo digital wallets the kaafi in ho gaye. Sadapay sabse badi example. Unhone matlab ke money transfer ko jo hai na woh easy banaya aur unhone virtual cards jo hai woh introduce kiye, even ke physical card bhi unhone introduce kiye."
+  },
+  {
+   "start": 2105,
+   "text": "Wohi hai na ke hum positive taraf nahi jaate. Ab virtual cards nikle, jaate hain money ko transfer karne ke liye. Wahan se do numberi start ho gayi. Har kisi ko jaise taise udana start ho jata hai. Paise bataye hue nikal jaate hain."
+  },
+  {
+   "start": 2164,
+   "text": "Khair yeh bhi aap keh sakte ho na ke yeh unki innovation hai, jo unke do number ke kaamon mein woh bhi intelligent hai bhai. Woh intelligent hai woh. Chhoti si baat hai, aapko jo cheez chahiye milna wahi hai. Agar aap achhe ki taraf mehnat karoge to achha milega. Achha milega. Bure mein karoge to bura hi milega. Milega aapko lazmi. Yeh nahi ke nahi mil raha. Aap achha kaam karo to aap achha grow karte ho. True. So like if we talk about team management ke aapne ek software house start kar liya, let's just say ab aapne ek team rakhi hai. Ab aap kya advice dena chahenge? Young graduates ko aap keh lein ke team management jo hai woh kitni, aap keh sakte hain effective honi chahiye aur woh effective ho kaise sakti hai?"
+  },
+  {
+   "start": 2204,
+   "text": "Team management ke liye sabse pehle to yeh hai ke aap mein, agar aap khud kaam kar rahe ho na to aap mein skills aa jaati hain ke humne isko manage kaise karna hai. Aap client ke liye manage kar rahe ho to aap definitely agar kisi ko saath engage karte ho na, kisi resource ko, aap usko manage karna seekh lete ho. Sahi. Theek hai? At the end wahi, agar committed, agar aap committed ho, client jo aapka resource hai woh kaam kar raha hai nahi kar raha, aapne kaam deliver karna hi karna hai. To management is the main thing ke aapne isko bhi manage karna hai, usko bhi karna hai. To management agar nahi hai to aap koi bhi kaam nahi kar sakte hain. Kisi bhi cheez mein management nahi hai, beshak woh aapki personal commitment hai, aap koi business start kar rahe ho, aapka koi, yaani yeh keh lein ke..."
+  },
+  {
+   "start": 2242,
+   "text": "...koi budgeting hai, kuchh bhi hai. Management lazmi hai. Management ke baghair aap zero pe ho. Jab aap management start karte ho na, tab cheezein sort out hona start ho jaati hain. Theek hai? Usmein aapko loss bhi hota hai, kuchh start ho jaati hai. Abhi aap kisi resource ko rakh lete ho, aap usko nahi kehte ji aap project aaya, sign kar dein, yaar yeh humne kaam karna, deliver karna hai. Kaam start kar diya. Aapne koi timeline nahi decide ki. [unclear] ne decide kiya. Aapne kaha yaar theek hai humne mahine mein deliver karna hai. Woh laga hua hai, woh time kill kar hi ja raha hai. Usko to mahine mein deliver karna hai. Ho sakta hai woh kaam do hafton wala kaam ho. Theek hai? To jab management hi nahi hai, usko aapne bataya hi nahi hai, humne weekly tasks divide karein, usko check karein to definitely woh cheez usse pehle khatam ho jayegi. To jab management nahi hai to kuchh nahi hai. Humko management karni hi padti hai. Aur yeh bhi nahi hai ke hamare management ki degree hogi to hi hum management karenge. To yeh karna padta hai. Cheezon ko manage karna padta hai. Jis tarah yeh cheezein padi hain, yeh manage ki hui hain to achhi lag rahi hain. Ek ko main aage kar doon to achhi nahi lagegi. To yeh bhi ek management hi hai na. To management har jagah pe hoti hai."
+  },
+  {
+   "start": 2287,
+   "text": "To yeh karna padta hai. Cheezon ko manage karna padta hai. Jis tarah yeh cheezein padi hain, yeh manage ki hui hain to achhi lag rahi hain. Ek ko main aage kar doon to achhi nahi lagegi. To yeh bhi ek management hi hai na. To management har jagah pe hoti hai. Sahi sahi sahi. Chaliye agar hum thoda sa apni discussion ko jo hai woh divert karein AI ki side pe ke AI aane ke baad it's been I believe three four years jab first ChatGPT jo hai woh launch hui thi, I guess 21 mein, 2021 mein, uske aane ke baad kya impact padha hai software houses par?"
+  },
+  {
+   "start": 2325,
+   "text": "Impact yeh padha hai ke hamara jo hai bahut zyada time save bhi hua hai. Jo business logics thi, aap manually leke paper pe baithe rehte the, theek hai ji ek-ek ghanta lag gaya, do ghante lag gaye hain. Ab do developers kaam kar rahe hain to aap yeh keh lein ke aapki logical thinking bahut achhi hai, meri achhi nahi hai, aur jo hamare saath baitha hua hai uski bilkul hi achhi nahi hai ya bahut hi zyada achhi hai. To har koi different different kaam kar raha hai. Time waste ho raha hai, kill ho raha hai, theek hai? To usse better hota hai ke aap AI se likhwa lo aur implement kar lo. Time save hota hai. Yeh hamare liye to bahut hi best hai kyunke hamein kaafi time ho gaya, 10 saal ho gaye kaam kar rahe hain, theek hai? To humne cheezein zero se start ki hui hain, basic. Hamein pata hai ke kaise yeh cheez banti hai aur kaise yeh code likhenge aur kaise ab aage AI ko integrate karta hai, theek hai? Lekin woh log hain jo juniors hain, ab inke daur mein innovation ab aayi hai AI, to woh basic ki taraf ja hi nahi rahe."
+  },
+  {
+   "start": 2367,
+   "text": "Theek hai. Woh direct AI pe aate hain aur kaam karke kehte hain ji ho gaya, theek hai. Agar aap use kahoge karna kaise, unko nahi pata. AI theek hai woh apni jagah pe bhi sahi hai. Definitely AI hai kaam kar rahi hai. Lekin woh cheezein jo hamein required hain woh nahi hoti. Ab ek client hai, meri kuchh din pehle client se meeting ho rahi thi. Meeting ho gayi. Kaam ho gaya, theek hai. Uske baad yeh hai ke uski language change hai. Woh Italy ka tha. Ab woh ChatGPT se translate karke aur ChatGPT apne kuchh cheezein add karta hai, mujhe send kari ja raha hai ke yeh cheezein aise hain, aise hain, theek hai? Ab main usse koi bhi question karta hoon to ChatGPT ka ek bada achha sa ek answer aata hai mujhe, theek hai? Kyunke woh mujhe satisfy kar lega lekin client ko nahi satisfy karega. Jo main reply karunga woh nahi, apni baat pe committed hai, theek hai?"
+  },
+  {
+   "start": 2409,
+   "text": "To ab usko nahi pata ke woh kya cheez required kar raha hai aur main koi bhi cheez ke upar usse baat karoon woh kehta hai ji yeh aise nahi hota, aise hota hai. Even ke Apple account ki ek chhoti si example thi, usmein usne kaafi time hamara waste kiya. To phir thodi der baad maine bhi ChatGPT start kar diya ke chalein time to save karein. Ab woh ChatGPT ki baat bhi samajh raha tha, kyunke proper ek question aa raha tha, har ek cheez ka answer aa raha tha, usko woh cheez samajh lagna start ho gayi. Lekin us dauran ChatGPT jo main chaah raha hoon woh mujhe nahi de raha. Theek hai? Main question bhi likh raha hoon, theek hai? Uska question de raha hoon, model train ho gaya, saara kuchh ho gaya. Lekin uske baad bhi hamein pata hona chahiye ke maine client ko kya bhejna hai aur kya nahi bhejna hai, theek hai? Ab same like ye requirements hain. Hum usko dete hain ke mujhe yeh cheez banani hai. Woh hamein ek draft within seconds..."
+  },
+  {
+   "start": 2455,
+   "text": "Complete karke de deta hai, jo ke waise draft hamein khud se sochne ke liye, banane ke liye hafton lag jaate the. Hum sochte the, samajhte the, drawbacks kya the, yeh saari cheezein kya thi, kyunke usmein hamari apni mehnat kaafi hoti thi, jo hamara past experience hota tha ke hum is kaam ko aise karenge to yeh hoga, isko kar lein, theek hai? Nahi to isko aise kar lein. Ab woh ChatGPT aapko saara de deta hai. Aap questions karte jao aur woh aage se aapko uske answers deta rehta hai. Even ke clients sahab yeh bhi keh dete hain ke copy paste karte hain, frontend ban jata hai aur hamein de dete hain ke ab to peeche kaam hi kuchh nahi raha ke aap isko connect karein aur kaam khatam kar dein. To ab yahi hai ke juniors ka, uska naam, impact honge kaafi, to lekin yeh ke seniors ko to kaafi help mil gayi hai ke aap isko integrate karein aur apna time save karein. Lekin yeh hai ke juniors ke liye masla hoga."
+  },
+  {
+   "start": 2503,
+   "text": "Like in our previous podcast we were discussing about brain usage. Jis tarah abhi aapne baat ki na, jo ek junior resource hai woh direct ChatGPT ya AI use kar raha hai, woh apne mind ko use hi nahi kar raha hai. Kal ko kahin par woh stuck ho jaata hai to usko to pata hi nahi hai yahan se nikalna kaise hai, yeh hua kaise tha, AI ne kaise solve kiya, train kiya tha. Shayad aapko bhi yaad ho, hum log bhi ikatthe kaam karte rahe hain. Hamara ek developer tha, Talha hai. To woh yeh hai ke na, jab humne usko train kiya na, uski approach to bilkul hi different thi. Woh civil engineering kar raha tha, tab humne usko kaha ji aap hamare paas aao, humne usko kaam sikhaya, HTML, CSS, phir Java seekhi usne, phir [unclear] mein chala gaya. To humne usko aadat hi nahi daali thi ke tumne kuchh bhi Google karna hai, tumne khud sochna hai, jitna bhi hoga socho, kyunke hum experienced the, hamara bhi tab chaar-paanch..."
+  },
+  {
+   "start": 2549,
+   "text": "Saal ka experience tha aur woh start kar raha tha, to humne yahi socha ke hum jitna marzi usko bata denge, help ho jayegi iski, to Google tak nahi jaane denge. Aur woh bachcha bada sharp nikla, theek hai, woh train ho gaya. Aur uske baad yeh hai ke woh jab usne apna ek course start kiya, UET se uska admission hua, to uske baad usko wahin pe offer ho gayi ke aap hamare paas aake kaam sikhayen. Theek hai. To yeh hai cheez ke usko uska mind grow kar gaya hua tha, usko pata tha cheezein kaise chal rahi hain, theek hai? Lekin agar aap kisi pe dependent rahoge to phir aap dependent hi rahoge. Ab internet pe, ab ChatGPT pe aa gaye ho. Ab jab humne start kiya tha, tab Stack Overflow tha. Hamein koi bhi question hota tha, wahan pe karte the post. Even ke yeh nahi hai ke wahan se copy kiya aur chal jayega. Wahan pe conversation hoti hai, comments hote hain."
+  },
+  {
+   "start": 2589,
+   "text": "Hum usko bhi read karte the. Phir downvote karna padta tha, vote, phir hum jaake [unclear] chalti thi. Ab ChatGPT se baat karte hain, jo woh kehta hai woh copy paste kar dete hain. Ab yeh nahi pata usmein se do lainein chahiye, 10 chahiye. Bas chalta ja raha hai. To yeh cheezein hain, yeh hamein bhi ab face karni padti hain. Even ke customers bhi baithe hote hain — customer keh, sorry, employees baithe hote hain — to koi bhi wahan pe stuck hue hain to hum keh dete hain ke apne guru se poochh lein, ChatGPT to wahi batayega kyunke woh unko sirf ChatGPT pata hai. Ab kal ChatGPT down ho gaya to woh kaam hi nahi kar rahe hote. Unko yeh nahi pata ke Stack Overflow bhi hai, iski thodi back bhi hai, main documentation padh loon. Koi bhi software launch hota hai, Apple wale launch karte hain, uski documentation hoti hai proper, theek hai? Baat phir udhar hi aa gayi hai, document nahi read kar rahe, software nahi ban pa raha, theek hai? Aur hamari aadat hai ke Pakistan mein sikhaya nahi jaata, padhne se to hamari waise jaan jaati hai. Hum video dekh lenge, hum padhenge nahi."
+  },
+  {
+   "start": 2629,
+   "text": "Nahi ban pa raha, theek hai? Aur hamari aadat hai ke Pakistan mein sikhaya nahi jaata, padhne se to hamari waise jaan jaati hai. Hum video dekh lenge, hum padhenge nahi. Theek hai? To jab padhenge nahi to cheezein, concept clear hi nahi hogi. Hum video dekhte hain. Ab maine ek video banayi hai, hafta laga ke 1 ghante ki video bana li hai. Aur aapne wahi video 1 ghante ki dekhi hai. Woh saara knowledge mere paas tha, maine video bana di. Ab aapne video dekhi 1 ghante mein, jismein se sirf aapko aadhe ghante ki cheezein yaad reh gayi. Baaki to saari cheezein khatm ho gayi. Saara knowledge mere paas hai, jisne video bana di, aur jisne seekhi hai uske paas kuchh nahi aaya, woh bhi limited sa aa gaya. To aap kaise grow karoge jab tak aap padhoge? Padhne mein aapko itni cheezein pata lag jaati hain ke basics, theek hai? Ab aisi aisi awaam hai ke unko pata hota hai ke hum..."
+  },
+  {
+   "start": 2670,
+   "text": "Saara kaam kar rahe hain, unko classes ka nahi idea hota, theek hai? Unko variables nahi pata, ya hamein kaunsa variable declare karna hai, classes ko kaise use karna hai, reuse kyun karna hota hai humne, yeh saari cheezein coding ke basics nahi pata hoti, classes ke naam nahi pata hote, humne variable chhota rakhna hai, bada rakhna hai, variable ka naam kya karna hai? To yeh cheezein to basics padhne se aati hain na. Woh padhne ki taraf jaate nahi hain to phir... to yeh to ek junior developer ke liye jo hai na bahut nuqsandeh AI, agar start karein, agar woh dependent hi sirf AI pe hai, rather than as a helper tool usko use karein. Woh total dependent hi us pe hai."
+  },
+  {
+   "start": 2714,
+   "text": "Ab woh ek chhoti si reel, ek main dekh raha tha. Usmein ek person jo tha woh shopkeeper ke paas aata hai aur shopkeeper ko kehta hai ke hi, how are you? To ab woh ek-do second ke liye aise jo hai still rehta hai. Uske baad na ChatGPT karta hai, someone ask me hi, how are you? ChatGPT usko reply karta hai, say him I am fine, how are you doing? Woh as it is reply usko karta hai. Ab jo next person hai na woh bhi yahi kaam karta hai. Woh bhi ChatGPT karta hai, isne mujhe yeh poochha, ab main kya karoon? To hamara kaam to yeh yahan tak hum pahunch chuke hain wahan. Aise hi hai. Usmein thoda faida yeh bhi hai. Sirf yeh nahi hai ke developer side pe iska faida hua hai. Faida client side pe bhi, client ko bhi hua hai. Hamein zyada ho gaya hai. Haan agar hum client ki baat karein, like ke client ki hum baat karein, client ki expectations kya increase ho gayi hain AI ki wajah se? Expectations bhi increase ho gayi hain. Aur uska faida hamein yeh bhi hua hai ke hamein at least ek clear document is client ke end se mil jaata hai."
+  },
+  {
+   "start": 2756,
+   "text": "Client kya karta hai, hamare paas aane se pehle ChatGPT pe jaata hai, saari cheezein padhta hai, usko samjhaata hai, ek document detail mein hamein bhejta hai aur hamein usko padh ke na badi cheezein aasan ho jaati hain ke client se karna hai, understand karna hai, nahi bhi ho rahi hoti, cheezein kaafi aasan hoti hain, lekin har kisi ka samjhaane ka tareeka different hota hai, to cheezein nahi samajh aa rahi hoti, to ChatGPT se yeh hota hai ke hum bhi ChatGPT se samajh lete hain ke client kya kehna chaah raha hai, theek hai? To ek hamein complete document mil jaata hai, hum usko Word pe paste kar lein, baad mein apne paas save rakh lein. To ismein soorat yeh ho jaati hai, client ne jo hamein pehle teen lainein bataani thi na, woh ab ChatGPT hamein tees laainein bata deta hai."
+  },
+  {
+   "start": 2792,
+   "text": "Toh client ne jo humein pehle teen lines batani thi na, woh ab ChatGPT humein 30 lines bata deta hai, ya woh usi waqt de deta hai humein, aur hamare liye mazeed aasani ho gayi hai ke agar hum client ko pehle kehte the na ke yeh kaam jo hai $2000 ka hai, $5000 ka hai, toh client kehta tha ke nahi yeh toh nahi ho sakta, itne ka kaam, toh hum kehte ab ChatGPT se poochh le. Haan. Toh woh kaam jo hum client ko agar farz karein 5000 bata rahe hain na Pakistan mein reh ke, toh woh jab search karta hai, uski country change hai, US ke hisaab se woh budget le jaata hai [unclear] kyunki usne jo apna working hours hai, uski cost wahan pe 50-70 dollar hai, uske hisaab se bataani hai. Toh thoda sa justifiable ho jaata hai uske liye ke yeh hai, lekin end mein humein budget toh same nahi milta, lekin yeh hai ke requirements mil jaati hain, jismein humein bahut aasani ho jaati hai ke jo requirements document humne baad mein banana hai, samajhna hai, client se meeting karke khud banana hai, woh humein zara bana banaya mil jaata hai."
+  },
+  {
+   "start": 2836,
+   "text": "Phir usmein yeh hai ke hum khud se bhi questions kar lete hain ChatGPT se ke iske liye kya achha platform hai, backend kya scalable hai, nahi hai. Kuch questions hote hain kyunki yeh saari cheezein na AI ne kaafi aasaan kar di hain ke within a few minutes, one hour, two hours mein aap deal bhi mature kar sakte hain, close bhi kar sakte hain. Warna aap ko pehle sawaal sochne padte hain, phir nayi meeting ka wait karna padta hai, client available ho na ho, toh aap documents prepare karo, usko do, questions aate hain, aap wahi client dekho, usmein se kaun sa achha question hai, kaam ka hai, aap usko client ko do, aur deal close kar lo. True, true. So I believe in short phir humein apni basics pe jo hai na waapas jaana padega ek time pe. Matlab AI ka bubble,"
+  },
+  {
+   "start": 2877,
+   "text": "Maybe in future, in coming two, three, or maybe five years, it will burst. Matlab yeh hai ke hamesha cheezein increment ki taraf jaati hain, enhance hi hoti hain, khatam toh nahi hoga, lekin nahi nahi, khatam nahi, main keh raha hoon ke jitna abhi aapne baat ki na, ek junior developer ke liye yeh total AI pe dependent hona jo hai na, yeh uske liye nuqsaan de hai. Total AI pe dependency toh definitely masla toh karegi, lekin yeh hai ke uske saath aap ko chahiye ke khud bhi dekho, padho, understand karo, kyunki AI ko bhi toh knowledge hum logon ne diya hai na, copy base karke, human train kiya hai, data ja raha hai, lekin woh apne aap ko toh train karta raha hai, lekin aap log train nahi ho rahe ho."
+  },
+  {
+   "start": 2915,
+   "text": "Chalo agar hum thoda sa employment opportunities ki baat karein Pakistan mein specifically ke graduation ke baad, aap keh lein ke 16-year education, aap keh lein, uske baad ek graduate ke liye kya-kya opportunities jo hain woh abhi hain Pakistan mein, aur kya honi chahiye? Hamaari field mein, aap chaah rahe ho ke overall, overall aap keh lo, koi bhi graduate aaye toh, like, kya government us level ke upar kaam kar rahi hai, jitne students enroll ho rahe hain universities mein, jitne pass out ho rahe hain, uske accordingly aage jobs hain? Nahi, uske accordingly aage jobs bilkul bhi nahi hain. Aur universities waalon ka definitely unka bhi ek business hai, theek hai? Unhone is business ko chalana hi hai, aur bachhon ne padhna hi hai. Unhone bhi kahin admission lena hi hai. Ab unko bhi nazar aa raha hai ke aage jobs nahi hain, toh woh admission lena toh nahi chhod sakte, unhone bhi toh padhna hi hai."
+  },
+  {
+   "start": 2963,
+   "text": "Ghar baithe-baithe toh padhai nahi honi, theek hai? Woh niklenge, ya toh apna-apna saal zaya karenge. Woh university mein jaate hain, padhte hain, theek hai? Aur at the end yeh ke kuch jobs hi nahi hain aage, toh try karte hain yaar koi. Ab mujhe pata hai ke, let's suppose, mera ek software house hai, jismein main, let's suppose, kehta hoon ji, mere paas 20 log hain, theek hai? Kaam kar rahe hain. Ab 20 hain, toh university mein har semester mein 50 log pass out ho rahe hain ek batch mein, theek hai? Aur yeh sirf ek batch hai. Agar woh ek university chaar batch le ke chal rahi hai, toh aap dekh lein. Aur kaafi universities hain Lahore mein, chaar universities hain, toh agar ek university 200 bachhe nikaal rahi hai, toh chaar 800 bachhe pass out ho raha hai. Aur aage jo saare apply kar rahe hain, aur mere mein capacity 20 ki hai, aur main kisi ek ko hi rakh sakta hoon, do ko rakh sakta hoon. Main yeh toh nahi hai ke main poora batch change kar doon."
+  },
+  {
+   "start": 3006,
+   "text": "Kyunki yeh kursiyan, table toh nahi hain na ke chalo yaar purani ho gayi, le aao nayi. Theek hai? Ek resource hai, woh time laga raha hai, cheezein seekh raha hai, ya humne sikhai hai, toh main sirf intern hi hire kar sakta hoon, kyunki woh jo aa raha hai, woh toh fresh hi hai na, fresh graduate hi hoga. Woh yeh toh nahi hai ke uske paas experience hai teen-teen saal ka, ke jo aadmi hum chalo sochenge replace kar lete hain. Toh bachhe toh pass out hote ja rahe hain, theek hai? Ab jaa ke kuch suna hai ke government keh rahi hai ji hum ab inko laptops de dete hain, courses karwa dete hain, theek hai? Toh woh courses toh waise bhi aap khud bhi kar sakte ho, theek hai? Ke woh government karwa rahi hai, toh government ke..."
+  },
+  {
+   "start": 3044,
+   "text": "Saath paise bhi thode mil rahe hain, toh thoda sa yeh initiative hai, uske alawa toh, haan, yeh yeh toh cheezein hain. Aur jo karwa rahe hain, unko bhi pata hai ke humein wahan se paise mil rahe hain, toh humne inko itna hi knowledge dena hai. Even ke kaafi bade-bade software houses bhi hain, toh even ke main naam nahi loonga. Woh yahi karte hain ke usmein kuch self-branding bhi hoti hai apni, theek hai? Woh after one month ya kuch weeks ki internships karwate hain bas, aur kisi ko hire nahi karte. Achha, just woh ek front face ke upar apni image build karne ke liye sahi ke woh hire nahi karte, theek hai? Woh lagte hain internships karwate hain aur khatam, theek hai? Kaiyon ke government ke saath commitments hain, kai waise karwate hain, theek hai? Toh woh hire nahi karte. So, like, what do you prefer, experience versus junior developer?"
+  },
+  {
+   "start": 3088,
+   "text": "Definitely. Again, again, yeh subjective ho sakta hai, like situation pe dependent ho sakta hai is cheez ka. Aise hi hai, agar toh definitely agar aapka yahi waali baat hai ke jab aap as a start karte ho na, toh tab aapko badi cheezon ka nahi pata hota. Tab har koi kehta hai ji budget se woh paise nahi hain, toh aapko junior ke saath hi kaam karna padta hai, theek hai? Jab aap senior ho jaate ho, toh aapki soch bhi thodi senior waali ho jaati hai ke nahi yaar, mujhe koi aisa resource mile jisko main sirf bataun ke yaar humne yeh applications banani hain, theek hai? Ya iska clone karna hai, toh usko pata hoga yaar, theek hai, yeh ban jayegi, ya maine iske saath designer ko engage karna hai, ya maine backend ko engage karna hai. Backend maine APIs pe le ke jaana hai, Firebase pe le ke jaana hai. Woh khud hi batayega. Woh mere paas sawaal le kar aayega nahi, toh beginner ko toh mujhe haath pakad ke chalana padega. Toh pehle mera budget limited tha, mera scope limited tha, saari cheezein limited mein hoti hain."
+  },
+  {
+   "start": 3133,
+   "text": "Toh jab aap grow karte ho, phir aap prefer karte ho ke hum seniors hi rakhein, senior ke saath hi kaam karein. Maza aata hai kaam karne ka. Unka bhi apna mind hota hai, unki life guzri hoti hai, cheezein face ki hoti hain, theek hai? Badi cheezein seekhne ko milti hain. Toh phir aap kehte ho ji hum seniors ke saath hi kaam karein, aur seniors ka bhi hota hai ke hum matlab achhe achhi organization mein kaam karein. Aap keh sakte hain, juniors, yeh nahi hai ke juniors ke saath kaam nahi karna. Juniors bhi bade achhe juniors hote hain, jinhonne badi, yeh keh lein ke, kaafi hard working ki hoti hai. Woh woh hard working ki hoti hai, woh yeh hai ke during studies internship start kar dete hain, poori growth start ho jaata hai, theek hai? Aur uske baad jab woh pass out hote hain, toh unke paas achha knowledge hota hai. Toh phir hum unko prefer karte hain, beshak woh junior kyun na ho. Lekin woh yeh hai ke unhein hum dekh lete hain ke yeh hard working tha university life se hi."
+  },
+  {
+   "start": 3175,
+   "text": "Uske baad yeh jab pass out hokar aaya hai, toh definitely we prefer ke hum intern ke saath bhi kaam karein, junior ke saath kaam karein. Hum har dafa senior toh nahi hum laga sakte. Toh yeh saari cheezein dekhni padti hain. Chalo, achha, youth ke liye ek message aap ya ek youth jo hai, ek ladka jo hai apna software house start karna chahta hai, maybe woh startup bhi ho sakta hai, koi bhi na, software house na bhi ho, let's say, koi teen steps ya koi si teen advices jo aap dena chahein ke aap yahi cheezein karo, in future mein aap jo hai na, badi mushkilaat se jo hai woh bach sakte ho."
+  },
+  {
+   "start": 3216,
+   "text": "Mushkilaat se bachne ke liye toh yeh hai ke sabse pehle aap apne aap mein skills develop karo, theek hai? Haan, skill, skill main cheez hai, skill, skill develop karo. Aur uske baad yeh hai ke communication, woh laazmi hai aapko aani chahiye, kyunki jab aapko client ke saath baat nahi karni aati, you are not a sales person, theek hai, you are just a developer, aapko kaam aa gaya, aapne munh neeche kiya, karna start ho gaya, aapko communication hi nahi ho rahi, theek hai? Communication is a main thing. Aur commitment, theek hai? Aapne jo commitment ki hai, aapne usko deliver karna hai. You are not working like ke maine subah 8 ghante, 5 ghante kaam kar liya aur main baaki kaam kal dekhunga. Nahi."
+  },
+  {
+   "start": 3254,
+   "text": "Freelancing bhi karni hai, then doesn't matter ke aap 2 ghante kaam kar rahe ho ke 20 ghante kaam kar rahe ho, aapne kaam karna hai, deliver karna hai. Doesn't matter weekend and it's 3 am, so rahe hain, aapne kaam karna hai. Kaam aapko jaagna bhi padega, aapko raat jaagna padega, din mein sona padega, like a security guard, woh raat ko kaam karte hain, theek hai? Kyunki humne kaam US ke saath karna hai, toh yeh teen cheezein hain jo aapko kam se kam mind mein honi chahiye. Skills polish humne karni hain, jitna aap isko polish kar loge, aapko kaafi cheezein clear ho jayengi, theek hai? Ke it's not like sirf mujhe ek language aa gayi hai toh main saare kaam kar sakta hoon, ya mujhe sirf bolna aa gaya hai, main bahut achha rehta hoon, client ke saath dealing kar leta hoon, toh main development bhi kar lunga. Aisa bhi nahi hai. Saare kaam aap kar lete ho, agar aap committed hi nahi ho toh baat khatm ho jaati hai, theek hai? Kyunki do cheezein hain na, ya toh aap committed ho, theek hai? Toh cheezein chalti hain, warna nahi hain."
+  },
+  {
+   "start": 3305,
+   "text": "So skill, communication and commitment, these three are golden advices, we can say. Baaki yeh budget hai, aapke paas paise hain, woh saari cheezein hain. Mere paas bahut zyada paise pade hain, mere paas skills nahi hain, theek hai? Aur main kuch bhi nahi kar pa raha. Main aapko hire karunga, theek hai? Kuch bhi nahi mere se ho raha hai, main aapko hire karunga. Aapke upar bhi paise laga diye. Phir aap sirf development kar rahe ho, toh aapki communication nahi achhi, theek hai? Aap kahoge ji main development kar sakta hoon. Paisa aapne laga liya, yaar communication ke liye banda laao. Ab communication ho rahi hai, toh use sales nahi lock ho rahi, theek hai? Commitment nahi ho rahi. Jo humein le kar chal raha hai, woh committed hi nahi hai. Haan. Jab woh committed hi nahi hai, toh saari cheezein hi mismanage hui hain. True, true. Toh aap hoge toh aap aage bhi sahi le kar chaloge, theek hai?"
+  },
+  {
+   "start": 3348,
+   "text": "Agar aap committed ho, aap aage jo banda rakhoge, woh bhi committed hi ho, theek hai? Aap try karoge, woh bhi waisa hi ho, theek hai? Bilkul. Toh chaliye, agar isko hum wind up karein, toh last question from my side, what is success according to you? According to me, success? Success yahi hai ke aap kisi bhi cheez ko agar aap start karte ho, toh aapko as a committed person usko close laazmi karna chahiye, ya koi bhi commitment ho, beshak aap kisi ke saath kar rahe ho, meri aapke saath commitment thi, main aaunga, toh main aaj aaya hoon, theek hai? Maine yeh bhi kaha, main nahi aana, toh at the end yahi hai ke woh jo commitment hai na, woh jo zubaan hai, woh jo woh saari cheezein hain, jiske saath main success story hai, theek hai? Agar aap committed nahi hain, toh aap kuch bhi nahi kar pa rahe. Yeh hai ek cheez. True. Aur hamaari field mein commitment hi hai, isliye hum commitment ke upar abhi tak hain, ke nahi, commitment nahi hai toh delivery bhi possible nahi hai, start bhi possible nahi hai. Woh sirf bahana hi hai ke achha ji, abhi kar raha hoon, main bahar aaya hoon, koi yeh ho gaya."
+  },
+  {
+   "start": 3406,
+   "text": "Aur Pakistani mein waise aata hai, kisi ko bhi maar dete hain, theek hai? Clients ko kya pata. Toh even ke agar hum kisi ko refer bhi kar dein na, toh yeh bhi, yeh keh lein ke, negativity mein hi aata hai. Abhi kuch din pehle bhi maine kisi ko refer kiya, client ek employee tha, theek hai? Humne usko choose kar liya, ke theek hai, ab job nahi dhoond le, jo bhi hai, toh refer kar diya. Refer karne ke baad yeh hai ke khud hi refer kiya, usne kaam start kar diya, bataya bhi, aise kar lo, yeh woh, saara kaam start ho gaya hai, usko reply nahi kar raha. Even ke client ne net se search kiya, theek hai? Phir woh mere paas aaya, phir usne mujhe call ki ke aapka yeh employer ke paas kaam karta hai. Maine kaha, nahi, ab toh nahi kar raha, issue kya hai? Usne mujhe bataya ke yeh saare masle hain, toh phir maine kaha, chalo, main usse baat karta hoon, kyunki ab refer kiya, uske baad commitment poori ho payi."
+  },
+  {
+   "start": 3453,
+   "text": "Phir woh mujhe keh raha hai ke aap kaam kar dein, toh phir baari hai. So, in short, commitment leads to success, definitely. Chalo, last mein fish jar, ek fish jar question aapke liye, kindly ismein se ek pick karke uska answer kar dein, aur apna ek question ismein likh ke jo hai woh drop kar dein ismein. What are you most proud of being a Pakistani? Hmm. Although yeh bada subjective hai ke being a Pakistani, har koi negative side pe ho jaata hai ke yaar Pakistan mein yeh nahi hai, Pakistan mein woh nahi hai. But agar hum usko thoda positive lein, Pakistan mein bahut opportunities hain, agar aap karna chaaho. Jab aapne, ek chhoti si baat hai, main aksar kehta hoon ke kaam karne ka koi bahana nahi hai, agar nahi karna hai toh 100 bahane hain. Haan. Agar aapne kaam karna hai na, toh main aapke saamne yahan pe,"
+  },
+  {
+   "start": 3507,
+   "text": "Yaani ke gold rakh deta hoon, aap usko bhi nahi bech paaoge. Aur aisi-aisi awaam hai jo, keh lein ke, shop par bech deti hai, aur shop par bech-bech ke ameer ho gayi hai, theek hai? Doesn't matter ke aage heera pada hai, sona pada hai, kaam karna hai. Aandhi hai, toofan hai, main kehta hoon, ji, ab hawa mein main 2 km door nahi ja sakta, baarish ho rahi hai, aandhi aa gayi. Kai log daily Lahore se bahar aate hain, Gujranwala se aate hain, kaam karte hain, and then jaate hain, theek hai? Kaam karna hai, kaam karna hai. Jab nahi karna hai toh kuch nahi karna. Woh phir aap ek kamre se uth ke doosre kamre mein bhi nahi jaoge, yaar nahi dil hi nahi kar raha hai. Jab karna hai toh karna hai, phir koi bahana nahi. Theek hai? Chalo, thank you so much. Pakistan mein bahut si opportunities hain."
+  },
+  {
+   "start": 3552,
+   "text": "Ji ji, please carry on. Pakistan mein bahut opportunities hain kyunki jab hum kaam karte hain bahar walon ke saath toh humein nazar aata hai ke yaar yeh kaafi gap hai, aur main yeh nahi keh raha ke yeh flaw hai. Pakistan mein bahut loopholes hain. Har ek cheez, keh lein ke, in short kharab hai. Aap har kisi, kisi bhi cheez ko pakad lein, aap sahi kar sakte ho. Aap transport le lo, aap khaane-peene ki cheezein le lo, theek hai? Aap delivery le lo. Koi bhi yahan pe aata hai na, woh even ke achha-khaasa earn karke hi jaata hai, theek hai? Aap dekh lo, itne restaurants khul rahe hain. Transport hai, koi bhi nayi, yeh kya uska naam hai, transport ka system aata hai. Badi cheezein hain yahan pe delivery ke liye aa rahi hain. Har koi earn kar raha hai, kama raha hai. Matlab ke yahan pe hain opportunities. Woh avail karni hain, kaise karni hain, nahi karni hain, yeh saara aapke upar. Haan, yeh niyat honi chahiye aapko. Niyat honi chahiye. Opportunities, gaps bahut zyada hain abhi bhi. Ke hum ji bahut badi shop banayi hai, Mall Road pe banayi hai, full bhari ho toh customer aayenge. Aisi-aisi awaam hai ke unke store nahi hain, online beche ja rahe hain. In logon ki example aapke paas hai, export leftover ki hai. Usne kahan send kiya hai, theek hai? Woh keh raha hai, kaafi cheezein hain na, aage woh ji main pehle store banata hoon, phir aata hoon. Phir toh kuch bhi nahi hai na."
+  },
+  {
+   "start": 3597,
+   "text": "Nahi nahi, bilkul aise hi hai. Chalo, Abdullah bhai, thank you so much for giving us some time. So viewers, aaj ki conversation ka sirf ek message tha ke opportunities jo hain woh khatm nahi hui. Sirf unki form jo hai woh change ho gayi hai, through maybe AI, aap keh sakte hain usko. But abhi bhi insaan ki jo soch hai, decision making jo hai, usko koi bhi replace nahi kar sakta. Toh aap apne jo raay hai, uska izhaar jo hai woh comment section mein jo hai woh zaroor kijiyega. Ek graduate ke liye ek startup jo hai woh usko le ke chalna, usko, us startup ko start kaise basically kiya ja sakta hai, aaj ke episode mein humne woh cheezein cover ki hain."
+  },
+  {
+   "start": 3646,
+   "text": "So thank you for staying with us and see you in next episode. Allah Hafiz."
+  }
+ ],
+ "transcript_note": "This transcript was generated automatically with speech-to-text and lightly edited, so some words may be wrong, and passages that could not be made out are marked [unclear]. The first tab shows what is spoken in the video: Urdu written in Roman Urdu, with English kept as spoken. The English tab is a translation of the same transcript. The video is the authoritative version.",
+ "topics": [
+  {
+   "label": "Youth Entrepreneurship",
+   "icon": "business"
+  },
+  {
+   "label": "Software Houses in Pakistan",
+   "icon": "career"
+  },
+  {
+   "label": "Client Hunting",
+   "icon": "stories"
+  },
+  {
+   "label": "AI and Jobs",
+   "icon": "ai"
+  },
+  {
+   "label": "Team Management",
+   "icon": "mindset"
+  },
+  {
+   "label": "Advice for Graduates",
+   "icon": "education"
+  },
+  {
+   "label": "Employment in Pakistan",
+   "icon": "society"
+  }
+ ],
+ "faq": [
+  {
+   "q": "How did Abdullah Sheikh start his software house?",
+   "a": "He studied at COMSATS Lahore in the spring 2011 batch and graduated in 2015. A good job did not come, so he started freelancing, and after two to four years of freelancing he started his own setup from zero. He comes from a Sheikh business family in Lahore, and his father told him he could never do a job."
+  },
+  {
+   "q": "What does Abdullah say about university vs professional life?",
+   "a": "He says bookish knowledge is not enough: what you study for four years is very different from real professional work. COMSATS now hires market professionals with more than ten years of experience to teach, and he says internships, even paid ones, are worth doing, because you only learn by going into the market. University projects like a railway system or a library management system take months at university but only a couple of weeks in real work."
+  },
+  {
+   "q": "What is the difference between local and foreign clients?",
+   "a": "Foreign clients work in a systemized way, with clear lists, requirements and timelines, and they know what they are paying for. Local clients often have unclear and undefined expectations and limited budgets, and there is a knowledge gap: a client who asks for a $2000 to $5000 job will search online and find the same thing for $50 to $70."
+  },
+  {
+   "q": "What are Abdullah's three golden advices for young entrepreneurs?",
+   "a": "Skill, communication and commitment. First develop a skill, then learn communication, because if you cannot talk to a client you are not a salesperson and not a developer either, and finally deliver on your commitment: if you commit to a delivery, you have to deliver, whether you work two hours or twenty."
+  },
+  {
+   "q": "What does Abdullah say about AI and ChatGPT?",
+   "a": "ChatGPT, which launched around 2021, has saved a lot of time on business logic and drafting, and clients now come with ChatGPT-written requirements: three lines from the client become thirty lines from ChatGPT. But juniors who depend on it completely stop learning and cannot debug when they get stuck, so he says use AI as a helper, not as a total dependence, and go back to basics. He also says the AI bubble may burst in two, three or five years."
+  },
+  {
+   "q": "Who is the guest in this episode?",
+   "a": "Abdullah Sheikh, a COMSATS Lahore graduate and founder of Avicenna Enterprise Solutions, a software house with 40-50 employees. He is from Lahore by birth, belongs to a Sheikh business family, started at COMSATS Lahore in spring 2011 and graduated in 2015."
+  }
+ ],
+ "transcript_en": [
+  {
+   "start": 6,
+   "text": "Assalamualaikum everyone, welcome to Muffled Minds, Find Your Clarity. I'm your host, Khawar. Viewers, today's question is very simple, but very heavy. What after a degree? What do most of us do — after the degree, we join a race. Find a job, gain experience, and provide a service. But some people step out of this race. Instead of looking for a job, they focus on creating jobs. AI has arrived, and today's young generation is quite confused — like, what will happen to us after AI comes? And in today's episode, we'll talk about the ground reality of the software industry, and we'll also talk about what steps you could take if you want to create and set up your own software house from zero. And for that reason, we have someone who is basically running a mid-level software house, Mr. Abdullah."
+  },
+  {
+   "start": 53,
+   "text": "Assalamualaikum, Abdullah. Walekum Salam. How are you? Alhamdulillah, fine. So, we have our typical signature person. Muffled Minds, you can say — what are you, and where are you from? I am from Lahore by birth, and I can say, like, I am committed, because without commitment you cannot do anything, or you cannot achieve anything in your future or in your life. And you were born in Lahore, right? Yes, I am from Lahore by birth. We've been from Lahore right from the start. We're living in Lahore, and now it's been quite a long time."
+  },
+  {
+   "start": 94,
+   "text": "We've seen quite a lot in Lahore. I mean, we've even seen the things that used to appear in books — the Mela Shalimar Bagh of Lahore — we've seen that ourselves too. It doesn't happen now, but the older people, we all know that these were quite famous things. Now, obviously, those things have become obsolete, the things that were natural. So, Abdullah bhai, if we start from graduation — where did you graduate from? I graduated from COMSATS Lahore, and which year was that? 2015. It was 2015. It was completed in 2015. I guess my batch started in 2011, in spring, and I completed it in 2015. Nice. So, after the degree, like normally every student has this — every student wishes that we get a job, a good one. Some people's plan is that a very big company hires us, because what happens is, in groups, one good student — he's the good student — gets a good job."
+  },
+  {
+   "start": 146,
+   "text": "The rest of the brothers keep comparing each other, saying, 'If he got 70-80 thousand, we'll get it too.' Hmm. So that was the phase when everyone tries, and that phase comes for everyone. There's the pressure from the family, and everyone themselves is also expecting that I'll go to a good place. So that was the same for everyone — we kept trying for a job. And, but yes, I mean, normally, when I did my degree, during the degree, all the students, colleagues, for example — their thinking was the same, jobs-oriented: 'We'll get this much CGPA, and after getting the CGPA, what will we do? We'll do a job.' Like, in a big software house — let's say, if you're doing software engineering, we'll do a job in a big software house. Nobody had the mindset of starting their own business setup."
+  },
+  {
+   "start": 191,
+   "text": "So how did your mindset form after the degree, because normally your colleagues would be the same as usual? That's right. My background is a bit like this — I belong to the Sheikh family, so everyone in it does business. Yes. So, by birth, I had a bit of business in me — that I have to do business — because my father also used to say that he can't do a job. Right? That it won't work out from this. Right? So my mindset was a bit like, maybe I have to do business. Because I'd also seen the same thing — in our whole family, today we're in the market, or doing the cloth business — so I have to do business. Even if I told someone, 'a shop' — then why go to a shop? I mean, business, right? So this mindset also comes a bit: no, I've studied, I've studied well, so definitely, I'll start a business."
+  },
+  {
+   "start": 235,
+   "text": "But before that, everyone needs a job. Do a job, gain experience, and then you have to start your business. So that's why the business mindset was there. I started the business later, but first we also worked hard so that we get a job, a good job — but we didn't get a job then, so because of that, I started freelancing. Then, right, I mean, don't be disheartened that you're not getting one — fine, there's nothing beyond that; there's freelancing, you can do it, because we're told in university that what you're studying, you have to utilise it somehow. Right?"
+  },
+  {
+   "start": 279,
+   "text": "But let me cut you off a little — in university, our batch, mine was also the 11-15 batch, but I was in a different department, we can say — so there, we were never told at all that, well, you can also go towards freelancing or this side. We had a teacher who told us in the second semester, 'These are the platforms' — Usman Akram is his name, may Allah give him a long life. But at that time, we didn't have much idea, nor did these things have much value. Anyway, he told us, 'This is Freelancer, this is the Freelancer platform, this is Upwork — so sign up here.' We signed up too and then left it. We'll see — it's just the start, we don't know what these things are. Someone started it, someone didn't. Then there was LivePerson, a website where there were only assignments. Right?"
+  },
+  {
+   "start": 322,
+   "text": "After a couple of — let's say — months or a semester passing, we realised, let's start this. Then from there we started doing assignments. Right? Because at that time, we didn't know any work at a professional level. Knowing HTML and CSS doesn't mean we can make very good websites. Right? There, we also need the backend, there's a database, there are other things, the backend needs full support. So then I started with assignments. And that's how we started the career — I was in it, other friends were there too, but gradually, I was carrying it forward stand-alone. Nice, nice. If we talk a little — in the previous podcast too, there was a school owner of ours, he has different chains of schools. We were talking with him, and he also said this: education — let's just say you're doing graduation, you're going to university."
+  },
+  {
+   "start": 365,
+   "text": "Its purpose should never be that in the end, you'll get a job. Its simple purpose — yours should also be this — that you should gain awareness: how to live in society, how to deal with people. That's not taught in universities these days. Anyway, if we look at it like this — put this thing aside for a moment. What to do after university? What are the opportunities at the government level? Even, what are the universities' own initiatives to provide students with opportunities? At least in our time, there weren't any. So what do you think — like, on which side is this deficiency? Which department could this be the responsibility of?"
+  },
+  {
+   "start": 420,
+   "text": "Of the department — now, when we go to university to study, right? What I've normally noticed there is that a student, if he studies well, his main focus would be that I'll go to the market later — but he starts getting offers from the university itself, from the same department, saying, 'Do a job right here.' Right? That's the teaching one. Yes, become a teacher. So it also seems easy to them — they've studied so much, maintained such a good CGPA — so they say, 'We'll also start teaching right here.' Right? They start teaching. And even with our colleagues, the same thing happened. There were one or two who started a job there. Now he has no link with the market. Right? He doesn't even know what's going on in the market. So how will he guide you? He won't even guide you. He won't even name that word. Because if he names the word, he'll get stuck himself. Right? Because he won't have a reference. Now, if I don't have a reference, I won't give you a market example either. Right? I'll keep it limited to the university."
+  },
+  {
+   "start": 463,
+   "text": "Now, it could be that one of those students has a cousin, a brother, a senior — someone who guides him that, look, the market is also a very good thing. It's not that you just start teaching what you studied, and your knowledge becomes limited. When you go into the market, how to convert the bookish knowledge into development — we only find that out later. Right? So there's a bit of a gap: the student who studied in the university will start teaching. So he'll never tell you or teach you. [unclear] — that even after studying, you may have to do an internship, do it for free, or do it by paying — so do it, right? Our mindset is also this: if you have to do an internship, even if you have to pay for it, do it, because you'll go into the market, you'll learn, and then you can apply it. Right? Somewhere, you'll also see what this thing is not — like, I read the book, so I know everything. Even we still study, we're still studying — if something doesn't come to us, we study it, and after studying, when we deploy it, it doesn't work — there are big hurdles in it, so we have to fix it. Some editorial thing happened, or some new thing happened. So it's not that once we've studied, all the work will happen on its own. Even while doing it, you realise that this isn't working. Right? So when we do it, when we go into the market, then we'll guide others too."
+  },
+  {
+   "start": 515,
+   "text": "Then, after some time, I heard that — I don't know — COMSATS did something: instead of giving opportunities to the students themselves, COMSATS did this — they hired professionals from the market, like you've become — my experience is now over 10 years, yours is about the same — as professors, to come and teach them, so that they get to learn many things beyond bookish knowledge. Right? Stuck on what we've studied, stay on that, because that's what we're studying, that's our base — but how to implement it in real life, that is the main thing. Right?"
+  },
+  {
+   "start": 554,
+   "text": "True, true, true. I've also realised this — the industry experience is totally different. You, bookish — like you said, you're bookish — for 4 years you've studied that thing. When you come into the industry, into professional life, and apply it, you realise, 'Oh, it's just like the normal thing we have in quizzes — for example, in quizzes, what's taught is one thing, and what comes in the quiz is something else.' In real life, it's the same: when we're there, our mindset is, 'Okay, we're making a software, that's great. We've made the railway system. Right? We've made the book management system, the library management system.' So, let's say, we have two whole semesters for it. Right? We have to do its documentation, then the development. Even now, if we look at it — or after we passed out, one or two years later — you realise yourself, 'The project we did in six months, a year — that would take a maximum of a couple of weeks.' And it has no worth either."
+  },
+  {
+   "start": 595,
+   "text": "So that's why, when we go for an interview, we proudly say, 'We've made this system.' They say, 'Did you make anything besides this? Show us that. And what did you make alone?' So the main thing is that in university, what's taught is that you have to work as a team — and that's a very good thing, which is also useful later."
+  },
+  {
+   "start": 638,
+   "text": "It's not that we work alone. At that time, you feel good — 'I'm working alone.' But there's both positivity and negativity in you: you're not learning to work with a team. You say, 'Look, I can even call this selfish — I've done my work. I know development. I've made the product, and the one who's with me, I won't even keep him in the group.' Right? So it's better that you learn things. Take the team along with you. Divide the work into chunks, into milestones. Because this is how work happens ahead too. Whether you go to a big company or a small company, all these things work the same way. You have to work together with someone. Someone will work on the documentation, requirements gathering, there's communication with clients, there's development. Right? Then there's delivery, testing. So all these things work exactly like this. No single person can do the work, and work never happened alone, unless you take someone along with you."
+  },
+  {
+   "start": 680,
+   "text": "Right? So these are the things we have to put in our minds first of all — that I have to take someone along with me, only then will the work happen. Because that mindset — 'I'll sit alone at the cash counter, fine, I can't open a new branch, there will be theft there, theft will happen' — but when you attach someone, right, I mean, again you can say, the risk factor is involved, the risk factor — higher the risk, higher the reward, you can say — the reward too. And besides that, when you attach someone with you, then definitely there's a risk factor too, but there's also positivity in it, right? Your risk also increases, and Allah is making you a means for someone, right? You're putting your hand on someone's head, so maybe you're getting rizq because of them. So all these things happen. And it's not that at many places we've installed cameras and theft is still happening, and where cameras aren't installed, theft isn't happening. Yes, no — this just keeps going like this. It's normal."
+  },
+  {
+   "start": 730,
+   "text": "Coming back to the software house thing. It's like this: buying a car is easy, but maintaining it is difficult. So what do you think — like, is starting a software house more difficult, or is running it more difficult? Starting is definitely easy. Like you know, you get the car key, you put it in, you do one-two-three, and the car starts. Right? Life has started. Then all these things — but definitely, carrying something forward and then sticking to it, that's a bit of the main thing — not that you back off, quit. Everyone has this: 'I don't understand it,' and they quit. I didn't know how to drive a car. Right? I learned it — it hit once, it hit twice, I learned. I didn't know how to ride a bike, I didn't know how to walk. It was the same — we kept walking, kept learning. If you keep quitting, then you'll stay sitting — 'No, I'll walk, I'm standing, I'll fall.' Right?"
+  },
+  {
+   "start": 783,
+   "text": "There are some things — like, fine, don't touch fire, your hand will burn — but it's not like if you do it once or twice, fine, the third time it won't burn — it will burn. Yes, in work, in starting a software house, in starting anything, hurdles also come, but in that, if you have the motivation, then definitely you can do anything, right? It doesn't matter whether you don't know the work, or you'll learn the work and then this work will happen. Now, not everyone starts work after learning. Some say, 'You should start work after learning it, your loss will be less.' Right? But then where did the risk factor go? Business has a risk factor. If you don't have risk, you can't do anything. Right? Look, I have, right now, many people who just say, 'If we get a laptop, we can start our work.'"
+  },
+  {
+   "start": 823,
+   "text": "And many people have whole houses, proper houses, laptops, the latest of everything, mobiles — but they're watching videos on YouTube. Right? You have to do it yourself. Now, the flow of this has changed a bit. A software house is like this: starting it is not easy either, and — what's it called — it's not difficult either. Both these things are there, and after that, the maintenance of it — the maintenance of anything, or carrying it forward, keeping it running — that's the main thing. Because when you start something, the start is always from zero, unless you have a partner with you. If there's a partner, at your level, then he's also at zero. Right? Or if you find an experienced senior, then it happens that, fine, clients are coming to us, work is happening. But when you start things, at that time you're, like, self-employed. Right?"
+  },
+  {
+   "start": 867,
+   "text": "You have to open the office yourself. You have to close it. Right? You have to receive someone at the gate, go to drop them off, serve tea too, give food too, do the cleaning too. Even if — even if you say you'll hire an office boy, and you have a limited team in your office — then it's your major part anyway. Even sometimes it happens that the light goes off, and the office bhai will call, 'Sir, the light isn't working, the motor isn't working.' You commonly have to face such things. So it's not that once you've made an office, now you — 'I'm the CEO, nobody should come to me. I'm sitting here, I've put on a vlog, just come and call me when the meeting is done.' Now you have to go yourself and do the big tasks too."
+  },
+  {
+   "start": 908,
+   "text": "True. So until you keep doing add-ons — I mean, 'I'm the CEO, you're behind me, after me or before me, right? The decisions I have to take — who will take them?' — until then, you can't grow at all, right? If you're not doing it yourself, then in your replacement you need a pillar, at the centre, who carries it forward, engages them, solves the queries — whether you call it a technical query, or your office boy also has queries, different ones, right? Everyone has their own queries. So basically, you need pillars who carry it forward — only then does a software house, or any business, run."
+  },
+  {
+   "start": 946,
+   "text": "True, true, you just talked about partners. So what do you think — like, what formalities, shall we say, or what prerequisites, shall we say, should there be in a partner? Let's just say we are going to start a business, we're partners in it — a software house, for example, that could be it. So what are the things we should keep in mind from the start? Because I've heard quite a few incidents where people were partners, then after a while they fell out, and then fights started, and then there are court cases going on, like, no, my share was this much, my share was that much. So what do you think — like, right from the start, what things should be defined? It's a small thing, and we've heard people say this too, that it's actually true as well — they say, look, there's no shame in it, but still. Even when we're talking to someone, you know, what will the other person think?"
+  },
+  {
+   "start": 987,
+   "text": "Right? These are the things that, in the end, only end up harming you. Whatever business you're starting, at least write it down somewhere. Whatever needs to be put in writing, that's a good thing, right? Whenever this thing isn't there in any business, your business will sink, right? There's a kind of respect involved. I respect you, so out of respect I won't even raise that point — maybe that point is wrong, right? Now I know, look, he's my partner, you're doing good work, right, and you're coming one day a week, right, and... but I know that if he came five days a week, then because of productivity we could grow this a lot. But he's not coming. And I'm not even telling him, out of respect here, or because I know we're in a partnership. But when the week..."
+  },
+  {
+   "start": 1031,
+   "text": "...ends, or the month ends, or the payroll closes, then a pretty decent percentage still goes to him. All these things get divided. Then these things start coming to mind — no, look, today I'm doing more work, he's doing less work. So the rules should be predefined. He should also know that this much is my major part, this is my percentage, right, this much effort will be put in, and whatever it is, it's for this company, right? If we earn something, then we will spend on ourselves. Otherwise, when you say, look, I'm not saving any money, this isn't happening, that isn't happening, then the partnership starts ending right there. And partnership is exactly that — you need a really big heart, so to speak. It's not just that we become partners, two people, four people, and start work, take two laptops, you sit in front of me and I sit down, I'm talking to the client, you're doing development — that's not how work starts. You have to face big things, you have to bear them too, you have to compromise too. If you..."
+  },
+  {
+   "start": 1080,
+   "text": "If there's no compromise in you, you can't accept anyone's point at all — no, whatever I said is right — then you alone are right, and that won't last long either. Yes, because in the software industry, I believe that even if you have 20 years, 50 years of experience, but you never know, even a small junior developer, if he's saying something, talking about something, that could also be right, because the thing itself is like that. So when, as you said, if there's no patience and tolerance in you, no compromise, then you'll just box him into something, you'll say, no, you're just saying it wrong. So first you'll look at it, you'll value it. Okay, he said something, let me verify."
+  },
+  {
+   "start": 1116,
+   "text": "You'll verify it, and if it's right, you'll value it. Simple, there's nothing bad in that at all. Yes, that's exactly it. Definitely you are right. That point of yours reminded me of something. You said things should be in written form. I had a senior, a product manager, basically mine. So he quoted an incident to me. He says, look, I had a friend, I had to take a loan from him — like, at one time, during university, I needed something, so I took a loan from him. So he said, fine, I'll give you the loan, but this is a document, please sign it. So at first I hesitated a bit. I said, man, what is this, it's such a small amount, and he's telling me to sign it. Anyway, I read the document. Written on that document was, look, I've given you this much money, you have to give me this much money, and there's no time limit on it, you can give it back whenever."
+  },
+  {
+   "start": 1159,
+   "text": "But if something happens to me tomorrow, then you have to pay this person. If something happens to you tomorrow, then write the name of that person here who has to pay the money. So he says, I liked that thing of his so much — look, for such a small amount, there's proper documentation, and even in Islam this is there, isn't it... Exactly. Documentation — in transactions, your documentation should be there. It's saving you too, and saving himself too. Let's suppose you have a lot of money, he has it too, neither of you needs it, sometimes the need does arise, right? Now, God forbid, something happens to someone, then only you know about it, the second person doesn't know at all. So we also have this, that God forbid, if someone passes away, we have to return the loan too, if we know about it. If it doesn't get returned, then fine, there's also this point, that someone should return it on your behalf."
+  },
+  {
+   "start": 1200,
+   "text": "So we have to return the loan too, if we know about it. If it doesn't get returned, then fine, there's also this point, that someone should return it on your behalf. We... if he can do it — the one who can't, that's a different matter, those people then forgive it — but if you have the capability, you can bear it, you have the funding, everything, then return it to him. So write it down; writing it down means things get reminded, and nothing else, but if you don't give it, you're not giving it anyway — but it's a good thing that you write it down. In this, however you want to give it, that's fine, but once you sign, once you commit, then there's this in it — no, I've made a commitment and I have to fulfil it however I can, because verbally you forget too, but when you have signed it, like we also get employees to sign an agreement letter, right, in that there are big things..."
+  },
+  {
+   "start": 1244,
+   "text": "We tell them verbally too, we tell them that too, but until we write it down, or send them a written email, there's no letter, then they even say things like, these many holidays aren't allowed, why are these being deducted — every single thing is written down. Increments, everything should be on paper. Yes, I've even seen incidents like this, where parents had taken a loan from someone, right, and then, I mean, by Allah's will, the parents passed away from this world. Later, people come to the house, they come to the children, saying, look, they had to pay this money — and you have nothing at all, no document, nothing. So at least this is it — documentation. To start any project, to start a commitment, if we just do some documentation, that's very beneficial. Like, even if we're working with a client, coming back to our own field, if we're doing a client's work, right, we're doing a client's work, at that time there's a discussion, one to one, the client is saying, I want this done, I want this done, I know everything too, I keep writing it down, for my own ease, I've documented all the things..."
+  },
+  {
+   "start": 1299,
+   "text": "I've documented them, but I didn't send them to the client, right? The client knows, look, my project has started. We locked it in for $1000, $2000. We started the work, right? After one month we have to deliver it. In the same way, however much conversation you're having, there will be add-ons in it too, wish lists too. So you'll have to do them, and at some point you can't tell him that, look, I talked to you about this, I discussed it, but now these things keep growing. We didn't commit to it with him, we didn't even share the file with him saying, right, these were the terms, this budget was locked, this scope was locked, this was the timeline, right, and now I have to do this much work on it, the rest of the things will be out of the scope, right, out of the budget."
+  },
+  {
+   "start": 1336,
+   "text": "When you don't share it with him either, he also knows the work is happening, we... and there's a list between everyone. You can't even tell him, no, look, we're doing the work, so we're not going to change these things. So requirements matter a lot — if you share the requirement, he'll read it too, he'll know that if I'm demanding something, he has clearly written that extra will be charged, right, and plus the timeline will be increased. So these are the things. Then the client also feels a bit shy, sometimes they do say it, we do it too. But it's not that it's set in stone and nothing is to be done. There's a small margin, but many times what happens with us is that doing extra work also saves us, and... and anyway, this is..."
+  },
+  {
+   "start": 1376,
+   "text": "It's an even more important thing in the industry — let's just say an employee, a developer, did some work and he didn't document it, now that employee has left, so that is, I mean, even more difficult for the owner, because there's no documentation on it at all. Yes. It's not a software industry problem. This is basically a problem, in this I'd say that in Pakistan, in India, or wherever labour is available, let's say, for little money, we take the job because dollars are coming in for us, so this is what matters a lot, that we're earning in dollars, even though we're earning very little, right? So the less money you pay, the fewer the requirements, right? You can't expect much more from him either. You build the software, done. Requirements — [unclear]"
+  },
+  {
+   "start": 1423,
+   "text": "They take the software from us, they take the files, they get the documentation done, so they can complete it. If they get work done from outside — from the USA, from Canada, from other countries — then documentation is essential there, it is a necessary thing, you have to give it to them, no matter what, theek hai? And here, when you are working on low-budget things, they do not expect it either, and neither do we. Then we do not learn either. And when someone asks us for it, we feel this is extra work, theek hai? We have not even written the test cases. We have developed it, so that is it, do the testing yourself — even though the client is paying you, why will he test? Theek hai? So neither does he test it, nor does he provide you the design. He gave you the idea, he is spending the money — if you tell the client..."
+  },
+  {
+   "start": 1459,
+   "text": "You will say, ji, theek hai, bring the design yourself, do the testing too — then why would he work with you? So you have to face all these things, you have to learn, theek hai, if you want to start a software house... there are big things involved — it is not that once you get freelancing work, everything is done. If we talk from the client side now, if we talk about client hunting, what do you think — how difficult is it to find a client in today's time? Finding a client is difficult. It is easy too, and difficult too. Some people get them just like that. Like, I am sitting in front of you, talking — if there is an idea, the client has come, theek hai? Otherwise, if he did not come, he will not come for a year, theek hai? It is the same thing — commit, and you should not quit, theek hai? You have to work hard. To start any new business, you face hurdles. It is not that on the very first day a client will come to you and we will start and everything will happen. From getting the work, to doing the work, to delivering it — big things come up, hurdles come up, theek hai? It is not that everything is running smoothly, otherwise nothing would happen."
+  },
+  {
+   "start": 1513,
+   "text": "Hurdles come up, theek hai, and it will not be that easy either. And secondly, if we talk about platforms — which platforms are there in Pakistan right now? I mean, before that, take an example: a graduate who wants to start his own software house — what ways does he have to hunt clients? Theek hai? Before a software house, I would say he should not start a software house all at once. If he wants to start a software house, then he should first gather a team, theek hai, learn the terms, he should know everything. Better than that, he should first learn freelancing, theek hai? Freelancing is a main thing, like, it is a backbone, theek hai. If you do not know anything, then start freelancing. You have a laptop. Look at it — how are things developed? What is documentation? How do you talk to a client? You learn all the work."
+  },
+  {
+   "start": 1561,
+   "text": "You learn all the work. You do not even know how to talk to a client, theek hai? You say, ji, I cannot even come on a call. The client messages you, inviting you to a meeting, and you are stuck chatting with him. The work you could have done in a 5-minute call will take you at least 3 days over messages, and you cannot even convey your message to him properly, theek hai? These things matter. And freelancing — who are you working for? You are working for people abroad. Not all of us have good English — some do have good English — so you can improve it. Just like not everything comes at the start, improve it, talk to the client, theek hai, and the hesitation will go away, working will be fun too, so definitely you will give him what..."
+  },
+  {
+   "start": 1603,
+   "text": "The required thing is what you will deliver — not that you do not understand, and the client is trying to say one thing while you keep building something else. At the end, whose loss is it? Your time is being lost, but you will not get paid from there either, because the client did not get what he wanted, so it is a double loss for you. One, your time was spent — you spent a whole month on it — and then you did not get paid either, and your time was wasted too, so these are all the things. So start freelancing. You get to learn big things in it, your communication improves, theek hai? And besides that, you learn how to Google — how to... this 'how to' thing, this is the main thing. If you learn how to do it, you also learn to write code, you learn to find things, theek hai? These are big things. And start freelancing, then you can start your software house, if you feel that..."
+  },
+  {
+   "start": 1649,
+   "text": "...I can do it, I am committed, I have spent 2-3 years in freelancing, 4 years, and I feel, theek hai, I can grow, I can take a team along with me, theek hai, and I can deliver projects to clients on time — then you should start your own setup. About platforms, briefly: platforms are mostly the ones running in Pakistan — they run outside Pakistan too — but among freelancing platforms there is Freelancer.com, there is Fiverr, Upwork, and there is Toptal too, and quite a few other platforms running. But as a beginner, when you are motivated, you have motivation but no budget, then I will recommend that you go for it — go to Fiverr. Go to Fiverr, make your gigs, theek hai, make nice gigs. After making them, you can easily stand on it. Clients there approach you themselves, instead of you approaching someone, theek hai? So the whole game in it is this: how good your gigs are..."
+  },
+  {
+   "start": 1701,
+   "text": "...you can. Clients there approach you themselves, instead of you approaching someone, theek hai? So the whole game in it is this: how good your gigs are, theek hai? How have you written it, how have you presented it? Apart from that, if you go to Upwork, they charge you a minimum of $20 monthly, and besides that you get 100 connects, and bidding on a project takes 15 to 20 connects, some take even more. Then Freelancer.com is also a good site, but you have to stay quite active on it, theek hai? Like, if someone has just posted a project, within a minute 50 bids come in on it, theek hai? So within a second you have to bid to the client and reply, and in that, sometimes — mostly — what happens is that 80-90% of the clients, the customers, or the freelancers, you could say — sorry — they are sending auto-generated bid messages."
+  },
+  {
+   "start": 1751,
+   "text": "...they keep sending, so the competition is quite high there, but work is found — people are getting work from there too, from Fiverr too, from Upwork too, and some people are getting work from the local market too. Getting work is easy, work is found, but people who do the work are not found, so you have to become someone who does the work — because the commitment starts after you take the work, not that I have taken the work and I cannot even deliver it. Because nowadays people say, 'I have learned HTML, I have learned CSS, so I can make a website.' But beyond HTML and CSS there is a big world — I am saying a big world — there are many things you should know, theek hai? If you do not even know the design dimensions, what they should be on mobile for a website, how will you do it? You do not know that a website has five sections, four, seven, theek hai? And how much content there should be, how many MB a page should be, theek hai? So you will make the thing and give it to him, but it will not be responsive on mobile..."
+  },
+  {
+   "start": 1794,
+   "text": "...there are four, seven, theek hai, there should be this much content, a page should be this many MB, theek hai? So you will make the thing and give it to him, but it will not be responsive on mobile, it will not run well on the website, the dimensions on Chrome are different, on Safari they are different, theek hai? Same like mobile applications — sorry, mobile phones — it is the same on them too. So these are all the things — that is why I said 3-4 years, because it is not 3-4 years for everyone. Someone who is more efficient, who does more overtime — now, one person is working 8 hours and another is working 16 hours, so for one of them it is one year, and for the other it is six months. Now, when he goes for an interview in six months, he will be getting more pay than you, and you have only worked 8 hours."
+  },
+  {
+   "start": 1834,
+   "text": "Because you do not even have an extra hour. Even that extra hour is your own hard work, and if you put in one extra hour daily, then in a whole month that is at least 22 hours, and if you have given those 22 hours to a product, then a good amount of work [unclear] — a three-day gap comes in, sir. True, true. So we count these things like this. Then, when we are working, all these things — who is how efficient, who is working how. So it seems like easier said than done. The client expectations — if we talk a little about them, let us just say there is a local client and a foreign client, he could be from anywhere, mostly, obviously, the way you are working, you are working with foreign clients, so what are their expectations, if we compare them with local clients?"
+  },
+  {
+   "start": 1875,
+   "text": "Local clients and foreign clients don't compromise on commitment. If you've committed to something — that I have to deliver it in one week or ten days — then you have to do it. Things should be done properly; you should know that the work I'm about to take on is actually doable, so take on that work. Not that you take on a job and then keep looking around for where it went. That's not how it works. It's the same with local clients. Whoever is spending money has sense. Let me give you a small example I often give: even a madman you see walking on the road — if you snatch his money, he'll hit you back. He won't give you the money. Money is going out of his pocket, so he has sense. Yes. So whoever is spending money has sense. Even if he's non-tech, he'll have the sense that, brother, I'm paying money for this thing and I want this thing in return."
+  },
+  {
+   "start": 1919,
+   "text": "It's not that I'm just handing over money and you're not even telling me what I'll get and when I'll get it. It will come, but when? If you go to a tailor, the tailor says, yes, fine, I'll stitch the clothes, but at the end he doesn't stitch them — fine — or when will I get them? You don't just leave it there and come back whenever. Yes, I mean, there's commitment; obviously, you're in a commitment, you have to stay in the loop with them, right — all these things happen, and you have to stay clear and transparent with the client too, that I'm doing this work. With Pakistanis it works out that, fine, even if you don't do the work, fine. With people abroad, you have to do it. But sometimes, sometimes what happens is that with local clients, their expectations are, first of all, not clear, not even defined, and their expectations are up in the air. Just like, this is an obvious thing, yaar, this should have been there. But as compared to foreign clients, they work in a systemized..."
+  },
+  {
+   "start": 1974,
+   "text": "...way, all their things are listed down. This is this thing. You tell them how much time it will take. The same old point — well, theirs is, let's say, their own natural language; fine, it's English, they read it, they understand it. Here, everything for us is in Urdu; we're very fond of wearing a pant coat, wearing nice clothes, we'll happily keep an English newspaper on the table but we won't read it, right? So until we build the habit of reading, we won't fix our vocabulary, right? Then we won't build the habit either. If we don't read, how can we get work done from the next person or explain things to them? Now, if we do local work here, their budget will be limited anyway. But they'll say, make us a Foodpanda clone. Now if we sit down to build a Foodpanda clone, we know that the resources we need, at the very least..."
+  },
+  {
+   "start": 2020,
+   "text": "...the cost goes up quite a lot too — I mean, there are servers, senior developers are needed for it, and it's not one person working, multiple resources work on it: the backend team, the design team, all of that. So even if we work for at least six months, the products won't be built, and our budget goes above a crore, right? And even if we talk about Foodpanda, their employees' strength must have been 1000 plus — and that's a minimum, I mean. Now queries come to us: yes, fine, we want to start a restaurant, make us a CRM. Yes. Now a CRM too — saying CRM is easy, but building it involves a lot of things. There are little things like that which have to be done. But here, our knowledge is very limited, right? We don't grow. All we think is, I'm spending money, so I should get this thing."
+  },
+  {
+   "start": 2065,
+   "text": "But how much money am I spending — next to nothing. But we can see it, because we're doing the work and we know its scope is this much, its budget is this, and even if we shrink it a lot — ask for 10,000 for a thing worth 1 lakh — Pakistanis still won't go along with us, yaar, because nothing is visible. We can't show our thing like that. When a thing like this is being built, it should be visible that, yaar, work is happening. Yaar, I'm putting money in. Nothing is visible at all. What are you building? So the thing is, it takes a bit of time. We've grown a lot after Covid, when nobody even knew what remote was. What are online stores? Everyone used to say, I don't want to open a shop. Now people say, we don't want to open a shop. We don't want to open a shop physically. Virtual — I mean, those things will be there. There's an online store, that's what we want to open. Big people have grown in this, even some people I know have grown a lot. I mean, they say... right where we're sitting, it was such a small shop, and now, what's it called... I mean, they have three-four shops each, outlets in Lahore, in Faisalabad. They've grown a lot. It's online business from right here. Right? So again, the point is the same, that you have to mold yourself according to the situation. Like Covid came, and in Covid the wallets that were there, so many of them came in, the digital wallets came in a lot. Sadapay is the biggest example. I mean, they made money transfer easy, and they introduced virtual cards, even physical cards they introduced."
+  },
+  {
+   "start": 2105,
+   "text": "It's the same thing, that we don't go towards the positive side. Now virtual cards have come out, they go for transferring money. From there, fraud started. Everyone starts spending it however they can. Money just slips away."
+  },
+  {
+   "start": 2164,
+   "text": "Well, you could also say that this is their innovation — that even in their dodgy dealings, they're intelligent, brother. They're intelligent. The small point is, whatever thing you want, that's what you'll get. If you work hard towards the good, you'll get good. You'll get good. If you do it in the bad, you'll get bad. You will get it, for sure. It's not that you're not getting it. If you do good work, you grow well. True. So like, if we talk about team management — say you've started a software house, let's just say now you've kept a team. What advice would you like to give? To young graduates, let's say, how effective should team management be, you could say, and how can it be effective?"
+  },
+  {
+   "start": 2204,
+   "text": "For team management, first of all, it's that in you — if you're working yourself, you develop the skills of how to manage this. If you're managing for a client, then definitely, if you engage someone with you, a resource, you learn to manage them. Right. Okay? At the end, it's the same: if committed, if you're committed, whether your resource, the client, is working or not, you have to deliver the work, no matter what. So management is the main thing — you have to manage this one too, and that one too. If there's no management, you can't do any work at all. There's no management in anything — whether it's your personal commitment, you're starting a business, or you have, I mean, let's say..."
+  },
+  {
+   "start": 2242,
+   "text": "...some budgeting, anything. Management is essential. Without management, you're at zero. When you start management, things start getting sorted out. Right? In that, you also face loss, some things start. Say you hire a resource, you don't tell them, 'A project has come, sign it, yaar, this is the work we have to do, we have to deliver it.' You've started the work. You didn't decide any timeline. [unclear] decided it. You said, yaar, fine, we have to deliver in a month. He's working on it, he's just killing time. He has to deliver in a month. It could be that it's a two-week job. Right? So when there's no management, you never told them — we should divide weekly tasks, check them — then definitely that thing would finish before that. So when there's no management, there's nothing. We have to do management. And it's not that only if we have a management degree will we do management. You have to do this. You have to manage things. Like these things lying here — they're managed, so they look good. If I move one forward, it won't look good. So this is also a management, right? Management is everywhere."
+  },
+  {
+   "start": 2287,
+   "text": "You have to do this. You have to manage things. Like these things lying here — they're managed, so they look good. If I move one forward, it won't look good. So this is also a management, right? Management is everywhere. Right, right, right. Let's divert our discussion a little towards the AI side — since AI came, it's been, I believe, three, four years, when the first ChatGPT was launched, I guess in '21, in 2021 — after it came, what impact has it had on software houses?"
+  },
+  {
+   "start": 2325,
+   "text": "The impact is that a lot of our time has been saved too. The business logics — you used to sit manually with paper, right, an hour went by, two hours went by. Now two developers are working, so you could say your logical thinking is very good, mine is not good, and the one sitting with us, his is not good at all or very, very good. So everyone is doing different work. Time is being wasted, killed, right? So it's better than that to get it written by AI and implement it. Time is saved. For us, this is the very best, because it's been a long time for us — 10 years we've been working, right? So we've started things from zero, the basics. We know how this thing is built and how this code will be written and how to integrate AI going forward, right? But those people who are juniors — now in their era, the innovation of AI has come, so they're not going towards the basics at all."
+  },
+  {
+   "start": 2367,
+   "text": "Right. They come straight to AI and after doing the work say, yes, it's done, right. If you ask them how to do it, they don't know. AI is fine, it's right in its own place. Definitely, AI is working. But the things we require aren't there. Now, there's a client — a few days ago I was having a meeting with a client. The meeting happened. The work was done, right. After that, the thing is, his language is different. He was from Italy. Now he translates through ChatGPT, and ChatGPT adds some of its own things, and keeps sending me that these things are like this, like this, right? Now, whenever I ask him any question, a very nice answer from ChatGPT comes to me, right? Because it will satisfy me, but it won't satisfy the client. What I reply won't — he's committed to his own point, right?"
+  },
+  {
+   "start": 2409,
+   "text": "So now he doesn't know what he's requiring, and whenever I talk to him about anything, he says, no, it's not like this, it's like this. Even the Apple account was a small example — he wasted a lot of our time on it. So after a while, I also started ChatGPT, thinking, let's at least save time. Now he was understanding ChatGPT's point too, because a proper question was coming, an answer to everything was coming, he started understanding that thing. But during that, ChatGPT wasn't giving me what I wanted. Right? I'm writing the question too, right? I'm giving him the question, the model got trained, everything happened. But even after that, we should know what I have to send the client and what I don't have to send, right? Now, same like, these are the requirements. We give them to it, that I have to build this thing. It gives us a draft within seconds..."
+  },
+  {
+   "start": 2455,
+   "text": "...complete. Whereas otherwise, those drafts used to take us weeks to think up and build ourselves. We used to think, understand — what were the drawbacks, what were all these things — because there was a lot of our own hard work in it, our past experience that if we do this work like this, this will happen, let's do this, right? Or else let's do it like this. Now ChatGPT gives you everything. You keep asking questions and it keeps giving you the answers. Even the clients, sir, say this too — that they copy-paste, the frontend gets built, and they give it to us, saying now there's nothing left to do at the back, just connect it and finish the work. So now it's like, the juniors' — what's it called — impact will be quite a lot, but seniors have gotten a lot of help, that you integrate it and save your time. But for juniors, it will be a problem."
+  },
+  {
+   "start": 2503,
+   "text": "Like, in our previous podcast we were discussing about brain usage. Like you just said, a junior resource who is directly using ChatGPT or AI is not using his mind at all. Tomorrow, if he gets stuck somewhere, he won't even know how to get out of it, how this happened, how AI solved it, how it was trained. Maybe you remember too — we used to work together. We had a developer, Talha. So the thing is, when we trained him, his approach was totally different. He was doing civil engineering; then we told him, come to us, we taught him the work — HTML, CSS, then he learned Java, then he went into [unclear]. We never got him into the habit that you have to Google anything; you have to think yourself, think as much as you can, because we were experienced, and we also had four-five..."
+  },
+  {
+   "start": 2549,
+   "text": "...years of experience, and he was starting out, so we thought we'd tell him as much as we wanted, he'd get help, and we wouldn't let him go to Google at all. And that boy turned out to be very sharp, right, he got trained. And after that, when he started a course, he got admission in UET, and then he got an offer there itself, that come and teach at our place. Right. So the thing is, his mind had grown, he knew how things were running, right? But if you stay dependent on someone, then you'll stay dependent. Now we've come to the internet, now to ChatGPT. When we started, there was Stack Overflow. Whenever we had a question, we'd post it there. Even so, it's not that you copy from there and it works. There's conversation there, there are comments."
+  },
+  {
+   "start": 2589,
+   "text": "We used to read those too. Then you had to downvote, vote, then we'd go and [unclear] ran. Now we talk to ChatGPT, whatever it says, we copy-paste it. Now we don't know whether we need two lines from it or ten. It just keeps going. So these are the things, we have to face them now too. Even customers are sitting there — I mean customers, sorry, employees are sitting there — so if anyone gets stuck there, we tell them to ask their guru, ChatGPT will tell them, because all they know is ChatGPT. Now if ChatGPT goes down tomorrow, they're not working at all. They don't know that Stack Overflow exists too, that it has a bit of a back too, that I should read the documentation. Whenever any software launches — Apple launches it — it has proper documentation, right? The point comes back to the same thing: they're not reading the document, the software isn't getting built, right? And it's our habit that in Pakistan, it's not taught — reading, well, it takes our life. We'll watch a video, we won't read."
+  },
+  {
+   "start": 2629,
+   "text": "It's not getting built, right? And it's our habit that in Pakistan, it's not taught — reading, well, it takes our life. We'll watch a video, we won't read. Right? So if we don't read, things, the concept won't be clear at all. We watch videos. Now, I've made a video — it took me a week to make a 1-hour video. And you've watched that same 1-hour video. All that knowledge was with me, I made the video. Now you watched the video in an hour, out of which you only remember half an hour's worth of things. The rest is all gone. All the knowledge is with me, who made the video, and the one who learned it got nothing — what he got was limited too. So how will you grow until you read? In reading, you learn so many things, like the basics, right? Now there are such people that they think we..."
+  },
+  {
+   "start": 2670,
+   "text": "...are doing all the work, they have no idea about classes, right? They don't know variables, or which variable to declare, how to use classes, why we have to reuse them — they don't know all these coding basics, they don't know class names, whether we should keep a variable small or big, what to name a variable. These things come from reading the basics, right? They don't go towards reading, so then... so this is very harmful for a junior developer, if we start AI, if he's dependent only on AI, rather than using it as a helper tool. He's totally dependent on it."
+  },
+  {
+   "start": 2714,
+   "text": "Now, there was a small reel I was watching. In it, a person comes to a shopkeeper and says to the shopkeeper, 'Hi, how are you?' So now he stays still like that for a second or two. After that, he does ChatGPT: 'Someone ask me hi, how are you?' ChatGPT replies to him, 'Say him I am fine, how are you doing?' He replies to him as it is. Now the next person does the same thing. He also does ChatGPT: 'He asked me this, now what should I do?' So our work has reached this point. That's how it is. There's a small benefit in it too. It's not only that the developer side has benefited from it. The client side has benefited too, the client has benefited too. We've benefited more. Yes, if we talk about the client, like, if we talk about the client, have the client's expectations increased because of AI? Expectations have increased too. And we've benefited from it too, in that we at least get a clear document from the client's end."
+  },
+  {
+   "start": 2756,
+   "text": "What the client does is, before coming to us, he goes to ChatGPT, reads everything, explains it to it, and sends us a document in detail, and after reading it, many things become easy for us — that we have to talk to the client, understand it; sometimes it's not happening either, things are quite easy, but everyone's way of explaining is different, so things aren't understood, so with ChatGPT it happens that we also understand through ChatGPT what the client is trying to say, right? So we get a complete document, we paste it on Word, keep it saved with us for later. So the situation becomes that what the client had to tell us in three lines earlier, ChatGPT now tells us in thirty lines."
+  },
+  {
+   "start": 2792,
+   "text": "So what the client used to tell us in three lines, ChatGPT now tells us in 30 lines, or gives it to us right away, and it has made things even easier for us. If we used to tell the client this work costs $2,000 or $5,000, the client would say, no, that can't be, a job for that much, so we'd say, now ask ChatGPT. Yes. So suppose we quote the client 5,000 while sitting in Pakistan; when he searches, his country is different, and by US standards he takes the budget to [unclear], because his working hours cost 50-70 dollars there, and that's the rate we have to quote. So it becomes a little justifiable for him, but in the end we don't get the same budget. What we do get is the requirements, which makes it much easier for us, because the requirements document that we would have had to make later, after understanding it and meeting the client and making it ourselves, we now get more or less ready-made."
+  },
+  {
+   "start": 2836,
+   "text": "Then there's this too, that we ourselves also ask ChatGPT questions, like what's a good platform for this, is the backend scalable or not. There are some questions, because AI has made all these things quite easy, that within a few minutes, one hour, two hours, you can mature a deal and close it too. Otherwise, first you'd have to think of questions, then wait for a new meeting, whether the client is available or not, then you prepare documents, give them to him, questions come up, you look at the same client, which of these is a good question, a useful one, you give it to the client, and close the deal. True, true. So I believe, in short, at some point we'll have to go back to our basics. I mean, the AI bubble,"
+  },
+  {
+   "start": 2877,
+   "text": "Maybe in future, in the coming two, three, or maybe five years, it will burst. I mean, things always move towards increment, they only get enhanced, they won't end, but no, no, they won't end; what I'm saying is, whatever you just said, for a junior developer, being totally dependent on AI is harmful for him. Total dependency on AI will definitely create a problem, but alongside it you should also look yourself, read, understand, because AI too got its knowledge from us humans, didn't it, we trained it on a copy base, data keeps going in, but it keeps training itself, while you people are not getting trained."
+  },
+  {
+   "start": 2915,
+   "text": "Let's talk a little about employment opportunities in Pakistan specifically, after graduation, let's say after 16 years of education, what opportunities are there right now in Pakistan for a graduate, and what should there be? In our field, or are you asking overall, overall, let's say any graduate comes, like, is the government working at that level, given how many students are enrolling in universities, how many are passing out, are there jobs ahead accordingly? No, there are absolutely no jobs ahead accordingly. And for the universities, definitely, it's a business for them too, okay? They have to run this business, and children have to study. They too have to take admission somewhere. Now they can also see that there are no jobs ahead, but they can't stop taking admission, they too have to study."
+  },
+  {
+   "start": 2963,
+   "text": "You can't study sitting at home, okay? They'll go out, or else they'll waste their own years. They go to university, they study, okay? And in the end, there are no jobs ahead, so they try, yaar, whatever. Now I know, let's suppose, I have a software house, in which, let's suppose, I say, I have 20 people, okay? Working. Now there are 20, and in the university every semester 50 people pass out in one batch, okay? And this is just one batch. If one university is running four batches, then you can see. And there are quite a few universities in Lahore, four universities, so if one university is producing 200 students, then four are passing out 800 students. And ahead, everyone is applying, and my capacity is 20, and I can only hire one person, or two. It's not like I can change the whole batch."
+  },
+  {
+   "start": 3006,
+   "text": "Because these aren't chairs and tables, right, that you say, chalo yaar, the old ones are worn out, bring new ones. Okay? A resource is investing time, learning things, or we have taught him, so I can only hire an intern, because the one coming in is fresh, right, he'll be a fresh graduate. It's not like he has three years of experience that we'd think, chalo, let's replace that person. So students keep passing out, okay? Now I've heard something that the government is saying, we'll give them laptops now, we'll get them courses done, okay? But you can do those courses yourself anyway, okay? That the government is getting them done, so the government..."
+  },
+  {
+   "start": 3044,
+   "text": "Along with it some money is also coming, so this is a bit of an initiative, apart from that, yes, these are the things. And those who are running them also know that we're getting money from there, so we only have to give them this much knowledge. Even quite big software houses do this, even, I won't name names. They do the same, that there's some self-branding of their own in it, okay? They run internships after one month or a few weeks, that's it, and they don't hire anyone. Okay, just to build their image on the front face, that they don't hire, okay? They keep running internships and that's it, okay? Many have commitments with the government, many do it otherwise, okay? So they don't hire. So, like, what do you prefer, experience versus junior developer?"
+  },
+  {
+   "start": 3088,
+   "text": "Definitely. Again, again, this can be subjective, like it can depend on the situation. That's how it is, definitely, if it's the same thing, that when you start as a start, you don't know the big things then. Then everyone says, ji, the budget, the money isn't there, so you have to work with a junior, okay? When you become senior, your thinking also becomes a bit senior-like, that no yaar, I want a resource whom I just tell, yaar, we have to build these applications, okay? Or we have to clone this, so he'll know, yaar, okay, this can be built, or I have to engage a designer with him, or I have to engage the backend. I have to take the backend to APIs, to Firebase. He'll tell me himself. He won't come to me with questions, otherwise I'd have to hold a beginner's hand and walk him along. So earlier my budget was limited, my scope was limited, everything was within limits."
+  },
+  {
+   "start": 3133,
+   "text": "So when you grow, then you prefer to keep only seniors, to work only with seniors. It's fun working. They also have their own mind, they've lived their life, they've faced things, okay? You get to learn big things. So then you say, ji, let's work only with seniors, and seniors also feel that we should work in a good, good organization. You can say, juniors, it's not that you shouldn't work with juniors. There are also very good juniors who have done a lot of, let's say, hard working. That hard working is that during studies they start internships, their full growth starts, okay? And after that when they pass out, they have good knowledge. So then we prefer them, even if they're juniors. But it's that we see that he was hard working since university life itself."
+  },
+  {
+   "start": 3175,
+   "text": "After that, when he has come out after passing out, then definitely we prefer to work with interns too, to work with juniors. We can't hire a senior every time. So all these things have to be looked at. Chalo, okay, one message for the youth, or a young person, a boy who wants to start his own software house, maybe it could be a startup, anyone, it doesn't even have to be a software house, let's say, any three steps or any three pieces of advice you'd like to give, that do these things, so that in the future you can save yourself from big difficulties."
+  },
+  {
+   "start": 3216,
+   "text": "To avoid difficulties, first of all, develop skills in yourself, okay? Yes, skill, skill is the main thing, develop skill. And after that, communication, that is essential, you must know it, because when you don't know how to talk to the client, you are not a sales person, okay, you are just a developer, work came to you, you put your head down, you started doing it, you're not communicating at all, okay? Communication is a main thing. And commitment, okay? Whatever commitment you made, you have to deliver it. You are not working like, I worked 8 hours, 5 hours in the morning and I'll look at the rest of the work tomorrow. No."
+  },
+  {
+   "start": 3254,
+   "text": "You also have to do freelancing, then it doesn't matter whether you're working 2 hours or 20 hours, you have to do the work, deliver it. Doesn't matter, weekend, and it's 3 am, people are sleeping, you have to do the work. Work will make you stay awake, you'll have to stay up at night, sleep during the day, like a security guard, they work at night, okay? Because we have to work with the US, so these are the three things you should at least keep in mind. We have to polish skills, the more you polish them, the more things will become clear to you, okay? It's not like just because I know one language I can do all the work, or just because I know how to speak, I'm very good, I can deal with the client, so I can also do development. That's not how it is either. You can do all the work, but if you're not committed at all, then the matter ends, okay? Because there are two things, either you're committed, okay? Then things move, otherwise they don't."
+  },
+  {
+   "start": 3305,
+   "text": "So skill, communication and commitment, these three are golden advices, we can say. The rest, budget, you have money, all those things. I have a lot of money lying around, I don't have skills, okay? And I can't do anything. I'll hire you, okay? Nothing is happening from my side, I'll hire you. I've spent money on you too. Then you're only doing development, so your communication isn't good, okay? You'll say, ji, I can do development. You've spent the money, yaar, bring someone for communication. Now communication is happening, but sales aren't getting locked from it, okay? Commitment isn't happening. The one who's leading us isn't committed at all. Yes. When he's not committed at all, then everything is mismanaged. True, true. So if you are like that, you'll take things forward correctly too, okay?"
+  },
+  {
+   "start": 3348,
+   "text": "If you're committed, the person you hire next will also be committed, okay? You'll try, he'll also be the same, okay? Absolutely. So chalo, if we wind this up, then the last question from my side: what is success according to you? According to me, success? Success is this: if you start anything, then as a committed person you must close it, or whatever commitment it is, even if you're making it with someone, my commitment with you was that I'll come, so I came today, okay? I also said, I'm not coming, so at the end, it's that commitment, that word, all those things, with which is the main success story, okay? If you're not committed, then you can't do anything. That's one thing. True. And in our field, commitment is everything, that's why we're still standing on commitment, that no, if there's no commitment then delivery is also not possible, start is also not possible. It's just an excuse, that okay ji, I'm doing it right now, I went out, something happened."
+  },
+  {
+   "start": 3406,
+   "text": "And in Pakistan, it just comes like this, they badmouth anyone, okay? What would the clients know. So even if we refer someone, that too, let's say, falls into negativity. Just a few days ago I referred someone, the client was an employee, okay? We chose him, that okay, now find a job, whatever it is, so we referred him. After referring, it's that I referred him myself, he started the work, told him too, do it like this, this and that, all the work started, and he's not replying to him. Even the client searched on the net, okay? Then he came to me, then he called me, saying your person works with this employer. I said, no, he's not working now, what's the issue? He told me these are all the problems, so then I said, chalo, I'll talk to him, because now that I referred him, after that the commitment could be fulfilled."
+  },
+  {
+   "start": 3453,
+   "text": "Then he's telling me, you do the work, so then it's my turn. So, in short, commitment leads to success, definitely. Chalo, lastly, the fish jar, a fish jar question for you, kindly pick one from it and answer it, and write one question of your own in it and drop it in. What are you most proud of being a Pakistani? Hmm. Although this is very subjective, that being a Pakistani, everyone goes to the negative side, that yaar, Pakistan doesn't have this, Pakistan doesn't have that. But if we take it a little positively, there are many opportunities in Pakistan, if you want to do something. When you, it's a small thing, I often say that there's no excuse for working; if you don't want to work, there are 100 excuses. Yes. If you want to work, then I'll put, yaani ke, gold in front of you here,"
+  },
+  {
+   "start": 3507,
+   "text": "Yaani ke, I put gold in front of you, and you still won't be able to sell it. And there are such people who, let's say, sell it at a shop, and selling at a shop they've become rich, okay? Doesn't matter that ahead there's a diamond lying, gold lying, you have to work. There's a storm, a hurricane, I say, ji, now in this wind I can't go 2 km away, it's raining, a storm has come. Many people daily come from outside Lahore, come from Gujranwala, work, and then go, okay? You have to work, you have to work. When you don't want to work, then you do nothing. Then you won't even get up from one room and go to the other room, yaar, I just don't feel like it. When you have to do it, you have to do it, then there's no excuse. Okay? Chalo, thank you so much. There are many opportunities in Pakistan."
+  },
+  {
+   "start": 3552,
+   "text": "Yes yes, please carry on. There are many opportunities in Pakistan, because when we work with people from outside, we see that yaar, there's quite a gap, and I'm not saying this is a flaw. There are many loopholes in Pakistan. Every single thing, let's say, in short, is bad. You pick up anything, anyone, you can fix it. Take transport, take food and drink items, okay? Take delivery. Anyone who comes here, even he goes back earning quite well, okay? Just look, so many restaurants are opening. Transport, any new, what's it called, a transport system comes. Big things are coming here for delivery. Everyone is earning, making money. Meaning there are opportunities here. You have to avail them, how to do it, whether to do it or not, that's all up to you. Yes, you need to have the intention. You need to have the intention. Opportunities, gaps are still very many. That we made a very big shop, made it on Mall Road, if it's fully stocked then customers will come. There are such people who don't have stores, they're selling online. You have the example of these people, of export leftovers. Where did he send it, okay? He's saying, there are many things, ahead he says, ji, first I'll make a store, then I'll come. Then there's nothing, right?"
+  },
+  {
+   "start": 3597,
+   "text": "No no, absolutely, that's exactly how it is. Chalo, Abdullah bhai, thank you so much for giving us some time. So viewers, today's conversation had just one message: that opportunities have not ended. Only their form has changed, through maybe AI, you can call it that. But still, a human's thinking, decision making, no one can replace that. So please do express your opinion in the comment section. For a graduate, running a startup, how to basically start that startup, in today's episode we covered those things."
+  },
+  {
+   "start": 3646,
+   "text": "So thank you for staying with us, and see you in the next episode. Allah Hafiz."
+  }
+ ]
+}
