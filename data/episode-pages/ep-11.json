@@ -1,0 +1,928 @@
+{
+ "id": "S8AHd1xpOTI",
+ "series": "podcast",
+ "label": "EP #11",
+ "title": "Real vs Reel Charity | Footprints of Impact",
+ "seo_title": "Real vs Reel Charity | Footprints of Impact | EP #11 | Muffled Minds",
+ "seo_description": "Muhammad Adeel Javed, founder and CEO of Pakistan Citizens Alliance, on real vs reel charity, zakat, floods and what success really means.",
+ "keywords": [
+  "Muhammad Adeel Javed",
+  "Pakistan Citizens Alliance",
+  "PCA",
+  "Real vs Reel Charity",
+  "NGO Pakistan",
+  "Charity Pakistan",
+  "Social Work",
+  "Youth Empowerment",
+  "Muffled Minds",
+  "Pakistani Podcast",
+  "Urdu podcast",
+  "Flood Relief"
+ ],
+ "date": "2025-11-15",
+ "duration": 3568,
+ "guest": {
+  "name": "Muhammad Adeel Javed",
+  "role": "Founder and CEO of Pakistan Citizens Alliance · Social Impact Strategist",
+  "bio": [
+   "Muhammad Adeel Javed is the founder and CEO of Pakistan Citizens Alliance (PCA), a social impact strategist, humanitarian and educator who has spent 15+ years uplifting communities through education, youth empowerment, fundraising and disaster relief. He was born in Faisalabad and has lived in Lahore for the last 23-24 years.",
+   "PCA is a registered organisation with bank accounts, tax exemption and a Charity Commission certificate, working across four domains: the Education Support Program, the Volunteer Development Program, the Disaster Management Program and the Community Development Program. Its two schools teach around 550 students, its Volunteer Flagship Training Program has trained more than 2,000 volunteers in 50 batches, and its Isar Store gives subsidised rations to needy families at up to 45 percent off."
+  ],
+  "links": [
+   {
+    "label": "Instagram",
+    "url": "https://www.instagram.com/majavedofficial/"
+   },
+   {
+    "label": "Pakistan Citizens Alliance",
+    "url": "https://www.instagram.com/pca_welfare/"
+   },
+   {
+    "label": "Full Muffled Minds Podcast series",
+    "url": "https://www.youtube.com/playlist?list=PLGwxKscM0gb04P3OGD_oVpbESOYBWZee4"
+   }
+  ]
+ },
+ "summary": [
+  "In Episode 11 of Muffled Minds, host Khawar Shahzad sits down with Muhammad Adeel Javed, founder and CEO of Pakistan Citizens Alliance (PCA), a social impact strategist and humanitarian who has spent 15+ years in education, youth empowerment, fundraising and disaster relief. The episode opens with the question that frames the whole conversation: am I living a life that matters, or just a life that looks good? Adeel lost his father when he was four months old and his mother to cancer when he was twelve, and his mother taught him to always be at the giving end, a lesson that became the purpose behind PCA.",
+  "The conversation takes on the difference between real and reel charity: flood-relief packages whose promotion cost more than the items inside them, officials who want their photos on hand pumps, and donations that never reach the needy. Adeel explains what an NGO actually is, how PCA works across its four domains, why he tells donors to give only to registered organisations and always take a receipt, and how zakat should be used, given to one person in full, so that next year he is no longer a zakat receiver.",
+  "The discussion then turns to Gen Z and parents: mental health talk that has become buzzwords, the missing middle path of the ummat-e-wasat, and why parents are never listened to. Adeel tells the story of the Volunteer Flagship Training Program, the Volunteerathon on International Volunteer Day, the scholarship boy whose parents ran a small food stall and who graduated from LUMS, and the Isar Store renamed after his friend Hashim Raza, who died of cancer at 19. He closes by defining success as living with purpose, creating impact and leaving a legacy, before the Fish Jar quick-fire round on whether Pakistan can ever meet foreign standards."
+ ],
+ "we_discuss": [
+  "Real vs reel charity: flood packages whose promotion cost more than the items",
+  "What an NGO actually is and how it operates",
+  "Pain or purpose: losing his father at four months and his mother at twelve",
+  "Gen Z, parents and mental health: buzzwords, boundaries and the middle path",
+  "The Volunteer Flagship Training Program and the Volunteerathon",
+  "Floods, the Ravi and the blame game: who is really responsible",
+  "How to tell a real NGO from a fake one: registration, receipts and bank accounts",
+  "Zakat: how to give it so the receiver stops needing it next year"
+ ],
+ "takeaways": [
+  "Success is living your life with purpose, creating impact and living a legacy.",
+  "Always be at the giving end, never at the taking end.",
+  "Everyone lives for themselves, but the purpose of life is to be of use to others.",
+  "Give zakat to a person who will not be a zakat receiver next year.",
+  "Give only to a registered organisation, and always take a receipt.",
+  "Depression and anxiety happen to everyone; accept that first, then talk.",
+  "Charisma is personal power, not position power.",
+  "Hopelessness is a form of shirk: never lose hope, even when the system will not change."
+ ],
+ "chapters": [
+  {
+   "start": 0,
+   "end": 133,
+   "title": "Highlights"
+  },
+  {
+   "start": 133,
+   "end": 236,
+   "title": "Real vs Reel impact?"
+  },
+  {
+   "start": 236,
+   "end": 512,
+   "title": "Reason behind Pakistan Citizens Alliance"
+  },
+  {
+   "start": 512,
+   "end": 1703,
+   "title": "Issues b/w Gen-Z & Parents"
+  },
+  {
+   "start": 1703,
+   "end": 1877,
+   "title": "Training impact on Youth"
+  },
+  {
+   "start": 1877,
+   "end": 2619,
+   "title": "Flood disaster & gov promotion"
+  },
+  {
+   "start": 2619,
+   "end": 2813,
+   "title": "Pakistan Citizens Alliance work"
+  },
+  {
+   "start": 2813,
+   "end": 3227,
+   "title": "Which NGO is legit?"
+  },
+  {
+   "start": 3227,
+   "end": 3446,
+   "title": "What is success?"
+  },
+  {
+   "start": 3446,
+   "end": 3568,
+   "title": "Fish Jar Q/A"
+  }
+ ],
+ "transcript": [
+  {
+   "start": 0,
+   "text": "Do we want to change lives or just be seen as life changers? Aapne apne maa-baap ko, apne parents ko, aapke apne siblings ko na, bas woh paanch buzz words bol ke, aapke to you don't know, you don't know, yeh ho, phalaana, mere saath yeh ho raha hai. Ab woh package jo tha, us ke promotion jo hai, us ki cost us package ke jo andar items thi, unse zyaada thi. Main maroon na to crore log ro rahe hain, laakh log ro rahe hain, crore log ro-ro rahe hain ke yaar yeh kya ho gaya. Masla mental health ka, kin ko zyaada hai? Mera aapse counter question hai, aap ko apne baap se, apne parents se kitni maar padi thi, un ko kitni padi thi, aaj ke bachchon ko haath lagaane deti ho? Aapne har sadak pe, har deewar pe likh diya ke maar nahin, pyaar. Is liye Allah Taala ne hamein kya kaha tha, darmiyaan ki ummat hai."
+  },
+  {
+   "start": 33,
+   "text": "Ummat hai, nahin is extreme pe jaate hain, nahin us extreme pe jaate hain, darmiyaan mein rahna hai. Woh ek sher hai na, ke apne liye to sabhi jeete hain, hai zindagi ka maksad auron ke kaam aana. Hum is extreme pe jaate hain aur us extreme pe jaate hain, darmiyaan mein rahna hai. Main school mein padha tha ke logon ko pata lage ke yaar jo ghareeb ka bacha pada, meri beti bhi wahin kahin padh rahi hai. To all about your life and happiness, aur aap zindagi se satisfaction ke mutabiq koi cheez thi. Ravi ne is time tabaahi, Ravi ne machaayi thi, theek hai, 2022 ke flood bhi aaye, woh bade flood the, koi mazaak nahin tha, lekin Ravi nahin tha, sirf woh jo Buner ke andar cloudburst hua tha."
+  },
+  {
+   "start": 70,
+   "text": "Woh pata nahin kitne, 60 foot log keh rahe hain, 60 foot pahaad khul gaya, neeche, aur us ke andar se patthar nikla, jo ludakta hua, do-do man ka hai, ludakta hua gaya, us ko kuchh tabaah karke chala gaya. Main mulk ke saath sincere hoon, aur mujhe pata hai yeh genuine policy hai, pehli baat to aapne genuine banayi nahin, agar aapne bana li, to mujhe continue karna hai. Us ka jo New York ke mayor ke liye do log lad rahe the, inke top two, Mamdani, aur doosre jo the, naam us ka exactly mujhe nahin aata, to in dono ne ek TV talk par baithe hue, to ek doosre ki tareef kar rahe the, ke yaar main lada hoon apne points pe, lekin is ki yeh baatein mujhe achhi lagi hain, agar yeh jeetega, to together we will work for the New York, to maine tab us dost ko ek baat kahi, maine kaha, yaar dekh, tujhe pata lage ke main ek idaarah chala raha hoon, aur tujhe pata lage ke main woh sahi se nahin chala raha hoon, usmein kuchh embezzlements, usmein kuchh plus minuses kar raha hoon, will you ever be giving donation to me again, ya mujh par trust karoge? Usne kaha, nahin, main phir bhi trust kar leti hoon. Is aaftor ka basic concept hai ke hum subsidized raashan dete hain needy families ko, up to 45%. He was like this and he died like this, us ki pictures viral hain, abhi bhi aap Facebook par likhenge Hashim Raza, cancer, ya Hashim Raza, to aap royenge. Main donor ko aware karta hoon, aur unhein kahta hoon, koshish karein, maximum hattol imkaan, koshish karein, ke registered organization ko charity dein, yaar kisi aise bande ko zakat do, taake woh agle saal zakat lene waala na rahe. Success is living your life with purpose, creating impact and living a legacy."
+  },
+  {
+   "start": 122,
+   "text": "Your life with purpose, creating impact and living a legacy. Assalam-o-Alaikum everyone, welcome to Muffled Minds, Find Your Clarity, I am your host Khawar. Hum sab ke life mein ek stage aati hai jahaan pe ek sawaal jo hamein tang karta hai. Am I living a life that matters or just a life that looks good? Woh ek sher hai na ke apne liye to sabhi jeete hain, hai zindagi ka maksad auron ke kaam aana. Aaj ka podcast unheen logon ke liye hai jo ek impact create karna chaahte hain, but on the other hand impact has become a trend, just like aap social media pe ek post karein, aap kisi ki help karein, woh ek aap post karein, that post will get viral, but the real help is"
+  },
+  {
+   "start": 171,
+   "text": "off the camera, camera off hai, aap kisi ki madad karein, woh asal jo hai woh madad hai. To agar aap dekhein, abhi pichhle dinon, jaise ke flood disaster ke andar jo hai, hamaare officials ne, I won't name them, unhone, un ki, for example, ek chhota sa goodie, ek package jo hai woh un ko diya. Ab woh package tha, us ke promotion jo hai, us ki cost us package ke jo andar items thi, unse zyaada thi. So the real question is, do we want to change lives or just be seen as life changers? In our podcast today we have someone who has spent his 15 years of life, like, doing that charity work, changing lives of millions of people. He is basically involved in youth empowerment,"
+  },
+  {
+   "start": 218,
+   "text": "fundraising, disaster relief and in education, and so many more things. We have founder and CEO of Pakistan Citizens Alliance, Muhammad Adeel Javed. Assalam-o-Alaikum Adeel bhai. Wa Alaikum Assalam. Kaise hain? Allah ka karam, theek thaak. Achha, hamaara ek chhota sa signature question hai, before we jump into the discussion, real discussion, what are you and where are you from? Where I am from, pehle bataata hoon, main Faisalabad se belong karta hoon, Pakistan, meri birth Faisalabad ki hai, aur last 23-24 years ho chuke hain Lahore mein rahte hue, so main Lahori bhi aa gaya hoon. And who am I, yeh what I am, I call myself a development sector banda, NGO sector ka banda, aur pichhle 15-16 saal se I am empowering change makers through purpose, leadership and impact, aur bas yahi kaam hai mera, theek hai. Before we jump into that Pakistan Citizens Alliance work, agar aap start se, haan,"
+  },
+  {
+   "start": 271,
+   "text": "agar hum baat karein to, what Adeel was before this PCA, like what changed, woh jo ek turning point tha na, woh kya tha? Achha, yeh sawaal mujhse hamesha poochha jaata hai, turning point, I will not say ke agar main peechhe dekhta hoon apni history mein, life mein, to koi as such exactly turning point hai, bahut saare aaye life mein, but woh aisi koi cheez nahin bani ke jisne exactly mujhe initiate karne pe majboor kiya ke main yeh Pakistan Citizens Alliance, us time aur koi naam tha, koi aur cheez thi, lekin woh main charity work karoon, but it is always, main hamesha share karta hoon ke Allah Taala ne meri zaat se, mujhse itna kuchh liya hai ke mere paas na hone ka jo dard hai na, woh mujhe pata hai. So I was just 4 months old jab mere walid ki death hui,"
+  },
+  {
+   "start": 307,
+   "text": "And I was just 12 years old jab meri walida ki death hui, and I was 10 jab un ko cancer hua, and then 2 saal unhone struggle kiya cancer se, so she died because of cancer. So I was just four months old, ke yeh na hone ki feeling kya hoti hai. Plus meri walida ne hamesha se mujhe na ek cheez aur sikhayi thi, from the day one, aur yeh nahin ke bol-bol ke sikhayi thi, bas andar aa gayi thi, setup ke andar, always be at the giving end, taking end pe nahin hona chaahie, Allah ne, zindagi ne, society ne, duniya ne jo kuchh liya, cheezein hui, but phir bhi mujhe giving end pe hona tha, to that is somehow jo hamesha se mere end pe tha, to main hamesha helping hand raha, university level pe, usse pehle school, phir college, phir university level, sab tak hamesha"
+  },
+  {
+   "start": 342,
+   "text": "yahi raha tha, to yeh cheezein saath rahi, kaise NGO banti hai, woh ek story hai, woh theek hai, agar discussion mein aati hai, to zaroor share karta hoon. So, we can say it was a purpose driven, not pain driven. Pain driven mein is ko specifically nahin kahoonga ke yaar mere parents chale gaye duniya se to maine us ke liye NGO bana li, nahin, that's not what, that was purpose driven, ke ji hamein kuchh karna hai society ke liye, and that is why we did that. Nice, nice. So agar hum thoda sa NGO waali baat karein, so what NGO in actual is, how they operate. NGO, us ke word ke andar hi hai, non-governmental organization, jismein asaan lafzon mein hum se kah lein, NPO, non-profit organization, aap kahein, aisa koi bhi idaarah jo ke government nahin hoti, privately banta hai, lekin us ka purpose kya hota hai, ke usne profit nahin banaana, usne"
+  },
+  {
+   "start": 383,
+   "text": "welfare karna hai, society ke liye kaam karna hai, cheezein karni hain, to poori duniya mein concepts NGOs ke thode se different hote hain, hamaare, as usual, jo saare muhaayad cheezon mein hote hain, har field mein woh different ho jaata hai, hum us ko lete hain different hai, but maksad sirf yeh hai ke woh jo saare kaam government karti hai aur shaayad nahin kar paati, us ke liye non-governmental organizations maujood hoti hain, jo helping hand hoti hain, ab chaahe woh kisi ki madad hai, chaahe kisi ki support hai, chaahe law and order ke masaail par baat karne waale log hain, yeh kuchh bhi cheezein hain, woh saari NGOs jo hoti hain, basically woh kaam karti hain, ultimately unka maksad sirf yeh hai ke kisi aur ki bhalaai ka koi kaam kiya ja sakta hai. True, true. So obviously, main, aap, yeh koi third person bhi social work karna"
+  },
+  {
+   "start": 418,
+   "text": "har koi chahta hai, woh inner desire hoti hai, achha hi, social work karna hai, but after some time, like one, two months, or maybe six months, they get burned out, bilkul aise, to like, 15 saal ho gaye, main aap ko, like, roughly agar dekha jaaye, jo main bhi aap se pehle se, jo hai, jo kya cheez hai jo aap ko motivation provide karti hai, just to keep moving. Yeh baat maine pehle hi kar di hai start mein, aur wahi jawab hai mera is sawaal ka bhi, what keeps me moving, woh yahi hai ke main aise define karta hoon ke do cheezein hain, aur both har ek opposite to each other, aur woh donon mujhe move rakhti hain. Number one, Allah Taala ne itna kuchh liya hai mujhse ke mujhe na hone ka ehsaas hai, to sometimes main aise feel karta hoon, logon ko dekhta hoon, to mujhe"
+  },
+  {
+   "start": 458,
+   "text": "woh ehsaas hota hai, yaar is bechaare ka kya kasoor hai, theek hai. Other way around, Allah ne itna kuchh diya hai ke mujhe pata hai ke mere paas hai, to phir meri zimmedaari hai ke main kisi ke liye karoon. Yeh do cheezein opposite degree pe hain, opposite angles pe hain, doosre ke liye, yeh mujhe moving karti hain, kabhi na kabhi yeh side, kabhi woh side bhaari hoti hai, woh move on karti rehti hai, yeh bataati rehti hai. Plus yeh hai, Allah ka shukar hai, it is just a life jismein maksad tha, jismein apne kaam ka sab ka dil karta hai, to main yahaan tak pahunch chuka hoon, cheezon ko le ke aa chuka hoon. Ab kabhi dil bhi karta hai na, to ehsaas hota hai, yeh kaam jo shuru kiya tha, to yeh kisi jagah pahunchaana hai, is ka koi impact create hona chaahie, koi cheez honi chaahie,"
+  },
+  {
+   "start": 490,
+   "text": "to woh dil karta hai ke karte raho, raat ko sone ko dil karta hai ke ji so jao jaldi se, aur takleef pahunchaati hai ke din kaam mein phas gaya hai, aur agle din uthna hota hai. Woh abhi aapka jo tagline hai, us se main khush ho raha tha, ke like-mindedness hai, Find Your Clarity waali jo cheez hai, to mera maksad hi, vision, vision, vision, main saari zindagi baat hi vision ki kar raha hoon, clarity ki kar raha hoon, sochon ki kar raha hoon, youth ke saath jab bhi baat karta hoon to yahi karta hoon, to yahi cheez chalti hai, matlab like humne yeh initiative jo hai, woh kuchh time pehle jo start kiya tha, obviously woh again, jo hum pehle baat kar rahe the, bachpan se hi, being a Muslim, aap chahein, ek woh arz hoti hai na ke yaar kuchh achha karna hai, maybe"
+  },
+  {
+   "start": 525,
+   "text": "society ke liye, humanity ke liye, to hum bhi usi cheez ko jo hai, thoda sa leke chalein, matlab hamaari madad karein, matlab ke hamein motivate rakhein, ke jo ek mental pressure hai na, woh kisi bhi respect se ho, maybe woh family ke respect se hai, study ke respect se, job ke respect se ho, us ko overcome kaise kiya jaaye. Ab like hamaari society mein ek taboo jo hai woh create ho chuka hai, dekho yaar, jo mental pressure hai, woh koi cheez nahin hai, woh jaise bachchon ne khud hi ek cheez bana li hai, but us ke baare mein aap baat kaise kar sakte hain, jis tarah us din hum discussion kar rahe the, is ke related koi ek platform jo hai, woh laazmi hona chaahie. Ab youth ko yeh bataana jo hai woh zaroori hai ke achha, aap is cheez se ghuzar rahe hain, usse baahar kaise"
+  },
+  {
+   "start": 569,
+   "text": "nikaalna hai, to to theek, theek, theek, phir lena. Obviously social media ke time mein itne exposure to chaahie hai, woh logon ka bada exposure, but on the other side yeh jo mental tensions that leads to suicide, yeh bahut increase ho rahi hai. To ab jaise jis tarah aap jo hai woh kaam kar rahe hain humanity ke liye, to is ke related bhi aap ke thodi side pe ho raha hai kuchh ho? Bilkul hota hai, main specifically woh nahin karta, lekin main keh loon ke jab bhi meri youth ke saath baat hoti hai to main is topic par baat karta hoon, aur mera point bhi thoda sa different hai, maybe main yahaan yeh baat karoon ga, aadhe se zyada ke audience kahe ke yaar yeh banda sahi nahin tha, thoda sa farq hai mere thought mein, ismein se woh yeh hai ke yeh mental health ke par baat honi chaahie, ismein koi"
+  },
+  {
+   "start": 610,
+   "text": "do raaye nahin hai. Mujhe kyoon lagta hai, maybe I am wrong, ke humne jab baat karein to bahut zyaada baat ho rahi hai, bahut saari jaghon pe jab hoti hai, aur woh na ek aur domain khul jaati hai, theek hai, aur main jis ko jis ko dekhta hoon, main usse jab baat karta hoon, main, I'm not a psychologist, jo main baat karoon, lekin Allah ka shukar hai, itne saal, itne saal youth pe kaam kiya, jiski koi hadd nahin hai, aur mera to aajkal kaam hi sirf yeh hai ke main jaata hoon, main bachchon ko kahta hoon, yaar Gen Z ka dimaag samajh raha hai, I need to talk to you people. Humne jis waqt mein kaam kiya, jo cheezein ki, volunteerism kiya, social work kiya, hamein pata, humne kaise kiya, aaj Gen Z kya sochti hai, mujhe yeh talk karni hai, to main hamesha un se yahi"
+  },
+  {
+   "start": 643,
+   "text": "baat karta hoon. To jo baat aap ka point tha, last time, yeh off the record jab hum aapas mein baat kar rahe the, aap office aaye the, tab bhi mera yahi point tha, nahin ke chalo on camera baat karenge, taake content bhi logon ke liye jaaye, to usmein point yeh ke yeh dekhein, baat honi chaahie, lekin ek jagah main baitha hua tha, mujhe lagta hai, maybe I'm wrong, ke humne bachchon ko na, aaj Gen Z ko aur khaas taur pe logon ko na, woh content mil gaya hai, theek hai, woh buzz words mil gaye hain, so aapne apne maa-baap ko, apne parents ko, aapke husband wife, aapne siblings ko na, bas woh paanch buzz words bol ke, aapke to you don't know, you don't know, yeh ho, phalaana, mere saath yeh ho raha hai, talk to yourself, write a paper, aur phir mera ek ultimate point hi hota hai, ke"
+  },
+  {
+   "start": 682,
+   "text": "depression, anxiety sab ko hoti hai, honi hai, ismein koi do raaye nahin, accept that, that's what we are talking, mental health ki jo baat hai, accept karein, pehle apne aap ko waqt to do, bachcha jo mujhe lagta hai nahin, woh apne aap ko waqt nahin de raha hai, jo ke is mental pressure mein koi bhi bachcha, bada jo bhi ja raha hai, woh khud ko waqt nahin de raha, har waqt ek hi jawaab aata hai, pata nahin, pata nahin, to mera jawaab yahi hota hai, find out people in your circle, your parents, your sibling, your friends, X, Y, Z, koi bhi mil le, nahin milta to main hoon, come to me, come to my place, talk to me, bataao, das dafa baat karo, karna hai, humne jo is ko normalize karna hai, yaar yeh issue hai, but us ke thode se tareeqa kaar, us ke jo ek boundary jaana, woh set ho jaani"
+  },
+  {
+   "start": 721,
+   "text": "chaahie, taaki na woh kar sake, kyonki is ki aad mein aap bevaakoof bana jaayein system ko, aur is cheez ko kharaab kar dein, aur phir har waqt yahi baat hoti rahe ke yaar main to mental health ka masla hai, mera to yeh masla hai, mera to yeh masla hai, aur hamaare to roz cases aate hain, hamaare university students aate hain, hamaare Volunteer Flagship Training Program mein, aap ko hazaaron story suna sakta hoon, jo baatein aati hain mujhe, session, ek main ek chhoti si kahani sunata hoon, woh time pe nahin aa rahi, session nahin le rahi, khatoon, aur saari cheezein hain, theek hai, aur us ko team ne ek do dafa kaha ke aise nahin ho sakta, to fundraising ki baat ho rahi thi, social work ki baat ho rahi thi, to maine nahin karna, yeh karna, woh nahin karna, to meri teammate ne"
+  },
+  {
+   "start": 757,
+   "text": "un ko keh diya ke dekhein, WhatsApp pe added ho gaye the number, aur aur all that stuff, exchange hua tha, team, to unhone kahin dekh li stories ke kal woh parties chal rahi thi ke idhar-udhar khaana jaana tha, to unhone keh diya, meri teammate ne, ke ji aap na yeh cheezein bhi to kar rahe hote hain, to us ka 1% 2% bhi agar aap charity kar dein ya welfare ke side mein lein, kisi aur ka soch lein. She got offended, aapne yeh kiya, meri life mein jo kar rahi hai, yeh kar rahi hai, woh itni si baat ka issue, usne sorry bhi kiya, usne kaha, mera maksad yeh tha, taake aap ko ek different idea aur perspective, perspective de rahi thi, agle din usne kaha, mainne session nahin lena, kahani shuru ho gayi, aur usne kaha, ji CEO sahab se, head se milwaein,"
+  },
+  {
+   "start": 790,
+   "text": "mere paas jaa ke, mera session tha agle din, so baatein, so cheezein, aur aap nahin jaanti, mere saath zindagi mein kya ho raha hai, mere saath yeh ho raha hai, mere saath yeh ho raha hai, aur kuchh baatein nahin thi, maine theek hai, it's okay, what I can do, unhone galat kaha, aap ki nazar mein, main apologetic hoon, kya karein, saath waali boli, jaaye, aap ko nahin pata is ke saath kya aur hai, maine kaha, madam, I'm sorry, ho raha hoga, lekin is ka solution nikaalna hai, yeh karke aap poori chalis ki class ko kharaab nahin kar sakte, saara kuchh nahin kar sakte, the solution, aapne session lena hai, aap le lein, aapne nahin session lena hai, aap wait karein, hum dobaara baat karenge, aur galti ki sorry ho sakti hai, aap bhi thoda khyaal rakhein, hum bhi rakhte hain, to lekar cheezein hain, to long story short,"
+  },
+  {
+   "start": 825,
+   "text": "jaat sa issue ek bahut important, important and core issue hai, but mujhe kai jaghon pe lagta hai, ke hum is pe, is ko itna normalize kar rahe hain, kai jaghon mein maine recent bhi kuchh cheezein dekhi hain, saara kuchh hai, wohi proudly main aapke saath baithoon ga, yaar main to psychologist ke paas gaya tha, jo hi aapne, tum gaye the, tumne kaha, haan main gaya tha, to main validated ho gaya, main bhi gaya tha, is ko itna common kar dete hain, halaanke woh shaayad woh issue, aap mujhse discuss karein, do minute, aap ko kisi se bhi nahin discuss karein, kagaz pencil par lekar ke, abu ne yeh kaha, amma ne yeh kaha, job ka pressure tha, yeh tha, hum kaise sort out karein, hum ise bahut zyaada normalize kar rahe hain, to shaayad yeh impact pad raha hai, but, secondly, mujhe lagta hai, aur lagta nahin hoon, main is ko believe"
+  },
+  {
+   "start": 863,
+   "text": "karta hoon, ke hamein baat karni hai, hamein karni hai, aur shaayad hum psychologist jaayein na jaayein, lekin main aur aap sun lein, kaun ko sune, mujhe aur aap ko time dena hai logon ko, woh hum nahin dete, apne ird gird ke, apni family, apne siblings, apne baahar, apne bade, apne chhote, hum aaj chalein, yeh yeh masla kin ko zyaada hai, mera aap se counter question hai, main, obviously, yeh Gen Z ko hi zyaada hai, to maa-baap ko nahin hai, un ko kaun sun raha hai, kitni dafa yeh Gen Z, ya main aur aap, jaake apne buzurgon ke paas baithe hain, maine kisi discussion mein kisi se poochh liya, maine kaha, mazboot hain, ke hamaari maaon ke saath yeh issues nahin the, un ki maaon ke saath yeh issues nahin the, un ko saas, yeh woh, phalaana, ya un ki job issues, ya un ki health issues, X, Y, Z, jitne bhi aaj hamaare issues"
+  },
+  {
+   "start": 902,
+   "text": "hain, nahin the, the woh cope nahin kar saki, ya unka apna tareeqa kaar tha, bimaar ho gaya, yeh ho gaya, phalaana ho gaya, lekin jo aaj jinke parents hain, unke paas kitni dafa baithti hai yeh Gen Z, kitni dafa baithti hai, koi nahin baithti hai, to woh kya karein, woh mental health ko kya karein, un ko to aap samjha nahin sakte, psychologist ke paas jaana hai, Gen Z to tayaar baithi hai, theek hai na, un ko kaun samjhaega, that's where we should talk, we all should together work on that, and that is why I am here, just to discuss, ke yaar mujhe yeh bada achha laga, aapka yeh initiative, ke baat to karein hum, discuss to karein hum, pichhli episodes mein hum ne yeh cheez discuss ki thi, ke theek hai, aap normalize kar rahe hain hamein, jo jaise aap ki baat honi chaahie, lekin woh itna zyaada bhi nahin hona"
+  },
+  {
+   "start": 937,
+   "text": "chaahie, ke woh multiple domains mein jo hai na, woh discussion, jo hamaara main core jo principle tha na, is saare ke round, woh yeh tha ke school level se, jis time pe bachcha school jaana start karta hai, us time pe woh cheez start honi chaahie, jisko hum parenting kehte hain, ke ek father aur ek son, ek daughter aur ek mother, inki bonding is tarah hi honi chaahie, ke as a friends who have a bonding honi chaahie. Achha, ab woh cheez jab wahaan se start hogi na, college mein jaayegi, university mein jaayegi, professional career mein jaayegi, to woh automatically kya hai ke woh ek taboo nahin ban raha hoga, to par bachchon waali side par bhi aur parents waali side par bhi."
+  },
+  {
+   "start": 977,
+   "text": "Achha, ab jab woh taboo nahin ban raha hoga, to har cheez discuss ho rahi hogi, aap school mein gaye ho, kisi ne aap ko bully kiya, aapne multiple cases sune hoon, university tak bhi, university tak bhi, university, aap mature ho chuke hote ho, but kya hai, school waali jo bullying hai, kai log us ka depression leke, aur woh phir us level pe chale jaate hain, se un ko rise hona, woh impossible. Achha, ab jab woh cheez start hogi, woh parenting waali, start as a friend waali baat, to har cheez discuss hogi, bacha ghar aayega, discuss karega, ke mere saath aise hua, obviously jo parents hain, mujhe aage school mein baat kar sakta hai ke achha, yeh is tarah se hai, to is ko nahin hona chaahie, unke parents se, jo bully kar rahe hain, un ke parents se baat kar sakte hain, to yeh hamaara woh core principle tha iske"
+  },
+  {
+   "start": 1014,
+   "text": "round, and then that leads to this thing, ke baat honi chaahie, ismein maine thoda sa phir ikhtilafi note ki baat karoon, ko yeh concept bilkul theek hai, lekin main phir wahi baat karoon, jo main, kyonki aap ko pata hai, social work side pe aur phir hum charity school run kar rahe hain, saari cheezein kar rahe hain, being an educationist, mera talluq bada close hai in cheezon se, mera, aur woh school level ki baat karoon, to maine ab bataaya, ke hum apne school mein kya-kya experiments kar rahe hain, education ke waale se, cheezein karne ke liye, aur main is ko bada closely, ab ismein problem hai, usmein wahi problem hai, ke bachche ko kisi ne haath laga diya hai na, to bully ho gaya, yeh side bahut zyaada badh gayi hai, theek hai, to ki maine kaha, woh buzz words mein, ek din aisi,"
+  },
+  {
+   "start": 1057,
+   "text": "pata nahin, dignity, World Dignity Day tha, to us ke upar tha koi, to main unse wahaan baat kar raha tha, ek madam ne mujhse baat ki, jinhone mujhe invite kiya, unhone baat badi maze ki, interesting ki, unhone kaha, dekhein, meri beti hai, first year bhi, kya na, ya ho, yeh labels mein, gaalva, usne kaha, ji, woh na aisi 3, 4, 5, us ke words us ke paas hain, to woh mujhe bolti hai, phalaana disorder, phalaana yeh, aap ko nahin pata, mama, yeh woh, phalaana, to main us se kehti hai, bata, to aapne labs bol liye, disorder to aapne pakad liye, to aap bas woh ghumaate raho, jaanta hoon ke woh is tarah ki terminology ke andar, yeh Gen Z, yeh bachcha, aap ko ghumaata rehta hai, ghumaata rehta hai, ghumaata rehta hai, aur banda confusion ka shikaar hai, idea bilkul theek hota hai, ke hamein unse friendship honi chaahie, dosti honi, cheez honi chaahie, but woh"
+  },
+  {
+   "start": 1093,
+   "text": "haath bhi koi bachcha laga de, aap, aap imagine karo, pehle kya hota tha, aaj kal aapne ek nai terminology, mujhe nahin pata, aap ko apne baap se, apne parents se kitni maar padi thi, un ko kitni padi thi, aaj ke bachchon ko haath lagaane deti ho, aapne har sadak pe, har deewar pe likh diya hai, ji maar nahin, pyaar, theek hai, lekin woh kabhi kabhi zaroorat bhi padhti hai, being a father, being a mother, aap dekhte ho, kuchh cheezein is karna padta hai, bachcha us ko adopt kar raha hai ke ji hamein to yeh keh diya gaya hai, bully nahin hona chaahie, yeh nahin, to donon cheezon ko darmiyaan mein, to main keh raha hoon, awareness, jo ke aap kar rahe hain, awareness bahut zaroori hai, ke baat karein, roz jaakar baat karein unse, ke yaar yeh harkat bhi galat hai aur yeh harkat bhi galat hai, middle"
+  },
+  {
+   "start": 1125,
+   "text": "mein khelna hai, is liye Allah Taala ne hamein kya kaha tha, ummat-e-wasat ka tha, darmiyaan ki ummat hai, na hum is extreme par jaate hain, na us extreme par jaate hain, darmiyaan mein rahna hai, basic goal ke saath hum jude, insha'Allah asaaniyan hongi, to to, aur bilkul, matlab jahaan pe hum yeh baat kar rahe hote hain na, ke yeh is ko normalize karna hai, wahaan pe hum parents waali side pe bhi baat kar rahe hote hain. Achha, parents ke kya problems hain, bachche unke paas nahin baith rahe, theek hai, un ko time nahin de rahe, liye, jaise unse, obviously, parents to ja rahe hain ke bachchon ke saath hum friendship waala jo hai, woh atmosphere rakhein, lekin bachchon ke saath se kya hai, woh jo lagging hai, un par bhi hum jo hum baat kar, main to karta hoon na, mera upar se baat hai ke roz aati Gen Z,"
+  },
+  {
+   "start": 1159,
+   "text": "ji, unse baat hoti hai, university, college, to achha, dekhie, us Gen Z ko ab chaahie yeh standard of living, us parent ko standard of living ka, media ka masla hai, ke aap daftar mein kaam bhi karein na, to saara kaam aapka mobile pe ho raha hai, aap ghar aayenge, aapka WhatsApp pe message jaayega, aapka jaayega, aapne social media pe upload karna, yeh karna hai, saara din kaam kiya, us ki reel bhi to lagaani hai, to bachcha jab saara din parent ko dekhega ke yaar pehle din saara din baahar hota hai, phir ghar aata hai, phir phone mein laga rehta hai, ab parent bhi majboor hai, kya karein, nahin lagayenge to main apni baat karoon, main kaise, mera kaam kaise, to bachcha neglect par hota hai, bahut saare lambhi masle masaail hain, in saari cheezon ke andar, it's not that easy, log karte hain, initiatives lete hain,"
+  },
+  {
+   "start": 1202,
+   "text": "cheezein chalti hain, woh ho nahin paati, is liye ko ke iske peechhe ek aur cheez yaad karta hoon, education ke waale se, aur, dekhein, bachche ke upar pressure, aap kahrein ke parenting ki hum baat kar lein, lekin aapne education ka nizaam dekha hai, theek hai, bachcha kahta hai, meri chhoti beti, beti paanch saal ki hai, theek hai, woh prep mein hai, theek hai, us ko teen ka table, teen ka table yaad karaane ki baat ho rahi thi, woh rona-dhona pada hota hai, ro-ro paagal ho jaati hai, mujhse nahin hota, to main, being a head institute, mere hi institute, mere hi school mein padha tha, taake logon ko pata lage ke yaar jo ghareeb ka bacha pada, meri beti bhi wahin kahin padh rahi hai, to maine logon ko, tension nahin leni, tune, nahin aata na, kitne din teacher se daant pad gayi, idhar daant pad gayi, udhar daant pad gayi,"
+  },
+  {
+   "start": 1240,
+   "text": "Baba, 3 ka table dikhaoon, ab 3 ka table galti ke baghair likh raha hoon, ab 3 ka table galti ke baghair likh rahi hai, to main keh raha hoon, to hamaare education nizaam bhi to gaya hai na, ghisa pita, wohi cheezein, parent ne pressure, to bachche ke par automatically pressure aana hai, phir nai daur ke masaail badh gaye hain, jo hum discuss kar rahe hain, time parents ke paas bhi nahin hai, bachchon ke paas bhi nahin hai, kahaan bhi discussion karein, aur end result kya hota hai, jiske poora aap aur main baithe baat kar rahe hain, woh bhi masla hoga, aap mujhse aakar baat karke baithenge, baithenge, bhai jaan, aap peaceful hai, main aap se poochhta hoon, aap karenge peaceful hai, pata nahin kya chal raha hai dimaag mein, woh again, pichhli podcast mein hum ek guest the, to woh keh rahe the ke aap mujhe"
+  },
+  {
+   "start": 1283,
+   "text": "koi ek banda dikha dein jisko yeh mental pressure ya is cheez ka koi masla nahin hai, main us ko salute karoon, hai to woh to obvious hai, woh har area masla hai, lekin main yahi keh raha hoon na, ke jab aap aur main baat karenge na, to aapne is ko kaha gaya hai, ab main apni zaati taur par baat karoon ga, maybe I am wrong, maine shaayad share bhi kiya tha last mein aap se, meri kisi student thi training mein, to woh MPhil kar rahi thi psychology, to usne mujhe kuchh roz pehle ek document bheja, survey form, theek hai, aur woh fill karna tha, to maine karte hain ke chaar-paanch safhe the, maine laptop khola, fill karna shuru kiya, maine ko saat-aath sawaal fill kiye, that was all about your life and happiness, and aap zindagi se satisfaction ke mutabiq koi cheez thi, maine ko saat-aath"
+  },
+  {
+   "start": 1318,
+   "text": "sawaal kiye, to maine laptop peechhe kiya, aur main aise karke baith gaya, main itna khush hoon zindagi se ke har cheez ka jawaab yahi aa ja raha, there is something wrong, phir maine baith ke socha, phir main us ko poora jab fill kiya, to mujhe realize hua hai ke yaar, yes, I am happy, I am happiest, wahi waali baat hai, mental pressure, aaj ke is time shaayad koi hoga, kal koi hoga, lekin overall meri life ka effect hai, main to ek sawaal poochhta hoon, kya aap apni zindagi se khush hain, bas yeh bata dein, aur dil se bataana hai, overall bataana hai, yeh sawaal hai, sir, woh haan to hai, lekin hum karte bhi to yahi nahin hai, kaise ho, Allah ka shukar hai, theek hoon, nahin, lekin yeh yeh yeh, Allah ka shukar, face expression bhi aisi hai, Allah ka"
+  },
+  {
+   "start": 1358,
+   "text": "shukar, tera khula, khushi, khushi ka jawaab hai, haan, moments honge, abhi main stressed out hoon ga, office ka kuchh kaam hoga, kal stressed out, to woh moments hain, lekin as a whole, jab main life ko kahoon ga, main khush hoon, main matlab, I have people around, to main ek share karta hoon, main kisi se poochhta hoon, to woh kehti hai, main poochhta hoon meri jaanne waali ek, to main kaha, ji kya haal chaal hai, zinda hoon, aur she is Gen Z, haan, Gen Z, theek hai, to main zinda hoon, itna mara hua jawaab, to phir aise log hain jin ko humein salute zaroor karna hai ke aaye, okay, theek hai, ke main bahut happy hoon us baat par, mental stress aata hai, mental cheezein aati hain, us ko mil ke hum discuss kar sakte hain, aur mujhe yeh lagta hai yaar ke main apne end pe logon"
+  },
+  {
+   "start": 1400,
+   "text": "ko sunne ki koshish karoon, aap apne end pe logon ko sunne ki koshish karein, aapke jaise platform hai, is par baatein karein, mere platform par baatein karein, mil jol ke baatein karein, bachchon ko aware karein, hum youth empowerment kaam karte hain, to mera andaza pata hai kya hota hai, maine aap sab ko sun liya, asal masla hai ke aapke maa-baap ko kaun sunayega, un ko le ke hum koshish karte hain, hamaare youth ke jo training programs hote hain, un pe school mein bachchon ke hote hain, main usmein parent-teacher meetings ke hawale se parents ko, youth ki training mein unke parents ko bulaate hain, graduation par koshish karte hain ke parents ko bulayein, ke aapke bachchon ne yeh kaam kiya hai, aapke bachchon ne yeh kaam kiya hai, main aap ko bataata hoon, aapka bachcha kitna kaamyaab bachcha hai, kam karein bachche pe, zindagi ka, expectations kam"
+  },
+  {
+   "start": 1437,
+   "text": "karein, theek hai, top karega, kya kar lena hai, kuchh bhi nahin karna. Aap aur main same university se belong karte hain, kya kar liya hum log ne, aaj aake bataein, aaj aap batayenge bachchon ko, ji phalaani university se phalaani degree kar lo, jo aapne ya maine ki hai, kabhi main to nahin, kabhi bhi kahoonga, aap kahenge ke nahin kahenge, maine MBA kiya, us ke baad, theek hai, aur mujhe koi poochhta hai, to main kehta hoon, maine engineering ka woh tag hataane ke liye MBA kiya hai, kyonki that was not a point, aur university nahin kar saki, to pressurize kyun kar rahe hain bachchon, let them live, aaj paisa hamaari degree se nahin mil raha, woh bahut puraani baatein chale gayi hain, woh bahut puraani chale gayi hain, let them live, but saath-saath thodi si tightness bhi required hai un ki, ke kahin aur hi na nikal jaayein,"
+  },
+  {
+   "start": 1473,
+   "text": "maine bahut saare bachche nikalte dekhe hain, rant mein main aisa baitha dekh raha hoon, kya karein, meri family ki stories mein bhi aati hai, mere friends ki stories mein bhi aati hai, main phir kaha jaata hai, kyonki woh jaayein, ab bachcha bhi samajhte hain ya phir bade to samajhte hain, psychologist ke paas jaana chaahie, bahut badi bimaari hogi, nahin, theek hai, zaroori hai to jaayein, lekin us ko common na kar dein na, ke ji, masla hai, aap ko masle samajh mein aa rahe hain, main example, main aap se poochha 10 dafa ke yeh yeh baatein hain, aap jaayenge, psychologist ke paas aayenge, discussion karoon ga, to main phir mera jawaab kya hai? Main nahin [unclear] fees bhi di hai, jab aapne de diya, phir aap us ko achhe se sun rahe honge, haan, yeh main keh raha hoon ke thoda sa is par hum koshish karein, aur jo aapka basic idea"
+  },
+  {
+   "start": 1516,
+   "text": "hai na, long term ka, us ke upar karenge, theek hai, aise baithein, jab hum baatein karte hain, aise baithke baat karein, kisi ko fees to nahin deni na, nahin, bilkul, theek hai, baithein, baat karein, taaki main aap ko, aap na apne identity disclose karein, let's talk about it. Abhi jaise hum baat kar rahe the, apne education system, jo jo curriculum, managers, jo jo, to bahut outdated hai, bahut outdated, us ko change hone ki zaroorat hai, aur jaldi change hone ki zaroorat hai, abhi recently hamaare paas ek school chain thi, us ke owner woh aaye the, to woh yahi baat kar rahe the, ke main khud kahta hoon, mere jitne bhi officials se meetings hoti hain, hum yeh cheez discuss karte hain, ke yaar apne curriculum ko hum update karein, no doubt, abhi kuchh hadd tak jo hai, update ho gaya, jaise woh Single National Curriculum mein hai, thoda ho gaya,"
+  },
+  {
+   "start": 1557,
+   "text": "at least, ke woh jo ek Beaconhouse waala bachcha hai, aur ek jo private school, Delhi mohalla waala bachcha hai, woh aapas mein compete to, thoda woh change ho raha hai, to us ko at least change hone ki zaroorat hai, is respect se, to chalein, let's just say, ke hum thoda se PCA waali side pe aayein, zaroor, to for people who don't know about PCA, to aap thoda sa agar briefly bataein, ke PCA what actually is doing. PCA, Pakistan Citizens Alliance, hamaari organization ka naam hai, aur almost 16 years ho gaye hamein kaam karte hue, aap ko Lahore mein, specifically Punjab mein bhi, but Lahore mein shaayad hi koi youth organization mili, jo school, college mein bani ho, aur is level par aayi ho, jis level par Pakistan Citizens Alliance hai, so we are registered, we have bank accounts,"
+  },
+  {
+   "start": 1593,
+   "text": "hamaare paas tax exemption hai, hamaare paas Charity Commission ka certificate hai, saara kuchh hai hamaare paas, office hai, aap aayein, visit karein, hamaari chaar main domains hain, jismein hum kaam karte hain, Education Support Program hai, Volunteer Development Program hai, Disaster Management ka program hai, aur Community Development Program hai. Education Support Program, hamaare scholarships pe bhi hain, lekin otherwise hamaare do schools chal rahe hain, jo town mein hamaara jo office hai, wahaan pe ek school, aur ek Shahdara se aage, Jugiyaan, Joda gaon hai, wahaan pe hai, around hamaare donon schools mein 550 plus, 550 plus students padh rahe hain, woh hum kar rahe hain, community development mein hamaare bahut saare projects hain, Isar Store hai, hand pumps ka hamaara project hai, mosques hum bana rahe hain South Punjab mein, woh saare kaam hain, development program, team ke, sab logon ne bahut maarein khaake, khud se"
+  },
+  {
+   "start": 1642,
+   "text": "seekha hai yeh kaam, social work aur volunteerism, but it's time to teach other volunteers aur youngsters, kyonki jo seekh ke kaam kiya jaata hai, shaayad woh behtar ho jaata hai, thoda sa, to phir humne, mera idea tha, ke hum ek department bana kar, us ke ek training program karein, jiska naam hamaara hai, Volunteer Flagship Training Program, 7-10 days ka hamaara program hota hai, do ghante ki class hoti hai, hamaari physical hoti hai, online hum nahin karte hain, kyonki online se mujhe bahut hai, to 7-10 days hote hain, aur usmein kya hota hai, usmein hum leadership, communication, fundraising, yeh teen baatein to sikhaate hain, jo ke volunteers ke liye zaroori hain, most important jo cheez hum sikhaate hain, that's a philosophy of philanthropy, is kaam ke liye yeh kyun zaroori hai, that is most important, theek hai, yeh kaam kyun ho raha hai, kis"
+  },
+  {
+   "start": 1681,
+   "text": "liye ho raha hai, to hum us ka aate hain, hamaare, to alhamdulillah, hamaare fifty batches abhi tak ho chuke hain, 2000 plus volunteers hamaare train ho chuke hain, is baat ke upar, to yeh hum kaam kar rahe hain, phir unfortunately disaster kabhi aaye, jo ke hamaare mulk jaise mulk mein to bahut aata hai, to hamaara woh ek domain hai, jismein hum disaster par kaam karte hain, 2022 ke floods par bahut kaam kiya, abhi 25 ka flood jo us par bhi kaam kar rahe hain, to woh bhi hamaara, to yeh saari cheezein hum mix and match kar rahe hote hain, to like hamesha, koi bhi ek training hoti hai, agar main apni baat to mere mann mein ek question aata hai, ke lage se aapne ek training di, aapne follow up kiya kabhi un bachchon ke saath, ke achha, jo humne training di hai, un ko us ka impact"
+  },
+  {
+   "start": 1718,
+   "text": "kuchh hua hai? Dekho, yeh ek bada important sa point hai, aur mera us ka analysis hai, kyonki main training side par hoon, iske alaava bhi, yeh to volunteerism ke upar hoti hai, vaise paid trainings ko aap kaafi karta hoon, kaafi idaron ke saath, unfortunately yeh hai ke woh log jab aapke graduate hote hain, us ke baad aapse in touch nahin hote hain, yeh ek aur problem hai hamaari society ki, main Gen Z hi ke nahin kahoonga, Gen Z hi mere khilaaf ho jaayegi, society ka problem hai, kyonki hamein na bhaag lagi hui hai, bhaag rahe hain, to main aap se program karoon ga, training loon ga, us ke baad main us ke paas chala jaoon ga, us ke baad us ke paas chala jaoon ga, us ke baad us ke paas chala jaoon ga, jo peechhe waali cheez hai na, woh"
+  },
+  {
+   "start": 1756,
+   "text": "miss hoti jaayegi, just to get this, just to get a certificate, ya nayi learnings, ya jo bhi ek keeda hai ke ji maine pata nahin har, or this point of view ke hum touch mein kitna rehte hain, and touch unse rehte hain, so humne pichhle saal December mein, International Volunteer Day aata hai, 5th December ko, humne ek event kiya, is ka naam rakha Volunteerathon, jaise Marathon hai, us context mein is ka naam rakha Volunteer-a-thon, Volunteer-a-thon 1.0 hua, aur us ka maksad tha ke hum mid of October aur phir November, hum 1.5 mahina hum volunteerism celebrate karein, different volunteerism ki activities karein, wohi marathon, long term chale, aur phir hum un logon ko aur volunteers ko aur saara saal ke volunteers ko, hum International Volunteer Day ke upar celebrate karein, is saal bhi 5th of December ko hamaara ho raha hai, UCP is a partner with us, is"
+  },
+  {
+   "start": 1802,
+   "text": "dafa UCP mein karein, pichhli dafa hamaare head office mein hua tha, aur us ka bhi maksad hai ke hum us ko celebrate karein, to jo nahin bhi hote, un ko bhi koshish karte hain, dobaara hamaari taraf se har tarah ke call jaaye, message jaaye, raabta jaaye, ke kya feedback hai, kya hai, nahin karte hain, nahin active hote hain, apni cheezon mein busy hain, but hamaare end par koi yeh nahin keh sakta hai, ke humne touch nahin kiya dobaara, hum dobaara un se baar baar karein, to impact create hota hai, kai hone apni chhoti chhoti societies khol li hain, kai hone aur koi kaam karna shuru kar diya, kai log humse attach ho chuke hain, kai hone wahin join kar liya, is par ek chhoti si success story suna deta hoon aap ko, ke humne kaise attach kiya, kaise kiya, to ek batch mein graduate tha, woh mera khaas VDP,"
+  },
+  {
+   "start": 1838,
+   "text": "hum VDP kehte hain, to us ko 8th batch us ka, aur woh down the line, graduate hone ke baad, usne pichhle saal hamaare volunteer officer ke taur pe join kiya, is department ko enhance kiya, phir ultimately, he became the volunteer manager ban gaya, hamaare department ka saal, usne volunteer department ko run kiya, ab usne saath PhD ke liye apply karna hai, to usne is post se resign diya, to hamaare doosre program ke saath thoda part time job kar raha hai, lekin usne kiya to, Shahzeb, Rana Shahzeb, to woh ek success story hai mere paas, aisa volunteer, phir, attach hua, aur usne poora department build karke, yeh 2000 tak credit jaata hai, usne build up kiye, to, we are having so many such kind of stories, jo ke impact create kar rahe hain. Nice, nice. So, count me in for that, 5th of December. Ji, ji, ji, you"
+  },
+  {
+   "start": 1876,
+   "text": "are always, always here, always. To matlab abhi jaise abhi, recently, phir jo hai, aaya tha, to obviously aapne affected areas jo jo hain, woh visit kiya, to like, what do you think, what was the main reason, agar hum pehle reason ki baat karein, jo kaam hua, maybe officials ke side se, government ke side se, ya har reason koi nahin thi, pehli reason to ek badi clarity hai, mix mein, achha hai, is liye aap ek word nahin le sakte, maine is dafa poore Pakistan mein kaam kiya, main Buner gaya hoon, usse lekar main end tak, sirf Balochistan nahin gaya, baaki humne Punjab mein bahut kaam kiya, KPK, GB ke andar bhi humne kaam karwaaya, saara kuchh hai, yahaan Pakistan, Pakistan ke andar, Lahore ke andar, Punjab ke andar, to bahut saari hamaari harkatein hain, Lahore ki jo harkatein hain, woh hamaari harkatein hain, theek hai, Ravi ne jo"
+  },
+  {
+   "start": 1916,
+   "text": "kiya, woh kiya, lekin humne ziyaadti ki hui thi, us ke upar mere liye baad mein neeche daale shaale khade karwa doge tum, to woh kasoor hai hamaara, theek hai, ke aapne encroachments, saara kuchh kiya, saari cheezein, ke yeh to ek naahli hai, to yahaan par main sorry for interruption, to koi long term planning nahin to, nahin karte na, us ki taraf main aata hoon, bahas par nahin ja rahe hain, us ki taraf aata hoon, lekin saath mein jooli hai, kisi nature bhi hai, Allah Taala bhi kahta hai, Ravi ne is time tabaahi, Ravi ne machaayi thi, theek hai, 2022 ke flood bhi aaye, woh bade flood the, koi mazaak nahin tha, lekin Ravi nahin tha, ab aaj ja ke guzro na, to Ravi aise sukoon se waapis chala gaya apni jagah pe, lekin tabaai aisi mein chaahie, aap Shorkot chale jo, kahin chale jo, hum Shorkot se yeh"
+  },
+  {
+   "start": 1957,
+   "text": "sunaata hoon, yeh tabaai Ravi ne machaayi, Chenab ne kuchh bhi nahin kiya, wahaan pe Chenab kareeb aaya, paas se guzar ke chala gaya, bachat hogi, lekin Ravi jab waapis aaya, unhein Chenab ka paani waapis maar diya, theek hai, to yeh basically, Allah, Allah ne bhi ek cheez ki hai, ab hum par hamaari blame game India par chali jaati hai, bhai, India apne aap ko dubo le, bishak dushman hai hamaara, sir, India apne aap ko nahin dubo sakta, to India ko paani kholna hai, India ko yahaan bhejna hai, yeh mix mein, achha hai, hamaari galtiyaan bhi hain, nature ke bhi hain, ab aate hain, ke PK ke waale side par, wahaan par tumhein video bhi ki, saari ki, yahaan par koi encroachment nahin hai, yahaan pe cloudburst hua, ismein kisi ka kuchh kasoor nahin tha, achha, haan, woh bhi kasoor nikal lein, taind par, aapne jo environment ke"
+  },
+  {
+   "start": 1992,
+   "text": "saath zyaadti ki hai, saari zindagi, aapne darakht kaat kaat ke beda garak kar diya, sir, woh jo Buner ke andar cloudburst hua tha, woh pata nahin kitne, 60 foot log keh rahe hain, 60 foot pahaad khul gaya, neeche, aur us ke andar se patthar nikla, jo ludakta hua, do-do man ka hai, ludakta hua gaya hai, sab kuchh tabaah karke chala gaya, theek hai na, to woh bhi hai, lekin us ki reasoning nikal aati, ke aapne kitna, woh deforestation, to woh jo pakad thi us ki, pahaad ki zameen ke saath, woh darakhton ki wajah se, jadon ki wajah se hoti hai, jo kam hogi, to is liye bhi landslidings and all stuff hua, to mix hai, match hai, to yeh hua hai, ismein koi do raaye nahin hai, aur hoga, kyun, kuchh, takreeban, aaj 11th of November ko"
+  },
+  {
+   "start": 2033,
+   "text": "AC baar baar chalate hain, to smog ne tang karna tha, is dafa hum keh rahe hain ke wow, pichhle saal smog ke nisbat smog yeh, to kismat ne kiya, hawa, khuda, chala gaya, koi yeh baat nahin kar raha ke India mein bhi smog nahin hai is dafa, utni, sirf Pakistan credit le ja rahe hain, nahin, aisa nahin hai, kaam hua hoga, nahin hoga, main us bahas mein nahin ja raha, lekin haalaat bahut tezi se change ho rahe hain, to hamein utni changing karni hai, agli baat aap ki planning, woh hum nahin karte na, hamein woh karni hai, hum long term kabhi nahin khelenge, jo bhi kaam karenge, hum short term khelenge, kisi ke dar ki wajah se khelenge, kisi aur masle ki wajah se khelenge, apni hukoomat chale jaane ki wajah se khelenge, shaayad dobaara hamein kabhi kuchh milna nahin hai, iske"
+  },
+  {
+   "start": 2070,
+   "text": "kisne long term policy banaai hai, aur phir agar kisi ne achhi policy bana di, agar woh aapne banaai hai, to agar main mulk ke saath sincere hoon, aur mujhe pata hai, yeh genuine policy hai, pehli baat to aapne genuine banayi hai, agar aapne bana li, to mujhe continue karna hai us ko, theek hai, dekhein, main abhi abhi bahut viral, hum to Pakistani viral ho jaate hain, koi bhi mil jaaye, to abhi jo New York ke mayor waali jo cheez viral hai, to main abhi kisi se nahin bata raha tha ke jo New York ke mayor ke liye do log lad rahe the, to in dono ne is tarah ek TV talk par baithe hue, to doosre ki tareef kar rahe the, yaar main lada hoon apne points pe, lekin is ki yeh baatein mujhe achhi lagi hain, agar yeh jeetega, to together we will work for the New York,"
+  },
+  {
+   "start": 2108,
+   "text": "and other way bhi yahi baat hui thi, hum yeh baat nahin kar rahe hain, yahaan mein hoti hi nahin hai, hoti hi nahin hai, kyonki hamaare agenda aur sirf, Allah ko haazir naazir jaanke, shaayad keh raha hoon, ke hamaare agenda hain yeh aise, hum, hum sirf bevaakoof banaane ke liye society mein aate hain logon ko, aur hum woh karte hain, aur khumyaaza main aur aap bhugte hain, ek aam person bhugta hai, flood mein bhi bhugta hai, har cheez bhugta hai, teesri part, mujhe yeh lagta hai ke koi bhi ek criticism hota, woh destructive criticism, constructive, to hum ne kiye hi kabhi nahin, achha, mera is pe ikhtilafi note is liye ke yeh mere bada close to heart hai, meri NGO banne ka point of view, agenda, main ne yeh shaamil hai,"
+  },
+  {
+   "start": 2145,
+   "text": "log poochhte hain, to main kehta hoon, ke mujhe criticism ka bahut shauq tha, hai, aur hamesha rehta tha, lekin main jab criticism karta hoon, ke yeh hukoomat ne yeh nahin kiya, logon ne yeh nahin kiya, society, society ne yeh nahin kiya, to counter questioning aajaata tha, ke aapne kya kiya, aur mujhe jo sabse dar cheez chubti thi na, bahut young age ki baat kar raha hoon, to jawaab hota tha, ya mujhe se badon ka bhi, hum to abhi student hain, hum kya kar sakte hain, so that was the biggest pain point, agar aap word boloon na, to yeh tha ke yaar main bhi bahut kuchh kar sakta hoon, to NGO ki ek wajah, peechhe logic yeh bhi thi, Allah ka shukar hai, 16 saal baad baitha hoon, main bataana sakta hoon, kya kuchh kuchh kiya, to main, phir, main kehta tha ke yaar is ko criticism"
+  },
+  {
+   "start": 2175,
+   "text": "kiya hai, aur main, meri wajah se is mulk mein na 400 bache padh rahe hain, to constructive criticism ke aad mein hum bahut kuchh kar lete hain, theek hai, aap ko apna kaam honesty se kar lo, that's the biggest thing, doosre ke kaam mein kyun laat rakhte ho, aap podcast karein, main podcast karoon, mera kaam hai jo, meri video bana rahe hain, main us ke kaam mein, ya to pehle professional hire karoon, agar professional hire kar liya, theek hai, kaam mein laat na maaro, agar ladna hai to ijaazat leke karoon, aur pehle apna 100% ho, hum apna 100% nahin karte, tamaam hamaare, main, tamaam hamaare log, apne apne kaam humse ho nahin rahe, theek hai, doosron ki taangein aadaate hain, doosron ko mushkilein badhaate hain, aur phir woh cheezein nahin chalti hain, to yeh jo aap ki baat hai, criticism kar lein, lekin aapne aaj tak tak"
+  },
+  {
+   "start": 2215,
+   "text": "is mulk ko kya kiya, ek aur cheez, iske important, main leadership padhaata hoon, to main leadership mein ek line bolta hoon, charisma jo hota hai, charismatic leadership, aap hamaare Pakistan mein doondhein charismatic leadership, us ki definition hai chhoti si, jo main understand, jo mujhe pasand hai, logon ki aur bhi definitions hongi, ke jo power hai na, it's your personal power, it's not your position power, aaj mere aur aapke aur hamaare is mulk ka masla yeh hai ke har ek ki power, us ki position power hai, CM, PM, army, army chief, yeh woh, judge, wakeel, sab, that's not their personal power, nahin hai, aapse woh power chheen li gayi, aapse woh position chheen li gayi, aap gaayab hain,"
+  },
+  {
+   "start": 2254,
+   "text": "lekin abhi amendments ho rahi hain, kuchh ke life time ke liye, lekin woh is liye ho rahi hai na, woh is liye ho rahi hai na, mere bhai, aur us ke baad bhi bahas hai, us ke baad bhi bahas hai, dekho, main kaise tumhaara muawza nahin kar sakta, main to phir jo marzi karta rahoon, yaad hai, maine 2013 ke baad hai, 2013 election ke baad hai, to mere na university se waapas aa raha tha, to maine ek dost ko, to argue ho raha tha, to maine tab us dost ko ek baat kahi, maine, maine, yaar, dekh, tu yeh pata lage, ke main ek idaarah chala raha hoon, aur tu yeh pata lage, ke main woh sahi se nahin chala raha hoon, usmein kuchh embezzlements, usmein kuchh plus minuses kar raha hoon, will, will you ever be giving donation to me again? Ya mujh par trust karoge? Usne kaha,"
+  },
+  {
+   "start": 2288,
+   "text": "nahin, main ko phir bhi trust kar leti hoon, theek hai na? So, humne bevaakoof banaaya hua hai, apne aap ko, awaam ko, aur kyonki mera kuchh nahin bigda abhi tak, to main mohrein laga deta hoon, ke yaar, oke, yeh bhi, woh bhi, oke the, woh bhi oke the, aur hum kar nahin rahe, hamein karna padega, hamein sochna padega, life mein apni zindagiyaan ji nahin hain, main to bilkul yaar sochta hoon, abhi bhi yahi sochta hoon, kis zindagi hoti hai, ke aage kya hoga, mere baad kya hoga, main kaisa mulk chhodke ja raha hoon, main kaisi zindagi chhodke ja raha hoon, ji li ya yaar, theek, abhi bhi young hai, I'm 33 only, lekin it doesn't mean kar nahin, lekin phir bhi main bahut kuchh nahin badal sakta, lekin main kuchh aisa kaam karoon, aapke saath, like-minded logon saath miloon, kahin yeh miloon, wahaan"
+  },
+  {
+   "start": 2330,
+   "text": "miloon, jaake kuchh shaayad impact ho, jab main is duniya se jaoon na, to duniya yeh kahe, enu nahin jaana chaahie si, sirf yeh, bahut jaldi chala gaya, is ka to abhi aur zaroorat thi, mujhe saare log kahein, log royein, mera ek khwaab hai, Allah mera poora karayega, woh zindagi mein nahin poora hoga, kyunki us ke baad poora ka khwaab, us ke baad ka hai, ke jab main maroon na, to crore log ro rahe hain, laakh log ro rahe hain, crore log, laakh log, ro-ro rahe hain, ke yaar yeh kya ho gaya, khaandaan waale to royenge, saara kuchh, lekin woh karenge, yaar yeh isne hamaari zindagi mein bada kaam kiya tha, isne bada touch kiya tha, woh karna chaahie, bilkul, jaise start mein main baat kar raha tha, impact create karna, to are we willing to like change lives, ya sirf hum bas logon ko nazar aana jaaye, ke aap jo sector ke"
+  },
+  {
+   "start": 2368,
+   "text": "waale se baat karein, sir, that's a dilemma, that's a problem, society ka, ismein meri kal bhi ke ek jagah mein visit pe gaya tha, aap ko pata hai, to yahi discussion hui, yeh bhi hai, story thi, jo dikhta hai, woh bikhta hai, theek hai, mujhe sabse bada, mere paas sabse bada criticism kya, aap ko pata hai, meri organization 16 saal ho gaye, aur mustaqil nazar nahin aaye, nazar nahin aaye, aap kitna jaante hain mere kaam, nahin jaante hain, main nazar nahin aa raha na, lekin aap jab visit karte ho, kaam nazar aata hai na, theek hai, to that's what we have been trying to do, hum base bana rahe hain, cheezein kar rahe hain, ke yaar major chunk, jis kaam hone pe ho, dikhne bana ho, jo jaaiz hai, jo right hai, woh right ho, yahi nahin hai, yaar bas kari jo, kari jo"
+  },
+  {
+   "start": 2403,
+   "text": "dikhaai jo, apne bhi jebein, woh kar dein, to aap bhi apna footprint karwaane start kar dein, phir jo cheezein aap logon ko dete hain, sir, woh phir aapne hand pump lagaaya, us ke baad paise laga le, usmein apni jaati lagaaoonga, to phir jaati cheez reh jaayegi, ab masla yeh hai ke jo aapne baat ki, woh promotional staff ke, aapne khudi costing bata di, theek hai na, Islam bhi kuchh kahta hai, hamaari liye to kahta hai, government officials ko nahin kahta, rahaasat ko nahin kahta, us ko nahin kahta, aur mere saath to awaam, rahaasat hoti hai, lekin ek percentage hai na, mere bhai, admin cost ki percentage hai, ab yeh aapke dimaag ko suit karta hai ke aap ki cheez 10 rupae ki hai aur 50 rupae ki us ke upar branding ho, ya XYZ, mujhe to suit nahin karta hai, ek ratio diya na, system ne, Charity Commission ne"
+  },
+  {
+   "start": 2440,
+   "text": "bhi ratio diya, nahin diya, gaalban us ka Charity Commission ka nahin hai, lekin PCP ka hai, FBR waalon ka rules hain, saara kuchh, woh ek rules hai, hamein us ko follow karna hai, ke hum admin cost kitni laga sakte hain, marketing, yeh woh saari cheezein, aur zaati taur par, ab 100 rupay mere paas aaya hai, hamein 100 rupay mein se 80 rupay marketing aur branding par laga do, 20 spend karo, halaanke is ki other way around hona chaahie, theek hai, 80 rupay jaayein kaam se kam, aur 20 rupay aap ki branding, marketing and admin par jaayein, so what we do, hand pump, yes, we do that, we do, hamaare logo lagta hai, hamaare donor ka naam, us ki zyaada se lagta hai, agar usne likhvaana hai, hamaara serial number lagta hai, hamaari yeh saari cheezein lagti hain, but hamaari apni tasveerein nahin lagti, kyonki woh matter nahin kar rahe, aur idaarah banaane"
+  },
+  {
+   "start": 2477,
+   "text": "hain, aur ultimately us ka faaida koi nahin hai, aur hamaare saath hua hai, flood mein, yeh hum bahut saari jaghon par roke gaye hain, hamein indirect hua hai, ke yaar aap iske baghair yeh kaam nahin kar sakte, phir bhi, lekin phir hum kaam, kaam hi wahaan wahaan kiya hai, jahaan pe, hum karte bhi wahi pe kaam hai, jahaan pe koi aur na pahunch sake, hamaari koshish hi hoti hai, ji, theek hai, is jagah pe kaam kiya, government nahin pahunchi, koi baat nahin, hamein reference se pahunch gaye, yahaan kaam kar lein, thoda kar lein, saaf sutra kar lein, aur impactful kar lein, ab aap ko roka gaya, aur government special ke liye, distributions ke liye, agar aap wahaan pe baithein, jahaan pe sarkaar bade araam se baithi hai, to us ko prefer nahin kiya gaya, aap, kahin jo dekhna, aap Gujarat ka notification hai, ke yahaan pe"
+  },
+  {
+   "start": 2513,
+   "text": "aap food distribute nahin kar sakte hain, us ka sahaara yeh liya gaya, ke food testing honi hai, aaj tak, pichhle 70-78 saalon mein food testing kiya aapne, aapne regular, aapne karein, food testing kiya, ke ji jo khaana baanta ja raha hai, food testing nahin rahi, us ki reason, ke jab tak thappa nahin lagega, tab tak woh cheez nahin ho saki, ke to khaana pehle submit karaao, degein submit karaao, dabbe submit karaao, aur hum us ko woh karenge, to hamein bhi kuchh jaghon par hua hai, face hua, lekin theek hai, ho gaya, kar liya, aapne kar liya, woh bade masaail hain, jo aapka main point tha, woh jo aapne achieve karna tha, aapka yeh nahin tha, aapne un se upar jaana hai, hamaare nahin tha, lekin hamaare donor ka masla hai, hamein donor ko dekhna tha, humne donor driven mein cheezein chalaani hoti hain, donor"
+  },
+  {
+   "start": 2550,
+   "text": "ne kaha, yeh kaam karna hai, karna hai, ab aap donation, maine di, diya, aur aapka main tasveerein kaise laga sakta hoon, theek hai, to woh cheezein nahin hoti, lekin theek hai, appreciate, jahaan bhi main criticism karta hoon, I'm not like that, to wahaan bhi appreciate bhi kiya, log government on the ground level pe nazar bhi aayi hai, bahut saari jaghon pe, inhone tents bhi lagaye hain, camps bhi lagaye hain, cheezein bhi lagi hain, woh kuchh nazar bhi hain, aur jo movement thi, woh hui hai, jo ke shaayad, I was not expecting ke itni hain, but still there was a biggest problem, as a disaster management ka bande ki baat karoon, to main bahut afsos mein rehta hoon, hamesha se NDMA ke upar, National Disaster Management Authority bani hai, woh kis liye bani hai, woh is liye bani hai, ke liaisons create hon, ikatthi cheezein ki jaayein, hamein total ek is"
+  },
+  {
+   "start": 2588,
+   "text": "dafa aaya hai, shukar Allah ka, main credit deta hoon is baat ka, ke message raabta hua hai, is dafa raabta kya hua hai, just imagine, aap kaha activity karne ja rahe hain, aap hamein bas us ki detail bata dein, kai dafa haapta hua hamaare WhatsApp, hamaare official numbers par, to maine team ko yeh kaha ke un se poochhein, aap hamein kya facilitate karenge, hum yeh jagah par ja rahe hain, aap kya facilitate karenge, nahin, sir, hum database mein entry kar rahe hain, yeh kar rahe hain, taake aap ko koi cheezein pata lage, theek hai, phir fair enough, kaam karna, karenge, aur kar rahe hain, dhadalle se kar rahe hain, Allah khair kare, aapka main maksad tha, woh aap is ko dekh rahe hain, to out of all those initiatives, is ko aap, taken, koi ek initiative jis pe aap bahut proud feel karo, main bhi woh is wajah se nahin ke"
+  },
+  {
+   "start": 2627,
+   "text": "yaar usse mera naam hua ya PCA ka naam, woh nahin, woh overall aap us ko, ek kya se, us ko, ek qayaas to zyaada close to heart ho jaata hai, to different, ek hamaara bachcha tha jisko humne scholarship diya aur woh bahut achhe level pe Pakistan se baahar baitha hua hai aur bade achhe kaam ka raha hai aur us ke waale sab chikar chole ki dhaaba lagaate the aur usne LUMS se graduate hua hai aur pata nahin ka aur woh thorough journey humne leke chali, to main hamesha apni poori team ko kehta tha, us ki fees hum pe kaafi, LUMS mein scholarship par padha aur aage saara, lekin baaki ab saari jagah mein us ki, to main phir team ko tab kehta tha, yaar is ka credit mera hai, to ke is ki guidance, is ki saari cheezein maine ki, ab agar main baat karoon na, aaj aap ki is question, hamaara"
+  },
+  {
+   "start": 2669,
+   "text": "ek project hai jo mere bahut close to heart and mera bahut favorite hai, that is Hashim Raza Isar Store, Isar Store hai hamaara, Isar hamaara ek project hai, us ke neeche bahut saare projects hain, Isar Water, Isar Health, Isar Store, Isar Store ka basic concept hai ke hum subsidized raashan dete hain needy families ko, up to 45%, aap kahrein, discount mein dete hain, hum un ko lines mein laga ke, aate ke lines mein laga ke raashan ka concept, nahin, karte hain, hum par registered families hoti hain, hum un registered families ko monthly up to 45% raashan dete hain, subsidized, theek hai, aur woh aayein, card bane hue hain, aur humne 200-200 registered ki hui hain, jinke school mein hamaare paas bachche padhte hain, baahar waalon ke liye bhi, hum stepwise aage move karenge, to baatein hain, sirf cheeni leni hai, ke log cheeni"
+  },
+  {
+   "start": 2707,
+   "text": "le jaayein, cheeni market mein 180 pahe hai, to is mein hamaari 120 chal rahi hai, achha, you mean like har ek item pe 45 pahe hai, up to, kisi pe kitni hai, kisi pe 30 hai, is overall, kisi pe, kisi pe, kisi pe, sabse zyada use hota hai, us par karam, 45 daane lag jaayein, to kaam khatam ho jaayega, to kisi par shaayad 22 percent hai, kisi par kuchh hai, ab to hai, theek hai, lekin har ek par discount, discount, discount, mujhe main cheeni ki example de di, 180, agar market mein chal rahi hai, to hamaare paas 120 chal rahi hai, woh 190 hogi, hum 125 kar denge, kisi aur ki subsidy kam karenge, is ki badha denge, jiski short hai, to yeh hum karte hain, woh is liye close to heart hai ke yeh daily wager jab aata hai na hamaare paas, to us ko"
+  },
+  {
+   "start": 2740,
+   "text": "pata lagta hai ke yaar main kuchh leke ja raha hoon, doosra close is liye hai, is ko humne rename kiya hai, ke yeh daily wager jab aata hai, 19 years old, Hafiz-e-Quran, bahut pyaara insaan, to mere dil ke bahut kareeb tha, haan, balke woh kuchh aur saal pehle maine, aapne viral dekhe hain, to bada viral, social media ka bada viral case raha, usne cancer ko lada, aur he was like this and he died like this, aur us ki pictures viral hain, abhi bhi aap Facebook par likhenge Hashim Raza, cancer, ya Hashim Raza, to aap royenge, hai, lekin maine us ki zindagi mein hi koshish shuru kar di thi ke ji hum us ke naam ki cheezein karein, hum us ko rename karein, to ek to us ke saath yaadein hain meri, to is wajah se, aur doosra maine aap ko, cause bata di, in donon cheezon ke par se, that's very close to"
+  },
+  {
+   "start": 2790,
+   "text": "my heart, aur main har jagah isi ke upar kaam karne ki koshish karta hoon, kyonki is ka impact bhi bahut zyaada hai society ke upar, aur doosra ek naam ka bhi hai, aur main us ke naam ko waise hi zinda bhi rakhna chaahta hoon, us ka naam is liye re-name kiya humne, ke us ka sabse zyada dil hamaare saath raashan pe lagta tha, to raashan campaign pe hamaare saath sabse zyada kaam karta tha, charity ke jitne bhi initiatives leta tha, woh hamaare saath karta tha, to maine woh, phir humne kaha, decide kiya, ke hum us ko re-name karenge, that's very close to my heart, more power to you, thank you. Achha, donations don't always reach the needy, agar hum is ki baat karein, just like, for example, main ek donation dena chaahab, to woh aap ko kya lagta hai, kya criteria's jo hona chaahie, jo mujhe consider karne chaahie, ke achha main"
+  },
+  {
+   "start": 2827,
+   "text": "is organization ko, jisse ke donation de raha hoon, to kya criteria's hai, ke yeh woh needy tak pahunchegi, ya kya process hoga, woh ek do criteria, agar kar bata lein, ismein mujhe phir meri hi sector ke log naraaz honge mujh se, lekin boloonga, acha, main yeh, in the passage of time, saalon ke baad, ab mera agenda yeh ban gaya, is cheezon ko dekhte hue, aur bahut saare fakeness aur scams aur is cheezon ko dekh ke, main donor ko aware karta hoon, aur unhein kahta hoon, koshish karein, karein, maximum hattol imkaan, koshish karein, ke registered organization ko charity dein, registered, okay, theek hai, unregistered hai, to us ke record keeping ke bade masaail hain, ab registered organization ko do, to pehla, naam registered ki taraf, jo, number two, usse receipt laazmi lo,"
+  },
+  {
+   "start": 2867,
+   "text": "make sure karo ke he or she should give you the receipt, ek din baad de dein, system timing, delays, whatever, receipt do, kyonki jab receipt karti hai, to kisi nahin kisi khaate ke andar woh recording mein aati hai, theek hai, jo unregistered hote hain, woh yeh kaam nahin karte hain, woh bishak apne kagaz par kaad kar dete hain, lekin unka koi audit nahin hota, un ki koi aur cheez nahin hoti, registered organization mein bhi still masaail honge, audit baaz ja lenge, yeh kar lenge, woh lekin at least ek initial stage par to asaani hoti hai na, to main yeh kehta hoon, ke humne bhi saari cheezein is tarah guzaar rahi hain, but main yeh keh raha hoon, let's put it, it's your organization, aap non-registered hai, unregistered hai, to mera aap agar bahut trust hai, to main aap ko doon, lekin aap ko force karoon, agar aapne long term"
+  },
+  {
+   "start": 2903,
+   "text": "kaam karna hai, ke bajaye registration ki taraf ho, tak kisi kisi log ke andar to aao, kisi cheez ke andar to aao, asal mein hamaara masla yeh hota hai, aur meri ek nature hai, main sadak par khade hue kisi ko nahin deta, jo knock karta ho, ke main charity karta hoon, mujhe pata hai, lekin main us ko nahin deta, hai ke main yeh verify nahin kar sakta, aur meri woh nature nahin hai, ke theek hai, maine sau dena hai, main sau kahin aur de doon, main sau aana doon, to meri ek soch hai, main yeh keh raha hai, ke white collars badhe pade hain, ghareeb log nazar aaye hota hai, nahin deta, to donation apni jagah is liye bhi nahin pahunchti, kyonki hum donor dete hue sahi tareeke se act nahin karte, maine aap ko donate kiya, aapne mujhe donate kiye, to number one kaam aapka yeh hona"
+  },
+  {
+   "start": 2940,
+   "text": "chaahie, pehle to aap dekh lein, theek hai, registered trust aur yeh saari cheezein dekh lein, achhi baat hai, dosti ke to trust hai, bahut achhi baat hai, registered nahin hai, to chalo, theek hai, teesra, aur, sub se pehle, receipt maango, mujhse mera donor, 95% mera daata donor, mujhse receipt nahin maangta, trust hota hai, main un ko bhej deta hoon, ya kaatta jaroor, main naam poochh leta hoon, ke naam batao, kiske naam se kaatni hai, kyonki kaatni zaroori hai, kyonki woh banega, phir bank account mein bhejo, ek aur cheez hai, registered organization ke bank account, jis paise ne mere NGO ke account mein chala gaya na, to woh mere banking ke statement mein aa gaya, theek, theek hai, woh aaye, gaye, aaye, yeh chhoti chhoti baatein hain, ab main tumhaare account mein bhej doon,"
+  },
+  {
+   "start": 2979,
+   "text": "is ko nahin pata, mujhe nahin pata, ke tumhaare account mein ek laakh rupay aaya tha, bees laakh rupay aaya the, to behtar hai ke registered, aur mujhe cash bhi na do, mere, meri team ko, mere un ko bhi na do, do ke mujhe nahin pata, maine tumhein us ko diya, Allah maaf kare, us ki niyat mein fatoor aajaaye, koi cheez cheez hai, plus minus, aaj hai, tumse do saal pehle, lekin aap ko, tak, screenshot aagaya, aap ko pata lag gaya, account mein chale gaye, mujhe woh us paise ko dikhaana hai, apne income mein zaroor dikhaana hai, ke yeh income aayi hai, baaki yeh, to yeh kuchh kuchh cheezein hain, baaki mein yeh khyaal karein, logon ko dekhein, de karein, aur usse kaam karein, hamaare trust ka bahut issue hai, main ismein agar aapke time ko, sirf chhota sa le ke baat karein, dekho, pata hai kya hai,"
+  },
+  {
+   "start": 3020,
+   "text": "flood aate hain, yeh cheezein aati hain na, mera society ke saath do teen cheezon ka ikhtilaaf hai, hum khud aware nahin ho rahe, hum cheezein nahin karte hain, zakat, mera sabse favorite topic hai, hum zakat sahi se utilize nahin karte hain, utilize dete nahin hain sahi se, pehle to hum dete nahin hain, main to zakat samajh nahin aayi humne, humne bade tareeke rakhe hain, itne tole sona, yeh woh, phalaana, humne badi dandiyaan, har phir maari hui hai, to pehle to hum woh nahin samajh rahe, itna khoobsurat nizaam hai, yaar, jab ka main, jab jab padhta hoon, jab jab padhaata hoon na, main khushi se paagal ho jaata hoon, ke Allah ne yeh nizaam banaaya, dekho, aaj bhai, mere paas paise nahin hain, Allah ne bada seedha sa nizaam rakha, mere paas paise nahin, main bada well off tha, aaj achaanak, maine calculation,"
+  },
+  {
+   "start": 3055,
+   "text": "jo hisaab rakha hai Allah ne, woh us hisaab ke upar aaya, main ek kanal ki kothi pe reh raha hoon, lekin jo Allah ka hisaab hai, woh proper us par kiya, to mujhe, mujhe zakat lagti hogi, to main aapse zakat le loon, agle saal hogi calculation, mera jo income hai, meri yeh jo hai, mere kharche jo hai, woh proper hain, aur main zakat ke criteria, nisaab se upar chala gaya, to main zakat dene waala ban gaya, kya masla hai? Humne itna mushkil bana diya, theek hai? Nisaab ko samajhte hain, cheezon ko samajhte hain, yaar, aaj agar main jahaan baithta hoon, zakat calculator karte hain, kai log karte hain, hamein to zakat banti nahi, main un ki calculation nahin karna, main gaya, dekho, do saal banti hai, aap ki teen saal banti hai, teen saal zakat dein, nahin, ne, bas do system banaao, to ek yeh, doosra, zakat"
+  },
+  {
+   "start": 3092,
+   "text": "ki utilization kis tarah karte hain, maine paanch hazaar tumhein diya, paanch hazaar use diya, paanch hazaar use diya, das bandon ko maine 5,000 de diya, aur mujhe laga ke maine 10 logon ko diya, to mujhe sawaab zyaada mil gaya, halaanke sawaab to bhai, us 50,000 ka milna tha, ab main kisi ek bande ko de deta, us ki tamaam needs poori ho jaati, to asaani tha, ab maine ek ko di, usne education ka masla mere taraf solve kiya, health ke masle ke tumhaare paas aa gaya, woh bhi das bandon ke paas ghoom raha hai, to hum asaani se ek bande ko dhoondein, us ki karein, iske upar mere ek ustaad ne mujhe bataayi thi, hain, to business ke ustaad, LUMS mein main unke saath trainings karta tha, to unhone kaha, ji, main Aligarh University ke jo Islamic Studies department ka jo head tha na, dean tha, us ke"
+  },
+  {
+   "start": 3134,
+   "text": "saath, Almas Haider sahab, ustaad ka naam hai, mere bade pyaare business guru hain woh, to unhone kaha, ji, maine unke saath ek travel kiya raha, to jahaaz mein wohi ikatthe mil gaye, to maine unse poochha ke, sir, masaarif-e-zakat, Allah ne aath bayaan kiye hain, theek hai, lekin ke in in ko zakat de sakte hain, lekin in mein se bhi kis ko main doon to zyaada achha hai, to unhone kaha, ke itna pehla jawaab un ko diya, unhone hamein jab bataaya, to main tab se kehta hoon, yaar, behtari is liye, maine aap ko yeh pehla example di, aur ne ne kaha, yaar, kisi aise bande ko zakat do, taake woh agle saal zakat lene waala na rahe, theek hai, vicious cycle todna hai na, zakat ne, aur, Umar Farooq ke daur mein, unke kya tha, tha, yeh cheezein ke, daro, koi zakat lene waala nahin aa"
+  },
+  {
+   "start": 3168,
+   "text": "raha tha, wohi daur tha na, aaj yahi, to, zakat dene waale bhi hain, zakat lene waale bhi hain, har doosra banda, tumhaara workers bhi, mere workers bhi, sab zakat, zakat, zakat, zakat, zakat, aap ko pata, vaise nahin hai, log keh dete hain ke Pakistan the largest, biggest country, charity, number one, nahin hai, number two, number three honge, lekin hain na, hum bahut, pretty, charity karte hain, bade floods pe aap dekho, anna paisa diya, nahin, jo hi media se flood ghaib ho, hai, paise aane band, zero penny nahin de rahe log, kaise hain, kyonki media se ghaib ho gaye cheezein, aur jab peak pe tha flood, yeh waala, ab hum paagal ho gaye the, hamein jo funds aa raha tha, hum khud paagal ho gaye the, yaari, kya ho gaya hai hum pe, itni samajh aa rahi hai, hamein yeh yeh yeh kaam karna, to yeh yeh cheezein hain, so"
+  },
+  {
+   "start": 3209,
+   "text": "that is how you have to work on those grounds, and your sector, aur bure nahin hai, achha hai, aap khud aayein, aage kaam karein, hum is liye baithe hain, hum is liye kaam kar rahe hain, ke agar aap ko doosron par mistrust hai, to aap khud ke liye proper tareeke se, registered karke, system se, aur long term chalne ke liye, chaar din ke liye, maine aaj khaana khila diya, aaj degein khila di, yeh, yeh wala din nahin, long term chalne, charity ko charity samajh ke chalein. So what do you think, what is success? A good question, main ek, sab se bhi poochhta hoon, har ek ke liye different hota hai, theek hai? Main success ko aise define karta hoon, success is living your life with purpose, creating impact and living a legacy, so mere teen favorite top words hain, jo ke maine ismein sumaaye hain, ke purpose,"
+  },
+  {
+   "start": 3250,
+   "text": "impact or legacy, aap ko zindagi is tarah jeeni hai, theek hai, ke main agar main yeh kar raha hoon, to main successful hoon, to ke har ek ki definition different hai, main agar purposeful jee raha hoon, jo mera purpose tha, mera vision tha, main us ke liye jee raha hoon, to main successful hoon, main impact create kar raha hoon, aur agar main marne ke baad apni legacy ko chhod ke ja raha hoon, achhi legacy, to main successful samajhta hoon, otherwise success hai chhoti chhoti cheez mein doondni hai, aap tab tak successful nahin hote, jab tak ke aap ko jo chaahie woh mil na jaaye, common example main quote karta hoon, to badi common, aap to different bhi ho gaya, lekin hum quote karte hain, 99 number lekar ladki ro rahi hoti hai, ke mera ek number kam hai, usmein teen bachche pass, ladke pass ho jaate hain, success ki"
+  },
+  {
+   "start": 3293,
+   "text": "definition hai, woh kehta hoon, Allah ka shukar, pass ho gaya, different hai, to meri definition mein aakhir aata hai, purpose, impact, legacy, if you are doing that, mere liye, baakiyon ke liye nahin, baakiyon ke liye, main, har ek ko, to apni khud define karo, apni apni duniya aap paida kar, agar zinda mein hai tu, to woh apni khud banae, meri definition yeh teen words hain, agar main yeh kar raha hoon, to main successful hoon, although advices to kaafi hain, woh hogi, but ultimate advice for maybe youngsters, woh kisi bhi respect se ho sakti hai, woh yahi teen baatein hain, meri apni, purposeful life, impact or legacy, kyun kaam karein, bhool jaayein duniya mein kya ho raha hai, kya nahin ho raha hai, agar aapka purpose clear hai, you have to work hard for that, maarein padhengi, thudde padhenge, zindagi mein hai, to aap ko woh karna padega,"
+  },
+  {
+   "start": 3336,
+   "text": "iske saath jo main hamesha ek message deta hoon, ke na zindagi do tarah ki hai, infiraadi ya ijtimaai, aap is ko define kar lo, ke aap kaisi zindagi jeena chaahte ho, lekin jo khoobsurti hai na, jahaan par mujhe lagta hai ke clarity aap ko chaahie, phir aap ki clarity waala word aa gaya hai, clarity, jahaan par aane jaaye, and that is, ke in ko intermix nahin hona chaahie, main saari zindagi infiraadi zindagi jeeta hoon, main, main, mere maa-baap, meri family, mere bachche, mera career, mera saara kuchh, ismein koi buraai nahin hai, main iske liye baahar bhi chala jaata hoon, baahar padhaai karta hoon, saara kuchh karta hoon, achaanak mujhe yaad aata, yaar mulk mein yeh ho raha hai, idhar hi ho raha hai, family mein yeh ho gaya, phalaana ho gaya, ab main problem, ab yahaan main mix kar raha hoon, other way around, main saari zindagi"
+  },
+  {
+   "start": 3375,
+   "text": "ijtimaai zindagi jeeta hoon, society ki fikar bhi karta hoon, apni bhi family ki bhi karta hoon, lekin apna aap thoda kam rakhta hoon, ek society aur saara, impact, kisi bhi tareeke se, impact, job creator hoon, ya kuchh bhi hoon, phir achaanak mujhe yaad aata hai, yaar, mera doston, to, to, din, kaam, pahunch gaya hai, us ke paas itni gaadi hai, us ke paas to yeh hai, woh infiraadiya tha, hum jab is ko mix karte hain, tab problem hoti hai, to infiraadi aur ijtimaai, tumhaari zindagi, well before define kar lo, ke aap kaun si zindagi jeena chaahte ho, donon mein koi buraai nahin hai, jeeo, aur khulkar jeeo, jeeo, jeeo, bilkul, na, to jo ek satisfaction hai na, aap to obviously use relate karte honge, purely relate karte honge, to for me, jo ek satisfaction hai na, woh yahi hai, auron ke kaam aana, aap ko lage, main se"
+  },
+  {
+   "start": 3413,
+   "text": "disagree is liye kar raha hoon, ke aap ko lagta hai, kyun, ko yeh nahin lagti, theek hai, main yeh karoon, ke yeh define kar lo, khud define, theek hai, ke aapne infiraadi, aadi jeeni hai, ijtimaai, koi masla nahin, nahin, nahin, nahin, duniya ka best bano, Allah Taala ne, main ka, momin ke liye kya definition thi, hum sirf taaliyaan bajaate hain, Jabir bin Hayyan hamaare the, Ibn al-Haytham hamaare the, yeh hamaare the, aap aur main kaun hain, kabhi maine, kabhi aisa hua hai ke mere peechhe koi baitha, duaayein, taaliyaan, mere liye, nahin, mujhe tumhaare liye taali bajaate rehna hai, ke yeh mera dost tha, kabhi yeh hoga ke tum mere liye taali bajao, ke main itna koi achha kaam karoon ke mere liye taali baje, ke maine koi achha kaam kiya tha, woh hum nahin karte hain, we have to live our life selflessly, thank you"
+  },
+  {
+   "start": 3448,
+   "text": "so much, end mein hamaare ek chhota sa fish jar question hai, aap ismein se ek sticky note lein, us ka answer just kar dein, aur apna ek question ismein likh ke, ismein drop kar dein, aur kiske, next guest ke liye, ismein jitne bhi hain, yeh guest, nahin ke, hue, jaane, ji, when and how we can compete with foreign standards, yeh standards hoga, I don't think so, woh kehte hain ke mayoosi gunaah hai, main mayoos nahin hoon, lekin jo halaat hain, every day, every second day, aur aaj jab hum baat kar rahe hain, aur par jo aapne amendments and everything ke baat ki hai, aaj main shaayad yeh kahoonga ke shaayad hum kabhi bhi foreign standards ko meet nahin kar sakein, kyonki hum woh karna nahin chaahte hain, hamaari niyat to hamein nahin hai, mayoos nahin ho, ho sakta hai woh mere haath ho jaaye, aapke haath ho jaaye, meri"
+  },
+  {
+   "start": 3488,
+   "text": "aane waali nasal ke haath ho jaaye, aur shaayad ho jaaye, lekin hamein karna hai, hamein zaroor karna hai, aur mayoos hona mujhe lagta hai yeh shirk hai, theek hai, mayoosi jo hai na, hum kehte hain mayoosi gunaah hai, to woh shirk ke ek aur zariya hai, kyonki Allah ki zaat ke bhi jaayein, hum kisi aur se keh lete hain ke yaar dekho, kyonki Allah nahin kar paayega, is system nahin badal sakega, yeh niyat hai, to main mayoos hoon ga, that is what shirk, ke hum Allah ki jagah kisi aur ko rakh lete hain, to mayoos nahin ho, lekin jo to question hai, us ka jawaab yeh ke abhi tak to haalaat hi lag rahe hain, ke nahin ho sakta, last but not the least, aap apne standards aap kar lein apni field ke, main apne standards aap kar loon apni field ke, to hum shaayad"
+  },
+  {
+   "start": 3518,
+   "text": "individually kar kar lein, as a community, shaayad, ya as a system, hum shaayad, na kar sakein, kyonki hum woh karna nahin chaahte hain, woh hamaari priorities nahin, aur shaayad priorities top se aati hain, ab jo top ki priority woh nahin hai, aur woh kehta hai, ke tum use sawaal nahin kar sakte hain, main tum se sawaal nahin kar sakta, to phir, I am very less positive for that, but still apne liye main positive bahut hoon, aur aapke aur hum sab society ke liye positive bahut hoon, theek hai Adeel bhai, thank you so much, shukriya aap, keep up the good work, and we are really proud of you, thank you, thank you, salein viewers, thank you so much again, ending with that typical line, agar aap logon ne subscribe nahin kiya to, do subscribe, taaki hum is tarah ki ek positive discussion jo hai woh"
+  },
+  {
+   "start": 3553,
+   "text": "aapke liye leke aate rahein, aur again, keep donating, maybe kisi bhi, jo bhi, abhi humne discussion ki, us ki recording, lekin aap ko lagta hai PCA is a good organization, jo ke ek achhe way se spend karti hai, ya koi bhi ho sakti hai, to keep donating, thank you so much, and see you next episode, Allah Hafiz"
+  }
+ ],
+ "transcript_note": "This transcript was generated automatically with speech-to-text and lightly edited, so some words may be wrong, and passages that could not be made out are marked [unclear]. The first tab shows what is spoken in the video: Urdu written in Roman Urdu, with English kept as spoken. The English tab is a translation of the same transcript. The video is the authoritative version.",
+ "topics": [
+  {
+   "label": "Real vs Reel Charity",
+   "icon": "society"
+  },
+  {
+   "label": "What an NGO Is and How It Works",
+   "icon": "business"
+  },
+  {
+   "label": "Gen Z, Parents and Mental Health",
+   "icon": "psychology"
+  },
+  {
+   "label": "Pakistan Citizens Alliance and Its Work",
+   "icon": "stories"
+  },
+  {
+   "label": "Floods and Disaster Relief",
+   "icon": "affairs"
+  },
+  {
+   "label": "Zakat and Giving It Right",
+   "icon": "mindset"
+  },
+  {
+   "label": "What Success Means",
+   "icon": "mindset"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Who is Muhammad Adeel Javed?",
+   "a": "Muhammad Adeel Javed is the founder and CEO of Pakistan Citizens Alliance (PCA), a social impact strategist, humanitarian and educator who has spent 15+ years uplifting communities through education, youth empowerment, fundraising and disaster relief. He was born in Faisalabad and has lived in Lahore for the last 23-24 years."
+  },
+  {
+   "q": "What is Pakistan Citizens Alliance (PCA)?",
+   "a": "Pakistan Citizens Alliance is a registered non-governmental organisation based in Lahore, working across four domains: the Education Support Program, the Volunteer Development Program, the Disaster Management Program and the Community Development Program. It runs two schools with around 550 students, a Volunteer Flagship Training Program that has trained more than 2,000 volunteers, and the Isar Store, which gives subsidised rations to needy families at up to 45 percent off."
+  },
+  {
+   "q": "What is the difference between real and reel charity?",
+   "a": "Adeel says real charity is help given off camera, while reel charity is help performed for the camera. In the episode he gives the example of flood-relief packages whose promotion cost more than the items inside them, and of officials who put their own photos on hand pumps instead of letting the work speak for itself."
+  },
+  {
+   "q": "How can I tell whether an NGO is legitimate?",
+   "a": "Adeel advises donors to give only to a registered organisation, to check its registration and trust record, and to always take a receipt, so the donation is recorded in the organisation's bank account. He also says never give cash to individuals on the street, because it cannot be verified, and to send donations to the organisation's bank account instead."
+  },
+  {
+   "q": "What does Adeel say about zakat?",
+   "a": "He says zakat is a beautiful system that we have made needlessly complicated, and that we give it wrong: splitting 50,000 rupees among ten people instead of giving it to one person in full, so all his needs are met. His rule is to give zakat to a person who will not be a zakat receiver next year, breaking the cycle of dependence."
+  },
+  {
+   "q": "Who is the guest in this episode?",
+   "a": "Muhammad Adeel Javed, founder and CEO of Pakistan Citizens Alliance (PCA), a social impact strategist, humanitarian and educator. He has spent 15+ years in education, youth empowerment, fundraising and disaster relief, and runs two schools, the Volunteer Flagship Training Program and the Isar Store in Lahore."
+  }
+ ],
+ "transcript_en": [
+  {
+   "start": 0,
+   "text": "Do we want to change lives or just be seen as life changers? You throw five buzzwords at your parents, your siblings — you don't know, you don't know, this, that, this is happening to me. Now that package — the cost of promoting it was more than the items inside it. When I die, crores of people will be crying, lakhs of people will be crying, crores of people will be weeping, saying, what has happened? The mental health issue — who has it more? My counter-question to you is: how much did your father beat you, your parents beat you, how much were they beaten? Do you let anyone touch today's children? You have written on every road, every wall: no beating, only love. That is why Allah Almighty told us what: we are the middle nation."
+  },
+  {
+   "start": 33,
+   "text": "A middle nation. We do not go to this extreme, we do not go to that extreme, we stay in the middle. There is a couplet, you know: everyone lives for themselves, but the purpose of life is to be of use to others. We go to this extreme and that extreme, we must stay in the middle. I studied in a school so that people would know that the poor man's child studies there, my daughter also studies somewhere there. It was all about your life and happiness, and something about satisfaction with life. The Ravi caused destruction this time, the Ravi wreaked havoc. All right, the 2022 floods also came, those were big floods, no joke, but it was not the Ravi — only that cloudburst inside Buner."
+  },
+  {
+   "start": 70,
+   "text": "Who knows how many — people say 60 feet, a 60-foot mountain opened up below, and a stone came out of it, rolling, two maunds in weight, it rolled and destroyed everything in its path. I am sincere with the country, and I know this is a genuine policy. First of all, you never made a genuine one; if you have made one, then I have to continue it. There were two people fighting for the mayor of New York, their top two, Mamdani, and the other one, I don't remember his name exactly, so both of them sat on a TV talk show and were praising each other, saying, look, I fought on my points, but I liked these things about him, if he wins, together we will work for New York. So then I said one thing to that friend, I said, look, you find out that I run an organisation, and you find out that I am not running it properly, there are some embezzlements in it, I am doing some plus-minuses in it — will you ever be giving donation to me again, or will you trust me? He said, no, I will still trust you. The basic concept of this Isar Store is that we give subsidised rations to needy families, up to 45 percent. He was like this and he died like this, his pictures are viral, even now if you write Hashim Raza, cancer, or Hashim Raza on Facebook, you will cry. I make donors aware, and I tell them, try, try as much as you possibly can, to give charity to a registered organisation, or give zakat to such a person that next year he is no longer a zakat receiver. Success is living your life with purpose, creating impact and living a legacy."
+  },
+  {
+   "start": 122,
+   "text": "Your life with purpose, creating impact and living a legacy. Assalam-o-Alaikum everyone, welcome to Muffled Minds, Find Your Clarity, I am your host Khawar. There comes a stage in all our lives when one question troubles us. Am I living a life that matters or just a life that looks good? There is a couplet, you know: everyone lives for themselves, but the purpose of life is to be of use to others. Today's podcast is for those people who want to create an impact, but on the other hand impact has become a trend, just like you post on social media, you help someone, you post that, that post will get viral, but the real help is"
+  },
+  {
+   "start": 171,
+   "text": "off the camera, when the camera is off, you help someone, that is the real help. So if you look, just the other day, in the flood disaster, our officials — I won't name them — they gave them, for example, a small goodie, a package. Now that package, the cost of promoting it was more than the items inside it. So the real question is, do we want to change lives or just be seen as life changers? In our podcast today we have someone who has spent 15 years of his life, like, doing that charity work, changing lives of millions of people. He is basically involved in youth empowerment,"
+  },
+  {
+   "start": 218,
+   "text": "fundraising, disaster relief and in education, and so many more things. We have founder and CEO of Pakistan Citizens Alliance, Muhammad Adeel Javed. Assalam-o-Alaikum Adeel bhai. Wa Alaikum Assalam. How are you? By Allah's grace, fine. All right, we have a small signature question, before we jump into the discussion, the real discussion: what are you and where are you from? Where I am from, let me tell you first, I belong to Faisalabad, Pakistan, I was born in Faisalabad, and it has been 23-24 years living in Lahore, so I have become a Lahori too. And who am I, what I am, I call myself a development sector person, an NGO sector person, and for the last 15-16 years I am empowering change makers through purpose, leadership and impact, and that is basically my work, all right. Before we jump into that Pakistan Citizens Alliance work, if we start from the beginning, yes,"
+  },
+  {
+   "start": 271,
+   "text": "if we talk about, what Adeel was before this PCA, like what changed, that turning point, what was it? All right, this question is always asked of me, turning point, I will not say that if I look back at my history, in my life, there is any one exactly defined turning point, many came in life, but nothing became such a thing that exactly forced me to initiate that I do this Pakistan Citizens Alliance — at that time it had some other name, some other thing — but that I do charity work. But it is always, I always share that Allah Almighty took so much from me, from my being, that I know the pain of not having. So I was just 4 months old when my father died,"
+  },
+  {
+   "start": 307,
+   "text": "And I was just 12 years old when my mother died, and I was 10 when she got cancer, and then for 2 years she struggled with cancer, so she died because of cancer. So I was just four months old, so I know what the feeling of not having is. Plus my mother always taught me one more thing, from day one, and not that she taught it by saying it again and again, it just got inside me, into the setup, always be at the giving end, you should not be at the taking end. Allah, life, society, the world took whatever it took, things happened, but still I had to be at the giving end, so that is somehow what was always at my end, so I was always a helping hand, at university level, before that school, then college, then university level, always"
+  },
+  {
+   "start": 342,
+   "text": "it stayed like that, so these things stayed with me. How an NGO is formed, that is a story, all right, if it comes up in the discussion, I will definitely share it. So, we can say it was purpose driven, not pain driven. In pain driven I will not specifically say that my parents left this world so I made an NGO for that, no, that's not what, that was purpose driven, that we have to do something for society, and that is why we did that. Nice, nice. So if we talk a little about the NGO side, so what is an NGO in actual, how do they operate. NGO, it is in the word itself, non-governmental organisation, in simple words we can call it NPO, non-profit organisation, you can say, any such institution which is not the government, it is formed privately, but what is its purpose, that it does not have to make a profit, it has to"
+  },
+  {
+   "start": 383,
+   "text": "do welfare, work for society, do things, so all over the world the concepts of NGOs are a little different, ours, as usual, like in all agreed things, in every field it becomes different, we take it as different, but the purpose is only this, that all the work the government does and perhaps cannot do, for that non-governmental organisations exist, which are a helping hand, now whether that is someone's help, whether it is someone's support, whether they are people who talk about law and order issues, whatever these things are, all those NGOs, basically they do that work, ultimately their purpose is only that some work for someone else's betterment can be done. True, true. So obviously, I, you, any third person also wants to do social work"
+  },
+  {
+   "start": 418,
+   "text": "everyone wants it, it is an inner desire, all right, to do social work, but after some time, like one, two months, or maybe six months, they get burned out, exactly like that, so like, it has been 15 years, let me tell you, like, roughly if you look, what I also, from before you, is, what is the thing that provides you motivation, just to keep moving. This I have already said in the start, and that is the answer to this question too, what keeps me moving, it is this, that I define it like this, that there are two things, and both are opposite to each other, and both keep me moving. Number one, Allah Almighty took so much from me that I have the feeling of not having, so sometimes I feel like this, I look at people, and I"
+  },
+  {
+   "start": 458,
+   "text": "get that feeling, what is this poor fellow's fault, all right. Other way around, Allah gave me so much that I know I have it, so then it is my responsibility that I do something for someone. These two things are on opposite degrees, on opposite angles, for each other, they keep me moving, sometimes this side, sometimes that side becomes heavier, it keeps moving on, it keeps telling me. Plus this is, by Allah's grace, it is just a life in which there was a purpose, in which everyone's heart wanted their own work, so I have reached here, I have come with these things. Now sometimes the heart also wants, so one feels, this work that was started, it has to be taken somewhere, it should create some impact, there should be something,"
+  },
+  {
+   "start": 490,
+   "text": "so the heart wants to keep doing it, at night one wants to sleep, that I should sleep quickly, and it pains that the day got stuck in work, and the next day one has to get up. That tagline of yours, I was happy about it, that there is like-mindedness, the Find Your Clarity thing, so my purpose itself, vision, vision, vision, all my life I have only talked about vision, about clarity, about thoughts, whenever I talk with the youth I do the same, so this thing goes on, meaning like we started this initiative some time ago, obviously that again, what we were talking about earlier, since childhood, being a Muslim, if you like, there is that wish, that one should do something good, maybe"
+  },
+  {
+   "start": 525,
+   "text": "for society, for humanity, so we also take that same thing a little and carry it forward, meaning help us, meaning keep us motivated, that this mental pressure, in whatever respect it is, maybe it is in respect of family, in respect of studies, in respect of job, how to overcome it. Now like in our society a taboo has been created, look, this mental pressure is nothing, it is as if children themselves have made up a thing, but how can you talk about it, like the other day we were discussing, there should be a platform related to it, that is necessary. Now telling the youth is necessary, that all right, you are going through this thing, how to come out of it"
+  },
+  {
+   "start": 569,
+   "text": "to get out of it, all right, all right, all right, then take it. Obviously in the time of social media there is so much exposure, people have a lot of exposure, but on the other side these mental tensions that lead to suicide, they are increasing a lot. So now just as you are working for humanity, is something happening on that side too? Absolutely it happens, I don't do that specifically, but I can say that whenever I talk with the youth I talk on this topic, and my point is also a little different, maybe if I say this here, more than half the audience will say that this man is not right, there is a slight difference in my thought, and from that, it is this, that there should be talk about mental health, there is no"
+  },
+  {
+   "start": 610,
+   "text": "two opinions on that. Why do I feel, maybe I am wrong, that when we talk, there is too much talk, at many places when it happens, and then another domain opens up, all right, and whoever I look at, when I talk to them, I, I'm not a psychologist, what I talk about, but by Allah's grace, so many years, so many years I have worked on youth, there is no limit to it, and my work nowadays is only this, that I go, I tell the children, look, I understand the Gen Z mind, I need to talk to you people. In the time we worked, the things we did, we did volunteerism, we did social work, we know how we did it, what Gen Z thinks today, I have to have this talk, so I always have the same"
+  },
+  {
+   "start": 643,
+   "text": "conversation with them. So the point you made, last time, this was off the record when we were talking among ourselves, you came to the office, even then my point was the same, not that let's talk on camera, so that content also reaches people, so the point in that is, look, there should be talk, but I was sitting somewhere, I feel, maybe I'm wrong, that we have given children, today's Gen Z and especially people, that content, all right, they have got those buzz words, so you just throw five buzz words at your parents, your husband wife, your siblings, you don't know, you don't know, this, that, this is happening to me, talk to yourself, write a paper, and then my ultimate point is this, that"
+  },
+  {
+   "start": 682,
+   "text": "depression, anxiety, everyone gets it, it will happen, there is no two opinions on this, accept that, that's what we are talking, the mental health talk, accept it, first give time to yourself, the child who I feel is not giving time to himself, who is going through this mental pressure, any child, any elder going through it, he is not giving time to himself, all the time only one answer comes, I don't know, I don't know, so my answer is always this, find out people in your circle, your parents, your sibling, your friends, X, Y, Z, anyone, meet them, if you don't find anyone then I am here, come to me, come to my place, talk to me, tell me, talk ten times, we have to do it, we have to normalise it, look, this is an issue, but its method, its boundary, that should be set"
+  },
+  {
+   "start": 721,
+   "text": "so that it cannot be done, because behind this you can fool the system, and spoil this thing, and then all the time the same talk keeps happening that I have a mental health problem, I have this problem, I have this problem, and cases come to us daily, our university students come, in our Volunteer Flagship Training Program, I can tell you thousands of stories, the things that come to me, in a session, let me tell you one small story, she was not coming on time, not taking the session, a lady, and all the things, all right, and the team told her once or twice that this cannot happen, so the talk was about fundraising, the talk was about social work, so I will not do this, I will do that, I will not do that, so my teammate"
+  },
+  {
+   "start": 757,
+   "text": "told her, look, you were added on WhatsApp, numbers were exchanged, and all that stuff, team, so they saw somewhere in the stories that yesterday there were parties going on, that food was being had here and there, so they said, my teammate said, that you are also doing these things, so if you give even 1% or 2% of that to charity or take it to the welfare side, think of someone else. She got offended, you did this, what I am doing in my life, what I am doing, such a small thing became an issue, she even said sorry, she said, my purpose was this, so that I was giving you a different idea and perspective, perspective, the next day she said, I will not take the session, the story started, and she said, let me meet the CEO, the head,"
+  },
+  {
+   "start": 790,
+   "text": "come to me, my session was the next day, so many talks, so many things, and you don't know what is happening to me in life, this is happening to me, this is happening to me, and there were some things, I said all right, it's okay, what I can do, they said wrong, in your view, I am apologetic, what to do, the lady sitting next to her said, go, you don't know what else is happening with her, I said, madam, I'm sorry, it must be happening, but we have to find its solution, by doing this you cannot spoil the whole class of forty, you cannot do everything, the solution, if you want to take the session, take it, if you don't want to take the session, wait, we will talk again, and sorry can be said for a mistake, you also take a little care, we also take care, so these are the things, so long story short,"
+  },
+  {
+   "start": 825,
+   "text": "this is a very important, important and core issue, but at many places I feel that we are normalising it so much, at many places I have also seen some things recently, all of it, proudly I will sit with you, look, I went to a psychologist, what about you, you went, you said, yes I went, so I got validated, I also went, we make it so common, whereas perhaps that issue, discuss it with me, two minutes, don't discuss it with anyone, take paper and pencil, father said this, mother said this, there was job pressure, this was there, how do we sort it out, we are normalising it too much, so perhaps this is having an impact, but, secondly, I feel, and I don't just feel, I believe"
+  },
+  {
+   "start": 863,
+   "text": "in this, that we have to talk, we have to talk, and perhaps we go to a psychologist or not, but I and you should listen, who should listen, I and you have to give time to people, that we don't give, to those around us, our family, our siblings, our outside, our elders, our youngers, let us go today, this, this issue, who has it more, my counter question to you is, I, obviously, Gen Z has it more, so parents don't have it, who is listening to them, how many times does this Gen Z, or I and you, go and sit with our elders, I asked someone in a discussion, I said, they are strong, that our mothers did not have these issues, their mothers did not have these issues, they had mother-in-law, this, that, whatever, or their job issues, or their health issues, X, Y, Z, whatever our issues are today"
+  },
+  {
+   "start": 902,
+   "text": "they did not have, they could not cope, or they had their own way, got ill, this happened, that happened, but today's parents, how many times does this Gen Z sit with them, how many times does it sit, nobody sits, so what should they do, what should they do about mental health, you cannot even make them understand, Gen Z is ready to go to a psychologist, all right, who will make them understand, that's where we should talk, we all should together work on that, and that is why I am here, just to discuss, that I liked your initiative a lot, that let us at least talk, let us discuss, in previous episodes we discussed this thing, that all right, you are normalising it for us, as your talk should be, but it should not be so much either"
+  },
+  {
+   "start": 937,
+   "text": "that in multiple domains, the discussion, our main core principle in all this round, was this, that from school level, from the time a child starts going to school, at that time that thing should start, which we call parenting, that a father and a son, a daughter and a mother, their bonding should be like this, that as friends who have a bonding it should be. All right, now when that thing starts from there, it will go to college, it will go to university, it will go to professional career, so what will happen automatically, that it will not become a taboo, both on the children's side and on the parents' side."
+  },
+  {
+   "start": 977,
+   "text": "All right, now when that taboo is not being formed, then everything will be discussed, you went to school, someone bullied you, I have heard multiple cases, even up to university, even up to university, university, you have become mature, but what is it, the school bullying, many people carry its depression, and then they go to that level, from which rising is impossible. All right, now when that thing starts, that parenting, starting as a friend, then everything will be discussed, the child will come home, will discuss, that this happened to me, obviously the parents, I can talk further in school that all right, it is like this, so this should not happen, they can talk to the parents of those who are bullying, so this was our core principle in this"
+  },
+  {
+   "start": 1014,
+   "text": "round, and then that leads to this thing, that there should be talk, in this I will talk a little about a differing note, that this concept is absolutely right, but I will say the same thing, which I, because you know, on the social work side and then we are running a charity school, doing all these things, being an educationist, my connection is very close with these things, mine, and if I talk about school level, I have just told you, what experiments we are doing in our school, in respect of education, to do things, and I follow it very closely, now there is a problem in this, in that the same problem is, that if someone touched the child, then he has been bullied, this side has increased a lot, all right, so I said, in those buzz words, one day like this,"
+  },
+  {
+   "start": 1057,
+   "text": "I don't know, dignity, it was World Dignity Day, so there was someone on that, so I was talking to them there, a madam talked to me, who invited me, she said a very interesting thing, she said, look, my daughter is, first year also, what, yes, in these labels, probably, she said, yes, she has 3, 4, 5 such words, so she tells me, such-and-such disorder, such-and-such this, you don't know, mama, this, that, whatever, so I tell her, tell me, so you have spoken the labs, you have caught the disorder, so you just keep spinning it, I know that in this kind of terminology, this Gen Z, this child, keeps spinning you, keeps spinning you, keeps spinning you, and the person becomes a victim of confusion, the idea is absolutely right, that we should have friendship with them, there should be friendship, there should be a thing, but that"
+  },
+  {
+   "start": 1093,
+   "text": "even if a child touches, you, you imagine, what used to happen before, nowadays you have a new terminology, I don't know, how much were you beaten by your father, by your parents, how much were they beaten, do you let today's children be touched, you have written on every road, every wall, no beating, only love, all right, but sometimes it is also needed, being a father, being a mother, you see, some things have to be done, the child is adopting that, that we have been told, there should be no bullying, not this, so both things in the middle, so I am saying, awareness, which you are doing, awareness is very important, that talk, go and talk to them daily, that look, this act is also wrong and this act is also wrong, in the middle"
+  },
+  {
+   "start": 1125,
+   "text": "we have to play, that is why Allah Almighty told us what, it was the middle nation, the middle nation, neither do we go to this extreme, nor do we go to that extreme, we have to stay in the middle, with the basic goal we are connected, insha'Allah there will be ease, so, so, and absolutely, meaning where we are talking about normalising this, there we are also talking about the parents' side. All right, what are the parents' problems, children are not sitting with them, all right, they are not giving them time, like, obviously, parents want that with children we keep a friendship atmosphere, but from the children's side what is it, that lagging, on that also what we talk about, I do it, my point from above is that Gen Z comes daily,"
+  },
+  {
+   "start": 1159,
+   "text": "yes, I talk to them, university, college, so all right, look, this Gen Z now wants this standard of living, that parent has the issue of standard of living, of media, that even if you work in the office, all your work is happening on the mobile, you will come home, your message will go on WhatsApp, yours will go, you have to upload on social media, do this, you worked all day, you also have to post its reel, so when the child sees the parent all day, that look, the first day he is outside all day, then he comes home, then he stays on the phone, now the parent is also helpless, what to do, if I don't use it, let me talk about myself, how will I, how will my work happen, so the child is neglected, there are many long issues, in all these things, it's not that easy, people do it, take initiatives,"
+  },
+  {
+   "start": 1202,
+   "text": "things go on, they don't happen, that is why, behind this, I remember one more thing, in respect of education, and, look, the pressure on the child, you say let us talk about parenting, but have you seen our education system, all right, the child says, my younger daughter, my daughter is five years old, all right, she is in prep, all right, she was being made to memorise the three times table, the three times table, there was crying and wailing, she goes mad crying, I can't do it, so I, being a head of the institute, my own institute, my own school she studied in, so that people know that the poor man's child studies there, my daughter also studies somewhere there, so I told people, don't take tension, you, if you don't know it, how many days the teacher scolded her, scolded her here, scolded her there,"
+  },
+  {
+   "start": 1240,
+   "text": "Baba, shall I show you the 3 times table, now I am writing the 3 times table without any mistake, now she is writing the 3 times table without any mistake, so I am saying, our education system has also gone, the same old, worn-out things, the parent puts pressure, so pressure automatically comes on the child, then the problems of the new era have increased, which we are discussing, time is not with parents either, nor with children, where else to discuss, and what is the end result, in which you and I are sitting and talking, that will also be a problem, you will come to me and sit and talk, sit, brother, you are peaceful, I ask you, will you be peaceful, who knows what is going on in the mind, that again, in the previous podcast we had a guest, so he was saying, show me"
+  },
+  {
+   "start": 1283,
+   "text": "any one person who has no mental pressure or no problem with this thing, I will salute him, so that is obvious, it is a problem in every area, but I am saying the same, that when you and I talk, so you have been told this, now I will talk personally, maybe I am wrong, I had perhaps shared with you in the last one, one of my students in training, she was doing MPhil in psychology, so she sent me a document a few days ago, a survey form, all right, and it had to be filled, so I said, it was four-five pages, I opened the laptop, started filling, I filled seven-eight questions, that was all about your life and happiness, and something about satisfaction with life, I filled seven-eight"
+  },
+  {
+   "start": 1318,
+   "text": "questions, so I pushed the laptop back, and I sat like this, I am so happy with life that every answer was coming the same, there is something wrong, then I sat and thought, then when I filled it fully, I realised, look, yes, I am happy, I am happiest, it is the same thing, mental pressure, at this time today perhaps someone has it, tomorrow someone will have it, but overall the effect on my life is, I ask one question, are you happy with your life, just tell me this, and tell it from the heart, tell it overall, this is the question, sir, that yes is there, but we don't even do this, how are you, by Allah's grace I am fine, no, but this, this, this, by Allah's grace, the face expression is also like this, by Allah's"
+  },
+  {
+   "start": 1358,
+   "text": "grace, it is open, happiness, happiness is the answer, yes, there will be moments, right now I will be stressed out, there will be some office work, tomorrow stressed out, so those are moments, but as a whole, when I say about life, I am happy, I mean, I have people around, so I share one thing, I ask someone, so she says, I ask one of my acquaintances, so I said, yes, how are you, I am alive, and she is Gen Z, yes, Gen Z, all right, so I am alive, such a dead answer, so then there are people whom we must salute, that come, okay, all right, that I am very happy about that, mental stress comes, mental things come, we can discuss them together, and I feel that I should try to listen to people at my end"
+  },
+  {
+   "start": 1400,
+   "text": "you should try to listen to people at your end, there is a platform like yours, talk on it, talk on my platform, talk together, make children aware, we work on youth empowerment, so do you know what my guess is, I have listened to all of you, the real problem is, who will listen to your parents, we try with them, in our youth training programs, in schools there are children's, in that, in respect of parent-teacher meetings, we call parents, in the youth training we call their parents, at graduation we try to call parents, that your children have done this work, your children have done this work, let me tell you, how successful your child is, reduce the pressure on the child, of life, reduce expectations"
+  },
+  {
+   "start": 1437,
+   "text": "all right, he will top, what will he achieve, nothing. You and I belong to the same university, what have we achieved, come and tell today, today you will tell children, do a degree from such-and-such university, which you or I did, I will never say it, will you say it or not, I did MBA, after that, all right, and if someone asks me, I say, I did MBA to remove that engineering tag, because that was not a point, and the university could not do it, so why are you pressurising children, let them live, today money is not coming from our degree, those are very old talks, those have gone very old, let them live, but along with that a little tightness is also required from them, that they don't go somewhere else,"
+  },
+  {
+   "start": 1473,
+   "text": "I have seen many children go astray, I sit in the rant and watch, what to do, it also comes in my family stories, it also comes in my friends' stories, then it is said, because they go, now the child also understands, or the elders understand, one should go to a psychologist, it must be a very big illness, no, all right, if it is necessary then go, but don't make it common, that yes, there is a problem, you are understanding the problems, I give an example, I asked you 10 times that these are the things, you will go, you will come to a psychologist, I will discuss, so then what is my answer? I don't [unclear] fees were also given, when you gave it, then you will be listening to him properly, yes, this is what I am saying, that we should try a little on this, and your basic idea"
+  },
+  {
+   "start": 1516,
+   "text": "is, of the long term, we will do on that, all right, sit like this, when we talk, sit and talk like this, nobody has to pay any fees, no, absolutely, all right, sit, talk, so that I can, you don't disclose your identity, let's talk about it. Now just as we were talking, our education system, the curriculum, managers, all that, is very outdated, very outdated, it needs to change, and it needs to change quickly, just recently we had a school chain, its owner came, so he was saying the same thing, that I myself say, in all my meetings with officials, we discuss this thing, that we should update our curriculum, no doubt, now to some extent it has been updated, like in the Single National Curriculum, it has happened a little,"
+  },
+  {
+   "start": 1557,
+   "text": "at least, that the Beaconhouse child, and the private school, Delhi Mohalla child, they compete with each other, that change is happening a little, so it at least needs to change, in this respect, so let's just say, that we come a little to the PCA side, definitely, so for people who don't know about PCA, if you briefly tell, what PCA actually is doing. PCA, Pakistan Citizens Alliance, is the name of our organisation, and it has been almost 16 years working, you will hardly find any youth organisation in Lahore, specifically in Punjab too, but in Lahore, which was formed in school, college, and has come to this level, the level Pakistan Citizens Alliance is at, so we are registered, we have bank accounts,"
+  },
+  {
+   "start": 1593,
+   "text": "we have tax exemption, we have the Charity Commission certificate, we have everything, we have an office, come, visit, our four main domains are, in which we work, there is the Education Support Program, the Volunteer Development Program, the Disaster Management program, and the Community Development Program. In the Education Support Program, we have scholarships too, but otherwise our two schools are running, one school where our office is in the town, and one ahead of Shahdara, in Jugiyaan, Joda village, there it is, around 550 plus, 550 plus students are studying in our two schools, that we are doing, in community development we have many projects, there is the Isar Store, our hand pumps project, we are building mosques in South Punjab, all those works are there, in the development program, the team, all people have learned this work themselves after being beaten a lot"
+  },
+  {
+   "start": 1642,
+   "text": "social work and volunteerism, but it's time to teach other volunteers and youngsters, because work done after learning is perhaps better, a little, so then we, my idea was, that we make a department, and do a training program of it, whose name is ours, Volunteer Flagship Training Program, our program is 7-10 days, there is a two-hour class, ours is physical, we don't do online, because online, I have a lot of it, so it is 7-10 days, and what happens in it, in it we teach leadership, communication, fundraising, these three things, which are necessary for volunteers, the most important thing we teach, that's a philosophy of philanthropy, why this work is necessary, that is most important, all right, why this work is happening, for"
+  },
+  {
+   "start": 1681,
+   "text": "what it is happening, so we come to it, ours, so alhamdulillah, our fifty batches have been done so far, 2000 plus volunteers have been trained by us, on this point, so we are doing this work, then unfortunately disaster sometimes comes, which in a country like ours comes a lot, so that is a domain of ours, in which we work on disaster, we worked a lot on the 2022 floods, now we are also working on the 2025 flood, so that is also ours, so we are mixing and matching all these things, so like always, whenever there is a training, if I talk about myself, a question comes to my mind, that if you gave a training, did you ever follow up with those children, that all right, the training we gave them, what impact did it have"
+  },
+  {
+   "start": 1718,
+   "text": "on them? Look, this is a very important point, and my analysis of it is, because I am on the training side, apart from this, this is on volunteerism, otherwise I do a lot of paid trainings, with many institutions, unfortunately it is that those people, when they graduate from you, after that they don't stay in touch with you, this is another problem of our society, I will not say only Gen Z, Gen Z will turn against me, it is a society problem, because we have a race going on, we are running, so I will do a program with you, take training, after that I will go to him, after that I will go to him, after that I will go to him, that thing behind, that"
+  },
+  {
+   "start": 1756,
+   "text": "keeps getting missed, just to get this, just to get a certificate, or new learnings, or whatever the bug is, that I don't know what, or this point of view, how much we stay in touch, and stay in touch with them, so last year in December, International Volunteer Day comes, on 5th December, we did an event, its name was kept Volunteerathon, like Marathon, in that context its name was kept Volunteer-a-thon, Volunteer-a-thon 1.0 happened, and its purpose was that from mid of October and then November, we celebrate volunteerism for 1.5 months, do different volunteerism activities, the same marathon, it should go long term, and then we celebrate those people and volunteers and all the volunteers of the year on International Volunteer Day, this year also on 5th of December ours is happening, UCP is a partner with us, this"
+  },
+  {
+   "start": 1802,
+   "text": "time we will do it in UCP, last time it happened in our head office, and its purpose is also that we celebrate it, so those who are not there either, we try again, from our side every kind of call goes, message goes, contact goes, what is the feedback, what is it, they don't do it, they are not active, they are busy in their things, but from our end nobody can say, that we did not touch again, we contact them again and again, so impact is created, many have opened their own small societies, many have started some other work, many people have attached with us, many have joined there itself, on this let me tell you a small success story, how we attached, how we did it, so there was a graduate in one batch, he was my special VDP,"
+  },
+  {
+   "start": 1838,
+   "text": "we call it VDP, so his 8th batch, and down the line, after graduating, last year he joined as our volunteer officer, he enhanced this department, then ultimately, he became the volunteer manager, of our department, for a year, he ran the volunteer department, now he has to apply for PhD alongside, so he resigned from this post, so he is doing a part time job with our other program, but what he did, Shahzeb, Rana Shahzeb, so he is a success story I have, such a volunteer, then, got attached, and he built the whole department, the credit for this 2000 goes to him, he built it up, so, we are having so many such kind of stories, which are creating impact. Nice, nice. So, count me in for that, 5th of December. Yes, yes, yes, you"
+  },
+  {
+   "start": 1876,
+   "text": "are always, always here, always. So meaning just now, recently, then the flood came, so obviously you visited the affected areas, so like, what do you think, what was the main reason, if we talk about the first reason, the work that happened, maybe from the officials' side, from the government's side, or there was no reason, the first reason is a big clarity, in the mix, it is good, that is why you cannot take one word, this time I worked in the whole of Pakistan, I went to Buner, from there to the end, only Balochistan I did not go to, the rest we worked a lot in Punjab, we also got work done inside KPK, GB, all of it, here in Pakistan, inside Pakistan, inside Lahore, inside Punjab, so there are many of our misdeeds, the misdeeds of Lahore, they are our misdeeds, all right, what the Ravi did"
+  },
+  {
+   "start": 1916,
+   "text": "it did, but we had committed excesses, on top of that for me later you will make me stand below the daale shaale, so that is our fault, all right, that you did encroachments, did everything, all things, that this is incompetence, so here, sorry for interruption, so there is no long term planning, we don't do it, I will come to that, we are not going into debate, I come to that, but along with that there is also nature, Allah Almighty also says, the Ravi caused destruction this time, the Ravi wreaked havoc, all right, the 2022 floods also came, those were big floods, no joke, but it was not the Ravi, now go today and pass, so the Ravi has gone back to its place so peacefully, but the destruction was such, you go to Shorkot, go anywhere, we tell this from Shorkot"
+  },
+  {
+   "start": 1957,
+   "text": "the Ravi caused this destruction, the Chenab did nothing, there the Chenab came close, passed by, there would have been savings, but when the Ravi came back, it threw the Chenab's water back at them, all right, so this is basically, Allah, Allah has also done one thing, now our blame game goes to India, brother, India should drown itself, even if it is our enemy, sir, India cannot drown itself, so India has to release water, India has to send it here, this is good in the mix, there are our mistakes too, and nature's too, now let us come, to the KP side, there you also saw the video, all of it, there is no encroachment there, there was a cloudburst there, nobody is at fault in this, all right, yes, you can also find fault in that, in the end, what you did to the environment"
+  },
+  {
+   "start": 1992,
+   "text": "all your life, you cut down trees and ruined everything, sir, that cloudburst inside Buner, who knows how many, people say 60 feet, a 60-foot mountain opened up below, and a stone came out of it, rolling, two maunds in weight, it rolled and went, destroying everything, all right, so that is also there, but its reasoning comes out, that how much, that deforestation, so the grip it had, of the mountain with the ground, that was because of trees, because of roots, which became less, so that is why landslides and all stuff happened, so it is mix, match, so this happened, there is no two opinions on this, and it will happen, why, some, approximately, today on 11th of November"
+  },
+  {
+   "start": 2033,
+   "text": "we run the AC again and again, so the smog had to trouble us, this time we are saying, wow, compared to last year's smog, this smog, so fate did it, the wind, God, it went away, nobody is talking about this, that in India also there is not so much smog this time, only Pakistan is taking the credit, no, it is not like that, work must have happened, must not have happened, I am not going into that debate, but conditions are changing very fast, so we have to change that much, the next thing is your planning, that we don't do, we have to do it, we never play long term, whatever work we do, we play short term, we play because of someone's fear, we play because of some other problem, we play because of our government going away, perhaps we will never get anything again, because of this"
+  },
+  {
+   "start": 2070,
+   "text": "who made a long term policy, and then if someone made a good policy, if you made it, so if I am sincere with the country, and I know, this is a genuine policy, first of all you never made a genuine one, if you have made it, then I have to continue it, all right, look, I am very viral just now, we Pakistanis become viral, anyone you find, so now this New York mayor thing which is viral, so I was not telling anyone just now that two people were fighting for the mayor of New York, so both of them sat on a TV talk like this, and were praising each other, look, I fought on my points, but I liked these things about him, if he wins, together we will work for the New York,"
+  },
+  {
+   "start": 2108,
+   "text": "and the other way the same thing happened, we are not talking about this, it does not happen here, it does not happen at all, because our agenda is only, taking Allah as witness, perhaps I am saying, that our agendas are like this, we, we only come into society to fool people, and we do that, and the consequence is borne by me and you, an ordinary person bears it, bears it in the flood too, bears it in everything, the third part, I feel that any criticism, that is destructive criticism, constructive, we have never done it at all, all right, my differing note on this is because this is very close to my heart, the point of view of my NGO being formed, agenda, I have included this,"
+  },
+  {
+   "start": 2145,
+   "text": "people ask, so I say, that I had a great passion for criticism, I have it, and it will always remain, but when I criticise, that the government did not do this, people did not do this, society, society did not do this, then counter questioning comes, that what did you do, and the thing that hurt me the most, I am talking about a very young age, so the answer was, or even from my elders, we are still students, what can we do, so that was the biggest pain point, if I say it in a word, it was this, that I can also do a lot, so one reason behind the NGO, the logic was also this, by Allah's grace, sitting after 16 years, I can tell, what all I did, so I, then, I used to say that I have criticised this"
+  },
+  {
+   "start": 2175,
+   "text": "and I, because of me, 400 children are studying in this country, so behind constructive criticism we do a lot, all right, you do your work with honesty, that's the biggest thing, why do you kick others' work, you do a podcast, I do a podcast, my work is this, those who are making my video, in their work, either first hire a professional, if you have hired a professional, all right, don't kick in the work, if you want to fight then do it with permission, and first be 100% yourself, we don't do our 100%, all of us, I, all our people, our own work is not being done by us, all right, they obstruct others, they increase others' difficulties, and then those things don't work, so this talk of yours is, do criticism, but what have you done for this country till today"
+  },
+  {
+   "start": 2215,
+   "text": "one more thing, important to this, I teach leadership, so I say one line in leadership, charisma, what it is, charismatic leadership, you find charismatic leadership in our Pakistan, its definition is small, which I understand, which I like, people will have other definitions too, that the power, it's your personal power, it's not your position power, today the problem of me and you and our country is this, that everyone's power is their position power, CM, PM, army, army chief, this, that, judge, lawyer, all, that's not their personal power, it is not, that power is snatched from you, that position is snatched from you, you disappear,"
+  },
+  {
+   "start": 2254,
+   "text": "but now amendments are happening, some for a lifetime, but they are happening for this reason, they are happening for this reason, my brother, and there is debate after that too, there is debate after that too, look, how can I not compensate you, then I keep doing whatever I want, remember, after 2013, after the 2013 election, I was coming back from university, so I was arguing with a friend, so then I said one thing to that friend, I, I, look, you find out, that I run an institution, and you find out, that I am not running it properly, there are some embezzlements in it, I am doing some plus minuses in it, will, will you ever be giving donation to me again? Or will you trust me? He said,"
+  },
+  {
+   "start": 2288,
+   "text": "no, I will still trust you, all right? So, we have fooled ourselves, the public, and because nothing has happened to me yet, so I keep placing pawns, that look, okay, this too, that too, was okay, that too was okay, and we are not doing it, we will have to do it, we will have to think, we are not living our lives in life, I think like this, even now I think the same, what is life, what will happen next, what will happen after me, what kind of country am I leaving behind, what kind of life am I leaving behind, have I lived it, all right, still young, I'm 33 only, but it doesn't mean I can't do it, but still I cannot change a lot, but I can do some such work, meet like-minded people with you, meet somewhere here, there"
+  },
+  {
+   "start": 2330,
+   "text": "meet, go and perhaps have some impact, when I leave this world, the world should say, he should not have gone, only this, he went very soon, he was still needed more, all people should say to me, people should cry, I have a dream, Allah will fulfil it for me, it will not be fulfilled in life, because the dream of fulfilment after that, is after that, that when I die, crores of people will be crying, lakhs of people will be crying, crores of people, lakhs of people, will be weeping, saying, what has happened, family members will cry, everything, but they will say, he did a great work in our life, he touched us a lot, that should be done, absolutely, like in the start I was talking, creating impact, so are we willing to like change lives, or just we want to be seen by people, that you talk about the sector"
+  },
+  {
+   "start": 2368,
+   "text": "sir, that's a dilemma, that's a problem, of society, in this, yesterday also I went to a place on a visit, you know, so the same discussion happened, this was also a story, what is seen, sells, all right, my biggest, my biggest criticism, you know, my organisation has been 16 years, and it has not consistently appeared, not appeared, how much do you know about my work, you don't know, I am not visible, but when you visit, the work is visible, all right, so that's what we have been trying to do, we are building the base, doing things, that the major chunk, on which work happens, should be visible, what is lawful, what is right, that should be right, it is not this, that just do it, do it"
+  },
+  {
+   "start": 2403,
+   "text": "show it, empty your pockets too, so you also start getting your footprint printed, then the things you give to people, sir, then you installed a hand pump, after that put money, I will put my own identity in it, then it will remain a personal thing, now the problem is, the promotional stuff you talked about, you yourself told the costing, all right, Islam also says something, it says for us, it doesn't say to government officials, it doesn't say to the state, it doesn't say to him, and with me, the public, the state happens, but there is a percentage, my brother, there is a percentage of admin cost, now does it suit your mind, that your thing is of 10 rupees and branding of 50 rupees is on it, or XYZ, it doesn't suit me, a ratio was given, the system gave it, the Charity Commission"
+  },
+  {
+   "start": 2440,
+   "text": "also gave a ratio, or did not give, probably it is not of the Charity Commission, but it is of PCP, there are rules of the FBR people, all of it, that is a rule, we have to follow it, that how much admin cost we can put, marketing, all these things, and personally, now 100 rupees came to me, we put 80 rupees of 100 rupees on marketing and branding, spend 20, whereas it should be the other way around, all right, 80 rupees should go to work at least, and 20 rupees should go to your branding, marketing and admin, so what we do, hand pump, yes, we do that, we do, our logo is put, our donor's name, it is put because of him, if he wants it written, our serial number is put, all our things are put, but our own pictures are not put, because they don't matter, and to build an institution"
+  },
+  {
+   "start": 2477,
+   "text": "and ultimately there is no benefit of it, and what happened with us, in the flood, we were stopped at many places, we were told indirectly, that you cannot do this work without this, still, but then we did work, work only there, where, we also do work only where nobody else can reach, our effort is only this, yes, all right, we worked at this place, the government did not reach, no problem, we reached through reference, let us work here, do a little, do it cleanly, and do it impactfully, now you were stopped, and for government special, for distributions, if you sit where the government is sitting very comfortably, then that was not preferred, you, see anywhere, there is a notification of Gujarat, that here"
+  },
+  {
+   "start": 2513,
+   "text": "you cannot distribute food, its excuse was taken, that food testing has to happen, till today, in the last 70-78 years, did you do food testing, you did your regular, you did food testing, that the food being distributed, food testing did not happen, its reason, that until the stamp is applied, that thing cannot happen, that first submit the food, submit the deg, submit the boxes, and we will do that to it, so we also faced it at some places, faced it, but all right, it happened, you did it, you did it, those are big problems, which was your main point, what you had to achieve, that was not yours, you had to go above them, it was not ours, but our donor's problem is, we had to look at the donor, we have to run things donor driven, the donor"
+  },
+  {
+   "start": 2550,
+   "text": "said, this work has to be done, it has to be done, now you, donation, I gave, gave, and how can I put your pictures on it, all right, so those things don't happen, but all right, appreciate, wherever I criticise, I'm not like that, so I appreciated there too, people, the government was also visible on the ground level, at many places, they also put up tents, camps were also put up, things were also put up, those were also visible, and the movement that was there, it happened, which perhaps, I was not expecting it to be this much, but still there was a biggest problem, as a disaster management person, so I always remain in regret, about NDMA, the National Disaster Management Authority was made, why was it made, it was made for this, that liaisons should be created, things should be done together, we got a total of one this"
+  },
+  {
+   "start": 2588,
+   "text": "time, thank Allah, I give credit for this, that a message, contact happened, this time what contact happened, just imagine, where are you going to do activity, just tell us its detail, many times it happened on our WhatsApp, on our official numbers, so I told the team, ask them, what will you facilitate us, we are going to this place, what will you facilitate, no, sir, we are entering in the database, we are doing this, so that you know something, all right, then fair enough, we will do the work, we will do it, and we are doing it, with full force, Allah bless, your main purpose was, you are looking at it, so out of all those initiatives, take it, any one initiative on which you feel very proud, I also, not because"
+  },
+  {
+   "start": 2627,
+   "text": "that my name became known from it or PCA's name, that is not it, that overall, you, one, what, one guess, it becomes more close to heart, so different, there was a child of ours whom we gave a scholarship, and he is sitting outside Pakistan at a very good level, and doing very good work, and his parents used to run a chikar chole dhaaba, and he graduated from LUMS, and I don't know what, and we took that thorough journey, so I always used to tell my whole team, his fees were a lot on us, he studied on scholarship in LUMS, and after that everything, but now in all places it is his, so then I used to tell the team, his credit is mine, that his guidance, all his things I did, now if I talk, today your question, our"
+  },
+  {
+   "start": 2669,
+   "text": "one project which is very close to my heart and my favourite, that is Hashim Raza Isar Store, Isar Store is ours, Isar is our project, under it there are many projects, Isar Water, Isar Health, Isar Store, the basic concept of Isar Store is that we give subsidised ration to needy families, up to 45%, you say, we give it at a discount, we don't make them stand in lines, stand in flour lines, we don't do the concept of ration, we have registered families, we give those registered families monthly up to 45% ration, subsidised, all right, and they come, cards are made, and we have registered 200-200, whose children study in our school, for outsiders too, we will move forward stepwise, so the talks are, only sugar has to be taken, that people take sugar"
+  },
+  {
+   "start": 2707,
+   "text": "sugar is 180 in the market, so ours is running at 120, all right, you mean like every item has 45, up to, on some how much is it, on some it is 30, overall, on some, on some, on some, the most used, on that, karam, 45 grains will be applied, then the work will be finished, so on some perhaps it is 22 percent, on some it is something, now it is, all right, but on every one there is discount, discount, discount, I gave you the example of sugar, 180, if it is running in the market, then with us it is running at 120, it will become 190, we will make it 125, we will reduce someone else's subsidy, we will increase this one, whose is short, so this is what we do, that is why it is close to heart, that when a daily wager comes to us, then he"
+  },
+  {
+   "start": 2740,
+   "text": "realises that I am taking something, the second reason it is close is, we renamed it, that when this daily wager comes, 19 years old, Hafiz-e-Quran, a very lovely person, he was very close to my heart, yes, rather a few years ago, you have seen viral, it was a very viral, big viral case on social media, he fought cancer, and he was like this and he died like this, and his pictures are viral, even now if you write Hashim Raza, cancer, or Hashim Raza on Facebook, you will cry, but I had started trying in his life itself, that we do things in his name, we rename it after him, so one, there are my memories with him, because of that, and second, I told you the cause, on the basis of both these things, that's very close to"
+  },
+  {
+   "start": 2790,
+   "text": "my heart, and everywhere I try to work on this, because its impact is also very high on society, and second, it is also a name, and I want to keep his name alive as it is, we renamed it because his heart was most attached to ration with us, so on the ration campaign he worked the most with us, whatever charity initiatives he took, he did them with us, so I, then we said, we decided, that we will rename it after him, that's very close to my heart, more power to you, thank you. All right, donations don't always reach the needy, if we talk about this, just like, for example, I want to give a donation, so what do you think, what criteria should there be, which I should consider, that all right, I"
+  },
+  {
+   "start": 2827,
+   "text": "am giving donation to this organisation, so what is the criteria, that it will reach the needy, or what will be the process, if you tell one or two criteria, in this then people of my own sector will be angry with me, but I will say it, all right, I, in the passage of time, after years, now my agenda has become this, seeing these things, and seeing a lot of fakeness and scams and these things, I make the donor aware, and I tell them, try, try, try as much as you possibly can, to give charity to a registered organisation, registered, okay, all right, it is unregistered, so its record keeping has big problems, now give to a registered organisation, so first, the name towards registered, number two, definitely take a receipt from them,"
+  },
+  {
+   "start": 2867,
+   "text": "make sure that he or she should give you the receipt, they may give it a day later, system timing, delays, whatever, give a receipt, because when a receipt is made, it comes in the recording inside some account, all right, those who are unregistered, they don't do this work, they may write it on their own paper, but they have no audit, they have no other thing, in a registered organisation also there will still be problems, they will do audit, they will do this, they will do that, but at least at an initial stage there is ease, so I say, that we have also gone through all these things in this way, but I am saying, let's put it, it's your organisation, you are non-registered, unregistered, so if I trust you a lot, I will give it to you, but I will force you, if you want to work long term"
+  },
+  {
+   "start": 2903,
+   "text": "then move towards registration, come into some people, come into something, actually our problem is this, and my nature is, I don't give to anyone standing on the road, who knocks, that I do charity, I know, but I don't give it to him, because I cannot verify this, and my nature is not that, all right, I have to give a hundred, I will give a hundred somewhere else, I will give a hundred, so I have a thought, I am saying, that there are many white collars, poor people appear, I don't give, so donation also does not reach its place because we donors don't act in the right way while giving, I donated to you, you donated to me, so the number one work for you should be"
+  },
+  {
+   "start": 2940,
+   "text": "first look at it, all right, look at the registered trust and all these things, good thing, if there is trust of friendship, very good thing, if it is not registered, then all right, third, and, first of all, ask for a receipt, my donor, 95% of my giving donors, don't ask me for a receipt, there is trust, I send it to them, or I definitely cut it, I ask the name, tell me the name, in whose name it should be cut, because cutting it is necessary, because it will be made, then send it to the bank account, one more thing is, the bank account of a registered organisation, the money that went into my NGO's account, it came into my banking statement, all right, all right, it came, went, came, these are small things, now if I send it to your account,"
+  },
+  {
+   "start": 2979,
+   "text": "he doesn't know, I don't know, that one lakh rupees came into your account, twenty lakh rupees came, so it is better to be registered, and don't give me cash either, don't give it to my team either, don't give it to them either, give it because I don't know, I gave it to you, God forbid, a flaw comes in his intention, something is there, plus minus, today it is, two years ago from you, but you got, until, a screenshot came, you came to know, it went into the account, I have to show that money, I have to show it in my income, that this income came, the rest, so these are some things, the rest, take care of this, look at people, give, and work with it, we have a big trust issue, in this, if I take a little of your time, look, you know what,"
+  },
+  {
+   "start": 3020,
+   "text": "floods come, these things come, my disagreement with society is on two-three things, we ourselves are not becoming aware, we don't do things, zakat, my favourite topic, we don't utilise zakat properly, we don't give it properly, first of all we don't give it, I have not understood zakat, we have kept big methods, so many tolas of gold, this, that, whatever, we have beaten big sticks, and again, so first of all we are not understanding that, it is such a beautiful system, man, whenever I, whenever I read it, whenever I teach it, I go mad with happiness, that Allah made this system, look, today brother, I don't have money, Allah has kept a very simple system, I don't have money, I was very well off, today suddenly, I did the calculation,"
+  },
+  {
+   "start": 3055,
+   "text": "the account Allah has kept, it came on that account, I am living in a one-kanal house, but Allah's account, that was done properly on it, so I, I would be liable for zakat, so I will take zakat from you, next year there will be a calculation, my income, this of mine, my expenses, they are proper, and I went above the zakat criteria, the nisaab, so I became a zakat giver, what is the problem? We have made it so difficult, all right? Understand the nisaab, understand the things, man, today wherever I sit, they calculate zakat, many people do it, we don't even get zakat, I will not do their calculation, I went, look, two years are due, your three years are due, give zakat for three years, no, no, just make two systems, so one is this, second, zakat"
+  },
+  {
+   "start": 3092,
+   "text": "how do we utilise it, I gave five thousand to you, five thousand to him, five thousand to him, I gave 5,000 to ten people, and I thought I gave to 10 people, so I will get more reward, whereas the reward, brother, was to be for that 50,000, now if I had given it to one person, all his needs would have been fulfilled, that would have been easier, now I gave to one, he solved the education problem from my side, the health problem came to you, he is also roaming around ten people, so we can easily find one person, do his, on this one of my teachers told me, there is, a business teacher, in LUMS I used to do trainings with him, so he said, yes, I was with the head of the Islamic Studies department of Aligarh University, he was the dean, him"
+  },
+  {
+   "start": 3134,
+   "text": "with, Almas Haider sahab, that is the teacher's name, he is my very dear business guru, so he said, yes, I was travelling with him, so we met together in the aeroplane, so I asked him, sir, the expenses of zakat, Allah has described eight, all right, but that we can give zakat to these, but among these also whom should I give to be better, so he said, that he gave such a first answer to him, when he told us, so since then I say, look, it is better because of this, I gave you this first example, and he said, look, give zakat to such a person, so that next year he is not a zakat receiver, all right, we have to break the vicious cycle, zakat, and, in the era of Umar Farooq, what was theirs, it was, these things, that, fear, no zakat receiver would come"
+  },
+  {
+   "start": 3168,
+   "text": "that was the era, today the same, so, there are zakat givers, there are zakat receivers too, every second person, your workers too, my workers too, all zakat, zakat, zakat, zakat, zakat, you know, it is not like that, people say that Pakistan is the largest, biggest country, charity, number one, it is not, it will be number two, number three, but it is, we do a lot, pretty, charity, look at the big floods, they gave so much money, no, as soon as the flood disappears from the media, money stops coming, people are not giving a single penny, how are they, because things have disappeared from the media, and when the flood was at its peak, this one, now we had gone mad, the funds coming to us, we ourselves had gone mad, man, what has happened to us, we are understanding so much, we have to do this, this, this work, so these are the things, so"
+  },
+  {
+   "start": 3209,
+   "text": "that is how you have to work on those grounds, and your sector, and it is not bad, it is good, you come yourself, come forward and work, we are sitting for this, we are working for this, that if you have mistrust on others, then for yourself, in a proper way, by registering, with a system, and to run long term, for four days, today I fed food, today I fed degs, this, this is not the day, to run long term, run charity understanding it as charity. So what do you think, what is success? A good question, I ask everyone too, it is different for everyone, all right? I define success like this, success is living your life with purpose, creating impact and living a legacy, so my three favourite top words are, which I have put in this, that purpose,"
+  },
+  {
+   "start": 3250,
+   "text": "impact or legacy, you have to live life like this, all right, that if I am doing this, then I am successful, so every person's definition is different, if I am living purposefully, which was my purpose, my vision, I am living for it, then I am successful, I am creating impact, and if after dying I am leaving my legacy behind, a good legacy, then I consider myself successful, otherwise success has to be found in small things, you are not successful until you get what you want, a common example I quote, it is very common, you have also become different, but we quote it, a girl crying with 99 marks, that my one mark is less, in that three children pass, boys pass, of success"
+  },
+  {
+   "start": 3293,
+   "text": "the definition is, he says, by Allah's grace, I passed, it is different, so in my definition finally comes, purpose, impact, legacy, if you are doing that, for me, not for others, for others, I, everyone, so define it yourself, create your own world, if you are alive, then make it yourself, my definition is these three words, if I am doing this, then I am successful, although there are many advices, there will be, but the ultimate advice for maybe youngsters, it can be in any respect, it is these three things, mine, purposeful life, impact or legacy, why work, forget what is happening in the world, what is not happening, if your purpose is clear, you have to work hard for that, you will get beaten, you will get hits, it is in life, so you will have to do it,"
+  },
+  {
+   "start": 3336,
+   "text": "with this, the message I always give, that life is of two types, individual or collective, you define it, what kind of life you want to live, but the beauty is, where I feel you need clarity, then your clarity word has come, clarity, where it comes, and that is, that these should not be intermixed, I live an individual life all my life, I, I, my parents, my family, my children, my career, all of it, there is nothing bad in this, I go out for this too, I study outside, I do everything, suddenly I remember, look, this is happening in the country, this is happening here, this happened in the family, that happened, now I am in a problem, now here I am mixing, other way around, I live a collective life all my life"
+  },
+  {
+   "start": 3375,
+   "text": "I also care about society, I also care about my family, but I keep myself a little less, a society and all, impact, in any way, impact, I am a job creator, or anything, then suddenly I remember, look, my friends, so, so, the day, work, has reached, he has so many cars, he has this, that was individual, when we mix this, then there is a problem, so individual and collective, your life, well before define it, which life you want to live, there is nothing bad in both, live, and live openly, live, live, absolutely, so the satisfaction, you must obviously relate to it, relate purely, so for me, the satisfaction is this, to be of use to others, you feel, from me"
+  },
+  {
+   "start": 3413,
+   "text": "I am disagreeing because you feel, why, this does not seem to you, all right, I will do this, that define this, define it yourself, all right, that you have to live an individual, or collective life, no problem, no, no, no, become the best in the world, Allah Almighty, I say, what was the definition for a believer, we only clap, Jabir bin Hayyan was ours, Ibn al-Haytham was ours, they were ours, who are you and I, has it ever happened to me, that someone sat behind me, prayers, claps, for me, no, I have to keep clapping for you, that he was my friend, will it ever happen that you clap for me, that I do such good work that they clap for me, that I did some good work, we don't do that, we have to live our life selflessly, thank you"
+  },
+  {
+   "start": 3448,
+   "text": "so much, in the end we have a small fish jar question, take a sticky note from it, just answer it, and write your question in it, drop it in it, and for whom, for the next guest, in this whatever there are, this guest, not that, happened, know, yes, when and how we can compete with foreign standards, will these standards happen, I don't think so, they say that hopelessness is a sin, I am not hopeless, but the conditions are, every day, every second day, and today when we are talking, and on what you said about amendments and everything, today perhaps I will say that perhaps we will never be able to meet foreign standards, because we don't want to do that, our intention is not with us, don't be hopeless, it is possible it happens through me, it happens through you, my"
+  },
+  {
+   "start": 3488,
+   "text": "coming generation's hands, and perhaps it happens, but we have to do it, we have to do it definitely, and being hopeless, I feel, is shirk, all right, hopelessness, we say hopelessness is a sin, so it is another means of shirk, because we go to Allah's being, we say to someone else, look, because Allah will not be able to do it, this system will not be able to change, this is the intention, so I will be hopeless, that is what shirk is, that we put someone else in Allah's place, so don't be hopeless, but the question, its answer is that till now the conditions seem to be that it cannot happen, last but not the least, you set your standards in your field, I will set my standards in my field, so we perhaps"
+  },
+  {
+   "start": 3518,
+   "text": "individually can do it, as a community, perhaps, or as a system, we perhaps, cannot do it, because we don't want to do that, those are not our priorities, and perhaps priorities come from the top, now the top priority is not that, and he says, that you cannot question him, I cannot question you, so then, I am very less positive for that, but still for myself I am very positive, and for you and for all of us, for society, I am very positive, all right Adeel bhai, thank you so much, thank you, keep up the good work, and we are really proud of you, thank you, thank you, salein viewers, thank you so much again, ending with that typical line, if you have not subscribed, do subscribe, so that we keep bringing such positive discussions for you"
+  },
+  {
+   "start": 3553,
+   "text": "and again, keep donating, maybe anything, whatever, the discussion we just had, its recording, but you think PCA is a good organisation, which spends in a good way, or it can be any, so keep donating, thank you so much, and see you next episode, Allah Hafiz"
+  }
+ ]
+}
