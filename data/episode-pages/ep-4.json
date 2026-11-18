@@ -1,0 +1,741 @@
+{
+ "id": "TssEk2utX0M",
+ "series": "podcast",
+ "label": "EP #4",
+ "title": "Youth Mental Health Crisis In Pakistan",
+ "seo_title": "Youth Mental Health Crisis In Pakistan | EP #4 | Muffled Minds",
+ "seo_description": "Ameer Hamza on youth anxiety, depression and suicide in Pakistan: who to talk to, counselling in schools, talent, risks and why youth leave.",
+ "keywords": [
+  "Ameer Hamza",
+  "Youth Mental Health",
+  "Anxiety and Depression",
+  "Suicide in Pakistan",
+  "Mental Health in Pakistan",
+  "Counselling in Schools",
+  "Youth Anxiety",
+  "Parenting and Mental Health",
+  "Brain Drain",
+  "Muffled Minds",
+  "Pakistani Podcast",
+  "Youth Suicide"
+ ],
+ "date": "2025-09-26",
+ "duration": 2978,
+ "guest": {
+  "name": "Ameer Hamza",
+  "role": "DevOps Engineer and Cyber Security Expert",
+  "bio": [
+   "Ameer Hamza is a DevOps engineer and cyber security expert from Lahore, Gulberg, and a close friend of host Khawar Shahzad. After graduating he has been freelancing for different clients, and is now also learning AI.",
+   "In this episode he talks about the youth mental health crisis in Pakistan: why 53% of high school students face anxiety or depression, who to talk to, the 2019 suicide figures, how to normalise mental health talk, counselling in schools, identifying talent, taking risks, and why so many young Pakistanis leave the country."
+  ],
+  "links": [
+   {
+    "label": "Instagram",
+    "url": "https://www.instagram.com/hammzagee/"
+   },
+   {
+    "label": "Full Muffled Minds Podcast series",
+    "url": "https://www.youtube.com/playlist?list=PLGwxKscM0gb04P3OGD_oVpbESOYBWZee4"
+   }
+  ]
+ },
+ "summary": [
+  "In Episode 4 of Muffled Minds, host Khawar Shahzad sits down with his friend Ameer Hamza, a DevOps engineer and cyber security expert from Lahore, to talk about the youth mental health crisis in Pakistan. They open with the numbers: 53% of high school students face anxiety or some kind of depression, most of them aged 15 to 18, and the pressures behind it — social media, home circumstances, finances and a personal struggle they absorb but cannot act on.",
+  "From there the conversation moves to who a young person can talk to — parents first, then siblings, friends and a spouse — and why that first discussion is the biggest step. They discuss the 2019 figures: 19,000 suicides in Pakistan, around 14,000 males and 4,500 females, mostly aged 16 to 28, and the triggers that push someone there: job issues, relationships, parents, and several problems arriving together. They also talk about normalising mental health talk, a counsellor in every school, and why teachers and principals should dedicate a lecture to it.",
+  "The last part turns to talent and the future: letting a child try many things, gaming and reading included, teaching him to take risks, and why starting to earn at 18 beats starting at 24. They discuss separating from parents without leaving them, why business should be separate from family, and why Pakistan cannot produce millionaires — a class jump takes a generation, and the youth, around 40% by the guest's estimate, leave for the same issues the episode is about."
+ ],
+ "we_discuss": [
+  "Why 53% of high school students face anxiety or depression",
+  "Who to talk to: parents, siblings, friends and spouse",
+  "The 2019 suicide figures and what triggers them",
+  "How to normalise mental health talk in Pakistan",
+  "A counsellor in every school and a dedicated lecture",
+  "Identifying talent: let children try many things",
+  "Taking risks and starting to earn at 18",
+  "Separating from parents, and why youth leave Pakistan"
+ ],
+ "takeaways": [
+  "Talking is the biggest step: anxiety and depression can happen to anyone, but discussing it with someone is what starts the way out.",
+  "Go to parents first, then siblings, then friends: if the bond with parents is good, their experience guides best; siblings are the underrated next best.",
+  "Do not label anxiety too much: it also teaches you, and the age of 15 to 18 is for learning through experience.",
+  "Problems arrive together: when three or four issues hit at once, solve them one by one, because each one peaks while you work on another.",
+  "Counselling should start in school: a counsellor in every school and a dedicated lecture slot would catch problems before they reach 80%.",
+  "Let children try many things: talent shows itself through gaming, reading and experiments, not through grades alone.",
+  "Start earning at 18: a child who starts at 18 has his own thinking by 24, while parents who shield him delay it.",
+  "Separate your life, not your parents: live separately and decide for yourself, while staying physically close and responsible."
+ ],
+ "chapters": [
+  {
+   "start": 0,
+   "end": 166,
+   "title": "Highlights"
+  },
+  {
+   "start": 166,
+   "end": 227,
+   "title": "Topic intro: Youth mental health crisis in Pakistan"
+  },
+  {
+   "start": 227,
+   "end": 686,
+   "title": "Why 53% of high school students have anxiety/depression?"
+  },
+  {
+   "start": 686,
+   "end": 1019,
+   "title": "With whom we can consult our issues/anxiety?"
+  },
+  {
+   "start": 1019,
+   "end": 1351,
+   "title": "Why an individual commit Suic--de?"
+  },
+  {
+   "start": 1351,
+   "end": 1710,
+   "title": "How we can normalize mental health talk?"
+  },
+  {
+   "start": 1710,
+   "end": 1910,
+   "title": "Role of institutes in nourishing students?"
+  },
+  {
+   "start": 1910,
+   "end": 2213,
+   "title": "How to Identify one's talent?"
+  },
+  {
+   "start": 2213,
+   "end": 2356,
+   "title": "Success by taking Risks in life"
+  },
+  {
+   "start": 2356,
+   "end": 2755,
+   "title": "How to train your child for future challenges?"
+  },
+  {
+   "start": 2755,
+   "end": 2978,
+   "title": "Why Pakistan can't produce millionaires?"
+  }
+ ],
+ "transcript": [
+  {
+   "start": 0,
+   "text": "Matlab 15 to 18 vaale, usmein jo common aap keh sakte hain, anxiety, depression ki jo reason ho sakti hai, woh kya ho sakti hai? Ladki, theek hai, RS bhai. Achha, problem sab ke saath hoti hai, anxiety, depression sab ko ho sakta hai, lekin woh cheez kisi ke saath discuss karna jo hai na, yeh sab se bada step hota hai. Yes, yes, is cheez ko normalize karna. Agar aapke parents ke saath nahin hai na itne achhe relations, ya ho bhi nahin sakte, kyunki woh ek izzat hoti hai, go for your siblings. Ek video dekh raha tha, usmein ek baap apne bete ko kehta hai ke yaar, tum mujhe apna dost samjho, baap na samjho. To woh kehta hai ke jab main aapko apna dost samajhta hoon, to aap baap ban sakte ho. Sir, aapko to sab se pehle apni awaam se jaahiliyat nikaalni padegi na, jo banda har signal pe nahin ruk sakta. Kahaan se? O ho,"
+  },
+  {
+   "start": 37,
+   "text": "wahaan pe to jaate hi dar bithaya jaata hai na, ke teachers ne yeh kar dena hai, DC ho jaani hai, yeh ho jaana hai. Yeh to tha hi nahin ke bachcha tum padhne aaye ho, humein tum padhaayenge. Tum bachche ho, kuchh nahin hota. Easily darna nahin hai. Padho. Ab bringing jo hai na, woh kaisi honi chahiye, ke like start se, agar for example parents ya even ke school mein teachers aapko jo hai na, woh aapki counselling ek achhe way se kar rahe hain, to woh sab se best solution hai. Jo ek bachcha hai, uski apni to koi soch hai nahin, theek hai? Woh jo parents ne usko kaha, wahi jo hai woh uske accordingly, aur parents ki expectations bhi hoti hain, ke numbers ya grades, ya isne yahi, mere bete ke 91% aaye hain matric, haan, mere bete ne jo hai woh software engineer hi banna hai. Hum, hum, artist, artist to kanjar bante hain. Mera hi jo hai, maamu ka beta, uski kirat mein Dubai mein jaana hai, usne Pakistan mein, poore Pakistan mein, usi ka aaya hai, sirf naam. To again, kisi ne identify kiya, saara"
+  },
+  {
+   "start": 82,
+   "text": "environment tha, us din main Amma ji se bhi baat kar raha tha, ke poora environment ke uske tha, jiski wajah se woh jo iska talent itna polish ho chuka hai, ke ab woh is level pe gaya hai. To aapka environment aapke maa-baap, woh to start hi maa-baap se hai na. Aapko yaad ho, aapke bachpan mein, hum games khelte the, ghanta ghanta milta hota tha, khair se humein kya jo hai woh output milti thi, poora din game khelta rehna hai, padhta nahin hai. Aur aaj, yeh sports, haan, kya, mere father ka na hamesha yeh hota hai, ke koi skills seekh lo, skills seekh loge to aage chaloge. To main unko na hamesha kehta tha, yaar, aap skill ka keh rahe ho, to phir degree kyun kara rahe ho, aap padha kyun rahe ho? Woh kehte hain, padhne ka koi lena dena nahin hai tumhare financially, usmein se padhai aapko aage chalna sikhaati hai, padhai aapko bolna sikhaati hai, padhai aapko society mein rehna sikhaati hai. Iska matlab yeh nahin hai ke padhai, agar aap degree kar rahe ho, to degree aapko job leke de. Aisa kuchh nahin hai. To is maa nu tu kyun chhadega tu? Hain, poori zindagi tannu paal-pos ke bada kitta hai. Unh keh rahe hain, main Allah se. Balance karna hai na, ke let's just say ke haan, balance hai, ke yaar, agar aapke parents jo hain, woh aapke baghair survive nahin kar sakenge,"
+  },
+  {
+   "start": 129,
+   "text": "to separate hone ka yeh matlab nahin hai. Tab ghar se hi nikal jao. Nahin, aap apni life ko separate karna hai, parents ki life ko separate karna hai. Yeh apni government ki instability ki baat karein, jab tak yeh, for example, election hue, obviously we are not pointing anyone, sorry, to usmein bahut se log jo hai woh uthte hain. To tab agar us tenure ki baat karein, to tab ek common person yahi lagta hai na, ke us wajah se, for example, dekhein, government ki baat na karein, log uth jaate hain. Assalamualaikum everyone. Welcome to Muffled Minds, Find Your Clarity."
+  },
+  {
+   "start": 172,
+   "text": "Aur aaj ke hamare jo guest hain, woh mere bahut hi pyare dost hain. He is basically DevOps engineer and cyber security expert, Ameer Hamza. Ji, Ameer Hamza, kaise hain aap? Main theek-thaak, aap sunayein. Alhamdulillah. Theek-thaak, Haris bhai. Aur mere co-host, as usual, Haris sahab. Achha, basically aaj ka jo hamara topic hai, woh hai Youth Mental Health Crisis in Pakistan. To hum time to time jo hai uske related jo hai woh discussion karte rahenge. But usse pehle, Ameer Hamza, aap thoda sa apne baare mein batayein, like kya kar rahe hain aap aajkal, aur from where you belong? Khawar bhai, shuru se hi freelancing, graduation ke baad freelancing hi chal rahi hai. Different clients hain, aur aajkal AI bhi hai, to different cheezein learn karne mein, isi mein hi, aur baaki Lahore, Gulberg."
+  },
+  {
+   "start": 216,
+   "text": "Achha, main ek, na, aaj analysis ek padh raha tha, to usmein yeh tha ke jo high school students hain na, usmein se 53% jo students hain na, unko anxiety ya kisi kisam ka jo hai woh depression hai, aur hum agar high school students ki age ki baat karein, to woh zyada se zyada ho sakti hai 15 to 18 years, ke aajkal jaise ke 15 years mein aap matric kar lete ho, aur college mein agar aap jaate ho, to aapki age kya hogi, 17 ya 18"
+  },
+  {
+   "start": 254,
+   "text": "maximum hogi. To aapke baare mein, aapka is baare mein kya opinion hai, ke kyun hai anxiety zyada, uski kya reason hai? Uske bade factors ho sakte hain, woh to bade subjective bhi hain, kyunki har bande ka copying mechanism different hota hai. For example, if I can shield myself better to your comments, ya meri skin bahut thick hai, har bande ka nahin hai. Par usually, ya most probably, usmein social media hai, ghar ke haalaat bhi hain, financial, apni personal struggle bhi hai, ke kyunki woh age, I think, yeh hoti hai, ke aap bahut saara absorb kar rahe hote ho, kar kuchh nahin sakte, aapke paas, kyunki main jo resource chaahiye hota hai, koi bhi cheez karne ke liye,"
+  },
+  {
+   "start": 296,
+   "text": "finances nahin hote, to usmein bahut cheezein absorb kar rahe hote ho, kuchh kar nahin pa rahe, to isliye bade zyada factors hain, jo ke itne zyada amplified nahin bhi hone chaahiye. For example, kisi ka bolne se mujhe phat nahin jaana chaahiye, par woh bahut cheezein hoti hain, jiski wajah se, I think, hai, aur khel bhi hai, aur woh age bhi aisi hi hoti hai, jahaan pe aap jo hai na, kuchh bolna, kuchh karna chaahte ho, but aapke paas authority nahin hoti. Haan, koi kisi ke saamne abhi tak aapne apne aap ko prove nahin kiya hota, ghar waale bhi keh rahe hote hain ke abhi yeh kachchi umar mein hai na, to abhi bachcha hai, aur nahin, woh hota bhi hai, guzarte bhi hain, woh bhi ek experience hai. But"
+  },
+  {
+   "start": 340,
+   "text": "I think anxiety ko itna label bhi nahin karna chaahiye, anxiety bhi humein bahut kuchh sikhaati hai, aur woh age seekhne ki hai, I think. To I don't think ke aapko push karna chaahiye anxiety ko, ya us problem ko, let it come, aur kyunki isse bahut banda seekhe ga apne baare mein. Isi tarah se, to aage banda agar 22 ya 23 mein bhi jaata hai, to yahi cheezon ko accept hi karta hai na. For example, main risk le loonga is business mein, anxiety hoti hai na tumhein, ke main kya karunga next two months, par tab tum le lete ho. Lekin yeh to saare aapne middle class ke issue bata diye na."
+  },
+  {
+   "start": 377,
+   "text": "To middle class se banda hoon main. Nahin, baaki agar hum dekhein, to jo ameer tabqa hai hamara, ameer tabqaat ke, yaar, I think unke issues aur hain, kyunki agar tum, haan, ameer ke bhi different hai, unko obviously finances ke nahin hote, lekin finances ke hone bhi hote hain. Yes, in some sense, yes, but unko phir hamara jo lens hai, woh waala lens chhod do na, phir woh bade waale lens mein chale jaao, unke bhi masle phir yeh hote hain, plane charter nahin hua, yaar, aaj mila nahin hai, yeh gaadi nahin hai, ya Dubai se falan cheez aayengi, mili nahin, yahaan iPhone 17 book karwaya hua tha, aaya nahin hai, yaar. To yeh ho gaya na, hamare paas woh purani Mercedes hoti thi, ek aur purana iPhone rakha hua tha humne, humne bahut mushkil se, jo hai na, mushkil aa rahi hai. Mental health to yahaan pe bhi disturb ho rahi hai, yes, ho rahi hai, to honi bhi chaahiye, yaar. Seedha reh ke bhi kya karna hai?"
+  },
+  {
+   "start": 433,
+   "text": "Mental health agar, I know ke tum kis cheez ko baat kar rahe ho, like hamara main yahi hai ke crisis hai, but I don't think itna label bhi karna chaahiye, let it be, seekho, aage chalo. To matlab, aap sahi keh rahe ho, like sometimes yeh bhi hota hai ke aap woh happiness ke peechhe bhaagte bhaagte na, woh real jo cheez hai na, usko, yaar, ismein, ismein mere khayal mein na misinformation hoti hai, jo aapne age baat ki hai na, high school ki misinformation is baat mein, ke jaise happiness bhaagna, jab aapki age badi hoti hai, aap padhte, agar aap, let's say, book reading nahin karte, through experience seekhte ho na, to phir aapko pata lagta hai, ji, paisa hi sab cheez nahin hai. Yeh sab ki jo bhi hai na,"
+  },
+  {
+   "start": 474,
+   "text": "early 30s ya jo bhi late 20s, ya aapki life mein banda seekhta hai, kisi na kisi tareeqe se, ya way se. To I think yeh misinformation bhi hai, jiski wajah yeh bhi hai, ke hum book reading ya khud in concepts pe critically nahin sochte, na sikhaate hain. For example, financial education nahin itni prominently ghar mein sikhaai jaati, middle class mein. To agar khud is cheez pe hum seekh lein, ke yaar, book reading kar lein, jo ke nahin ho sakti. To I think ke jo hamare concepts shuru se hi sahi ho jaayenge. Aur"
+  },
+  {
+   "start": 515,
+   "text": "jo ek hai na, ke depression aa gaya, ya kis tarah banda badlega, usmein aapko phir woh material knowledge hai na, woh help karegi. Achha, basically hamare jo platform hai, uska purpose bhi yahi hai, ke woh jo age hai na, 15 to 18 waali, wahaan pe unki counselling is tarah se honi chaahiye, starting from parents, and then schools, and then high schools, ke abhi jo aapne jaise baat ki na, ke jo paisa hai, woh sab kuchh nahin hota. But again, jo ek young ladka hai, jo ke abhi school gaya hai, ya college mein gaya hai, woh to baakiyon ko dekh raha hai na, jo ke paise ke peechhe bhaag gaya hai. Ab uski soch, obviously, unko dekh ke usi tarah ki ban rahi hogi. To hamara purpose bhi, matlab, yahi hai, ke counselling honi chaahiye, jo ke unko train kare, sort of, yaar, achha, paisa nahin hai sab kuchh, do some points pe"
+  },
+  {
+   "start": 563,
+   "text": "zaroori hai paisa, theek hai, lekin woh yeh nahin hai, ke aap uske peechhe bhaagte hue jo hai na, sab kuchh jo hai woh bhool jaate ho. Yeh bhi hai factor. Par agar main 18 saal ke mindset mein jaake dekhu na, hum jitni marzi yahaan pe bolein na, woh us ko nahin maanenge, jisne mostly jo hai na, trump kar denge, kyunki ek insaan fitrat bhi hai. Tumne kuchh padh bhi liya na, jab tak tum experience nahin na karoge, tumhara immune system usko validate nahin karega, us technique ko, ya us way ko, ya jo bhi hai. To ismein main counselling bhi theek hai, counselling bhi theek hai, karni chaahie. But mere khayal se, usse zyada focus tumhein karna chaahie, just"
+  },
+  {
+   "start": 604,
+   "text": "go for try different things. Apne aapko na, sirf school ya, kya kehte ho, academy ya grades ke peechhe na lagao. Different cheezein try karo. Aur even aajkal to information ki, tum like, information, ChatGPT, bahut kuchh cheezein, aur literally aap bahut kuchh cheezein try kar sakte ho, jis se kya hoga, tumhare paas bahut zyada data points honge, when you are at 22, 23, aur us tab phir tumhare paas professional degree, ya professional, us pe guzar chuke ho, to aap achhe tareeqe se attack kar sakte ho in 22 or 23. But counselling, yes, counselling also,"
+  },
+  {
+   "start": 647,
+   "text": "this is kind of counselling to try new things. Aur Haris bhai, aapka kya khayal hai is baare mein, like woh jo students hain us age ke, students, 15 to 18 waale, usmein jo common aap keh sakte hain, anxiety ya depression ki jo reason ho sakti hai, woh kya ho sakti hai? Ladki, theek hai, RS bhai. True, true, good going. Achha, haan, bilkul sahi baat hai, with a point and concise, straight answer, sahi baat hai. Sir, aap young hain, naya naya aapko jawaani aayi hai, aap kehte hain ke bhai, haan, to theek hai na, try karo. Agar ismein phir woh bhi bahut angle ho gaya, jo ke samajh aa raha hai."
+  },
+  {
+   "start": 686,
+   "text": "Sorry for cutting you, mera jo point hai na, woh yeh point hai, ke for example, us ladke ko ya ladki ko, for example, cheezon ka pata hona chaahiye, ke achha, main kisi depression ya anxiety mein hoon, jaise aapne bataya ke woh sometimes woh cheez achhi bhi hoti hai, lekin usse nikalna kaise hai, maine, main kisi ke saath consult karun. Ab aap sab ke saath hi, almost, yeh cheez hogi, humein pata hi nahin hai. Achha, consult hum kar bhi sakte hain, ke nahin kar sakte. Achha, agla judge to nahin karega. To is cheez ko normalize karna, ke achha, problem sab ke saath hoti hai, anxiety, depression sab ko ho sakta hai, lekin woh cheez kisi ke saath discuss karna jo hai na, yeh sab se bada step hota hai. Yes, yes. To is cheez ko normalize karna, is cheez ko normalize"
+  },
+  {
+   "start": 729,
+   "text": "hoga. Uske, ho, haan, ho raha hai, discussion, I think, ho hi raha hai, agar aaj se 10 saal pehle chale jao na, woh 10 saal pehle hota tha, nahin, nahin, bahut change aaya hai, main keh raha hoon, change aaya hai, awareness ho rahi hai, yes, but woh jo taboo hai na, woh to rahega, I think, culturally, hamara jo hai, culturally, hamara jo hai, jo ek hamare pe parda hai na, us cheez ka, woh rahega, but in, I think, in friend groups, ya again, jitni information hai, ho, like, baatein hoti hain, even between friends, ya"
+  },
+  {
+   "start": 766,
+   "text": "Ya, your siblings. Agar aapke parents ke saath nahin hai na itne achhe relations, ya ho bhi nahin sakte, kyunki woh ek izzat hoti hai, go for your siblings. I think siblings are the, like, bahut underrated hain hamare social life mein. Logon ke dost zyada, like, share woh doston se zyada karte hain than siblings, kyunki mere khayal mein, go for the siblings, hai woh, kyun, koi next best best things hain aapke, after your parents. Nahin, wahaan pe hurdle bhi to hai na, kis cheez ki, siblings aapke parents ko jaake bata dete hain, yaar, har cheez."
+  },
+  {
+   "start": 803,
+   "text": "Yes, woh agar tum uske shoes mein ho gaye, again, psychologically, main baat karun to, just play, wahi na, jaano na, woh kyun is tarah karta hai, woh uske peechhe kya vulnerability hai, ya kya uska hai, jo is ek cheez, nature mein bhi hota hai, haan, nature, nature mein bhi hota hai, yes, of course, hota hai, but ek, ek sibling to nahin hai na, ek se zyada bhi to hai na, abhi jiske hai hi nahin, ek hi hai, to phir woh next best thing, friends? Friends. Achha, zyada bhi hain, agar for example, kya, siblings, haan, haan, us, aap, for example, ab jo meri family mein hai, hai ke main totally ek mashriq mein ja raha hoon, aur"
+  },
+  {
+   "start": 841,
+   "text": "meri poori family maghrib mein ja rahi hai. Haan, to wahaan aap kya karoge? Phir friends ke paas, to friends, haan, nahin, usmein wife agar hai, to wife is your next, I think. Ladki aa gayi, nahin, ladki, yaar, is tarah le bhai, ladki hai, haan, hai, theek hai, theek hai, theek hai, to wife, wife is, I think, next best thing, kyunki wahi hai, jo ke shuru se start, yaani ke woh chhod, nikah hai hi hai na, ke chhod nahin sakte, bas dost jo hai, woh jab marzi aapko thudda kara ke ja sakta hai, wife, never, uske saath bahut zyada cheezein attached hain, jo ke jiski wajah se woh aapka kabhi bura nahin sochegi. Hum yeh cheez, sir, true, true ko, aur nikaal hi na hua. Exactly, matlab ek tika, woh obviously, agar"
+  },
+  {
+   "start": 888,
+   "text": "back trace usko kiya jaye, woh hai hi is, yes, is purpose ke liye, ke beta, tum bhi nahin chance chhod jaate ho. Commit ho gaya. But again, isse pehle, agar parents ke saath aapki ban sakti hai, jo ke aajkal kaafi time change ho gaya hai, due to, maybe, exposure, aap keh sakte ho, agar parents ke saath aapki ban rahi hai, to woh sab se best jo hai. Yes, yes, par uske liye, Khawar bhai, kaat raha hoon, uske liye chhota sa point add karunga, uske liye aapko time invest bhi karna aana chaahiye. Phir agar aap yeh kaho ke ji, main bas apne duniya jee raha hoon, kyunki 20 ya 20 onwards, aapki ek life hi hoti hai, jismein parents itne zyada nahin pe, main jee raha hoon, aur mere maa-baap jo hain na, relation hai hamara, wahi healthy hai, uski health 100% woh na consider karo, phir unko bhi"
+  },
+  {
+   "start": 932,
+   "text": "time do. Phir aap balance karo, ya dekho, ya scale karo, ke mera relation hai ke nahin hai, ya unki nature is tarah ki hai, ya us din unka dimaag mein kuchh aur chal raha tha, yeh tension thi, jiski wajah se woh, agar woh tension unki pata hongi, to tum then judge kar sakte ho na, phir bhi aapka hoga. Hum, true, true. Aur haan, matlab, obviously, yeh to sab se first, aap keh sakte ho ke point aapke mind mein aane chaahiye, unko time dena. Yes, yes. To main jis respect se baat kar raha tha, woh yeh thi, ke agar aapke parents ke saath aapki bonding achhi hai na, to woh aapko achhe se guide kar sakte hain, kyunki unka experience zyada hai, as compared to your siblings. But again, constraints hain, har jagah pe, ke agar, yaar, maine dekha, kis tarah aap balance karke chalo, yaar, balance, kyunki ismein, ismein agar add karunga, to again, technically baat karun, to maybe"
+  },
+  {
+   "start": 979,
+   "text": "your parents are way behind you, in terms of guiding you, but in terms of life, yes, they can. To again, balance karke chalna cheez, zindagi hai hi balance ka naam hai, yaar, balance karke chalo. True, true. To main ek video dekh raha tha, usmein ek baap apne bete ko kehta hai ke yaar, tum mujhe apna dost samjho, baap na samjho. To woh kehta hai ke jab main aapko apna dost samajhta hoon, to aap baap ban sakte ho. To ek yeh bhi hota hai, sometimes. But again, yes, siblings waala jo point hai na, woh bilkul hai. And then siblings ke baad, friends aapke, yes, unse obviously aap har cheez jo hai woh discuss kar sakte hain. Yes, yes, depending upon, hum."
+  },
+  {
+   "start": 1019,
+   "text": "To ek aur, main ek survey jo hai woh main padh raha tha, jo ke aajkal hi hua hai, ke 2019 mein na, jo suicide jo count tha na, woh 19,000 tha, Pakistan ki main baat kar raha hoon, aur unmein se, for example, jo males the, woh around the, 14,000, aur jo females the, woh 4,500 ke around the. To unmein se jo age hai na, jo range hai, woh yahi thi, for example, 16 to 28, jo ke youngsters mein hi hum usko consider jo hai woh kar sakte hain. To itni, itna bada count, suicides ka,"
+  },
+  {
+   "start": 1056,
+   "text": "what do you think, ke kya, usmein again, kya factors ho sakte hain? Pehle to, pehle to, Haris bhai, pehle to mujhe aap, haan, pehle to mujhe aap yeh batayein na, ke psychologically kya-kya hota hai before someone commits suicide, taaki hum woh factors jaan sakein, ke jinse woh trigger hua hai, ya jinse yeh amount, agar if possible, ke thodi si light trigger points jo hote hain na, woh different cheez aa sakte hain, scenarios se aa sakta hai. Jaise ke, for example, aap ismein kar lo, aapko job ka masla hai, aapko relationship issue hua hai, aapko parents ke saath koi masla hai,"
+  },
+  {
+   "start": 1095,
+   "text": "ya aapki life mein koi aisi cheez jali hai, jisko aap face nahin kar pa rahe. Theek hai? Ismein phir yeh cheezein aa jaati hain. Starting mein kya hota hai, ke starting mein aap chale jaate ho depression mein, aap downfall mein chale jaate ho, aap khaana peena chhod dete ho, aur sochna chhod dete ho. Theek hai? Sochna chhod nahin dete, sochna increase kar dete ho. Aap har time, aap kahin bhi ho na, gathering mein ho, aap kahin bhi ho, aap usi cheez ke baare mein sochte rahoge, jab tak ke mind mein woh cheez stuck ho gayi, jitni der ke liye woh chalti rahegi aapke mind ke andar, jab tak ke aap usko solve nahin kar lete. Aap agar zyada, for example, ismein ek cheez yeh bhi aa jaati hai, ke zyada issues hain, hum, ek issue nahin hai, zyada issues hain, ekdum aa gaye hain."
+  },
+  {
+   "start": 1134,
+   "text": "Ek issue nahin, kabhi kabhi hamari life mein aisa hota hai, ke ek issue nahin aata, chaar paanch ikatthe aa jaate hain. Assalamualaikum sahab, commonly, commonly, yaani ke woh bas solve nahin kar pa raha hota. Haan, life ko, ek to solve nahin kar pa raha hota, usko time nahin mil pa raha hota. Agar teen chaar ikatthe aa gaye hain, aap ek time pe to nahin kar paaoge na, teen chaar ikatthe, jab aap ek kar rahe hote ho, doosra peak pe chala jaata hai, doosra kar rahe ho, teesra peak pe chala jaata hai. Us par phir yeh cheezein aa jaati hain. Phir jab yeh cheezein aahista aahista, time to time hota hai, yeh ekdum se aap woh suicidal ki taraf nahin jaate, yeh time to time hota hai. Kuchh log hote hain, jinki aap capability keh lo, ke itni strong nahin hoti, woh jaldi"
+  },
+  {
+   "start": 1171,
+   "text": "us side pe chale jaate hain, kuchh hote hain, jo ke try karte rehte hain, karte rehte hain, karte rehte hain, lekin at the end, woh cheez solve nahin hoti. Job nahin mil rahi, aapke financial issues hain, aap ghar nahin chala pa rahe. Theek hai? Aapki family hai, aapne family ko feed karna hai, aap nahin kar pa rahe. Aapne har jagah matha maar ke dekh liya, lekin kahin se aapko woh earning nahin mil rahi hai. To usmein phir yahi hua, ke phir at the end, jab is wajah se kar rahe ho, is wajah se, dekhna to yeh tha, ke pyaar ke peechhe kitne the yeh khudkushiyaan. Usmein bhi maine badi kahaaniyaan suni hui hain. Jo hai woh details wahaan pe mention nahin thi. By the way, ji, jitne bhi surveys ya facts hum yahaan par discuss kar rahe hain, unke jo references hain, woh hum description mein add karenge. They are actual facts. Theek hai?"
+  },
+  {
+   "start": 1212,
+   "text": "To, lekin, wahaan, matlab, aapka point bhi theek hai, woh kitne is side to the, yes. Achha, mere khayal se, agar for example hum uski percentage ki baat karein, to around 50% laazmi yahi hoga. Haan, haan, jinka, for example, ishq mashuqi ya jinke, haan, like, personal issues nahin the, suicidal mein na, mere khayal se, ishq shuqi kam hogi. Yaar, stories to bahut suni, nahin, nahin, itni nahin hoti, jo hamari society, itni filmein bani hui hain in cheezon pe, yaar, filmein jo bani hoti hain na, aap filmon pe na jaaya karo, filmein aapko reality bahut kam dikhaati hain. Theek hai? Mujhe jo lagta hai na, sab se zyada jo percentage hogi inmein, woh sirf yeh middle class family ki hogi, ya nichle tabqe ki hogi, jo ke job nahin mil rahi hogi, jinko financial, financial. To kya yeh communicate nahin kar paate, I think yeh communicate bhi nahin na kar pa rahe the, ke we are going through this."
+  },
+  {
+   "start": 1260,
+   "text": "Haan, again, communicate nahin karwa rahe hote na, kyunki aap communicate karte ho, aajkal ke dost, to aapko pata hai kaise hain, woh aage se aapko samjhaayenge nahin, woh aage se aapko mazaak uda, do teen dost ikatthe ho, woh do mil ke teesre ki kid laga dete hain, baja dete hain, aur yeh banda seekh jaata hai, ke aisa nahin karna chaahiye. Again, after 25, 26, 27, yeh pata kis tarah chalta hai, yaar, agar experience nahin hai, book reading karna shuru kar do, book reading, ya kisi bade ke paas baith jao, waqai yeh cheezein seekhni chaahiye humein. Again, coming, connecting to the point, wahi jo kiya tha. Achha, haan, matlab, again, wahi baat ho gayi na, normalize karne waali baat, ke hum teen bande baith ke, agar main ek issue discuss kar raha hoon na, to agar mera woh genuine issue hai, aur aapko pata hai, to aap us cheez ka mazaak banaane ki bajaaye, ya mujhe baad mein jo hai woh tease karne ki bajaaye, jo hai na, aap usko sun rahe ho."
+  },
+  {
+   "start": 1305,
+   "text": "Haan, munh se, then maybe uska ek better provide kar sakein. Hum use woh as a points, mind mein kar rahe hote hain, ke iski baat yeh aa gayi hai, baad mein jo hai, baat yeh aa gayi hai, next pe isko is tarah karna hai, is tarah karna hai. Woh yes hota hai, par banda aahista aahista seekhta hai, ke woh achha tareeqa nahin hai. Kuchh hote hain na, aise pahunche hue log, seekhte nahin hain. Woh abhi dekh lein, lag raha hai, batao, aapki side pe ja raha hai. Haan, jinko seekhne ka koi shauq nahin hota, woh kehte hain, bas aa gaya hamare haath chadh gaya hai, lo bhai, ragad do. Again, woh cheez bachpan se, agar start ho na, hum agar baat kar rahe hain, to bachpan se woh jo ek cheez inject ho jaati hai na, aapke mind mein, I am talking about positive things only, to woh phir aahista age ke saath woh mature bhi hoti jaati hai, aur phir aap doosron ko convince bhi kar sakte ho, usi respect se. To yeh normalize karne waali, again, baat aa gayi, normalize kaise karein, kya aapki, I, hum baat kar rahe hain, nahi, circles ke andar,"
+  },
+  {
+   "start": 1361,
+   "text": "to yeh normalize, normalize abhi na, normalize aap kar rahe ho na, aadhi woh aawaam aapki chhod ke ja chuki hai. Unko chaahiye, unko entertainment chaahiye, sir, unko normalize nahin karna. Again, jaise humne pehle baat ki, ke hum yeh jo mental health crisis hai na, isko andar discuss karte jaayenge, again, apne experiences jo hai woh share karenge, to isi tarah normalize kar sakte hain. Aur obviously, kisi ko hum pakad ke yeh to nahin keh sakte, ke yeh cheez hai, yeh tumne, aainda, main kehta hoon, dande ke taur pe karo, woh ho nahin, yahaan pe hona chaahiye, aajkal to bilkul nahin ho sakti, nahin ho sakta, kyun nahin ho sakta, nahin, yaar, waise log jail ja rahe hain. Dekha jaaye, kya-kya cheezein ho gayi hain, like danke ki chot pe, kya-kya cheezein ho rahi hain, but again, matlab, agar Haris waali baat karein, to woh upper level pe, maybe, ho sakti hai, woh cheez, matlab, hum agar kar rahe hain, to hum woh isi tarah discussion, fazool cheezon ke liye ikatthe ho sakte hain, hum, theek hai, hum dharne de sakte hain, lekin humne jo hamara main masla hai, hum uske liye ikatthe nahin ho"
+  },
+  {
+   "start": 1416,
+   "text": "sakte. Haan, matlab, humne jo hai woh banners pakde hain. Sir, aapko to sab se pehle apni awaam se jaahiliyat nikaalni padegi na, jo banda har signal pe nahin ruk sakta, kahaan se, apply, o ho, ho, ho, sahi baat hai, yaar, topic chhed diya, yaar, sir, sir, aise hi hai na, main bada tang hoon awaam se. Aur yeh sahi baat, sahi point out kiya hai. Hum khud hi nahin seedhe hona chaahte. Hum chaahte hain ke bas koi aaye, raat ko teeka lagaaye, subah hum, hamare saare masle theek ho jaayein. Ab obviously, aisa to possible hai nahin. To step by step hi hai, just like we have taken any initiative, yeh waala, isi tarah, step by step."
+  },
+  {
+   "start": 1452,
+   "text": "Agar ab, obviously, aapki baat bhi theek hai, ke like protest, agar hum doosri cheezon ke baare mein kar sakte hain, to iske baare mein kyun nahin? But, lekin, again, ab aajkal kaafi awareness aa chuki hai is baare mein, maybe schools mein, universities mein, kaafi cheezein jo hai woh chal rahi hain. Abhi, yes, yahaan pe jo agencies hain na, jo free funded chal rahi hain, ya sorry, funded chal rahi hain, usmein unko thoda karna chaahiye. Ab hamare, hamari government ka to humein pata hai, woh kaisi chal rahi hai, lekin usmein yeh jo agencies hain, thodi si funding unko jahaan se milti hai, woh baaki cheezon mein laga rahi hain. Unko chaahiye ke thoda sa is taraf bhi lagaayein. Schools ke andar koi apna ek banda de dein, designate kar dein, ke bhai, ke woh aapko de dein, thodi si"
+  },
+  {
+   "start": 1496,
+   "text": "school se, agar woh bhi nahin ho sakta, maybe teachers can thoda sa woh dhyaan kar dein. Bachcha, haan, aapke teachers kar sakte hain, kyun nahin kar sakte? Like, on my test, ke agar aap teacher ki respect se baat karo. Theek hai? Ek teacher hai, jo ke private schools mein, aapko bhi pata hai, kitni salary jo hai woh dete hain, private teachers ko. To aapko kya lagta hai, ke like, uske paas itna time hoga, source mein? Wahi na, again, wahi baat, main wahi dimaag mein soch raha tha, ke ab itni cheezein, like pehle tha, ke 10 bachche hote the, ab woh bhi number increase kar gaya, plus a lot of things, to woh bhi sense nahin banaati. Hum, to ismein jo mujhe lagta hai, jo ke sab se efficient way ho sakta hai, wahi ho sakta hai, for example, ek school hai, theek hai, aap uske principal ho, let's jaise, theek hai, agar aap woh"
+  },
+  {
+   "start": 1542,
+   "text": "cheez normalize karoge na, ke aap ek lecture, for example, dedicate kar do, ke maine is person ko invite kiya hua hai, to us lecture mein yeh cheezein jo hai woh hum discuss karenge, jo ke aapke future ke liye bhi sahi hongi. To woh phir down side, jitne bhi, for example, teachers hain, ya jitne bhi stakeholders hain, for example, woh automatically us cheez mein involved ho jaayenge. To mere khayal se, yeh cheez, agar, haan, aur agar ek step back karein, bande ko bhi willing hona chaahiye, ke maine share karna hai, ya maine iska solution karna hai, rather than just keeping quiet, kyunki maine mostly dekha hai, ke masle ka pata hi tab chalta hai, jab 80% jo hota hai na,"
+  },
+  {
+   "start": 1581,
+   "text": "kaam badh gaya hota hai. Diagnose hi tab hota hai. Haan, diagnose hi tab hota hai. To I think ke aapke andar personal, ise step back karo, to personal bhi hona chaahiye, ke I need to solve this. But again, mujhe woh cheez lagti hai, ke sometimes aapko pata ab hota hi nahin hai, ke achha, yaar, main yeh, yeh bhi main kar sakta hoon, yeh cheez, yes. To jaise hum pehle baat kar rahe the, ke agar woh bachpan se, school waale, woh jo time hai, wahaan se agar start hogi, to aapke mind mein aapko pata hoga, yaar, achha, agar yeh cheez hui hai, to mere paas kya-kya options hain, mere paas option A hai, parents, option B, siblings, option three, for example, friends, for example, to yeh options pata honge, tab woh banda kisi se discuss kar sakega na. Yahaan pe hum kya karte hain, ke hum, yaar, woh yeh kya sochega mere baare mein, nahin, main"
+  },
+  {
+   "start": 1624,
+   "text": "khud kuchh sochta hoon, yeh kya sochegi, yeh kya sochegi, haan, sochay, ghee, ghee ka zyada, ghee ka zyada hota hai na, ganja gaal ke andar gaal. Haan, nahin, udhar zyada masle waise bhi hote hain, woh jab society ke andar ghus jaati hai na cheezein, to phir aur upar se school waali jo baat hai na, aap keh rahe hain ke lecture arrange karwa dein, mere khayal se na, ek counsellor laazmi hona chaahiye har school ke andar. Woh, woh lecture wahi dega na, jo counsellor hoga. Achha, achha, matlab, ek dedicated slot jo hai woh bana di gayi hai, students aayenge, aur jo counsellor hai, woh wahaan pe unko train karte hain. Hum, nahin, usmein, aap jaise, aap baahar ki movies mein dekhte hain na, ek counsellor hota hai, woh ek"
+  },
+  {
+   "start": 1664,
+   "text": "bachche ko separately bulaata hai, phir uska poora analysis nikaalta hai. Main woh baat keh raha hoon, jab woh cheez start hogi na, phir aage jaake itne masle nahin aayenge. Haan, bilkul, aapka point valid hai. Maybe aap is level ki baat kar rahe ho, aur main is level ki baat kar raha hoon. Theek hai? Ke maybe hum start yahaan se le sakte hain, and then step by step, hum us point tak pahunche, jab dedicated counsellor, jo hai na, ek student ko, jo hai woh, aasaani se, woh first world country hai, ya, haan, haan, yeh bhi hai, matlab, abhi, let's just say, ke agar hum universities ki baat karein, to you did bachelors in 2019"
+  },
+  {
+   "start": 1702,
+   "text": "2019, to 2019, matlab, kya, paanch chhe saal hua, zyada se zyada, to aapko kya lagta hai, ke us time pe bhi is tarah ka koi initiative university mein tha, counselling ka, is tarah ka, nahin, yaar, wahaan pe to jaate hi dar bithaya jaata hai na, ke teachers ne yeh kar dena hai, DC ho jaani hai, yeh ho jaana hai, yeh to tha hi nahin, ke bachcha tum padhne aaye ho, humein tumhein padhaayenge, tum bachche ho, kuchh nahin hota, easily darna nahin hai, padho, rules. I think, jahaan bahut zyada kar doge na, to dar ek waise hi aapka unconsciously baith jaata hai, pata nahin, yeh bhi ho sakta hai, ke nahin ho sakta, yeh kar diya to DC hogi ke nahin hogi, to wahaan pe nahin"
+  },
+  {
+   "start": 1740,
+   "text": "tha, but kuchh teachers the, jinka over time relation, again, jab hua, ya kuchh teacher aise bhi the, jinhone, jaise Waqar sahab the, Sir Waqar, unka way of teaching hi aisa tha, ke woh openness tha. Yeh nahin tha, ke constraint, kuchh teacher hote hain na, yeh padha diya, yeh padha diya, nahin, nahin, unka constraint nahin tha, par phir bhi woh humein padha rahe the. To woh teaching aa jaata hai. But general vibe thi, ke bhaijaan, yahaan par counselling ho rahi hai, yahaan aapko dekha ja raha hai, woh nahin thi. Ek cheez, main ismein add kar doon, for example,"
+  },
+  {
+   "start": 1777,
+   "text": "woh mental health se related, growth se related, yes, yes, yes. Ab bringing jo hai na, woh kaisi honi chahiye, ke like start se, agar for example parents ya even ke schools mein teachers aapko jo hai na, woh aapki counselling ek achhe way se kar rahe hain, to woh sab se best solution hai. Yes. And then, par abhi woh Moiz ne jo point raise kiya tha, agar woh yahaan pe discuss karein. O haan, matlab, abhi hum off the camera kuchh discuss kar rahe the, to woh hamare dost yeh bata rahe the, ke yahaan aajkal kya hota hai, ke jo ek bachcha hai, uski apni to koi soch hai nahin, theek hai? Woh jo parents ne usko kaha hai, wahi jo hai woh uske accordingly, aur parents ki expectations bhi hoti hain, ke numbers ya grades, ya isne yahi"
+  },
+  {
+   "start": 1829,
+   "text": "mere bete ke 91% aaye hain, matric. Haan, mere bete ne jo hai woh software engineer hi banna hai. Hum, artist, artist to kanjar bante hain, yaar. Again, three days, kanjar pe beep lagaani padi. Nahin, again, three edits waali example, woh aap har cheez se usko relate kar sakte ho. Yes. Pichhle episodes mein jaise humne discuss kiya, ke again, jo woh banna chaah raha hai, theek hai? Parents usko nahin dekh raha hai. Exceptions are always there, hum unki baat nahin kar rahe, hum overall ek comparison kar rahe hain na, hum uski baat kar rahe hain ke jo bachcha banna chaah raha hai, woh jo talent hai, woh extract kisne karna hai? Yaar, uski woh environment hi hai na, agar start se hum baatein hain."
+  },
+  {
+   "start": 1867,
+   "text": "For example, yeh bhi hamari gathering mein abhi nahin hai, jo ke main us din soch raha tha, ke if you are good at something, aur if you know someone, jo ke woh tumhaari woh goodness ko ya tumhaari woh skill ko use kar sakta hai, aap connect nahin karwa rahe. Aajkal main social circles mein dekhta hoon, woh badi limited hai, apne circle mein hota hai, yaar, yeh bahut achha hai, yeh, yeh bahut achha hai, falan cheez mein, woh connection bhi nahin karwa rahe, hum, jiski wajah se, keh lo, ke aapki bhi skill hai, woh undermine ho rahi hai. Chaliye, yeh to matlab, hum us age mein hain na, ke jahaan pe obviously humne university se bhi guzar gaye, school se bhi guzar gaye, us school mein bhi nahin, to uske, us, us, agar tum 18 saal pe chale jaate ho, to obviously uske ghar waale, uske teachers, ya uske, even, family mein"
+  },
+  {
+   "start": 1912,
+   "text": "jaise main abhi bata raha tha tumhein, ke woh mera hi jo hai, maamu ka beta, uske kirat mein Dubai mein jaana hai, usne Pakistan mein, poore Pakistan mein, usi ka hai, sirf naam, to again, kisi ne identify kiya, saara environment tha, us din main Amma ji se bhi baat kar raha tha, ke poora environment ke uske tha, jiski wajah se woh jo iska talent itna polish ho chuka hai, ke ab woh is level pe gaya hai. To aapka environment, aapke maa-baap, woh to us start hi maa-baap se hai na. True, true. Aur sometimes yeh bhi hota hai, ke for example, aap khud se to most of the time nahin, aapko khud ko nahin pata chalta, matlab, us age mein aapko kya chalna hai, ke mera telling, basically, yes. Again, ab waali baat, bilkul, parents and then schools, again, ab waali baat aa gayi, ke proper"
+  },
+  {
+   "start": 1958,
+   "text": "ek counselling waala bhi hona chaahiye, like, jo counselling bachche ki, jo hai woh counselling karein. Again, uska kaam hi yahi hai na, ke achha, woh dekhe, usko explore karein, theek hai? Uska talent kya hai? Usko jo hai woh baahar leke aaye. Haan, aur uske usmein aasaani isi tarah hi hogi, ke let him try a lot of things. Ek do cheez pe na daalo. Gaming, agar koi keh raha hai, gaming bhi karke dekh lo, yaar, usko padha ke bhi dekh lo. Aur aajkal jitni information hai, yeh degree khatm hoti hui nazar aa. Exactly. Aur again, agar hum usse gaming waali baat karein, to aapko yaad ho, aapke bachpan mein, aapke bachpan mein, hum games khelte the, ghanta ghanta milta hota tha, khair se humein kya jo hai woh output milti thi, poora din game khelta rehna hai, padhta nahin hai. Haan, aur aaj yeh sports"
+  },
+  {
+   "start": 2003,
+   "text": "kya, woh bhai, proper competition hai. Risk lena bhi bachche ko sikhaana chaahiye, yaar. Haan, haan, aur mainne jo, mainne jo risk... Obviously, maa-baap, balki tum dono to ho na, parents, maa-baap nahin chaahte ke yaar, mera bachcha na is tarah... nepotism, ya keh lo, isko shield karte hain, karte hain. Yeh, yeh kya perspective hai? Yes, yes. Main, main apne bachche ko kahoonga, bhai, risk lo. Nahin, yeh keh rahe ho na, matlab, yeh aap keh rahe ho, exceptions, again, matlab, overall, agar hum baat karein, to yeh soch hoti hai na, bachche ko protect kar... yaar, nahin, yaar, yeh kahaan rukega, rukega, main isko jo hai woh"
+  },
+  {
+   "start": 2042,
+   "text": "aur jo uski baat prepared karke rakha hota hai. Jaise main ki bhi baat ki kar raha tha, ke 24 saal mein aap jaake earning shuru karte ho, tab aapki apni ek soch start hoti hai, seedling. To if agar start kar doge, 18 saal se aap kamaana shuru kar doge, ya jaise abhi, jaise maa-baap kyun nahin humein 18 ya 17 saal mein job karne dete. Woh yahi kehte hain na, tenu car, sab kuchh milya, chup karke padh tu, tu taan car karke hi kaam kar. Main aapko bataata hoon, 18 saal mein na, mainne job karna start kar di thi, aur uski reason pata hai kya thi? Main padhaai mein achha nahin tha. Haan. To unhone kahaa, yaar, padhaai vich changa nahin hai, chalo, kaam kar raha hai, kaam karta rahe. To yeh ek factor bhi aa jaata hai beech mein, ke achha, chalo, study achhi nahin kar raha hai, to chalo, koi skill aa jaaye. Mere father ka na hamesha yeh hota hai, ke koi skills seekh lo."
+  },
+  {
+   "start": 2090,
+   "text": "koi skills seekh lo, skills seekh lo, skills seekh loge to aage chaloge. To main unko na hamesha kehta tha, yaar, aap skill ka keh rahe ho, to phir degree kyun kara rahe ho aap? Aap mujhe padha kyun rahe ho? Woh kehte hain, padha, padhne ka koi lena dena nahin hai tumhare financially, usmein se, padhai aapko aage chalna sikhaati hai, padhai aapko bolna sikhaati hai, padhai aapko society mein rehna sikhaati hai. Iska matlab yeh nahin hai ke padhai, agar aap degree kar rahe ho, to degree aapko job leke degi, aisa kuchh nahin hai. Haan, aur again, like, ladke ke marks kam hain, to usko rickshaw le dete hain, rickshaw. Haan, aur agar ladki ke kam hain, to uski shaadi kara lo. Yaar, numbers ko, number sirf concept hai, jo ke jaali concept hai, yeh sirf societal concept hai, chhodo isko. 100% true, 100%. Lekin aajkal kuchh institutes hain, lekin obviously woh big tycoons, jinki hum"
+  },
+  {
+   "start": 2137,
+   "text": "agar baat karein, to unmein yeh concept jo hai woh start ho gaya hua hai, like even ke 5th, 6th tak koi exam nahin. Yes, unko sirf aur sirf jo aap kya keh sakte hain, self building, aap usko name de sakte hain, ke uske upar kaam jo hai woh chal raha hai, ke achha, iski personality kaise build up karni hai, bachche ki, iski soch kaise mature karni hai, is par kaam abhi chal raha hai. Lekin again, woh Haris waali baat yeh aa gayi na, ke yeh baatein karne se usse to nahin hoga, unless and until woh upper level se start ho, woh cheez, aur woh cheez force ki jaaye institutes pe, na, ke achha, yeh cheez aapne karni karni hai. Phir woh cheez ho sakti hai."
+  },
+  {
+   "start": 2174,
+   "text": "Yes. Lekin hum aajkal doosre issues se niklenge, to in par baat karenge, na, ke yeh woh issues hain jo ke apparent nahin hain, like nazar nahin aate. Baaki issues nazar aate hain na, roads, pull, yeh cheezein hain. To again, baat wahi aa gayi ke kahin na kahin se to start lena hai humein. Nahin, nahin, basic se, main pehle bhi bahut baar keh chuka hoon aapko, basic se start lena padega. Aap basic se start karo, phir upar jaao. Aap schooling pe aao, pehle playgroup pe aao, phir schooling pe jaao, phir universities pe jaao, colleges hain, phir aage jaao. Agar aap basic se start nahin karoge na, aap upar leke jaaoge cheez, aapko nahin milega. Achha, bande ko kitna der wait karna chaahiye ek option pe? Let's say, mainne kahaa na, different cheezein try karni."
+  },
+  {
+   "start": 2219,
+   "text": "Achha, sometimes yeh bhi nahin hota hai, aap ek option pe chal rahe ho, aapko parallel jo hai woh, let's say, haan, to kitna, let's say, mainne ek try kiya, ya ek mainne ek business kiya, how long, ya what are the parameters, ke yaar, bas ab yeh chhod do, isko discard kar do, move on to new things. Achha, usmein jo mujhe lagta hai, ke jitne, jitne factors usmein ho sakte hain na, for example, aapke plans hone chaahiye, sab se pehle to plan A, plan B, and then even plan C bhi hona chaahiye. Agar aapko lag raha hai ke plan A mera execute nahin hua, aur plan B pe agar aap jaate ho, aapko lagta hai ke yaar, mujhe nahin lagta, iske 10 ya 20% chances hain, to you can try differently, but again, yeh bhi subjective hai, aur ismein, I guess, time limit to aap nahin define kar sakte, again, aapke resources, aur"
+  },
+  {
+   "start": 2263,
+   "text": "aapke paas jo back end pe capacity hai aapki, wahi, nahin, aise hona chaahiye, kyunki agar isi cheez mein hum phanse rahein, ke let's say, main cheez, option pe phansa raha hoon saari zindagi, to growth nahin hai, ya main, woh main kuchh log karte bhi hain. Again, aap jo baat kar rahe ho na, usmein do teen cheezein aa jaati hain. Ek to aa gayi, aapne field select karni hai, aap experiment kar rahe ho, hum, good, karo, field select, jab tak ke aapko apni woh cheez mil nahin sakti, woh kya kehte hain, kick kehte hain, jab tak ke aapko kaam ke andar kick nahin mil jaati, uske andar, aap tab tak field explore karte raho, different fields explore karte raho. Theek hai? Uske baad aata hai, aapne baat ki business ki, business mein aap field explore nahin kar sakte, aapne ek field pakad liya na, agar usmein aapko ho gaya loss, aapko nazar aaya ke bhai, ismein kuchh nahin chal raha, to aapke"
+  },
+  {
+   "start": 2309,
+   "text": "paas doosra plan B ke liye resources honge, nahin honge, aap kaise karoge? To ismein bahut si cheezein aa jaati hain, ke business ke andar plan A, plan B, plan C, tab aap karo, jab aap start chote se lo, plan A mein, ke main chote se start karunga, jab ismein mujhe success milegi na, phir plan B ki taraf bada kar loonga, phir plan B apna, usmein yeh cheezein aa jaati hain, to balance karke chalo, balance pe baat aa jaati hai. But again, yeh koi initiative lene ke liye, aapko apne comfort zone se baahar nikalna to padta hi hai. Paani, paani, haan,"
+  },
+  {
+   "start": 2348,
+   "text": "again woh comfort, yaar, paani yahi sense hai. Iska woh koi bura na lo. Paani yahi hai ke apne aap mein determination rakhna. Main phir baahar waali baat karunga, ke woh jaise bachche hote hain 18 saal ke, unhein ghar se baahar, ke bhai, jaao, karo jo karna hai, 18 saal tak parents ki hoti hai zimmedaari, uske baad parents ki koi zimmedaari nahin, unhein khud hi karna hai jo karna hai, sar pe daalte hain unko. Haan, yahaan pe bhai, bachcha ho gaya 28 saal ka, apni baat kar raha hoon, aur parents ke saath chal raha hai, theek hai, parents kar rahe hain, galat hai, main khud kar raha hoon yeh cheez, lekin mujhe, din, yaar, main vaise soch raha tha, kisam ki, obviously, ki us, us zindagi jo hai hamare liye behtareen hai. Unmein wife ki, is izdawaaji zindagi ki saari haadeeshiyaan,"
+  },
+  {
+   "start": 2392,
+   "text": "unki zindagi bhi hai. Main soch raha tha, yaar, saas ke saath nahin hai na. Haan, saas ke saath nahin hai, koi zindagi, aur humein bhi nahin pata ke saas ke saath rawayya kis tarah, ya kuchh aur badi cheezein pata chal jaati hain na. Achha, chup, jiske peechhe mainne dekha ke yaar, nahin, yeh jo kaam hai na, saas waala aur bahu waala, yeh hai hi nahin hai. Yeh meri apni calculation hai, abhi tak, jitna mere paas information hai, obviously, woh refer, aur mujhe lagta hai, yeh saas waale mein bhi is wajah se nahin hai, ke tab yeh waala koi concept udhar tha hi nahin, I think, ya udhar hai hi nahin. Matlab, obviously, humne woh, even ke movies ya usmein dekhe na, agar hum baat karein woh Turkish serial ki, uski Ertugrul, haan, haan, woh bhi, usmein bhi kya hota tha, ke humne uska dekha, uske bhai ki shaadi hui, ya even ke iski khud ki shaadi"
+  },
+  {
+   "start": 2442,
+   "text": "hui, aur inka separate ek khaima jo hai woh unhone bana hai, haan, haan, bilkul, to woh apna saara system jo hai woh khud chala rahe hain. Yes. To woh ek separation waala, to aajkal, for example, agar aap naam le lo ke yaar, mainne separate hona hai, to is maa nu tu kyun chhadega tu? Hain, poori zindagi tannu paal-pos ke bada kitta hai. Unh keh rahe hain, main Allah se... Arey, yeh matlab, ismein hum yeh nahin, yeh nahin baat kar rahe ke yaar, separate... yaar, jab beti ko rukhsat karte ho na aap, bete ko bhi rukhsat kiya karo, ab woh ek separate couple hain, hum, separate gharana hai, theek hai, they should decide for themselves, everything themselves, theek hai, tum uske maa-baap aur jo faraiz Allah Taala ne define kar diye hue hain, unka sawaal karo, bas tumse,"
+  },
+  {
+   "start": 2485,
+   "text": "theek hai, baaki woh rukhsat kar do apne bete ko bhi aur jeene do unko zindagi. Side mein, mera to yeh point hai. Nahin, lekin agar akela beta hai, phir akela beta, to phir kya hai? Hum, nahin, nahin, nahin, thehar jaao, thehar jaao, ke akela beta hai, kya uski shaadi different hoti hai? Nahin, nahin, shaadi different nahin hoti hai. Woh phir bete ke mind mein hota hai na, ke yaar, is age mein main apne parents se alag ho jaaun, kaise survive karenge? To phir karo, phir kar lo, aur kar lo, kya kar lo? Phir to woh jinke chaar siblings hain, woh bhi ek hi ghar mein reh rahe hain. Nahin, unke ab zyada tar yahaan pe aisa hota hai. Mera point samjhe ho na, mera point samjhe ho na, bahut udhar bhi nahin hai. To yeh, yeh argument bilkul valid nahin hai ke main akela hoon, yaar, yeh nahin, main apni baat hi kar raha hoon."
+  },
+  {
+   "start": 2526,
+   "text": "Main waise baat kar raha hoon ke logon ke mind mein aa sakti hai baat, ke yaar, main akela hoon, main kaise chhod doon parents ko, main kaise le... usse bhi aapne balance karna hai, na, ke let's just say ke haan, balance hai, ke yaar, agar aapke parents jo hain, woh aapke baghair survive nahin kar sakenge. To phir hone ka yeh matlab nahin hai, tab ghar se nikal jaao. Nahin, aap apni life ko separate karna hai, parents ki life ko separate karna hai. Yeh main purpose hai. Ghar separate, main, main personally yeh kahoonga ke aapka, even ke location physically bhi close ho, theek hai, paave naal aa rahe ho, haan, naala ho, subjective. Hum uski baat kar rahe hain ke jo ek hi hai, for example, ek hi ladka hai, for example, hum uski baat abhi kar rahe hain, doosre to obviously woh to aise hi hain, inke kaafi issues jo hai woh wahin pe khatm ho jaate hain, agar aapki separate hai na, bahut psychologically usmein, psychologically bahut zyada constraints"
+  },
+  {
+   "start": 2576,
+   "text": "hain, jo hamare maa-baap, ya hum khud bhi jo hai na, nahin kar sakte is umar mein aur is mahaul mein, woh mahaul ko, environment ko separate karoge hi to resolve hone hain. True, true. Aur do you think ke aajkal ya jab bhi peechhe ki hum baat karein, to jo parents hain, obviously hum bhi parents hain, for example, to do we have enough courage ke hum woh, agar business ki hum baat karein, to business separate hum kar dein unko, bachchon ko, for example, agar aapki do bachche hain, to aapko kya lagta hai ke yeh courage hota hai? Yaar, dekho, main to abhi baap nahin bana"
+  },
+  {
+   "start": 2613,
+   "text": "Split kar, main to, obviously, obviously, personal wahi bata raha hai, main disclaimer de raha hoon, abhi mera koi aulaad nahin hai, par main yahi kahoonga, bhaijaan, 18 saal tak ya baaligh hone tak poori zimmedaari hai meri, jo ke hai. Haan, agar aap Islamic point of view se bhi dekho, uske baad, I am there to just guide you, aur help you, crisis aa gaye hain, jo bhi hai. Yeh nahin ke main tumhein pocket money de raha hoon. Itna main inshallah zaroor karoonga ke 12-13 saal tak jitna bhi uske andar main daal sakta hoon na, bhar sakta hoon, bhar doon, taaki woh itna capable ho, ke 18 ke baad, main I am just there to guide you, aur yeh bhi as an option, you can ask me, yeh nahin ke tu mainu puchh ke kyun nahin keeta, nahin, as an option, aur meri life separate hai"
+  },
+  {
+   "start": 2655,
+   "text": "bilkul, separate, separate, mera jo apna personal hai, aur yeh cheez bahut galat hai, ke unhein business bana ke de do, haan, o, yeh to sab se, hai na, to bilkul hi woh bilkul hi galat hai. But again, for example, aap baat ki na, business separate kar dein. Main, haan, main us wajah mein, main ek aur cheez, main add kar doon usmein, ke obviously aap jo abhi mehnat kar rahe ho, jo kama rahe ho, theek hai, woh aap apni aulaad ke liye kar rahe ho na, to unko dene ki respect se kya hai, brother, yeh bhi dena, ek, ek point hai, chhota sa, yeh bhi ek puraani soch hai, yeh ke I am doing it for my aulaad, aulaad, theek hai, concept samajh aata hai, par mere khyaal se agle 10 saal ya 20 saal mein na"
+  },
+  {
+   "start": 2692,
+   "text": "ab socho na, aapke abaaji ne jitna bana liya hai, tum kabhi bhi nahin zindagi mein itna bana sakte. 100%. 10 saal mein kya hoga? Kuchh bhi nahin. Ek, ek to, agar main is numbers ki game karoon, to itna kam hai. Secondly, yaar, jitni information hai, aur jitna fast ho gaya hai, main na, yeh ab woh nahin raha, ke ji, apni ab meri jaaydaad aage transfer ho rahi hai, jo bhi woh, woh chhod do. Ab aapka skill set hai, ya aap how you do business, ya how you communicate, ya is side pe cheezein chalni hain, aage, aage, theek hai, aa raha hai, alert waali baat to theek hai, woh, par main personally baat karoon, yeh 18, again, 18, itna capable kar do usko, ke bhai, usko chaahiye hi nahin hai tumhaara, 21 saal mein, aage woh Barsalaan baat kar raha tha, usne Apple found ki,"
+  },
+  {
+   "start": 2734,
+   "text": "abe se to nahin na, usne paise liye, aur abe se paise maangega nahin na, kyunki woh itna capable hai, ke woh kar sakta hai, woh mera yeh point hai. Nahin, bilkul theek hai, aise hi hona bhi, aise hi sahi hai, kyunki aap is isko base leke chaloge na, to aage apne liye bhi behtari hogi, aur aapke bachche ke liye behtari hogi. Hum, to, but aapko kya lagta hai, like, jitne bhi millionaires, billionaires, for example, agar hum new startups ki baat karein, jo ke successful, jaise middle class tak rehna chaahiye, billionaires, middle, woh usi ki baat kar raha hoon, ke woh wahaan pe, wahaan tak kyun nahin pahunche sakte, aur depression de dein hum youth ko, billionaires aur millionaires ki baat karke, bhaiya, yeh, aaye, yeh billion, yeh jo class jump hai, yeh poori poori generations, ek generation, mere khyaal mein, lagti hai, jo ek class se upgrade ya downgrade"
+  },
+  {
+   "start": 2784,
+   "text": "Yes. So, hamari lifetime bhi to... to woh kya kaun sa gap hai? Yaar, woh race chhodo, yaar, bas enjoy your life. Nahin, nahin, nahin, woh matlab, obviously, us usko mind mein rakh ke, nahin, main just yeh baat kar raha, to koi yahaan se kyun nahin woh uth rahe? For example, agar hum apne region ki baat, kyunki woh Pakistan mein hai hi nahin hai. Agar mainne MS karna hai, yahaan mainne thoda bahut padhna hai, again seekhna hai, naya technology kya hoti hai, Pakistan mein kidhar ho raha hai? Baahar chale jaate hain, aur baahar jaake jo main baatein kar raha hoon, woh already implemented mil rahi mujhe. Haan ji, why should I come back, why should I come back? To woh phir waapas to nahin na aate, waapas nahin aate, yes, yes. Woh ek news chali thi na, ke pata nahin kitne percent youth Pakistan chhod ke chali gayi hai. Haan, to woh kya, kis wajah se chhod ke gayi hai? Inhi maslon ki wajah se."
+  },
+  {
+   "start": 2829,
+   "text": "Obviously, uncertainty, aap keh sakte ho, aap country ki uncertainty, different cheezon ki unstable, aap keh sakte ho, har cheez na, uske upar daalna bhi galat hai, laazmi nahin hai, ke unmein jo jitni percentage, 100%, usmein se jo aaya hai na, woh financial issues ki wajah se, aapko kya lagta hai, kitne percent awaam is issue ki wajah se gayi hogi? Main kehta hoon, 40% is in issues ki wajah se gayi hogi. Koi ghar se bhaag raha hoga, theek hai? Aur koi zimmedaari se bhaag raha hoga. Achha, aur isi tarah aur cheezein add kar le aap. To woh, do you think ke woh 60% baaki cheezein hain, 40% sirf? Yaar, usne apna, apne apne calculator ke mutabiq, haan, main bhi is se calculator, haath wala calculator hai, mera itna hi kar sakta hoon."
+  },
+  {
+   "start": 2868,
+   "text": "Haan, nahin, tum batao na. Nahin, nahin, mujhe lagta hai, matlab, obviously, agar hum apni government ki instability ki baat karein, jab, kahin, for example, election hua hai, obviously, we are not pointing anyone, sorry, to usmein bahut se log jo hai woh kehte hain, to tab agar us tenure ki baat karein, to tab ek common person ko yahi lagta hai na, ke us wajah se, for example, dekhein, government ki baat na karein, log uth jaate hain. Nahin, main, main, main government ki baat kar raha, ismein, ismein, ismein, I think, ke yeh hamare paas jo option hai na, baahar jaane ka, iski wajah se jo hai na, I think, ke kahin na kahin na, hum jo potential yahaan pe kar sakte hain na, woh miss kar rahe hain. Why? Because humne mind ne banaaya hua hai, ke yaar, woh layout hai na, baahar chale jaayein, baahar chale jaayenge. To pehle to yeh decide karo na, idhar rehna hai ke nahin rehna. Aur yahaan pe itni cheezein hain, jo aap"
+  },
+  {
+   "start": 2916,
+   "text": "apna future dekh rahe ho yahaan pe, even, it's, family ya business ya Lahore ya architect, ya aap jo bhi kharch kar lo, agar woh hai to theek. Pehle to yeh decide karo na, phir baad mein dekho, ke Pakistan ki wajah se main nahin kar paaya, ya hukumat ki wajah se nahin kar paaya. Kya hua? Chup kyun kar gayi? Sochne to nahin lag gaye. Hain, Pakistan se baahar to nahin jaana. Nahin, meri Pakistan mein kya, kahin aur bhi koi property nahin hai. Oye, galat gala nahin karni hai, chaand pe property khareedo yaar. Haan, chaand pe khareed sakte hain yahaan pe aap. Agar tumne apne aulaad ke liye khareedni hai na, chaand wala relo, relo stars pe khareedo, Mars se hi khareedo. Chaliye, thank you so much, Ameer Hamza, for joining us."
+  },
+  {
+   "start": 2958,
+   "text": "Thank you so much, Haris. Aur aap bhi, kindly, hum basically jo bhi discuss karte hain, woh apne personal experiences ke through hi aapke saath aapko convey kar rahe hain cheezein. To do let us know about your thoughts in comments. To inshallah, next episode mein milte hain. Allah Hafiz."
+  }
+ ],
+ "transcript_note": "This transcript was generated automatically with speech-to-text and lightly edited, so some words may be wrong, and passages that could not be made out are marked [unclear]. The first tab shows what is spoken in the video: Urdu written in Roman Urdu, with English kept as spoken. The English tab is a translation of the same transcript. The video is the authoritative version.",
+ "topics": [
+  {
+   "label": "Youth Anxiety and Depression",
+   "icon": "mental"
+  },
+  {
+   "label": "Suicide Prevention and Mental Health Talk",
+   "icon": "psychology"
+  },
+  {
+   "label": "Counselling in Schools",
+   "icon": "education"
+  },
+  {
+   "label": "Parenting and Family",
+   "icon": "parenting"
+  },
+  {
+   "label": "Talent, Risks and Careers",
+   "icon": "career"
+  },
+  {
+   "label": "Brain Drain and Youth Leaving Pakistan",
+   "icon": "society"
+  }
+ ],
+ "faq": [
+  {
+   "q": "Why do 53% of high school students have anxiety or depression?",
+   "a": "Ameer Hamza says the age of 15 to 18 is when you absorb a lot but cannot act: social media, home circumstances, finances and a personal struggle, with no resources of your own. He adds that it should not be labelled too much, because that age is for learning, and anxiety also teaches you."
+  },
+  {
+   "q": "Who should a young person talk to about anxiety or depression?",
+   "a": "Parents first, because their experience guides best if the bond is good; then siblings, who the hosts call very underrated; then friends; and if married, the spouse, who can never leave you the way a friend can. The first discussion is the biggest step, and it is what normalises mental health talk."
+  },
+  {
+   "q": "What did the episode say about suicides in Pakistan?",
+   "a": "Ameer Hamza cites a survey from 2019: 19,000 suicides in Pakistan, around 14,000 males and 4,500 females, mostly aged 16 to 28. The triggers he lists are job issues, relationship issues, problems with parents, and several problems arriving together, with financial pressure and middle-class families the biggest share. The references are in the video description."
+  },
+  {
+   "q": "What should schools do about student mental health?",
+   "a": "The hosts say every school should have a dedicated counsellor, and a dedicated lecture slot where students are trained. A principal can invite a person to talk about it, and teachers and stakeholders will get involved automatically. They add that a person must also be willing to share, rather than keeping quiet until the problem has grown to 80%."
+  },
+  {
+   "q": "Why does the episode say Pakistan cannot produce millionaires?",
+   "a": "Ameer Hamza says a class jump takes a whole generation, and the youth leave for the same issues discussed in the episode: uncertainty, no opportunities to learn new technology, and a mindset fixed on going abroad. He estimates around 40% leave because of these issues, while others leave home or responsibility."
+  },
+  {
+   "q": "Who is the guest in this episode?",
+   "a": "Ameer Hamza, a DevOps engineer and cyber security expert from Lahore, Gulberg, and a close friend of host Khawar Shahzad. He has been freelancing since graduation for different clients and is now learning AI."
+  }
+ ],
+ "transcript_en": [
+  {
+   "start": 0,
+   "text": "So, for the 15-to-18 age group, what could be the common reasons for anxiety and depression? Girl, okay, RS bhai. Look, problems happen to everyone; anyone can have anxiety or depression, but discussing that with someone, that is the biggest step. Yes, yes, normalising this. If you do not have such good relations with your parents, and you may not, because there is a certain respect, go for your siblings. I was watching a video in which a father tells his son, yaar, think of me as your friend, not as your father. So he says, when I think of you as my friend, then you can become a father. Sir, first of all you have to remove ignorance from your people, when a person cannot even stop at every signal. Where from? O ho,"
+  },
+  {
+   "start": 37,
+   "text": "there, the moment you go, fear is planted in you, that the teachers will do this, you will get a DC, this will happen. It was never like, child, you have come to study, we will teach you. You are a child, nothing happens. Do not be afraid, easily. Study. Now, upbringing, how should it be? Like, from the start, if, for example, parents or even teachers in school are counselling you in a good way, that is the best solution. A child has no thinking of his own, right? Whatever the parents told him, that is what he follows, and parents also have expectations, numbers or grades, or this very thing: my son got 91% in matric, yes, my son has to become a software engineer. We, we, artists, artists become kanjars. My own, my maternal uncle's son, his kirat is to go to Dubai; he has, in Pakistan, in all of Pakistan, only his name has come. So again, someone identified, the whole"
+  },
+  {
+   "start": 82,
+   "text": "environment. That day I was also talking to Amma ji, that his whole environment was such, because of which his talent has become so polished that he has now reached this level. So your environment, your parents, it starts with parents, right? You remember, in your childhood, we used to play games, we used to get an hour, anyway, what output did we get, you keep playing games all day, you do not study. And today, this sports, yes, what, my father always used to say, learn some skills; if you learn skills, you will move ahead. So I always used to tell him, yaar, you are talking about skills, then why are you getting me a degree, why are you educating me? He says, studying has nothing to do with your finances; from it, studying teaches you to move ahead, studying teaches you to speak, studying teaches you to live in society. That does not mean that if you are doing a degree, the degree will get you a job. There is nothing like that. So why would you leave this mother? Huh, she raised you all your life. They are saying, I am from Allah. Balance, you have to balance, let us just say, yes, there is balance, that yaar, if your parents cannot survive without you,"
+  },
+  {
+   "start": 129,
+   "text": "then separating does not mean that. Just leave the house. No, you have to separate your life, and separate your parents' life. Let us talk about our government's instability, until this, for example, the election happened, obviously we are not pointing anyone, sorry, in that, many people rise up. So then, if we talk about that tenure, then a common person thinks the same, that because of that, for example, look, let us not talk about the government, people rise up. Assalamualaikum everyone. Welcome to Muffled Minds, Find Your Clarity."
+  },
+  {
+   "start": 172,
+   "text": "And today's guest is a very dear friend of mine. He is basically a DevOps engineer and cyber security expert, Ameer Hamza. So, Ameer Hamza, how are you? I am fine, how are you? Alhamdulillah. Fine, Haris bhai. And my co-host, as usual, Haris sahab. So, basically today's topic is the Youth Mental Health Crisis in Pakistan. So we will keep discussing it from time to time. But before that, Ameer Hamza, tell us a little about yourself, like what are you doing nowadays, and from where you belong? Khawar bhai, freelancing from the start; after graduation, freelancing is what is going on. Different clients, and nowadays there is AI too, so learning different things, in that itself, and the rest, Lahore, Gulberg."
+  },
+  {
+   "start": 216,
+   "text": "So, I was reading an analysis today, in which it was that among high school students, 53% of students have anxiety or some kind of depression, and if we talk about the age of high school students, it can be at most 15 to 18 years, as nowadays you do matric at 15, and if you go to college, what will your age be, 17 or 18"
+  },
+  {
+   "start": 254,
+   "text": "maximum. So what is your opinion about this, why is there more anxiety, what is its reason? There can be many factors; they are also very subjective, because every person's coping mechanism is different. For example, if I can shield myself better from your comments, or my skin is very thick, not everyone's is. But usually, or most probably, in it there is social media, home circumstances too, financial, your own personal struggle too, because that age, I think, is such that you are absorbing a lot, you cannot do anything, because the resource you need to do anything,"
+  },
+  {
+   "start": 296,
+   "text": "finances are not there, so in that you are absorbing a lot of things, you are not able to do anything, so that is why there are many factors, which should not even be that amplified. For example, just because someone says something, I should not fall apart, but there are many things because of which, I think, it is there, and there is play too, and that age is also such, where you want to say something, do something, but you do not have the authority. Yes, you have not yet proved yourself in front of anyone, the family also keeps saying that he is still at a raw age, he is still a child, and no, it does happen, you do pass through it, that too is an experience. But"
+  },
+  {
+   "start": 340,
+   "text": "I think anxiety should not be labelled so much either; anxiety also teaches us a lot, and that age is for learning, I think. So I do not think you should push anxiety, or that problem, let it come, and because of it a person will learn a lot about himself. In the same way, if a person goes to 22 or 23 as well, then he accepts these very things. For example, I will take a risk in this business, you have anxiety, what will I do in the next two months, but then you take it. But these are all the issues of the middle class that you have told."
+  },
+  {
+   "start": 377,
+   "text": "I am a middle-class person. No, otherwise, if we look, our rich class, the rich classes, yaar, I think their issues are different, because if you, yes, the rich also have different ones, obviously they do not have financial ones, but they do have financial ones too. Yes, in some sense, yes, but then leave that lens of ours and go to the bigger lens; their problems are then like, the plane was not chartered, yaar, I did not get it today, this car is not there, or that thing from Dubai will come, I did not get it, I had booked an iPhone 17 here, it did not arrive, yaar. So that happened, we had that old Mercedes, we had kept another old iPhone, we, with great difficulty, you know, difficulty is coming. Mental health is disturbed here too, yes, it is, and it should be, yaar. What is the point of staying straight?"
+  },
+  {
+   "start": 433,
+   "text": "Mental health, if, I know what thing you are talking about, like our main thing is that there is a crisis, but I do not think it should be labelled so much, let it be, learn, move ahead. So, I mean, you are right, like sometimes it also happens that while you run after happiness, that real thing, yaar, in this, in this, in my opinion, there is misinformation, which you talked about age, the misinformation of high school in this, that just like running after happiness, when your age grows, you study, if you, let us say, do not do book reading, you learn through experience, then you realise, yes, money is not everything. Whatever all this is,"
+  },
+  {
+   "start": 474,
+   "text": "early 30s or late 20s, a person learns in his life, in one way or another, or by a way. So I think this is also misinformation, because of which, we do not think critically about these concepts ourselves, nor are we taught. For example, financial education is not taught that prominently at home, in the middle class. So if we ourselves learn this, that yaar, do book reading, which cannot happen. So I think our concepts will become right from the start. And"
+  },
+  {
+   "start": 515,
+   "text": "there is this, that depression has come, or how a person will change, in that, that material knowledge will help you. So, basically the purpose of our platform is also this, that at that age, 15 to 18, their counselling should be done like this, starting from parents, and then schools, and then high schools, that just as you said, money is not everything. But again, a young boy who has just gone to school, or gone to college, he is looking at others, who have run after money. Now his thinking, obviously, seeing them, will become like that. So our purpose, I mean, is also this, that there should be counselling, which trains them, sort of, yaar, look, money is not everything, at some points"
+  },
+  {
+   "start": 563,
+   "text": "money is necessary, okay, but it is not that, running after it, you forget everything. This is also a factor. But if I go into the mindset of an 18-year-old, however much we say here, they will not accept it, mostly they will trump it, because it is also human nature. Even if you have read something, until you experience it, your immune system will not validate that technique, or that way, or whatever. So in this, counselling is also fine, counselling is also fine, it should be done. But in my opinion, you should focus more on just"
+  },
+  {
+   "start": 604,
+   "text": "go for trying different things. Do not put yourself only behind school or, what do you call it, academy or grades. Try different things. And even nowadays, information, you know, like information, ChatGPT, many things, and literally you can try many things, from which what will happen is, you will have a lot of data points, when you are at 22, 23, and then you have gone through a professional degree, or professional, then you can attack in a good way at 22 or 23. But counselling, yes, counselling also,"
+  },
+  {
+   "start": 647,
+   "text": "this is kind of counselling to try new things. And Haris bhai, what is your opinion on this, like those students of that age, students, 15 to 18, in them the common reasons, you can say, for anxiety or depression, what could they be? Girl, okay, RS bhai. True, true, good going. Yes, yes, absolutely right, with a point and concise, straight answer, right. Sir, you are young, you have just become young, you say, bhai, yes, then it is fine, try it. If in this, again, that too became a big angle, which is understandable."
+  },
+  {
+   "start": 686,
+   "text": "Sorry for cutting you, my point is this, that for example, that boy or girl, for example, should know things, that look, I am in some depression or anxiety, as you said, sometimes that thing is also good, but how to come out of it, I, with whom should I consult? Now, with almost all of you, this will happen, we do not even know. Look, can we consult or not? Will the other person judge? So normalising this, that look, problems happen to everyone, anyone can have anxiety, depression, but discussing that thing with someone, that is the biggest step. Yes, yes. So normalising this, normalising this"
+  },
+  {
+   "start": 729,
+   "text": "will happen. It is, yes, it is happening, discussion, I think, is happening, if you go 10 years back, 10 years ago it used to be, no, no, a lot of change has come, I am saying, change has come, awareness is coming, yes, but that taboo, it will remain, I think, culturally, ours, culturally, ours, that veil on us, it will remain, but in, I think, in friend groups, or again, as much information there is, yes, like, such talks happen, even between friends, or"
+  },
+  {
+   "start": 766,
+   "text": "your siblings. If you do not have such good relations with your parents, or you may not, because there is a certain respect, go for your siblings. I think siblings are, like, very underrated in our social life. People's friends, like, they share more with friends than with siblings, because in my opinion, go for the siblings, they are, why, the next best best things for you, after your parents. No, there is a hurdle there too, of what, siblings go and tell your parents, yaar, everything."
+  },
+  {
+   "start": 803,
+   "text": "Yes, if you get into his shoes, again, psychologically, if I talk, just play, the same, you know, why does he do it like this, what vulnerability is behind it, or what is his, which this one thing, it also happens in nature, it also happens in nature, yes, of course, it happens, but there is not just one sibling, there are more than one, now the one who does not have any, has only one, then the next best thing, friends? Friends. There are more too, if, for example, siblings, yes, yes, yes, yes, that, you, for example, now what is in my family, is that I am totally going towards the east, and"
+  },
+  {
+   "start": 841,
+   "text": "my whole family is going towards the west. Yes, so what will you do there? Then to friends, to friends, yes, no, in that, if there is a wife, then the wife is your next, I think. A girl has come, no, girl, yaar, take it like this, brother, there is a girl, yes, it is, okay, okay, okay, so wife, wife is, I think, the next best thing, because she is the one, who from the start, I mean, she is the one you cannot leave, nikah is there, that you cannot leave, just a friend, whenever he wants, can shove you aside and go, wife, never, with her many things are attached, because of which she will never think bad of you. This thing, sir, true, true, and it could not be taken out. Exactly, I mean, one tika, obviously, if"
+  },
+  {
+   "start": 888,
+   "text": "you back-trace it, it is for this, yes, for this purpose, that son, you also do not leave a chance. It got committed. But again, before this, if you can get along with your parents, which nowadays has changed a lot over time, due to, maybe, exposure, you can say, if you are getting along with your parents, then that is the best. Yes, yes, but for that, Khawar bhai, I am cutting in, for that I will add a small point, for that you should also know how to invest time. Then if you say, look, I am just living my own world, because from 20 or 20 onwards, you have one life, in which parents are not that much, I am living, and my parents, our relation is the same, healthy, do not consider its health 100%, then to them also"
+  },
+  {
+   "start": 932,
+   "text": "give time. Then you balance, or look, or scale, whether my relation is there or not, or their nature is like that, or that day something else was going on in their mind, there was this tension, because of which, if you know their tensions, then you can judge, then still it will be yours. Yes, true, true. And yes, I mean, obviously, this is the first, you can say, point that should come to your mind, giving them time. Yes, yes. So the respect in which I was talking was this, that if your bonding with your parents is good, then they can guide you well, because their experience is more, as compared to your siblings. But again, there are constraints, everywhere, that if, yaar, I have seen, how you balance and go, yaar, balance, because in this, if I add, then again, technically speaking, maybe"
+  },
+  {
+   "start": 979,
+   "text": "your parents are way behind you, in terms of guiding you, but in terms of life, yes, they can. So again, balancing and going is the thing, life is the name of balance, yaar, go with balance. True, true. So I was watching a video, in which a father tells his son, yaar, think of me as your friend, do not think of me as your father. So he says, when I think of you as my friend, then you can become a father. So this also happens, sometimes. But again, yes, the siblings point, it is absolutely there. And then after siblings, your friends, yes, obviously you can discuss everything with them. Yes, yes, depending upon, hmm."
+  },
+  {
+   "start": 1019,
+   "text": "So one more, I was reading a survey, which happened just now, that in 2019, the suicide count was 19,000, I am talking about Pakistan, and among them, for example, the males were around 14,000, and the females were around 4,500. And among them, the age, the range, was this, for example, 16 to 28, which we can consider among youngsters. So such a big count of suicides,"
+  },
+  {
+   "start": 1056,
+   "text": "what do you think, what, again, what factors could there be? First, first, Haris bhai, first tell me, yes, first tell me, psychologically what happens before someone commits suicide, so that we can know those factors, from which he was triggered, or from which this amount, if possible, the light trigger points, they can come from different things, from scenarios. Like, for example, you can take this, you have a job problem, you have a relationship issue, you have a problem with your parents,"
+  },
+  {
+   "start": 1095,
+   "text": "or something like this has burned in your life, which you are not able to face. Right? Then these things come in. What happens in the beginning is, in the beginning you go into depression, you go into a downfall, you stop eating and drinking, and you stop thinking. Right? You do not stop thinking, you increase thinking. Every time, wherever you are, you are in a gathering, wherever you are, you will keep thinking about that same thing, until that thing gets stuck in your mind, for as long as it keeps going in your mind, until you solve it. If you have more, for example, one more thing comes in this, that there are more issues, hmm, it is not one issue, there are more issues, they have come all at once."
+  },
+  {
+   "start": 1134,
+   "text": "One issue, no, sometimes it happens in our life, that not one issue comes, four or five come together. Assalamualaikum sahab, commonly, commonly, I mean, he is just not able to solve it. Yes, life, one, he is not able to solve it, he is not getting time. If three or four have come together, you cannot do them at one time, three or four together, when you are doing one, the second goes to its peak, you are doing the second, the third goes to its peak. Then these things come in. Then when these things, slowly, happen from time to time, you do not go towards suicide all at once, it happens from time to time. Some people are such, whose capability, you can say, is not that strong, they quickly"
+  },
+  {
+   "start": 1171,
+   "text": "go to that side, some are such, who keep trying, keep trying, keep trying, but at the end, that thing does not get solved. You are not getting a job, you have financial issues, you are not able to run the house. Right? You have a family, you have to feed your family, you are not able to. You have tried everywhere, but you are not getting that earning from anywhere. So in that, then this happened, that then at the end, when you are doing it because of this, because of this, the thing to see was, how many of these suicides were because of love. In that too, I have heard many stories. The details were not mentioned there. By the way, all the surveys or facts we are discussing here, their references, we will add them in the description. They are actual facts. Right?"
+  },
+  {
+   "start": 1212,
+   "text": "So, but, there, I mean, your point is also right, how many were on this side, yes. So, in my opinion, if, for example, we talk about its percentage, then around 50% will definitely be this. Yes, yes, those who, for example, had love affairs, or those who, yes, like, did not have personal issues, in suicides, in my opinion, love affairs would be less. Yaar, I have heard many stories, no, no, it is not that much, in our society, so many films have been made on these things, yaar, the films that are made, do not go by films, films show you very little reality. Right? What I think is, the highest percentage among them will be only this middle-class family, or the lower class, who are not getting jobs, who have financial, financial. So can they not communicate, I think they are also not able to communicate, that we are going through this."
+  },
+  {
+   "start": 1260,
+   "text": "Yes, again, they are not making them communicate, because when you communicate, today's friends, you know how they are, they will not explain to you, they will mock you, two or three friends get together, two of them together mock the third, make fun of him, and this person learns, that this should not be done. Again, after 25, 26, 27, how does one know this, yaar, if you do not have experience, start book reading, book reading, or sit with an elder, we should really learn these things. Again, coming, connecting to the point, the same I had made. Yes, I mean, again, the same thing happened, the normalising thing, that if we three sit together, if I am discussing an issue, then if my issue is genuine, and you know it, then instead of making fun of it, or teasing me later, you are listening to it."
+  },
+  {
+   "start": 1305,
+   "text": "Yes, from the mouth, then maybe you can provide a better one. We keep that as a point in our mind, that his point has come, later, the point has come, on the next, do it like this, do it like that. That does happen, but a person slowly learns that it is not a good way. Some are such, the people who have arrived, they do not learn. Look at him now, it seems, tell me, it is going to your side. Yes, those who have no interest in learning, they say, he has just come into our hands, come on, grind him. Again, if that thing starts from childhood, if we are talking, then from childhood, that one thing gets injected into your mind, I am talking about positive things only, then it matures with age, and then you can convince others too, in that respect. So this normalising thing, again, the point came, how to normalise, what is yours, I, we are talking, no, inside circles,"
+  },
+  {
+   "start": 1361,
+   "text": "so this normalise, normalise now, you are normalising, half of your people have already left. They want, they want entertainment, sir, they do not want to normalise. Again, as we talked before, that this mental health crisis, we will keep discussing it inside, again, we will share our experiences, so in this way we can normalise. And obviously, we cannot catch someone and say, this is the thing, you have to do this, from now on, I say, do it by force, that cannot happen, it should be here, nowadays it cannot happen at all, it cannot happen, why cannot it happen, no, yaar, people are going to jail anyway. Look, what all things have happened, like openly, what all things are happening, but again, I mean, if we talk about Haris, then at the upper level, maybe, it can happen, that thing, I mean, if we are doing it, then we can gather for useless things in this way, we, okay, we can give dharnas, but the main problem we have, we cannot gather for it"
+  },
+  {
+   "start": 1416,
+   "text": "We cannot. Yes, I mean, we have held banners. Sir, first of all you have to remove ignorance from your people, when a person cannot even stop at every signal, where from, apply, o ho, ho, ho, that is right, yaar, you raised a topic, yaar, sir, sir, is it not like this? I am very fed up with the people. And this is right, a right point out. We ourselves do not want to become straight. We want that someone just comes, applies a tika at night, in the morning, all our problems get fixed. Now obviously, that is not possible. So it is step by step, just like we have taken any initiative, this one, in the same way, step by step."
+  },
+  {
+   "start": 1452,
+   "text": "If now, obviously, your point is also right, that like protest, if we can do it about other things, then why not about this? But, but, again, nowadays a lot of awareness has come about this, maybe in schools, in universities, many things are going on. Now, yes, the agencies here, which are running free-funded, or sorry, funded, they should do a little in that. Now, our government, we know how it is running, but in that, these agencies, the little funding they get from somewhere, they are putting it in other things. They should put a little towards this side too. Give a person of your own inside schools, designate him, that brother, that he gives you, a little"
+  },
+  {
+   "start": 1496,
+   "text": "from the school, if that also cannot happen, maybe teachers can pay a little attention. Child, yes, your teachers can do it, why can they not? Like, on my test, if you talk with respect to a teacher. Right? There is a teacher, who in private schools, you also know, how much salary they give, to private teachers. So what do you think, like, will he have that much time, in source? That is it, again, the same thing, I was thinking the same in my mind, that now so many things, like before there were 10 children, now that number has also increased, plus a lot of things, so that also does not make sense. Hmm, so in this, what I think, which can be the most efficient way, it can be this, for example, there is a school, okay, you are its principal, let us say, okay, if you"
+  },
+  {
+   "start": 1542,
+   "text": "normalise that thing, that you dedicate a lecture, for example, that I have invited this person, then in that lecture, we will discuss these things, which will also be right for your future. So then, down the line, all the, for example, teachers, or all the stakeholders, for example, they will automatically get involved in that thing. So in my opinion, this thing, if, yes, and if we take a step back, a person should also be willing, that I have to share, or I have to solve it, rather than just keeping quiet, because I have mostly seen, that you come to know about a problem only when 80% of it has"
+  },
+  {
+   "start": 1581,
+   "text": "grown. It is diagnosed only then. Yes, it is diagnosed only then. So I think, inside you, personal, take a step back, then it should also be personal, that I need to solve this. But again, I feel that sometimes you do not even know, that look, yaar, I, I can also do this, this thing, yes. So as we were talking before, that if that, from childhood, the school, that time, if it starts from there, then in your mind you will know, yaar, look, if this thing happens, then what options do I have, I have option A, parents, option B, siblings, option three, for example, friends, for example, so when you know these options, then that person can discuss with someone. Here, what do we do, that we, yaar, what will he think about me, no, I"
+  },
+  {
+   "start": 1624,
+   "text": "myself think something, what will she think, what will she think, yes, think, ghee, ghee is more, ghee is more, is it not, ganja, cheek inside cheek. Yes, no, there are more problems there anyway, when things get into society, then, and on top of that, the school thing you are talking about, that get a lecture arranged, in my opinion, there should definitely be a counsellor in every school. He, he will give that lecture, the one who is the counsellor. Yes, yes, I mean, a dedicated slot has been made, students will come, and the counsellor, he will train them there. Hmm, no, in that, you know, like you see in movies outside, there is a counsellor, he"
+  },
+  {
+   "start": 1664,
+   "text": "calls a child separately, then he takes out his complete analysis. I am saying that, when that thing starts, then there will not be so many problems later. Yes, absolutely, your point is valid. Maybe you are talking about this level, and I am talking about this level. Right? That maybe we can start from here, and then step by step, we reach that point, when a dedicated counsellor, a student, easily, that is a first world country, or, yes, yes, this is also there, I mean, now, let us just say, if we talk about universities, then you did bachelors in 2019"
+  },
+  {
+   "start": 1702,
+   "text": "2019, so 2019, I mean, what, five or six years have passed, at most, so what do you think, even at that time, was there any such initiative in the university, of counselling, like that, no, yaar, there, the moment you go, fear is planted, that the teachers will do this, you will get a DC, this will happen, it was never like, child, you have come to study, we will teach you, you are a child, nothing happens, do not be afraid, easily, study, rules. I think, where you do too much, then fear sits in your subconscious anyway, you do not know, this can also happen, or it cannot happen, if you do this, will there be a DC or not, so there, no"
+  },
+  {
+   "start": 1740,
+   "text": "there were, but there were some teachers, whose relation developed over time, again, when it happened, or there were some teachers too, who, like Sir Waqar, Sir Waqar, his way of teaching was such, that there was openness. It was not that, that constraint, there are some teachers, they taught this, they taught this, no, no, they did not have a constraint, but still they were teaching us. So that teaching comes. But the general vibe was, that brother, counselling is happening here, you are being looked at here, that was not there. One thing, let me add in this, for example,"
+  },
+  {
+   "start": 1777,
+   "text": "that related to mental health, related to growth, yes, yes, yes. Now, upbringing, how should it be, that like from the start, if, for example, parents or even teachers in schools are counselling you in a good way, then that is the best solution. Yes. And then, but now, the point Moiz had raised, if we discuss it here. Oh yes, I mean, right now, off the camera, we were discussing something. So our friend was telling us, that what happens here nowadays, that a child has no thinking of his own, right? Whatever the parents told him, that is what is accordingly, and parents also have expectations, that numbers or grades, or this very thing"
+  },
+  {
+   "start": 1829,
+   "text": "my son got 91% in matric. Yes, my son has to become a software engineer. We, artists, artists become kanjars, yaar. Again, three days, a beep had to be put on kanjar. No, again, the three-edits example, you can relate it to everything. Yes. As we discussed in previous episodes, that again, what he wants to become, right? The parents are not looking at him. Exceptions are always there, we are not talking about them, we are making an overall comparison, we are talking about that, that the child wants to become, that talent, who has to extract it? Yaar, that environment of his, if we talk from the start."
+  },
+  {
+   "start": 1867,
+   "text": "For example, this is also not in our gathering yet, which I was thinking that day, that if you are good at something, and if you know someone, who can use that goodness of yours or that skill of yours, you are not connecting them. Nowadays I see in social circles, it is very limited, in your own circle it is, yaar, this is very good, this, this is very good, in that thing, they are not even making that connection, we, because of which, you can say, your skill too, is being undermined. Come on, I mean, we are at that age, where obviously we have passed university too, passed school too, not in that school either, so his, his, his, if you go to 18 years, then obviously his family, his teachers, or his, even, family"
+  },
+  {
+   "start": 1912,
+   "text": "as I was just telling you, that my own, my maternal uncle's son, it is in his kirat to go to Dubai, he has, in Pakistan, in all of Pakistan, only his name has come, so again, someone identified, the whole environment was there, that day I was also talking to Amma ji, that his whole environment was such, because of which his talent has become so polished that he has now reached this level. So your environment, your parents, it starts with parents, right? True, true. And sometimes it also happens, that for example, you yourself, most of the time, do not realise it yourself, I mean, at that age, what do you have to follow, that my telling, basically, yes. Again, the same point, absolutely, parents and then schools, again, the same point has come, that proper"
+  },
+  {
+   "start": 1958,
+   "text": "a counselling person should also be there, like, the one who counsels the child, who counsels him. Again, his job is only this, that look, he sees him, he explores him, right? What is his talent? Bring him out. Yes, and in that, ease will come in the same way, that let him try a lot of things. Do not put him on one or two things. Gaming, if someone is saying gaming, let him try gaming too, yaar, let him try studying too. And nowadays, with all the information, this degree seems to be ending. Exactly. And again, if we talk about that gaming thing, then you remember, in your childhood, in your childhood, we used to play games, we used to get an hour, anyway, what output did we get, you keep playing games all day, you do not study. Yes, and today, this sports"
+  },
+  {
+   "start": 2003,
+   "text": "what, brother, that is proper competition. A child should also be taught to take risks, yaar. Yes, yes, and what I, what I, risk... Obviously, parents, in fact, both of you are parents, parents do not want that, yaar, my child should not be like this... nepotism, or call it, they shield him, they shield him. This, this is what perspective? Yes, yes. I, I will tell my child, brother, take a risk. No, you are saying, I mean, you are saying, exceptions, again, I mean, overall, if we talk, then this is the thinking, that protect the child... yaar, no, yaar, where will he stop, he will stop, I, this"
+  },
+  {
+   "start": 2042,
+   "text": "and the thing about him, kept prepared. As I was also talking about, that at 24 years, you go and start earning, then your own thinking starts, seedling. So if you start, from 18 years you start earning, or like now, like why do parents not let us do a job at 18 or 17 years. They say the same, you got a car, you got everything, study quietly, you just do the work of the car. Let me tell you, at 18 years, I started doing a job, and do you know what the reason was? I was not good at studies. Yes. So they said, yaar, he is not good at studies, come on, he is working, let him keep working. So this factor also comes in between, that look, he is not studying well, so come on, let him get some skill. My father's thing was always, that learn some skills."
+  },
+  {
+   "start": 2090,
+   "text": "Learn some skills, learn skills, if you learn skills, you will move ahead. So I always used to tell him, yaar, you are talking about skills, then why are you getting me a degree? Why are you educating me? He says, studying, studying has nothing to do with your finances, from it, studying teaches you to move ahead, studying teaches you to speak, studying teaches you to live in society. That does not mean that if you are doing a degree, the degree will get you a job, there is nothing like that. Yes, and again, like, if a boy's marks are less, they get him a rickshaw, a rickshaw. Yes, and if a girl's are less, then get her married. Yaar, numbers, a number is only a concept, which is a fake concept, it is only a societal concept, leave it. 100% true, 100%. But nowadays there are some institutes, but obviously those big tycoons, whom if we"
+  },
+  {
+   "start": 2137,
+   "text": "talk about, in them this concept has started, like even till 5th, 6th, there is no exam. Yes, they only and only, what you can call, self building, you can give it that name, that work is going on on that, that how to build up this personality of the child, how to mature his thinking, work is going on on this. But again, that Haris point has come, that by just talking about these things, it will not happen, unless and until it starts from the upper level, that thing, and that thing is forced on institutes, that look, you have to do this thing. Then that thing can happen."
+  },
+  {
+   "start": 2174,
+   "text": "Yes. But nowadays we will come out of other issues, then we will talk about these, that these are the issues which are not apparent, like they are not visible. Other issues are visible, roads, bridges, these things. So again, the same point came, that somewhere, we have to start. No, no, from the basics, I have said many times before, you will have to start from the basics. You start from the basics, then go up. You come to schooling, first come to playgroup, then go to schooling, then go to universities, there are colleges, then go ahead. If you do not start from the basics, you will take the thing up, you will not get it. So, how long should a person wait on one option? Let us say, I said, try different things."
+  },
+  {
+   "start": 2219,
+   "text": "So, sometimes it also does not happen that you are going on one option, parallel to that, let us say, yes, so how much, let us say, I tried one, or I did one business, how long, or what are the parameters, that yaar, now just leave this, discard it, move on to new things. So, in that, what I think is, that however many factors can be in it, for example, you should have plans, first of all, plan A, plan B, and then even plan C should also be there. If you feel that my plan A did not execute, and if you go to plan B, you feel, yaar, I do not think there are 10 or 20% chances of it, so you can try differently, but again, this is also subjective, and in this, I guess, you cannot define a time limit, again, your resources, and"
+  },
+  {
+   "start": 2263,
+   "text": "the capacity you have at the back end, that, no, it should be like this, because if we stay stuck in this same thing, that let us say, I stay stuck on one thing, one option, all my life, then there is no growth, or I, some people do that too. Again, in what you are saying, two or three things come in. One is, you have to select a field, you are experimenting, hmm, good, do it, select a field, until you get that thing of yours, what do they call it, they call it kick, until you get the kick in the work, inside it, you keep exploring fields, explore different fields. Right? After that comes, you talked about business, in business you cannot explore fields, you have caught one field, if you incur a loss in it, you saw, brother, there is nothing going on in this, then your"
+  },
+  {
+   "start": 2309,
+   "text": "second, will you have resources for plan B, or not, how will you do it? So in this, many things come in, that in business, plan A, plan B, plan C, then you do it, when you start small, in plan A, that I will start small, when I get success in this, then I will expand towards plan B, then plan B of mine, these things come in it, so go with balance, the talk comes to balance. But again, to take any initiative, you have to come out of your comfort zone. Water, water, yes,"
+  },
+  {
+   "start": 2348,
+   "text": "again that comfort, yaar, water is this sense. Do not take it badly. Water is this, that keep determination in yourself. I will again talk about the outside, that the children who are 18 years old, take them out of the house, that brother, go, do whatever you have to do, till 18 years it is the parents' responsibility, after that it is not the parents' responsibility, they themselves have to do whatever they have to do, they put it on their head. Yes, here, brother, the child has become 28 years old, I am talking about myself, and he is going along with his parents, okay, parents are doing it, it is wrong, I myself am doing this thing, but to me, day, yaar, I was just thinking, of what kind, obviously, that that life is the best for us. In them, the wife's, this marital life's all traditions,"
+  },
+  {
+   "start": 2392,
+   "text": "her life too. I was thinking, yaar, it is not with the mother-in-law. Yes, it is not with the mother-in-law, there is no life, and we also do not know what the behaviour with the mother-in-law is like, or some other big things come to know. Okay, quiet, behind which I saw, yaar, no, this work, the mother-in-law one and the daughter-in-law one, it is not there at all. This is my own calculation, till now, as much information as I have, obviously, that refer, and I think, in the mother-in-law one too, it is not there because of this, that at that time, this concept was not there, I think, or it is not there. I mean, obviously, we saw that, even in movies or in it, if we talk about that Turkish serial, its Ertugrul, yes, yes, that too, in that too, what used to happen, that we saw his, his brother got married, or even his own marriage"
+  },
+  {
+   "start": 2442,
+   "text": "happened, and they made a separate khaima, yes, yes, absolutely, so they are running their whole system themselves. Yes. So that separation thing, so nowadays, for example, if you take the name, that yaar, I have to become separate, then why would you leave this mother? Huh, she raised you all your life. They are saying, I am from Allah... Oh, I mean, in this, we are not talking about this, that yaar, separate... yaar, when you send off a daughter, send off your son too, now they are a separate couple, hmm, a separate family, okay, they should decide for themselves, everything themselves, okay, you are his parents, and the faraiz that Allah Taala has defined, ask about them, just from you,"
+  },
+  {
+   "start": 2485,
+   "text": "okay, the rest, send off your son too and let them live their life. On the side, my point is this. No, but if it is an only son, then an only son, then what? Hmm, no, no, no, wait, wait, that if it is an only son, is his marriage different? No, no, marriage is not different. It is then in the son's mind, that yaar, at this age, if I separate from my parents, how will they survive? Then do it, then do it, and do what? Then, those who have four siblings, they are also living in the same house. No, with them, now mostly it happens like this here. Do you understand my point, do you understand my point, there is not much there either. So this, this argument is not valid at all, that I am the only one, yaar, this, no, I am talking about myself."
+  },
+  {
+   "start": 2526,
+   "text": "I am just talking in general, that this thought can come to people's minds, that yaar, I am alone, how do I leave my parents, how do I take... you have to balance that too, that let us just say, yes, there is balance, that yaar, if your parents cannot survive without you. Then separating does not mean this, then leave the house. No, you have to separate your life, separate your parents' life. This is the main purpose. Separate the house, I, I personally will say, that your, even the location should be physically close, okay, paave naal aa rahe ho, yes, naala ho, subjective. We are talking about the one who is only one, for example, only one boy, for example, we are talking about him now, the others, obviously, they are like that, most of their issues end right there, if yours is separate, there are, psychologically, many constraints"
+  },
+  {
+   "start": 2576,
+   "text": "which our parents, or we ourselves, cannot do at this age and in this environment, you will separate that environment, only then they will resolve. True, true. And do you think that nowadays, or whenever we talk about the past, the parents, obviously we are also parents, for example, so do we have enough courage that we, if we talk about business, separate the business, give it to them, to the children, for example, if you have two children, so what do you think, is this courage? Yaar, look, I have not become a father yet"
+  },
+  {
+   "start": 2613,
+   "text": "Split it, I, obviously, obviously, I am telling the personal one, I am giving a disclaimer, I have no children yet, but I will say this, brother, till 18 years or till becoming an adult, the full responsibility is mine, which it is. Yes, if you look from the Islamic point of view too, after that, I am there to just guide you, and help you, if crises come, whatever. It is not that I am giving you pocket money. This much I will definitely do, inshallah, that till 12-13 years, as much as I can put in him, I can fill, I will fill, so that he becomes so capable, that after 18, I am just there to guide you, and this too, as an option, you can ask me, it is not that, why did you not ask me before doing it, no, as an option, and my life is separate"
+  },
+  {
+   "start": 2655,
+   "text": "completely, separate, separate, my own personal is, and this thing is very wrong, that give them a business, yes, oh, this is the most, is it not, so it is completely, completely wrong. But again, for example, you talked, separate the business. I, yes, I, in that reason, I will add one more thing in it, that obviously what you are working hard for now, what you are earning, okay, you are doing it for your children, so what is there in terms of giving it to them, brother, this too, giving, is a point, a small one, this too is an old thinking, this that I am doing it for my children, children, okay, the concept is understood, but in my opinion, in the next 10 years or 20 years"
+  },
+  {
+   "start": 2692,
+   "text": "now think, whatever your father has made, you can never make that much in your life. 100%. What will happen in 10 years? Nothing. One, one, if I do the numbers game, then it is so little. Secondly, yaar, as much information there is, and how fast it has become, I, this is not the case now, that, look, now my property is being transferred ahead, whatever, leave that. Now it is your skill set, or how you do business, or how you communicate, or on this side, things have to go, ahead, ahead, okay, it is coming, the alert thing is right, but if I talk personally, this 18, again, 18, make him so capable, that brother, he does not need yours at all, at 21 years, ahead, that Barsalaan was talking, he founded Apple,"
+  },
+  {
+   "start": 2734,
+   "text": "not from abe, he took money, and he will not ask abe for money, because he is so capable that he can do it, that is my point. No, absolutely right, it should be like this, it is right like this, because if you take this as a base, then ahead, it will be better for you too, and better for your child too. Hmm, so, but what do you think, like, all the millionaires, billionaires, for example, if we talk about new startups, which are successful, like they should stay till the middle class, billionaires, middle, I am talking about that, that why can they not reach there, and we give depression to the youth, by talking about billionaires and millionaires, brother, this, aaye, this billion, this class jump, it takes whole generations, one generation, in my opinion, to upgrade from one class or downgrade"
+  },
+  {
+   "start": 2784,
+   "text": "Yes. So, our lifetime too... so what gap is that? Yaar, leave that race, yaar, just enjoy your life. No, no, no, I mean, obviously, keeping that in mind, no, I am just talking about this, so why are they not rising from here? For example, if we talk about our region, because it is not in Pakistan at all. If I have to do MS, here I have to study a little, again learn, what is new technology, where is it happening in Pakistan? They go abroad, and going abroad, the things I am talking about, I find them already implemented. Yes, why should I come back, why should I come back? So then they do not come back, they do not come back, yes, yes. There was a news, that I do not know how many percent of youth have left Pakistan. Yes, so what, because of what did they leave? Because of these very issues."
+  },
+  {
+   "start": 2829,
+   "text": "Obviously, uncertainty, you can say, the country's uncertainty, the uncertainty of different things, you can say, putting everything on that is also wrong, it is not necessary, that among them, whatever percentage, 100%, out of it, whatever came, was because of financial issues, what do you think, how many percent of people would have gone because of this issue? I say, 40% would have gone because of these issues. Someone would be running away from home, right? And someone would be running away from responsibility. Okay, and similarly, add other things. So that, do you think that 60% are the other things, 40% only? Yaar, he has, according to his own calculator, yes, I also, from this, the calculator, the hand calculator, mine can do only this much."
+  },
+  {
+   "start": 2868,
+   "text": "Yes, no, you tell me. No, no, I think, I mean, obviously, if we talk about our government's instability, when, somewhere, for example, an election happened, obviously, we are not pointing anyone, sorry, so many people say that, then if we talk about that tenure, then a common person thinks the same, that because of that, for example, look, let us not talk about the government, people rise up. No, I, I, I am talking about the government, in this, in this, in this, I think, that this option we have, of going abroad, because of it, I think, somewhere, the potential we can do here, we are missing it. Why? Because we have made up our minds, that yaar, that layout, let us go abroad, let us go abroad. So first decide, whether to stay here or not. And there are so many things here, which you"
+  },
+  {
+   "start": 2916,
+   "text": "are seeing your future here, even, it is, family or business or Lahore or architect, or whatever you spend, if that is there, then fine. First decide this, then later see, whether I could not do it because of Pakistan, or because of the government. What happened? Why did you go quiet? You did not start thinking. Yes, we do not have to go out of Pakistan. No, what property do I have in Pakistan, or anywhere else? Oye, do not talk wrong, buy property on the moon, yaar. Yes, you can buy on the moon here. If you have to buy it for your children, the moon's relo, buy relo on the stars, buy from Mars itself. Come on, thank you so much, Ameer Hamza, for joining us."
+  },
+  {
+   "start": 2958,
+   "text": "Thank you so much, Haris. And you too, kindly, whatever we discuss, we convey those things to you through our personal experiences only. So do let us know about your thoughts in comments. So inshallah, we will meet in the next episode. Allah Hafiz."
+  }
+ ]
+}
