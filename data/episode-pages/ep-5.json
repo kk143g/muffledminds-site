@@ -1,0 +1,832 @@
+{
+ "id": "JHKNWQ5LutM",
+ "series": "podcast",
+ "label": "EP #5",
+ "title": "AI and the Future of Human Minds - Job Fear",
+ "seo_title": "AI and the Future of Human Minds | EP #5 | Muffled Minds",
+ "seo_description": "Shahid Bhatti on AI reshaping education and jobs, the Builder.ai scam, Dead Internet Theory, mental health, screen time and human minds.",
+ "keywords": [
+  "Shahid Bhatti",
+  "AI and Human Minds",
+  "Job Fear",
+  "AI in Education",
+  "Builder.ai",
+  "Dead Internet Theory",
+  "Mental Health",
+  "Screen Time",
+  "Quantum Computers",
+  "Muffled Minds",
+  "Pakistani Podcast",
+  "AI Jobs"
+ ],
+ "date": "2025-10-04",
+ "duration": 3650,
+ "guest": {
+  "name": "Shahid Bhatti",
+  "role": "Lecturer at COMSATS Lahore",
+  "bio": [
+   "Shahid Bhatti is a lecturer at COMSATS Lahore who supervises final-year projects, and a teacher host Khawar Shahzad calls one of his favourites from his university days. Originally from Multan, he has worked in computing since 2004, bought his first computer in 1999 or 2000, and now also works at Arbi Soft in Lahore, where he built StepIn, an app that turns steps into screen time.",
+   "In this episode he talks about how AI is reshaping education and jobs, why students who lean on ChatGPT and LLMs stop thinking, the Builder.ai scam, the Dead Internet Theory, and what AI is doing to mental health, relationships and the next generation — and why physical activity is his one piece of advice for young people."
+  ],
+  "links": [
+   {
+    "label": "Instagram",
+    "url": "https://www.instagram.com/muhammad.shahidbhatti/"
+   },
+   {
+    "label": "Full Muffled Minds Podcast series",
+    "url": "https://www.youtube.com/playlist?list=PLGwxKscM0gb04P3OGD_oVpbESOYBWZee4"
+   }
+  ]
+ },
+ "summary": [
+  "In Episode 5 of Muffled Minds, host Khawar Shahzad sits down with his former teacher Shahid Bhatti, a lecturer at COMSATS Lahore, to talk about AI and the future of human minds. They open with the classroom: students who once asked questions now ask GPT, LLMs and Gemini, get precise answers, and slowly stop thinking for themselves — and why that leaves them stuck the moment they face a real problem at work.",
+  "From there the conversation moves through the jobs AI is ending and the ones it is creating, the freelancers hit hardest, and the Builder.ai story: a company that claimed its AI assistant Natasha wrote all the code, while 700 employees wrote it by hand. They cover the Dead Internet Theory, how Google and social media use our data and voice, and why fake AI videos — a bridge collapse his father believed was real — are changing what whole communities believe.",
+  "The last part turns to mental health: screen time, addiction, and why universities are not doing enough, before Shahid shares the StepIn app his team built to trade steps for screen time. He closes with his one piece of advice for the young generation — go towards physical activity, one or two hours a day — and answers the fish jar question: are we actually getting smarter, or is it just an abundance of information?"
+ ],
+ "we_discuss": [
+  "How AI is reshaping education and student thinking",
+  "Why students who lean on ChatGPT get stuck at work",
+  "Jobs AI is ending, and the jobs it is creating",
+  "The Builder.ai scam: 700 employees writing code by hand",
+  "Dead Internet Theory and bots running social media",
+  "Google, data, voice processing and our digital footprint",
+  "AI videos, fake content and convincing the elders",
+  "Mental health, screen time and the StepIn app",
+  "The end of the human vs AI battle and advice for youth"
+ ],
+ "takeaways": [
+  "Use your brain first: AI can support you only up to a point, and if you never use your mind, you will get stuck the moment a new problem comes.",
+  "Plagiarism and AI help are different things: if you can explain the work, you can build it; if you only copy it, your critical thinking ends.",
+  "Learn from the root: the seniors who built big companies in Lahore learned programming from the basics, in Notepad, before editors and copilots.",
+  "A shortcut track has no life and no utility: if GPT does the work, a company owner has no reason to hire you.",
+  "Jobs are ending where they are also being created: the work that survives is AI-integrated work, and the skills that survive are human skills.",
+  "Your data is your footprint: even a deleted picture leaves footprints, and your voice, writing and conversations are all being used for recommendations.",
+  "Verify before you forward: 70-80% of people cannot tell real content from fake, and fake AI videos are now changing opinions and elections.",
+  "Physical activity is the one fix: one or two hours a day balances screen time, health and mental health, and universities should give it credits."
+ ],
+ "chapters": [
+  {
+   "start": 0,
+   "end": 137,
+   "title": "Highlights"
+  },
+  {
+   "start": 137,
+   "end": 267,
+   "title": "Topic Intro: AI and the Future of Human Minds"
+  },
+  {
+   "start": 267,
+   "end": 974,
+   "title": "How AI is reshaping our education"
+  },
+  {
+   "start": 974,
+   "end": 1393,
+   "title": "How jobs are getting affected due to AI"
+  },
+  {
+   "start": 1393,
+   "end": 1644,
+   "title": "Builder.ai biggest scam in IT industry"
+  },
+  {
+   "start": 1644,
+   "end": 1713,
+   "title": "Dead internet theory"
+  },
+  {
+   "start": 1713,
+   "end": 1968,
+   "title": "Mental health & AI"
+  },
+  {
+   "start": 1968,
+   "end": 2628,
+   "title": "Are our universities serious about Mental health?"
+  },
+  {
+   "start": 2628,
+   "end": 2761,
+   "title": "Impact of AI on human relations"
+  },
+  {
+   "start": 2761,
+   "end": 3050,
+   "title": "AI generated videos side-effects"
+  },
+  {
+   "start": 3050,
+   "end": 3209,
+   "title": "Opinion harvesting"
+  },
+  {
+   "start": 3209,
+   "end": 3433,
+   "title": "What's the end of Human vs AI battle?"
+  },
+  {
+   "start": 3433,
+   "end": 3650,
+   "title": "Advice for young generation"
+  }
+ ],
+ "transcript": [
+  {
+   "start": 0,
+   "text": "Jo bachche humse question karte the, ab woh mostly jo hai woh phone khol ke baithe hote hain, woh koi GPT, LLM, Gemini, is tarah ke tools use kar rahe hote hain, to woh tools unko bade precise answer batate hain. To unka thinking process bhi reduce ho gaya hai, aur woh is pe ke yaani problem solving jo scale hota hai, uski taraf jayein, woh uske solution ko lete hain, yaani ke GPT ko wahi prompt question diya, jo answer mila, uske baad usko woh ek kisam ka teacher ko phrase karke dikha dete hain. Hum kam aqal hain aur jo machines hain woh humse superior ho gayi hain. Yeh kisam ka ek aapke liye ek drawback hai. I mean, Nokia ke phones hote the, doosre woh buttons wale phones hote the, jaise hi yeh smartphones aaye to unhone is cheez ko adopt nahin kiya, unhone isko lightly liya, like ke kya hai, itni nahin chalegi, khatm ho jayegi, but kya hua ke itna bada brand Nokia, aur saare ka saara collapse ho gaya."
+  },
+  {
+   "start": 44,
+   "text": "Ab tasveerein koi woh, matlab, koi unhone open share karne ke liye use nahin kiya. Aapki kuchh bhi tasveerein hain, kaisi bhi padi hain, unko isse concern nahin hai. Unhone usko process kiya, usse information nikaali. Information, jo companies hain, unko bechi ke yeh banda ismein interested hai. Suppose karein ji, main apne bhai se chat kar raha hoon, main 10 saal se kar raha hoon, hum, yeh saara record unke paas hai, to mujhe beech mein se nikaal bhi dein na, to meri tarah usse kai saal aur aage chat kar sakte hain. Isko aap keh lein ke shallow cloning keh lein. Mental health na ek sabse bada problem banne ja raha hai agle 8 se 10 saal mein. Sabse zyada aapko psychologist involved nazar aayenge is domain mein. Achha, isi tarah se aur, uski wajah yeh hai ke bachchon ka screen time badh gaya. Bachchon ka kya, badon ka badh gaya na? Ab kuchh dost baithe hote hain, lekin woh saare engage"
+  },
+  {
+   "start": 81,
+   "text": "phone ke upar hote hain. Jo bachcha yeh cheezein bahut zyada use karta rehta hota hai na, woh class mein apni ranking badha ke phir raha hota hai na, jab woh market mein jaata hai to woh jab do-chaar dafa reject hota hai na, to woh quickly frustration mein chala jaata hai. Ab is tarah ki cheezein, videos, content aapko net pe milta hai to bahut saari community aisi hai, yaani main to kahunga 70-80% log jinko pata hi nahin chalta ke yeh real content hai ya fake content hai. Aapne ek poori jo duniya ki sabse samajhdaar qaum hai, uski chand tools, YouTube, Twitter aur do-teen aur use karke unki opinion aisi change kar di ke unhone, yaani ke us jo propagated opinion thi, uske mutabiq vote kar diya. Quantum Computers, Quantum Computers jo is waqt ke aapke peak ke computers hain na, usse koi comparison hi nahin hai, exponentially higher in"
+  },
+  {
+   "start": 122,
+   "text": "power hai. Jis din yeh donon integrate ho gaye to phir aap samjhein ke yeh end ho jayega. End kya hoga ke aapke human brains hain, inke clones create ho jayenge. Assalamualaikum everyone. Welcome to Muffled Minds, Find Your Clarity. I'm your host Khawar. Aur aaj, aaj hamare jo guest hain, basically he is one of my favorite teacher back in my university era, such a humble personality, Mr. Shahid Bhatti sir. Assalamualaikum sir, kaise hain aap? Alhamdulillah, theek, aap kaise hain? Ji, Alhamdulillah, main bhi theek. Achha, aaj ka jo hamara topic hai, basically woh hai AI and the future of human minds. To hum time to time iske related, jo hai woh discussion karte rahenge, and in the end hum thoda sa isko relate karenge, AI ko thoda sa mental health ke around. To before we jump into discussion, sir, aap apne baare mein thoda sa batayein, like from where you belong"
+  },
+  {
+   "start": 178,
+   "text": "aur is field mein basically aap kaise aaye? Mera originally talluq Multan se hai, aur main, yaani aap samajh lein ke 2004 se is domain se, balke first jo apna computer tha, woh maine 99 ya 2000 mein purchase kiya tha, 99. To us waqt se jo hai woh phir, yaani meri zyada iske saath, balke aap logon ne naam bhi nahin suna hoga, shayad Pentium One hote the, Pentium Two, haan, start humne bhi, I guess, wahan se kiya tha, kyunki I, I born in 93, hum, to tab Pentium yeh chal rahe the, Pentium, I guess, 2 tha, yeh, to woh mera na, jaati taur pe ismein interest"
+  },
+  {
+   "start": 216,
+   "text": "raha hai, shuru se hi raha, hum, aur phir uska yeh ek kisam ka ek impact, motivation ke main phir usmein andar deep leap jaata gaya, aur particularly mera phir zyada programming isse relevant fields mein, woh raha, hum. To bachelors aapne, like, kab kiya tha? Mera Bahauddin Zakariya University se tha, aur yeh 99 mein tha, 99, aur phir uske baad jo hai woh COMSATS join kar liya, hum, so he is basically lecturer at COMSATS Lahore and supervising various FYPs there. To maine, like, COMSATS se hi maine"
+  },
+  {
+   "start": 257,
+   "text": "bhi degree ki hai, to he was my teacher back there, main 2015 mein complete ki, to like woh ek achha khaasa gap hai, like 16, 17 years ka jo woh gap hai. So, yes. So, like AI ki agar hum baat karein to aap kya samajhte hain ke like how AI is reshaping our academic structure, we can say, in universities, to aapka kya opinion hai is baare mein? AI to sirf restructure nahin kar rahi, mere khayal mein usko ek nayi generation mein le aayi hai, education structure ko, even for teachers bhi aur students ke liye bhi. Matlab, ismein agar aap yeh dekhein ke jo bachche humse question karte the, ab woh mostly jo hai woh phone khol ke baithe hote hain, woh koi GPT, LLM, Gemini, is tarah ke tools use kar rahe hote hain, to woh tools unko bade precise answer batate hain. Ismein phir yeh hua ke jo ek thinking process tha, woh thoda sa slow hua, aur"
+  },
+  {
+   "start": 315,
+   "text": "isko check karna bhi possible nahin hai ke yaani aap usko restrict karein. Haan, ek tareeqa hai ke hum dobara wapas paper pe jayein aur unhe kahein ke yeh wali jo aapke zehen mein critical thinking chal rahi hai, isko paper pe write up karein. To matlab yeh hai ke isne kaafi change kar diya, kaafi bhi agar isse zyada koi word ho to woh mere khayal mein isko zyada behtar describe kar sakta hai. Exactly. Achha, woh basically main, basically, Arbi Soft mein hota hoon, main Arbi Soft Lahore mein, to hamare CEO hain Yasir Basheer, hum, woh yeh baat karte hain ke jo human mind hai, aap usko use jitna karoge na, uske results in future mein utne hi efficient jo hai woh ho sakte hain. Let's just say ek student hai, usne apne brain ko use hi nahin kiya, like woh LLM, chahe GPTs ya yeh jo models hain, inke through hi apna saara kaam kar"
+  },
+  {
+   "start": 360,
+   "text": "raha hai, usne mind ko use hi nahin kiya. Agar hum ek student ki baat karein to agar woh usko use nahin karega, kal ko kisi cheez mein woh stuck ho jaata hai. Obviously AI humein ek limited, ek had tak jo hai na, woh support de sakti hai. To agar usne mind ko use hi nahin kiya hoga to woh to stuck ho jayega wahan par. To like, woh aapka is baare mein kya opinion hai ke like mind ko, ab woh kis tarah se student ko jo hai woh convince kiya ja sakta hai ke like ab theek hai, LLMs aapke paas hain, ChatGPT, Claude, saari cheezein aapke paas hain, but usko use karna in an efficient way, woh ek side pe aap apne brain ko bhi pehle, jo hai woh use karna seekhein."
+  },
+  {
+   "start": 396,
+   "text": "Aap bilkul ismein dekhein, wahi baat hai na ke agar brain ko use nahin karenge to agar jiska brain kam hota hai to usko normally hum mentally retarded kehte hain. To retarded ka matlab yeh nahin hai ke woh bilkul hi, yaani, use screen, yaani ek, jisko hum, yaani kuchh aur term use karna hai uske liye. Matlab woh, lekin yeh hai ke usmein mentally capability jo hai woh kam hoti jayegi. Agar aap yeh dekhein ke jaise ke AI hai, hum, AI ne knowledge human se liya, hum, usko organize kiya, organize karne ke baad phir usne kya kiya ke usne, yaani AI kehte hi hum isliye hain na ke yeh intelligence hai lekin artificial, artificial real human se aa rahi hai. Lekin ab jaise-jaise cheezein aage advance karti ja rahi hain, ab logon ne, yaani bachchon ki misaal deta hoon, hamara taqreeban har semester mein koi 100 ke qareeb undergraduate ke bachchon se waasta padta hai, to unka thinking process bhi reduce ho gaya hai, aur"
+  },
+  {
+   "start": 434,
+   "text": "aage advance karti ja rahi hain. Ab logon ne, yaani bachchon ki misaal deta hoon, hamara taqreeban har semester mein koi 100 ke qareeb undergraduate ke bachchon se waasta padta hai, hum, to unka thinking process bhi reduce ho gaya hai, aur woh is pe ke problem solving jo scale hota hai, uski taraf jayein, woh uske solution ko lete hain, yaani ke GPT ko wahi prompt question diya, jo answer mila, uske baad jo hai usko woh ek kisam ka teacher ko phrase karke dikha dete hain. To asal mein uska yeh hota hai ke jab woh industry mein jaate hain, jaise aap Arbi Soft ki example de rahe hain, to woh agar unko koi chhota sa problem dete hain, yeh page hai, iske upar"
+  },
+  {
+   "start": 479,
+   "text": "aap is problem ka solution, to wahan par aise stuck ho jaate hain, jaise aap samajh lein ke kisi ka switch aapne off kar diya ho, bilkul, aise hi hai. Bilkul, us pe main nahin, usko solve nahin kar sakta. Mujhe, sorry for cutting, mujhe yaad aa raha tha, jab hum apne college time mein the, obviously tab bhi yeh ka to koi concept tha nahin, to hum, matlab, woh jo answers hain, woh hum kaise dekhte hote the? Pehle solve karna, poore, for example, ek question hai, usko poora solve kiya, and then uska ek answer hamare paas aa gaya, aur woh phir book ke end ke upar na, ek, woh unhone answers diye hote the, aur wahan se woh match karte the. But abhi pehle answer mil jaate hain aapko, and then aap usko back-trace karte ho ke achha yeh kaise solve kiya ja sakta hai."
+  },
+  {
+   "start": 525,
+   "text": "To bilkul, universities mein to, like, iske related koi kaam ho raha hai? Universities mein koi, maybe, nahin. Universities mein dekhiye, kaam to ho raha hai, hum. Lekin woh bachche jo hai na, usko, yaani isko, agar suppose karein teacher hai, unko discourage kar raha hai ke yeh aapne use nahin karna. To kayi hamare motivational log aise hain jo unko woh, yaani woh track bata rahe hote hain jo shortcut hota hai, aur jo shortcut track hota hai, uski na life hai, aap samajh lein, na hi uski koi utility hai. Suppose karein ek kaam hai, woh GPT kar leti hai, hum, to ek company ka owner woh aapko kyun rakhega woh karwaane ke liye?"
+  },
+  {
+   "start": 566,
+   "text": "Agar API call hai, hum, wahi banda us API call ki cost pay kar deta hai, to phir woh aapko, yaani hire kyun karega? True. To matlab yeh hai ke jab aap kisi aisi jagah pe khade honge, jab woh kaam jo woh nahin kar pa rahi, even multiple aapke paas solutions hain, aap usko organize, nahin, kar, yaani aap organize kar lete hain, GPT nahin kar pa rahi. Again, woh bhi evolve hoti ja rahi hai, evolve ho rahi hai cheezein. Lekin jo human supremacy hai na, intelligence mein, woh rehni chahiye. Woh agar nahin rahegi to phir yeh aap samajh lein ke yeh ek overall disaster hai. True. Yaani ke aap aise samajh lein ke aap samajh rahe ho ke ji, hum kam aqal hain, hum, aur jo machines hain woh humse superior ho gayi hain. To yeh ek kisam ka ek aapke liye ek drawback hai, man ke liye. To like, students, for example, humein, hum, agar main yaad karoon apne university time, we had assignments and we had to solve them, or even a program milta tha, hum usko jo hai woh karte the."
+  },
+  {
+   "start": 619,
+   "text": "So now, what criteria for teachers? Checking the plagiarism? That it is not copy-pasted, with the usage of AI? What criteria is there now? Haan, dekhiye, main to personally na is cheez se baahar nikal gaya hoon ke bhai, bachche agar kuchh plagiarize la rahe hain to theek hai, okay. Lekin yeh hai ke main unse phir viva conduct karta hoon, agar woh cheez samjha dete hain ya unko uske concepts hain to then okay, agar woh kahin se plagiarism bhi karke aaye, yaani suppose karein maine ek task diya ke ji aap na ek software banayein, suppose karein ek cinema management system hai, woh bana lein, achha, ab woh mere paas bana ke le aaye"
+  },
+  {
+   "start": 667,
+   "text": "unhone different jagah se code liya, integrate kiya, integrate karke le aaye, to agar woh yeh cheez explain kar lete hain to iska matlab hai woh bana bhi sakte hain, usko expand bhi kar sakte hain, to mera to jaati khayal hai ke yeh jo, matlab, ek hai plagiarism, woh ek separate cheez hai, lekin AI se help leke kaam karna, ke suppose karein aapke paas ek solution hai, AI aapko organize karke de deti hai, to it's okay. Lekin yeh hai ke agar aap samjhein ke bilkul aap uske upar dependent hote jayein, critical thinking khatm hoti jaye, woh sahi nahin hai. Mujhe, matlab, yaad aa raha hai ke aapne hi ek assignment di thi, I believe 2014 ya 13 mein, woh thi, I believe OOP se related thi, usmein humne karna kya tha ke na, humne linked list ko use karna tha aur koi na ek chhota sa program jo hai woh banana tha, hum"
+  },
+  {
+   "start": 716,
+   "text": "to ab kyunki isse pehle to maine FSC pre-engineering ki thi, to mera woh background nahin tha, like ICS wala, to jab very first time ICP padhi to thoda sa ek mind bana ke achha yaar, yeh interesting cheez hai, to phir maine kya kiya, karna, maine jitne bhi programs the, woh khud jo hai woh banaya karna hai. To mujhe abhi bhi yaad hai, maine linked list ko use karte hue na, woh ek typing tutor wali game thi ke jismein words jo hain, letters jo hain, woh drop ho rahe hain, and then you have to press some button in keyboard, to usse jo hai woh letter jo hai woh collapse ho jaata tha, to achha, woh maine bana li, to obviously jo baaki students the, to they were asking ke yaar, agar aap mujhe de dein to hum bhi isko jo hai na, woh thoda change kar lenge, ismein maine kaha, no issue, aap"
+  },
+  {
+   "start": 760,
+   "text": "le lein. Achha, unhone woh le li, ab unhone literally name tak nahin change kiya tha usmein, matlab mera hi name jo hai na, woh tha usmein, jo chal raha hai. To woh aapne viva mein, jo abhi hum baat kar rahe the, woh pakad liya aapne usmein se, to bilkul, yeh tab se, like, viva, to obviously woh, pehle to yeh ek baat appreciate karni chahiye ke us waqt ka yeh task aapko yaad hai, aisa kuchh task tha, kyunki hum repeatedly different students se interact karte rehte hain, to yeh obviously ek teacher ke liye challenging hota hai. Lekin achha, ek aur cheez main isse batata hoon ke main na bachchon ko programming, ya is tarah kaam, Notepad mein karwata hoon, hum. Bahut zyada achhe editors available hain, jo aapko code complete, jaise Copilot ki aap example de rahe hain, editors available hain, aap different tools hain, jo aapko bahut"
+  },
+  {
+   "start": 809,
+   "text": "saare functions na likh dete hain, programming ke sense pe. Lekin main unko na Notepad pe woh karta hoon ke yeh, taaki unko back-end ki saari detail pata ho. Sahi, sahi, sahi. Jab woh ek certain, yaani ke do-teen mah ke baad, jab woh editors pe jaate hain, to unki efficiency na exponentially aage jaati hai. Sahi, sahi, sahi. To ab ismein shuru mein unko lagta hai ke yeh main unka nuqsaan kar raha hoon, time zaya kar raha hoon, lekin yeh hai ke woh phir realize karte hain. Even bahut saare bachche maine aise dekhe hain, jo phir editor pe switch nahin hote, woh unhone batch files bana ke rakhi hoti hain, woh unko run karte hain, aur saath hi jo hai woh uske wahi kaam kar rahe hote hain jo editor se hone chahiye. Perfect, perfect. To like, hamare time pe woh ek hota tha Turbo C, I believe aajkal bhi hoga, and then we switched to Dev C++."
+  },
+  {
+   "start": 853,
+   "text": "Obviously, there was auto completion or even co-pilot indication, yeh to kuchh bhi nahin tha, to woh ek achha learning curve tha, aap khud type kar rahe ho, even, matlab, jab jo off the camera hum baat kar rahe the, hamare doosre teacher ki, to woh bhi isi tarah hi karte the, like woh apne laptop pe jo hai woh program poora ka poora likhte the, to obviously usmein ek dot ki bhi, ek percentage wala sign, percentage s wala sign use hota tha, uski bhi mistake ho gayi to obviously woh run nahin hoga program. To woh ek learning curve jo hai na, woh bahut, matlab, achha hai. Haan, usmein dekhein na, do cheezein hain, ek aapka critical thinking, ke problem ko aapne solve kaise karna hai? To sabse, matlab, main skill hai na, woh yeh problem solving skill hai. Aapke paas naya scenario hota hai, kuchh tools hote hain, yaani kisi bhi aap tool pe chale jayein, chaar-paanch programming structures hote hain, hum, looping, iterative, selections, theek hai? Hum, hum, inhi ko karke aapne na nayi cheezein banani thi, jitne bade se bade, jitna software dekh"
+  },
+  {
+   "start": 911,
+   "text": "lein, woh taqreeban saare is structure pe bane hue. To usmein woh jo, ab yeh saare kaam, yaani commas, percentage ke sign, agar woh error aap correct karke aaye hain, to ab unko behtar aap handle kar sakte hain, aapko root cause ka pata hoga, yaani ke agar yeh error aa raha hai, ya ismein, matlab, error ek na chhote level par discussion hai, lekin even jo koi badi product banate hain na, main idhar hi aapko bataoon, to bahut saare aapke se thode se senior bachche jo the na, unhone kaafi badi-badi companies banayi hui hain, jismein hundreds of employees hain idhar Lahore mein, hum, hum, to aur woh wahi bachche the jo, yaani in cheezon ko unhone root se learn kiya aur phir woh aage ki. Ab woh AI obviously yeh saari cheezein unhone wipe out kar di hai, yaani aapke writing wale jo log the, writing skills wale, woh jaate rahe, matlab"
+  },
+  {
+   "start": 963,
+   "text": "unka us tarah se utility, matlab, obviously woh critical thinking hai, woh khatm ho gayi hai, to phir obviously kitna aap grow kar sakoge? Aap dependent ho kisi cheez pe, obviously AI pe dependent ho. Haan ji, aise hi hai. To agar hum jobs ki baat karein, let's just say ke AI aane ke baad jobs mein kitna impact pada hai, us wajah se, like AI ki wajah se job opportunities jo hai woh increase hui hain ya even ke decrease hui hain? Achha, kuchh na fields mein decrease hui hai, hum, hum, kuchh fields se muraad yeh hai ke jaise main aapko example de raha tha, writing wale, translation wale, yeh skills the, obviously kuchh peechhe jayein to yeh skills the, aur talk skills the, waise hi, bilkul, ab dekhein ke ab uski"
+  },
+  {
+   "start": 1004,
+   "text": "matlab, even woh log jo writing karte the, woh khud AI pe dependent hain. Ek yeh job khatm ho gayi. Achha, isi tarah se bahut saari aur jobs hain, jaise aap samajh lein ke automation ho gayi, hum, aapki, ismein dekhein, bahut saari examples hain, yaani ke ismein, lekin yeh hai ke jo jobs create hui hain na, hum, hum, woh aap AI integrated jobs hain, yaani ke aap suppose karein ek kaam aap kar rahe the pehle, ab wahi kaam aap AI integration se kar rahe hain. Ismein jo sabse zyada suffer kiya na, freelancer mein, usmein woh jo average scale wala bachcha tha, jiska average scale tha, below average scale tha, hum, ab woh uska na, yaani ke woh, ab main ek aapko apni jaati example deta hoon, ke maine kuchh arsa pehle na ek task ki, just for fun, main usko nahin kaha, mujhe kisi ne approach kiya ke yeh kaam hai na, isko aapne kar dena"
+  },
+  {
+   "start": 1057,
+   "text": "hum, hum, maine wahi ka wahi task na AI ko de diya, theek hai, theek hai, usne mujhe solution diya, ab koi 15-20 minute na maine AI ko engage rakha, us bande ko engage rakha, finally we are done ke yeh itne mein aapne yeh kar dena hai, theek hai, theek hai, 100%, 99 minimum, 100% maine woh AI se solve karaya, maine usko deliver kar diya. Achha, ab ismein yeh kuchh der yeh cheez chal sakti hai, hum, hum, ab jab woh jo aapka jo client hai, user hai, jab usko bhi pata chalega ke yeh cheez main isse karwa sakta hoon, hum, to woh phir aapko, aapse nahin karwayega. To isliye hamesha jo hai woh aap aise task, jaise aap sub currently, agar main kahoon aapko, to bahut saare aise domains hain, jismein medical involved hai, health involved hai, usmein AI ki support, yaani diagnosis hai, AI kayi 100 times better diagnosis kar raha hai as compared to real human. To mujhe"
+  },
+  {
+   "start": 1113,
+   "text": "job create hui, hum, hum, technology ke log involved hue, lekin us taraf involved hue. Yes, yes. Antibiotics hain, inki resistance, aap uske upar experiment karke bhi test kar sakte hain, aap unki genome sequence ko process karke bhi kar sakte hain, nice. Yaani ab aap dekhein na ke woh trial, aur ek aapko initial trial ka woh result mil gaya, uske baad aap usko aage woh chala lein. Isi tarah se aur bahut saare kaam hain, yaani ke kai aise log hote hain, jaise autism ke bachche hain, log hain, unko aap AI se assistant support de rahe hain, hum. Kuchh logon ki jobs create hui"
+  },
+  {
+   "start": 1154,
+   "text": "kuchh ki khatm hue. Ab woh khatm hone walon ka ek jo masla yeh tha ke unhone technology ke saath change nahin kiya. Yeh agar woh, suppose karein ji, thoda sa AI ki taraf, yeh agar karoon na, to AI yeh na information technology jo aaj se das saal pehle thi, to usko replace kar gayi, yeh currently aap isko keh sakte hain ke yeh information technology hai, name uska yeh hai. Yeh, true, true, true. Mere mind mein woh example aa rahi thi Nokia wali ke, like Nokia ke phones hote the, doosre woh buttons wale phones, jaise smartphones aaye to unhone isko adopt nahin kiya, unhone isko lightly liya, like ke kya, itni nahin, but kya hua ke itna bada brand Nokia, woh saare ke saare collapse ho"
+  },
+  {
+   "start": 1201,
+   "text": "gaya. To matlab ke woh, again, ke chhote level ki to chalo, ek alag hi baat hai, woh itna bada level, itna bada ek brand, woh saare ka saara, agar woh new cheezon ko adopt nahin karenge to woh peechhe rahenge, simply. Haan, bilkul, dekhiye, ismein bhi bahut saari cheezein na chal rahi hain, suppose karein ek to uske technology change hui, Nokia ke phone ki technology change hui, pehle woh kis tarah ka tha, doosra, doosra yeh hai na ke jo back-end pe cheezein unhone process karni shuru ki, khaas taur pe Google ne, hum, hum, main first Google account na 2000, shayad do ya teen, ek ya do mein banaya tha, us waqt reference base pe banate the, hum"
+  },
+  {
+   "start": 1238,
+   "text": "hum, to ab woh us waqt na kehta hota tha ke yeh Google na aapse paise lega. Ab main, meri family ke mostly log jo hain, woh pay kar rahe hain storage ke, storage. Ab woh jo storage hai, ab hamare yahan yeh culture hota hai na ke woh kehte hain ji, data hamara use ho raha hai, tasveerein hamari use ho rahi hain. Haan. Ab tasveerein koi woh, matlab, koi unhone open share karne ke liye use nahin kiya. Aapki kuchh bhi tasveerein hain, kaisi bhi padi hain, unko isse concern nahin hai. Unhone usko process kiya, hum, hum, usse information nikaali, information, jo woh hai companies hain, unko bechi ke yeh banda ismein interested hai. Yaani ke unhone woh jo storage thi, yaani"
+  },
+  {
+   "start": 1277,
+   "text": "aap, aap samjhein na, jaise aapke paas koi samaan rakhwa raha hai, haan, haan, aap usko dekhte ja rahe hain ke yeh kis cheezon mein interested hai, sahi, sahi, sahi. Idhar se unhone revenue, agar aap Google ka hi revenue dekhein na, hum, hum, hum, hum, to mere khayal mein 160-70 billion, ah, jo inse kamate hain, recommendation se, hum, hum, baaki iske alawa hoga, hum. To but unki, like, documentation mein ya privacy policies mein yeh cheez mention to nahin hogi, likhi woh, hum, consent lete hain ke aapka, suppose karein, use karein. Maine apne personally na unko consent diya hua hai ke use kar lein, jo marzi use kar lein, theek hai. Meri, yaani photography main kaafi"
+  },
+  {
+   "start": 1314,
+   "text": "der se karta hoon, hum, to maine unko permission di hui hai, mujhe pata hai ke woh kar kya rahe hain, woh features, yaani person features, location tracing, suppose karein ji, kuchh der baad aapko na ek Google ka tool nazar aayega, jo aapko yeh batayega ke suppose karein 10 din baad aap kis jagah pe honge. Achha, haan ji, kuchh der pehle log yeh keh rahe the na ke, haan, yaani main kaafi der se yeh keh raha tha ke yeh voice processing kar rahe hain, yeh saara kuchh voice processing kar rahe hain, to even aapki natural language mein bhi woh voice processing kar rahe hain. Abhi main aapko bata raha hoon ke yeh dekhiyega ke maximum do-teen saal baad yeh feature available hoga, sahi, sahi, ke aap itne din baad kaise honge? Ab kaise yeh uske upar kar rahe hain? Mera unko pattern"
+  },
+  {
+   "start": 1358,
+   "text": "pata hai, hum, hum, ke yeh banda falan din falan jagah pe hota hai. Ab suppose karein ji, woh is pattern analysis karein, to woh AI probability ke upar base kar rahi hoti hai, to woh bata sakte hain ke yeh banda falan, falan jagah pe hoga. Agar kisi ko back-end nahin pata to woh to nahin isko samjhega, yeh badi cheez hai. Lekin agar ek bande ka unke paas koi 15-20 saal ka data hai, hum, to exactly bata sakte hain, yeh to, haan, bilkul, hum, woh jo digital footprint hum chhod rahe hain, to woh obviously usko back-test karke unke paas data points hain itne, and then woh prediction jo hai woh kar rahe hain, sahi, sahi, sahi. To aapki woh pehli baat se ke, like, ek had tak aap AI ko jo hai na, woh use kar sakte hain, uske baad, for example, aapka koi client hai, koi client hai, to usko idea ho jayegi ke achha yeh, yahi hai, khud nahin kiya, to isse mujhe ek example yaad aa rahi thi, abhi pichhle dinon ek"
+  },
+  {
+   "start": 1405,
+   "text": "bahut bada scam hua, Builder.ai, shayad aapne suna hoga, woh Indian ek company thi, like main uske baare mein padh raha tha, to woh 2016 mein jo hai woh company jo hai woh bani thi, aur agar mujhe yaad ho to ChatGPT, I believe November 2022 mein launch hua tha, OpenAI ne launch kiya tha, to yeh usse bhi pehle, matlab ke 6 saal pehle, inhone company jo hai woh banayi, and they claim ke hum koi bhi ek program ya koi platform software banayenge, usmein zero code involved hoga, woh through AI jo hai woh ban raha hoga, but"
+  },
+  {
+   "start": 1445,
+   "text": "unki ek, I believe, code assistant, Natasha, ek thi, woh claim karte the ke yeh saara kuchh jo hai na, hamari code assistant jo hai woh handle kar rahi hai na, but on back end kya tha ke unhone 700 employees jo hai woh hire kiye hue the, aur woh kya karte the, woh baith ke 700 employees literally code likhte the aur woh program jo hai woh bana ke dete the clients ko. Achha, ab yeh itna bada scam tha ke ismein kya hua ke unhone 40 million jo hai na, woh raise kiye, funding unko jo hai woh aayi, aur unki jo valuation thi na, woh around $1.5 billion thi, aur iske andar hamare jo big tech giants hain, for example Microsoft hai, aur Qatar, uske jo woh bhi involved the is, iske, is scam ke andar, matlab involved is tarah se the ke unhone invest kiya hua tha, wahi, aur phir in the end kya hua ke woh jab reveal hua ke woh koi AI ke through nahin woh kar rahe, woh manual employees unhone rakhe hue hain, woh manual jo hai woh kar rahe hain. To again, yeh wahi baat aa gayi ke ek na ek din aap, lag jana hai, woh sort of illegal hi hai na, wahi cheez, woh bilkul hai. Usmein, usmein dekhein, yeh isko kehte hain inflated, apne, yaani profile inflated show karna. To unhone us pe invest kiya, suppose karein 500 employees bhi rakhe honge, to usse zyada unhone earn kar liya. Lekin yeh"
+  },
+  {
+   "start": 1502,
+   "text": "actual mein jo data hai na, nahin, aapka jo data hai, suppose digital footprint ki baat kar rahe hain, even aapne agar koi picture banayi hai, aap delete kar dete hain, immediately delete, uske footprints, woh uska part hai, hum, hum, Google ki jo aapki history hai, uska part hai, hum, hum, woh, yaani aap samajh lein ke suppose karein ji, aapne koi aisi objectionable tasveer banayi hai, delete kar di hai,"
+  },
+  {
+   "start": 1548,
+   "text": "woh tasveer kisi aur purpose ke liye use nahin kar rahe, never, matlab kabhi bhi woh yeh nahin ke usko kahin expose kar denge, matlab leak kar denge, is tarah ka nahin hota. Lekin woh yeh hai ke woh uske jo, yaani contents hain, unko use karte hain, marketing ke liye, recommendation ke liye, aur yeh woh usse bhi kar rahe hain. Achha, phir unko woh bhi, thode se, woh jab, suppose karein meri picture banwa raha hoon na, main thoda sa fancy lagne ki koshish karunga, ya main aise ban, phir unhone voice processing shuru kar di, taaki woh casual banda kaise discuss karta hai. Haan, iski personal main example deta hoon, humne kisi na ek unknown cheez ka na, kaafi pehle ki baat hai, ek discussion ki, baithe hue, ikatthe, hum, hum, bilkul unknown cheez, kuchh dinon ke baad na, woh cheez recommendation mein aana shuru ho gayi, jahan se first time mujhe idea hua ke yeh voice processing jo hai, yeh kar rahe hain. To gradually woh, ab aapki writing hai, emails hain, conversations hain, saara kuchh unke paas, yaani agar main suppose karein"
+  },
+  {
+   "start": 1607,
+   "text": "ji, main apne bhai se chat kar raha hoon, main 10 saal se kar raha hoon, hum, hum, yeh saara record unke paas hai, to mujhe beech mein se nikaal bhi dein na, to woh meri tarah usse kai saal aur aage chat kar sakte hain, hum. Isko aap keh lein ke shallow cloning keh lein, hum, brain, shallow, isi ko hi agent keh rahe hain aajkal, AI agent, yaani ke ek person ki ek specific jo task hai, usmein mutaliq. To isi tarah se woh phir cheezein evolve hoti ja rahi hain, kuchh pata chalti ja rahi hain, kuchh ethically correct hain, kuchh incorrect hain, true, true. To isi ko leke na mujhe ek woh, ek theory yaad aayi, Dead Internet Theory, kaafi aajkal jo hai na, woh famous hai, sort of, to usmein woh discuss kar rahe the ke jo bots hain, woh, ek koi, for example, post hai, woh"
+  },
+  {
+   "start": 1658,
+   "text": "post khud hi bots se upload karte hain, bots hi usko jo hai woh promote karte hain, bots hi us pe comments karte hain, likes karte hain, to yeh saara process bots hi chala rahe hain. Ismein jo actual thinking, human mind, ya ek human involvement hai, woh to saara ka saara khatm ho gaya. Mere, aise hi, matlab, is tarah ki bahut saari cheezein hain. Yeh aap isko, yeh to ek bot ke sense mein keh rahe ho na, bot bhi ab us level pe aa gaye hain ke, yaani woh ek mere zehen se nikal gaya, woh ek hota tha na, Turing Test, hum, hum, woh, woh bhi maine kahin padha ke woh bots ne usko pass kar liya."
+  },
+  {
+   "start": 1697,
+   "text": "Turing Test ka gist hai na ke woh do log communicate kar rahe hain, ek taraf ek machine hai, human hai, to agar usko pata nahin chalta to samjhein ke usne woh test, jo hai woh pass kar li, sahi. To isi, isi tarah se, matlab yeh continuous ek evolvement hai, addition hoti ja rahi hai. To agar, like, isko hum mental health ki agar hum baat karein ke with the evolution of AI or job securities, or in the end mental health kitni se disturbed hai, aur like, for example, obviously disturbed to hai hi, usko behtar karne ke liye hum kya kar sakte hain? Like, aapka kya ek advice hogi usmein? Mera to khayal hai ke yeh na, mental health na"
+  },
+  {
+   "start": 1735,
+   "text": "ek sabse bada problem banne ja raha hai, agle 8 se 10 saal mein. Sabse zyada aapko psychologist involved nazar aayenge domain mein. Achha, isi tarah se aur, uski wajah yeh hai ke bachchon ka screen time badh gaya, bachchon ka kya, badon ka badh gaya na? Hum, ab kuchh dost baithe hote hain, lekin woh saare engage phone ke upar hote hain, hum. To yaani insaani brain jo hai, yeh bana hai insaanon se interaction ke liye, hum, jab hum usko use karenge us tarah, aur zyada use karenge, to phir yeh digital ek toxicity ki taraf chala jaata hai, hum, hum. To yeh eventually yeh sahi nahin hai, bilkul sahi nahin hai, aur physical health hona kharab hona, woh ek aur cheez hai, lekin mental health jo hai na, yeh zyada"
+  },
+  {
+   "start": 1775,
+   "text": "aur uska tareeqa yahi hai ke aap screen time, ek kuchh, yaani ke kuchh duration aisa zaroor rakhein jo aap in digital devices se door rahein, ah, otherwise, haan, abhi to koi woh uska end nahin hai. To isi ko leke na, matlab Arbi Soft mein na humne ek, ah, project jo hai woh banaya, aur uska naam hai, like, StepIn, usmein kya hota hai ke Apple mein jaise Screen Time hai, Android mein bhi hai, to us Screen Time API, Screen Time API, Apple ne jo hai woh introduce ki thi, 2000,"
+  },
+  {
+   "start": 1814,
+   "text": "iOS 16 mein, na, waise to iOS 15 mein introduce kar di thi, but individual level pe, ke aap developers usko use kar sakein, woh iOS 16 mein jo hai na, woh available thi, to usko use karke humne na ek app banayi, aur us app mein kya hota hai ke aap sabse pehle jo hai na, apni jitni bhi distracting apps hain na, most probably social media ho gayi, un sabko aap block kar lete hain. Achha, jab aap block kar lete hain, phir uske baad aapko na tasks diye jaate hain ke aap kya hai, let, jaise ke aap steps loge, for example, aap 1000 steps loge, aap uska bhi criteria aap set kar sakte ho ke itne steps se mujhe itne minutes milenge, to let, jaise ke aapne 1000 steps liye hain, aap uske equivalent aapne settings rakhi hui hai ke 1 minute mujhe jo hai woh milega, to aapko 1 minute mil jayega, aap 1000 steps loge, woh HealthKit ke through woh saara kuchh process chal raha hai, to ab woh 1 minute ke liye jo hai na, aap apni apps jo hai na, woh use kar sakte hain, jaise hi 1 minute aap use karenge, apps jo hain woh automatically block ho jayenge. To iska link jo hai woh main description mein jo hai woh add kar doonga, usmein."
+  },
+  {
+   "start": 1869,
+   "text": "To like, abhi kaafi kaam ho raha hai in cheezon pe, like obviously kyunki pata lag gaya sabko ke, like, mental health jo hai woh isse kaafi disturb hone wali hai, to log kaafi is pe kaam kar rahe hain, like screen time reduce karne pe jo hai woh. Achha, is pe dekhiye na, screen time reduce karne ke liye bhi hum screen use kar rahe hain. Again, yeh kaafi meri, matlab, fellow developers se, even ke team lead se, yeh discussion hoti thi ke, like, hum to chalo kar rahe hain ke logon ka screen time reduce ho, lekin hamara screen time jo hai woh, haan, matlab yeh na ek tareeqa yahi hai, iske alawa option nahin banti, kyunki agar aap kisi jagah bachchon ko ek-dedh ghanta bitha dein, net band kar dein, to unko aise lagega jaise koi severe punishment di hui hai, humein na internet nahin"
+  },
+  {
+   "start": 1915,
+   "text": "hai. Yaani ke woh classroom environment hum dekhte hain na, daant rahe hote hain, bachche phir bhi baith ke use kar rahe hote hain, to koi unka aisa kaam nahin chal raha hota, jisse unka koi loss ho raha hai. Yeh ek jo addiction hoti hai na, hum, hum, yeh basically kisi cheez ki unnecessary need create ho jana, isko addiction kehte hain. Matlab addiction us tarah se koi aisi cheez nahin hai, woh chahe aapke device ki hai, chahe woh aap kisi food ki hai, kisi cheez ki hai, to woh basically addict ho gaye, hum. Pichhle dinon jo hai woh video thi, basically woh sun raha tha ke mere ghar mein internet nahin chal raha tha, to main kuchh der apne maa-baap ke paas baith gaya, to achhe log hain yaar, waise woh sahi"
+  },
+  {
+   "start": 1957,
+   "text": "to aajkal haal aise yahi hai ke hum, matlab, internet, is virtual duniya mein jo hai na, itne involved ho gaye hain ke woh jo real life hai na, usko humne jo hai woh bilkul hi chhod diya. To agar, let's just say ke hum, matlab, universities mein baat karein, ke jis tarah bhi aap baat kar rahe the, ke jo mental health hai, yeh bahut bada ek, jo hai na, factor hone wala in coming years, ab kahein, to kya universities mein isko leke koi kaam ho raha hai ke nahin ho raha hai? Mera khayal hai ke nahin ho raha hai, filhal ke liye nahin ho raha hai. Asal mein jab problem se crisis ban jaata hai na, to phir hum us tarah sochne shuru karte hain, abhi problem hai, lekin uska jo scale hai woh thoda sa kam hai, jab yeh us taraf chala jayega, jisko main crisis keh raha hoon, phir yeh"
+  },
+  {
+   "start": 2005,
+   "text": "hoga. Sahi, sahi, yes. To like, mera bhi, ah, ab hamara jo platform hai, Muffled Minds, uska bhi yahi purpose hai ke jo ek mental health hai na, usko leke woh ek na taboo ban chuka hua hai, jisko hum Urdu mein hawwa aap keh sakte hain, na, ke like woh ek aisi cheez ban chuki hai, jiske baare mein discuss jo hai na, no doubt aajkal ho raha hai, aaj se agar 5, 10 saal, 4 saal pehle to bilkul nahin tha, woh log hesitate karte the, ke yaar main apni mental health, even ke ghar walon ke saath main kya discuss karunga, apne doston ko to baad ki baat, to woh mere baare mein kya sochenge? Like log psychologist se consult karte hue darte hain, aajkal kaafi time change ho chuka hai, but darte the pehle ke, like, mujhe woh mental patient jo hai, woh to nahin mere pe label laga denge, us cheez ka. To I believe ke even ke universities mein humne pichhle episodes mein bhi baat ki ke yeh, no doubt, school level se start hona chahiye, school and then college and then also in universities, to matlab, maybe you can give some suggestion to higher management ke is cheez ko bhi leke na, humein ek dedicated lecture jo hai na, woh bhi, matlab, hona chahiye, is cheez ko leke, ke wahan par baat hi is cheez ko leke ki jaye, ke"
+  },
+  {
+   "start": 2054,
+   "text": "yaar, jitni cheezein chal rahi hain, jo bhi tensions hain, jo bhi cheezein hain, usse nikalna kaise hai, studies ki tension hai, obviously student ko sabse zyada usi ki tension ho sakti hai, AI ki aane ke baad, fast ho gaya duniya, usko leke kai logon ki tension hain ke hum peechhe to nahin reh jayenge, to us cheez se baahar nikalna jo hai na, to I believe is tarah ka koi na dedicated slot jo hai na, woh universities mein honi chahiye, lazmi. Haan, dekhiye, ek to psychology ka na course, yeh HEC ki taraf se hai ke padhaya jaata hai, ke psychology ke"
+  },
+  {
+   "start": 2100,
+   "text": "again, woh us applied level pe nahin padhaya jaata hai, hum. Yaani ke yeh jo, yeh cheez hai na, uski ek application, yaani ke aap suppose karein itna electronics usmein involved rahenge to yeh cheez jo hai isko effect karegi. Doosri baat yeh hai ke phir woh ek cheez, yaani aap socially, jaise aapne abhi bataya ke ji, socially cut off rahenge, internet use kar rahe hain, hum, family se, parents se, doston se, to woh ek aapki, ek kind of, yaani wahi mental health ke liye problem create karega, hum"
+  },
+  {
+   "start": 2140,
+   "text": "to uska phir hal yahi hai ke ek to physical activities, nahin hain, kyunke honi chahiye, aur uska koi na koi, yaani uske bhi credits hone chahiye, haan, aise hi, haan, ke bhai, yeh, suppose karein ji, four credit aapka physical health ka course hai, jismein woh bachchon ki koi exercise, yeh woh, in cheezon ko, otherwise, to dekhein na, agar banda personally woh fit, healthy nahin hai, woh baaki cheezein woh kya karega? Phir doosri baat yeh na, ek jo aap keh rahe the na, ke bachche pareshan hain ke ji, yeh cheez aa gayi, to isse woh falan cheez khatm ho gayi, yeh kuchh bhi aisa nahin hone laga, na, in cheezon ki shape change ho rahi hai. Abhi kuchh din pehle mere paas ek company hai, uske CEO baithe hue the office mein, to"
+  },
+  {
+   "start": 2188,
+   "text": "woh yeh keh rahe the ke jitne bhi badi applications bani hui hain na, woh sawaal hi paida nahin hota ke aap GPT se bana sakein, hum. To filhal woh bata raha tha ke ji, humne HR ka software banaya hua hai, USA ke liye, to uske andar thousands of forms hain, woh kahin pe ja ke aapko change karni hai, to woh aap change, wohi. Phir doosra hai ke hamare paas easy solution, ke hum Google se le lete hain, Microsoft se le lete hain, kyunki badi companies hain, isliye inka naam har koi leta hai. Ab unki jo cost hai na, suppose karein main aapko GPT ki cost batata hoon, GPT agar API call bhejein to woh token ke hisaab se na, yaani per thousand tokens jo hai na, usko woh calculate karte hain, bilkul, bilkul. To uski jo cost hai na, woh aapki jo current labor hai, usse mehngi padti hai, hum"
+  },
+  {
+   "start": 2235,
+   "text": "aap isko calculate kar lein, yaani ke suppose karein ji, maine ek data set label karwana tha, sahi, sahi, ah, koi tha, uski 20,000 rows thi, hum, hum, to uske upar taqreeban $100 jo hai woh lag gaye, ek din mein ho gaya, lekin $100 matlab 26,700, balke 28,000 ke qareeb aayi, yes, to yeh uski cost bhi hai, to iska matlab yeh hai ke agar woh solutions exist karte hain to expensive hain, computationally expensive hain, hum, bazahir quick hain, lekin expensive hain, to iska tareeqa phir yahi hai ke woh, yaani ek human skill hai, hum"
+  },
+  {
+   "start": 2271,
+   "text": "ek aapke paas tools hain, jaise calculator hai, hum, hum, ab calculator computation kar raha hota hai, yeh aap samjhiye ke largest scale computation hai, sahi, sahi. Aapka question hai, usne keywords nikale, usne probabilities nikali, usne uska answer prepare kiya, aapko sahi laga to matlab okay ho gaya, nahin to woh reinforcement, yaani again woh learn bhi kar raha hai, hum, hum, ke yeh cheez sahi thi, yeh nahin thi. To jahan pe woh jobs khatm ho rahi hain, wahin pe create bhi ho rahi hain, true, true, true. Like, hamare time pe kaafi jo extra-curricular activities jo hai na, woh usmein kaafi involved the students jo hain, but aajkal woh aur kam hota ja raha hai, matlab awareness to aati ja rahi hai, like exposure aap keh lein, ya opportunities kar lein, keh lein ke yeh jo sports activities hain, iski opportunities to kaafi zyada hain, but again, agar aapne apna future, for example, us taraf nahin leke gaye, for"
+  },
+  {
+   "start": 2327,
+   "text": "example, us taraf nahin leke gaye, for example, ek sportsman hai, aap nahin hain, aapne usko part-time leke chalna hai, to woh aajkal jo hai na, woh kam hota ja raha hai, you believe, aise hi hai, yaani ke jo ek physical activities ki baat, physical, physical, physical, haan, woh to na hone ke baraabar hota ja raha hai na, kam to kya, aap kisi university mein ja ke team select karein, aapko utne players hi nahin milte, jitni team ki requirement hoti hai, woh uski wajah yahi hai na ke woh ek khaam-kha ki virtual usmein pade hue hain, hum, aur usse nuqsaan yeh ho raha hai ke woh, yaani ke unki behaviour, communication, anger, yeh saari cheezein jo hai woh uski change hoti ja rahi hain. True, true. Aapke jo mental fitness hai ya health hai, usko gradually woh"
+  },
+  {
+   "start": 2370,
+   "text": "disturb kar rahi hai, aur woh feel bhi nahin hota, yeh, slow poisoning type cheez hoti hai, slow poisoning. Yes, yes. To like, is cheez ke baare mein, matlab, hum baat kar sakte hain, ji, ke hum baat kar rahe hain, but again, uski implementation hai, woh to higher management, keh lein, upper authorities, jo hain, woh unhone karni hai, unke approval se honi hai, to aap lazmi yeh cheez jo highlight kijiyega, kisi bhi, for example, koi bhi conference hai, usmein, yeh to university mein maine jitna padha, theek hai, mujhe yaad nahin hoga, kaun se subjects, even ke subjects ke naam mujhe yaad nahin honge, jo seekha woh aake professional environment mein seekha, aake,"
+  },
+  {
+   "start": 2415,
+   "text": "to woh jab university wala time hai, woh again hum yahi baat karte hain, even ke pichhle episodes mein humne yahi baat ki ke woh jo four years hain na aapke, unko aap study pe jo hai na, focus na karein, unko aap yeh sochein ke aapko yeh jeena sikhayenge, aapke aane wale saalon mein, achha, aapne life kaise guzaarni hai? To ab agar usmein yeh cheez skip ho jayegi, aap sirf aur sirf study aur yeh AI, sirf aap inject karte jayenge, to uska to koi, woh nahin hai, end nahin hai, uske saath. Yaani suppose kariye, main ek challenging task deta hoon bachchon ko, hum, actually bachchon ko task nahin de raha, challenging task main GPT ko de raha hai, bachchon ne again woh GPT, to uska phir woh nuqsaan wahi hai na ke jab woh kahin international, jitni bhi companies hain, maine kai jagah pe interview diya hua hai,"
+  },
+  {
+   "start": 2461,
+   "text": "to woh aapse interview isi tarah se conduct karte hain ke suppose karein ji, ek Notepad editor open kar diya, problem aapko de diya, hum, ab aapne uska solution jo hai, wahan pe type karna hai, without any intelligence, co-pilot, koi is tarah ki cheez use kiye baghair, to jab woh aap nahin kar sakenge, to obviously aapne jitna bhi theory padhi hai, uska koi fayda nahin hai, AI use kar lijiye. Achha, phir usmein ek bada, ek, yaani woh yeh hota hai ke jo bachcha yeh cheezein bahut zyada use karta rehta hota hai na, woh class mein apni ranking badha ke phir raha hota hai na, hum, hum, jab woh market mein jaata hai to woh, jab do-chaar dafa reject hota hai na, woh quickly"
+  },
+  {
+   "start": 2500,
+   "text": "frustration mein chala jaata hai. Yaani ke woh grades mein, baaki cheezon mein behtareen hoga, lekin woh idhar ja ke jo hai woh frustration mein, ek company pe, doosri pe, teesri pe, jab jayega to uske lagega ke yeh to main, yaani ke ismein problem mein aa gaya hoon. Uske alawa woh bachcha jo relatively kam grades pe tha, lekin skill uske behtar the, woh jaldi hire ho jayega, hum. So, to mujhe abhi bhi yaad hai, like, us time pe to AI ka koi concept nahin tha, meri basically batch tha 11 to 15 wala, to us time pe bhi kya tha ke jo students the, for example, FSC mein toppers the, woh university ke andar aake CGPA unke 2.5 chal rahe hain, fail ho rahe hain subjects mein, to woh bhi ek yahi tha ke, for example, FSC ya matric mein woh ratte wala system unka chal raha tha, university mein aake"
+  },
+  {
+   "start": 2549,
+   "text": "conceptual cheezein aa gayi, to usmein woh, matlab, lag karna start kar gaye, to aaye, yeh bhi wahi cheez hai phir, ke jab aap woh us taraf chale jaoge, let's just say ke aapne ek task diya, teacher ne, for example, aapko ek task diya, aapne woh sochne ki bajay, apne mind use karne ki bajay, direct AI se karwa liya, theek hai, aapko solution to uska mil gaya, aapne solution dekha, aapko samajh bhi aa gaya, aapne, theek hai, woh aapne samjha bhi diya, kal ko ek aur task aa jaata hai, for example, aapne yahi nahin use karna usmein, to aapne jab apne mind ko pehle use hi nahin kiya tha, to yahan pe aapka mind hi nahin kaam karega, bilkul flat ho jayenge. Aap kehte hain, naya task bhi nahin hai, haan, thodi si change kar rahe hain usmein, kyunki woh aap ek algorithm se solution ki taraf ja rahe hote hain na, usmein thodi si change aayegi to woh aap wahan pe stuck ho jayenge, kyunki aapne jo cheez dekhi, ya jo solution mila, phir again dependent hai."
+  },
+  {
+   "start": 2589,
+   "text": "Yeh agar main apni baat karoon na, to hum bhi Google utna frequently use karte hain, jitna aaj se koi 15-20 saal pehle use kar rahe the, sahi, sahi, dependent hain. Jab woh stop ho jayega to aap uske aage kaam nahin kar sakte, lekin kuchh aise aapke skills hote hain jo aapke paas hote hain, koi bhi aapne cheez karni hai, to woh aapke paas koi tool nahin hai, kuchh bhi nahin hai, phir bhi uska solution nikaal lenge, sahi, sahi, sahi. Achha, agar, let's just say ke ab hum, agar baat karein ke jo hamara human relationship hai ya social skills hain, AI ki evolution se us pe kitna impact pada? For example"
+  },
+  {
+   "start": 2639,
+   "text": "mera ghar walon ke saath relation hai, mera relatives ke saath relation hai, iske baad kitna us cheez pe impact pada? Aapko kya lagta hai? Achha, ismein na thoda sa na inflated cheezein aa gayi hain, yaani ke log na, ab tools aa gaye hain aur cheezein available hain, woh log apne aap ko na, yaani inflate karke dikha rahe hain, again woh real, real, real, real, real, real nahin hai, lekin woh ab yeh bhi ek complex ki type hai, ke, yaani ke aapki jo actual musician hai, aap usko inflate karke, usko badha-chadha ke dikha rahe hain, phir again expectations, woh, woh bhi to AI se enhancements zaroor hain, yahan ke, lekin uska na ek, jaise main kahoon ji, Newton ka ek law hai, hum, hum, ab koi, koi kehta hai ji, yeh kahan pe use hota hai? Hum, hum, sabse bada bewakoof banda wahi hai jo yeh"
+  },
+  {
+   "start": 2694,
+   "text": "question kare. Uski utility hai, haan. Ab baaz cheezein na, aap samajhiye, yaani aapke mind mein na waise hi chal rahi hoti hain, aap woh calculate kar lete hain. Ab isi tarah se idhar bhi aap dekh lein, to jo AI hai, AI sirf probabilities calculate kar rahi hai, yaani ke aap iske alawa kuchh bhi nahin hai, hum, hum, yaani ke suppose karein ji, main yahan baitha hoon, kitni probability hai ke main next time baithaoonga ya peeche, main to kahin, yeh ek kisam ki na probabilities calculation hai. To is hisaab se mere khayal mein to jo social interaction hai na, communication hai, email writing hai"
+  },
+  {
+   "start": 2734,
+   "text": "ab cheezein na woh badi formal ho gayi hain, haan, badi, yaani ke jo text tha, woh increase ho gaya hai, lekin jo actual mein jo uska accent hota hai, human, humanize jisko kehte hain, woh thoda different tha. To use karna chahiye, yeh nahin kehta ke nahin karna chahiye, time bachane ke liye, na ke jo hai aapki apni, jo uske cost ke upar apni critical thinking, ya in cheez ko cost ke upar, upar, sahi se. To like, abhi pichhle dinon agar hum AI ki woh social impact ki hi baat kar rahe hain, to usmein pichhle dinon ek video thi, mere father na, woh ek video dekh rahe the, to obviously, jo mere fathers hain, jo hamare parents, grand parents hain, woh wali generation hai, jinhone aap keh lein ke ghodon se leke gaadiyon wala safar dekha hai, and then gaadiyon se leke plane wala safar dekha hai, woh phir abhi yeh AI ko bhi woh dekh rahe hain"
+  },
+  {
+   "start": 2782,
+   "text": "to unke liye digest karna jo hai na, yeh ek bahut mushkil jo hai woh kaam hai, woh, to ab mere father na, pichhle dinon ek video dekh rahe the, to usmein na, woh AI generated video thi, usmein ek bridge jo tha, woh collapse kar raha tha, neeche jo hai woh mazdoor jo hain, woh kaam kar rahe the, to woh, obviously, agar aap normal, hum bhi dekhein to humein first glance mein lage, achha yaar, yeh actual video hai, lekin aap thoda sa karoge, woh aapko idea ho jayega, maine unko kaha ke yeh AI generated video hai, woh nahin maane ke yeh nahin, yeh kaise ho sakti hai video, matlab ke video kisi ne record ki hai, phir hi video hai na, waise to nahin hai. To like aap kya samajhte hain, like hamare jo elders hain, unko convince karna kitna easy hai, ya kis way se aap usko convince kar sakte hain, ke yaar yeh cheezein"
+  },
+  {
+   "start": 2827,
+   "text": "chal rahi hain, virtual cheezein chal rahi hain, aap keh sakte hain. Achha, suppose karein na, unko aap convince nahin bhi karte, haan, matlab unko convince nahin karein, woh convince hote hain, theek hai, nahin hote, lekin iska ek doosra impact yeh pad raha hai ke jab is tarah ki cheezein, videos, content aapko net pe milta hai, to bahut saari community aisi hai, yaani ab main to kahunga 70-80% log jinko pata hi nahin chalta ke yeh real content hai ya fake content hai, to usse kya hota hai ke woh ek na impression bana lete hain, haan. To main aapko shuru mein ek baat keh raha tha ke opinion changing, opinion harvesting wali, to ab woh AI as a tool hum is kaam ke liye use ho rahi hai. Suppose karein ji, maine ek video dekhi, jiske upar around, koi, yaani millions ke around jo hain views, fake video thi, AI se banayi hui, hum, ab jitne logon ne dekhi, ab mujhe first impression pata chal gaya kyunki duration jo hai 7 second ka hai, to matlab hai abhi woh VEO 3 ne banayi hai ya woh kisi aur tool ne banayi hai, sahi, sahi, sahi."
+  },
+  {
+   "start": 2884,
+   "text": "To ab woh yeh ek kisam ka na, ek, yaani ke ek perception building, logon ki personal branding, yaani jiske paas paisa hai, woh bana-bana ke usko use karte ja rahe hain, aise hi hai. To like yeh hamare religion mein bhi hai ke koi cheez agar aap sunte ho, dekhte ho, usko pehle verify karo, verify karke then aage pahunchao, ke maine ek cheez dekhi, maine usko verify kiya, then woh maine aapko batayi. Lekin aajkal kya ho raha hai, chalo pehle to tha ke fake videos thi, woh crop karke, cut karke, jo bhi attach kar dete the, aajkal to AI se kuchh bhi banwa lo, theek hai, to matlab, like, woh hum kaise us generation ko convey kar sakte hain, aajkal ki generation, even ke jinko AI ka bhi pata hai, woh phir bhi us cheez ko believe kar lete hain, to woh kaise unko yeh convey kiya ja sakta hai ke yaar pehle aapne verify karni hai yeh cheez ke yeh authentic bhi hai ya nahin, then aage convey karni hai, aapne, yeh hai, aapne."
+  },
+  {
+   "start": 2927,
+   "text": "Achha, mere khayal mein na convince nahin kiya ja sakta, yeh woh experiment se learn karte hue, na, time lag jayega, aise, sahi, sahi, sahi. Kyunki aap dekhein na, jitne bhi tools hain na, generation ke, woh is level pe aate ja rahe hain ke woh reality ke qareeb ja rahe hain, yaani ke jitna zyada real lagega, haan, haan, woh utna model achha hai, haan. Ab jab real cheez lag rahi hai, to woh main, aap usko kaise usko judge kar sakte hain? Suppose karein ji, ek video hai jismein do"
+  },
+  {
+   "start": 2974,
+   "text": "log khade hain, ab usne teesra banda bhi beech mein khada kar diya, to ab woh do ki reality hai, aur teesra jo hai woh, to woh ek kisam ka more than 50%, balke 60-70% log yeh samjhenge ke yeh true hai. Ab usko verify kaise kiya ja sakta hai? Ethically to uske neeche likhna chahiye ke yeh AI generated content hai, bilkul aise. To isko, ismein jo hai na, matlab woh jab bata denge to phir hai, lekin usmein is cheez ko ulta hide kiya jaata hai, voice-over kar diya, kuchh aisa kar diya ke jisse woh, to mera, mera nahin khayal ke isko koi tareeqa hai rokne ka. Iska tareeqa yahi hai ke log learn karenge, haan, phir jo hai woh, eventually, woh jisko kya kehte hain, usko, yaani wapas, yaani log usse wapas hatna shuru ho jayenge, to phir kahenge ke yeh actual, actual video hai ya nahin hai? Actual hai to dekhenge, nahin to nahin dekhenge, aise hi hai."
+  },
+  {
+   "start": 3029,
+   "text": "Ab jaise, for example, movies mein koi smoking wala scene aata hai to neeche likha jaata hai ke smoking is injurious to health, to I believe it's more dangerous than smoking. Agar aap neeche nahin likh rahe ke it's a generated video, caption neeche nahin add kar rahe, to yeh usse zyada dangerous tha, kyun? Kyunki uska jo effect hai, woh aapko nazar aa raha hai, iska nazar nahin aa raha. Lekin yeh na wahi baat hai ke opinion change karne ke liye, opinion engineering ke liye, opinion harvesting ke liye, sahi, sahi, aap Obama ka agar election dekhein na, hum, yeh jab jeeta tha, to us waqt na ek Indian scientist tha, jo, naam mere zehen se nikal gaya hai, uska, jo iska chief woh tha, yaani, matlab, social media, isko, haan, achha, main dekh raha hoon, usne, usne pehle hi forecast kar diya tha ke yeh itne se jeet jayega."
+  },
+  {
+   "start": 3082,
+   "text": "Achha, wajah kya thi ke woh multiple tools use kar rahe the, hum, unke upar jo unki reach thi, woh dekh rahe the, uski analysis kar rahe the, to usse, to matlab yeh hai ke aapne ek poori jo duniya ki sabse samajhdaar qaum hai, uski chand tools, YouTube, Twitter aur do-teen aur use karke unki opinion aisi change kar di ke unhone, yaani ke us jo propagated opinion thi, uske mutabiq vote kar diya, hum. Again, ab ismein hua yeh, jo abhi elections hue hain, to matlab kehne ka yeh hai ke paisa, sabke, paisa sabse ek powerful cheez hai, government banana, usse powerful cheez hai."
+  },
+  {
+   "start": 3120,
+   "text": "To opinion harvesting karein, opinion, uske upar paisa lagayein, phir uske baad hukumatein change karein, jo marzi karna hai woh, woh to phir, to yeh sabse uska ek galat hai na, ke yahan ek bande ki, yaani aapne opinion change kar di, hum. To yeh mere, mere zaati khayal mein iska sabse bada, woh hai. Matlab kayi aisi religion ki baatein hain jo main nahin karna chaah raha, lekin yeh hai ke usmein phir bahut saari cheezein jo hain, woh problematic hoti. Ab agar opinion wale ki baat karein to mujhe ek na documentary yaad aa rahi thi, Netflix pe available hai, woh Social Dilemma ke naam se, woh usmein yeh batate hain, maybe aapne, shayad dekhi ho. Achha, usmein yeh batate hain ke kis tarah yeh jo social media platforms hain na, yeh aapka opinion kaise change karta hai, aapki thinking kaise change karte hain? Inke aise algorithms is tarah se designed hain ke, for example, aapne do din social media nahin use ki, theek hai, to yeh kisi tarah notifications aapko aayengi, kisi bhi cheez se related, aapko force karenge ke aap"
+  },
+  {
+   "start": 3178,
+   "text": "force karenge ke aap start karo, jab aap use karna start kar doge, phir to aap merge hoge, usmein involved itna hoge ke aap wahan se nikal nahin sakte, to woh, matlab, ek documentary unhonne is way se banayi hai ke ab kaise ismein jo hai na, woh aap dhaste jaate ho, for example, agar Urdu ka hum ek word use karein na, to in the end phir woh yahi batate hain ke isse nikla kaise ja sakta hai, ke like ek woh percentage aapne aap khud decide karni hai ke itna humne yahan isko dena hai, itna humne isko dena hai, to yeh bilkul like uski cheez, chaliye, agar, let's just say ke humne, nahin, saara kuchh discuss kiya, hum iske end ki baat karein, ke ab AI aa gayi, isse pehle, jis tarah abhi hum baat kar rahe the, log ghodon pe safar karte the, uske baad cars aayi, cars ke baad planes aa gaye."
+  },
+  {
+   "start": 3222,
+   "text": "Planes aane ke baad yeh AI aa gayi, virtual, aur life jo hai virtual hoti gayi. Aap kya samajhte hain iska end kya hai? Achha, ismein na yeh dekhein, jab bhi aap kisi AI engine ko use karte hain, woh peechhe na billions of parameters ko use karta hai. Yaani ke layman ke liye kahoon ke main agar car chala raha hoon to main paanch-chhe parameter dekh raha hoon, speed kya hai, saamne kaun hai, peechhe kaun hai, 15-20 parameter hain. Agar mujhe yeh pata ho ke is road pe aage kitni kaarein hain, peechhe kitni kaarein hain, to mera decision behtar ho jayega. Agar mujhe left-right, to yeh parameters jaise-jaise badhte jaate hain"
+  },
+  {
+   "start": 3262,
+   "text": "woh uski jo output hai woh utni behtar hoti jaati hai. Lekin iski negative side kya hoti hai? Computation cost badhti ja rahi hai. Ab jab computation cost badhti hai to woh obviously companies chahte hue na chahte hue kisi jagah pe parameters ko rokte hain ke yeh itne billion parameter ka model hai, yeh itne billion parameter ka hai, woh rok rahe hain, yaani computation ek problem hai. Achha, ab parallel mein na ek aur cheez chal rahi hai, woh hai quantum computers. Haan, yes. Ab quantum computers jo is waqt ke aapke peak ke computers hain na, hum, usse koi comparison hi nahin hai, exponentially higher in power hain. Jis din yeh donon integrate ho gaye, theek hai na, to phir aap samjhein ke yeh end ho jayega. End kya hoga ke aapke human brains hain, inke clones create ho jayenge, kyunki computation koi problem nahin hai."
+  },
+  {
+   "start": 3315,
+   "text": "In case quantum computers integrated with AI models, jo is waqt current rate hain. To phir aap samjhein ke jaise ek virtual world, nahin, create kar lete hain, haan, ke yeh 1 crore ya 1 arab logon ke yeh jo clones hain, haan, yeh hain, aur yeh aapas mein communicate kar rahe hain, hum. To mujhe to yeh ek na end game lag rahi hai ke yeh ek kisam ka disaster hi hoga ke woh phir human jo supremacy hai woh bhi, matlab, ek iska ek religious side hai, usse woh karke, jo iski jo computational side hai na, woh yahi hai. Is waqt jo bada problem hai na, woh computation cost hai. Jis din yeh khatm ho gayi to phir aap samjhenge ke yeh saara kuchh hi, woh ho jayega."
+  },
+  {
+   "start": 3365,
+   "text": "yaani ke, towards, like, agar hum thodi si Islam wali side pe baat karein to humein, matlab ke humne padha hai, humein bataya gaya hai ke for example jab Dajjal ne aana hai, Dajjal ne to woh logon ko do cheezein dikhayega, hum, ek jannat wala ek scene dikhayega aur ek dozakh wala scene dikhayega, but in actual woh reverse honge. To I believe, to phir to hum yeh, matlab, AI ki use karte hue hi phir woh dikha raha hoga, usi, usi tarah ja raha hai na. Yeh dekhiye, cheezein jo hain woh manipulate kar rahe hain na. Aap thode se paise lagayein, aap logon ki opinion change kar lete hain."
+  },
+  {
+   "start": 3404,
+   "text": "To opinion to yahi hoti hai na ke main suppose karein is cheez ko sahi keh raha hoon ya galat keh raha hoon. Ab agar main galat ko sahi kehna shuru kar doon to iska matlab hai woh jo opinion change karne wala hai woh successful. To mere khayal mein to end iska na yahi hone wala hai ke jo aapki jo thinking, aapka jo data, ghair mehsoos tareeqe se woh replicate ho raha hai aur kahin na kahin jaake woh usko soft cloning, shallow cloning, jo bhi hai, woh karna shuru kar denge, aise, aise. Chalein, in the end, ek advice aapke side se hamari jo young generation hai unke liye, jo bhi, for example, AI hai, uski wajah se, mein bhi, mental health unki disturbed hai, ya kaise unhonne apni jo personal life hai usko balance kaise karna hai with university life, aapki ek advice kya hogi hamari young generation ke liye?"
+  },
+  {
+   "start": 3453,
+   "text": "Usmein na jo main jaati taur pe observe karta hoon na, to un physical activities ki taraf lazmi jayein, chahe woh ek ghanta ho, do ghante ho, jab woh is taraf jayenge na to phir baaki cheezein na balance ho jayengi automatically, screen time kam ho jayega, unki health behtar ho jayengi. Ab yeh agar nahin karenge, hum, to phir woh, ah, is abnormalities mein gradually badhte jayenge, jisko aap, ah, mental health keh sakte hain, woh reduce hona shuru ho jayegi, usmein problem create ho. To physical, mere khayal mein yeh universities ko bhi chahiye ke koi teen-chaar credit ka course aisa add karein jo ke actual mein aapki jo physical contribution hai usko shaamil karta ho. True, true. Such a nice advice. Ya bilkul, matlab, like humne bhi apne professional life mein woh jo ek physical activity hai na, usko jo hai woh involve rakha hai, like, kyunki hamara kaam saara din, ah, software, as a software engineer, saara din"
+  },
+  {
+   "start": 3511,
+   "text": "baithna hota hai, to woh jo ek, maybe, koi bhi physical activity, maybe woh gym ho sakti hai ya koi bhi sports ho sakta hai, usko lazmi jo hai woh shaamil karna chahiye. To yes. So, in the end, ek question hamare fish jar ke liye, like humne yeh thoda sa ek task shuru kiya, sticky note, ek task shuru kiya humne ke jo bhi hamare guest honge, woh koi ek question, random, koi bhi question hoga, obviously woh personal to nahin hoga, koi bhi question hoga, woh hum next guest se jo hai na, woh ek question pick karenge, uska woh answer karenge. To ek aap ismein se ek question lein, uska answer aap kar dein, quickly, 1 minute mein, aur ek question aap usmein likh ke ismein aap phenk dein, kindly."
+  },
+  {
+   "start": 3548,
+   "text": "Achha, basically question yeh hai: Are we actually getting smarter or it's just abundance of information? Yeh achha question hai. Ismein aap dekhein na, yaani ke jitni information ki humein zaroorat hai, usse zyada information humne rakhi hui hai. Suppose karein jo actual social circle hota hai na aapka, 100-200 logon mein, aur suppose karein mera Facebook page hai, kayi thousand logon se main connected hoon, sahi, sahi, theek hai? Ab usmein phir yeh hota hai ke jab mujhe khaam-kha ki ek information aa rahi hai, jo mujhe required nahin hai, woh actually aapke liye problem create kar rahi hoti hai. Yaani suppose karein ji, aapne dekha ke ji, daily jo hai woh 50 log"
+  },
+  {
+   "start": 3587,
+   "text": "falan bhi death ho gayi, is cheez se falan bhi ho gayi, falan bhi ho gayi. Actual mein aapka woh circle bada ho gaya, hum. Ab us cheez ko phir na, yaani khaam-kha ki ek information jo hai woh aapke ek demotivation create karti hai. Isi tarah se aur cheezein hain, koi haadsa ho gaya, koi woh ho gaya, to yaani ke jo information required nahin hai na, to mere khayal mein agar nahin hai to woh behtar hai. Haan, jo aap se skills se relevant information hai, usko aapko rakhna bhi chahiye, retain bhi karna chahiye aur usko, matlab, use bhi karna chahiye."
+  },
+  {
+   "start": 3625,
+   "text": "Chalein, thank you so much, Shahid sir, for sparing some time with us. Thank you so much, and thank you so much viewers for staying with us. If you really like our content or our initiative then do subscribe, like or share. Yeh basically ek chhoti si effort hai to help our next generation to feel more confident and empowered. So, thank you so much. See you in the next episode. Allah Hafiz."
+  }
+ ],
+ "transcript_note": "This transcript was generated automatically with speech-to-text and lightly edited, so some words may be wrong, and passages that could not be made out are marked [unclear]. The first tab shows what is spoken in the video: Urdu written in Roman Urdu, with English kept as spoken. The English tab is a translation of the same transcript. The video is the authoritative version.",
+ "topics": [
+  {
+   "label": "AI in Education and Student Thinking",
+   "icon": "education"
+  },
+  {
+   "label": "AI and Jobs",
+   "icon": "career"
+  },
+  {
+   "label": "Builder.ai and Tech Scams",
+   "icon": "ai"
+  },
+  {
+   "label": "Dead Internet Theory and Fake Content",
+   "icon": "ai"
+  },
+  {
+   "label": "Mental Health and Screen Time",
+   "icon": "mental"
+  },
+  {
+   "label": "Human Relationships and Social Skills",
+   "icon": "relationships"
+  }
+ ],
+ "faq": [
+  {
+   "q": "How is AI reshaping education, according to Shahid Bhatti?",
+   "a": "Shahid says students who once asked their teachers questions now ask GPT, LLMs and Gemini, and get precise answers — but their thinking process slows down. When they face a real problem in industry, they get stuck, as if someone switched them off. He says the fix is not to ban AI but to use the brain first: learn to think, then use AI in an efficient way."
+  },
+  {
+   "q": "What happened with Builder.ai?",
+   "a": "Builder.ai was an Indian company founded in 2016 that claimed any program or platform software could be built with zero code, through AI, using a code assistant called Natasha. Shahid says that on the back end, 700 employees were literally writing the code by hand. The company raised 40 million in funding, was valued at around $1.5 billion, and had investors including Microsoft and Qatar, before it was revealed that the work was manual."
+  },
+  {
+   "q": "What is the Dead Internet Theory?",
+   "a": "Shahid describes it as the idea that much of what we see online is no longer made by humans: bots upload posts, bots promote them, bots comment and like them, so the whole process is run by bots, and actual human thinking and involvement has ended."
+  },
+  {
+   "q": "What is the StepIn app?",
+   "a": "StepIn is an app Shahid's team at Arbi Soft built to reduce screen time. It uses Apple's Screen Time API: you block your distracting apps, mostly social media, and then earn minutes back by walking — for example, 1000 steps earns 1 minute of app use, tracked through HealthKit. When the minute is up, the apps block again automatically."
+  },
+  {
+   "q": "What is Shahid Bhatti's advice for the young generation?",
+   "a": "Go towards physical activities, one or two hours a day. He says everything else then balances automatically: screen time comes down and health gets better, while without it, mental health gradually reduces. He also says universities should add a three or four credit course for physical health."
+  },
+  {
+   "q": "Who is the guest in this episode?",
+   "a": "Shahid Bhatti, a lecturer at COMSATS Lahore who supervises final-year projects and works at Arbi Soft in Lahore. He is a former teacher of host Khawar Shahzad, who completed his degree at COMSATS in 2015. He is originally from Multan and has worked in computing since 2004."
+  }
+ ],
+ "transcript_en": [
+  {
+   "start": 0,
+   "text": "The children who used to ask us questions, now they mostly sit with their phones open, using tools like GPT, LLM, Gemini, and those tools give them very precise answers. So their thinking process has also reduced, and when they go towards that problem-solving scale, they take its solution — that is, they give GPT the same prompt question, and whatever answer they get, they then phrase it somehow and show it to the teacher. We have become less intelligent, and the machines have become superior to us. This is a kind of drawback for you. I mean, there used to be Nokia phones, the other button phones — as soon as these smartphones came, they did not adopt this thing, they took it lightly, like, what is it, it won't last long, it will end — but what happened was that such a big brand, Nokia, collapsed entirely."
+  },
+  {
+   "start": 44,
+   "text": "Now, pictures — nobody used them to openly share anything, I mean. Whatever pictures of yours there are, however they lie there, they don't care about that. They processed them, extracted information from them. That information, they sold it to the companies — that this person is interested in this. Suppose, I am chatting with my brother, I have been doing it for 10 years, hmm, this entire record is with them, so even if they remove me from the middle, they can chat with someone like me for many more years. You can call this shallow cloning. Mental health is becoming one of the biggest problems in the next 8 to 10 years. You will see the most psychologists involved in this domain. Well, similarly, and the reason for this is that children's screen time has increased. What about children — the elders' has increased too, right? Now some friends sit together, but they are all engaged"
+  },
+  {
+   "start": 81,
+   "text": "on their phones. The child who keeps using these things a lot, he keeps walking around having raised his ranking in class, and when he goes to the market, when he gets rejected two or four times, he quickly goes into frustration. Now, things like these — videos, content you find on the net — there is a whole community like this, I mean, I would say 70–80% of people who cannot even tell whether this is real content or fake content. You changed the opinion of an entire nation, the most sensible nation in the world, with a few tools — YouTube, Twitter and two or three more — such that they voted according to that propagated opinion. Quantum Computers — quantum computers, which are the peak computers of today, there is no comparison with them, they are exponentially higher in"
+  },
+  {
+   "start": 122,
+   "text": "power. The day these two integrate, then you should understand that this will be the end. What will the end be? That your human brains, their clones will be created. Assalamualaikum everyone. Welcome to Muffled Minds, Find Your Clarity. I'm your host Khawar. And today, today's guest is, basically, one of my favorite teachers from my university days, such a humble personality, Mr. Shahid Bhatti sir. Assalamualaikum sir, how are you? Alhamdulillah, fine, how are you? Yes, Alhamdulillah, I am fine too. Well, today's topic is, basically, AI and the future of human minds. So we will keep discussing things related to it from time to time, and in the end we will relate it a little, AI, a little around mental health. So before we jump into discussion, sir, please tell us a little about yourself, like from where you belong"
+  },
+  {
+   "start": 178,
+   "text": "and how did you basically come into this field? I am originally from Multan, and, I mean, you can understand that I have been in this domain since 2004 — in fact, the first computer of my own, I purchased it in 99 or 2000, in 99. So since then, my interest in it grew, in fact you people may not even have heard the names — there used to be Pentium One, Pentium Two — yes, we also started, I guess, from there, because I, I was born in 93, hmm, so at that time these Pentiums were running, Pentium, I guess, 2, so that was my, personally, interest in it"
+  },
+  {
+   "start": 216,
+   "text": "has been there, right from the start, hmm, and then its impact, a motivation that I kept going deeper into it, and particularly my programming remained more in fields relevant to this, hmm. So when did you do your bachelors? Mine was from Bahauddin Zakariya University, and this was in 99, in 99, and after that I joined COMSATS, hmm, so he is basically a lecturer at COMSATS Lahore and supervising various FYPs there. So I, like, from COMSATS itself I"
+  },
+  {
+   "start": 257,
+   "text": "also did my degree, so he was my teacher back there, I completed it in 2015, so, like, that is quite a big gap, like a gap of 16, 17 years. So, yes. So, like, if we talk about AI, what do you think, like, how AI is reshaping our academic structure, we can say, in universities, so what is your opinion on this? AI is not just restructuring, in my opinion it has brought it into a new generation, the education structure, even for teachers and for students as well. I mean, if you look at it, the children who used to ask us questions, now they mostly sit with their phones open, they use tools like GPT, LLM, Gemini, so those tools tell them very precise answers. Then what happened in this is that the thinking process, it slowed down a bit, and"
+  },
+  {
+   "start": 315,
+   "text": "it is not even possible to check this, that is, to restrict it. Yes, one way is that we go back to paper again and tell them to write up on paper the critical thinking that is going on in your mind. So, I mean, this has changed quite a lot — quite a lot, if there is any word more than this, then in my opinion it can describe this better. Exactly. Well, basically, I am in Arbi Soft, I am in Arbi Soft Lahore, so our CEO is Yasir Basheer, hmm, he says that the human mind — the more you use it, the more efficient its results can be in the future. Let's just say there is a student, he has not used his brain at all, like, through LLM, whether GPTs or these models, he is doing all his work"
+  },
+  {
+   "start": 360,
+   "text": "he has not used his mind at all. If we talk about a student, if he does not use it, tomorrow he gets stuck in something. Obviously AI can support us only to a limited extent. So if he has not used his mind at all, then he will get stuck there. So, like, what is your opinion on this, that, like, how can the mind, now, the student be convinced that, like, okay, LLMs are with you, ChatGPT, Claude, everything is with you, but using it in an efficient way — on one side, first learn to use your own brain too."
+  },
+  {
+   "start": 396,
+   "text": "You see exactly in this, the same thing is that if you don't use the brain, then the one whose brain is less, we normally call him mentally retarded. So retarded does not mean that he is completely, I mean, use screen, I mean, one, whom we, I mean, have to use some other term for. I mean, but the thing is that the mental capability in him will keep decreasing. If you look at it, like AI, hmm, AI took knowledge from humans, hmm, organized it, and after organizing, then what did it do — that is, we call it AI because it is intelligence but artificial, artificial coming from real humans. But now as things keep advancing, now, I mean, let me give the example of children, in almost every semester we deal with around 100 undergraduate children, so their thinking process has also reduced, and"
+  },
+  {
+   "start": 434,
+   "text": "keep advancing. Now, I mean, let me give the example of children, in almost every semester we deal with around 100 undergraduate children, hmm, so their thinking process has also reduced, and they go towards that problem-solving scale, they take its solution — that is, they give GPT the same prompt question, whatever answer they get, after that they phrase it somehow and show it to the teacher. So actually what happens with it is that when they go into industry, like you are giving the example of Arbi Soft, so if they give them a small problem, this is the page, on this"
+  },
+  {
+   "start": 479,
+   "text": "solve this problem for me, then there they get stuck in such a way, as if you understand that someone has switched off a switch, exactly, like that. Exactly, on that, I can't, I can't solve it. Sorry for cutting in, I was remembering, when we were in our college time, obviously at that time there was no concept of this, so, I mean, how did we look at the answers? First solve it, fully, for example, there is a question, solve it fully, and then we had an answer with us, and then at the end of the book, they had given answers, and from there we used to match them. But now you get the answer first, and then you back-trace it, that, well, how can this be solved?"
+  },
+  {
+   "start": 525,
+   "text": "So, exactly, in universities, like, is any work happening related to this? In universities, maybe, no. In universities, look, work is happening, hmm. But those children, I mean, if suppose a teacher is discouraging them, saying you should not use this. So there are many of our motivational people who tell them that track which is a shortcut, and the shortcut track has no life, you understand, nor does it have any utility. Suppose there is a task, GPT can do it, hmm, then why would a company owner keep you to get it done?"
+  },
+  {
+   "start": 566,
+   "text": "If there is an API call, hmm, that same person pays the cost of that API call, then why would he hire you? True. So, I mean, when you stand at a place where that work, which it cannot do, even if you have multiple solutions, you organize it — no, I mean, you organize it, GPT cannot do it. Again, it is also evolving, things are evolving. But the human supremacy, in intelligence, should remain. If it doesn't remain, then you should understand that this is an overall disaster. True. I mean, you can understand it like this, that you are thinking, yes, we have become less intelligent, hmm, and the machines have become superior to us. So this is a kind of drawback for you, for man. So, like, students, for example, we, hmm, if I remember my university time, we had assignments and we had to solve them, or even a program we used to get, we used to do it."
+  },
+  {
+   "start": 619,
+   "text": "So now, what criteria for teachers? Checking the plagiarism? That it is not copy-pasted, with the usage of AI? What criteria is there now? Yes, look, personally I have moved beyond this thing, that, brother, if children bring something plagiarized, then okay, fine. But the thing is that I then conduct a viva with them — if they can explain that thing, or they have its concepts, then okay, if they have even come after doing plagiarism from somewhere, that is, suppose I gave a task, that you make a software, suppose there is a cinema management system, make it, well, now they brought it to me after making it"
+  },
+  {
+   "start": 667,
+   "text": "they took code from different places, integrated it, brought it after integrating, so if they can explain this thing, then it means they can make it too, they can expand it too, so in my personal opinion, this, I mean, one is plagiarism, that is a separate thing, but working with help from AI, that, suppose you have a solution, AI organizes it and gives it to you, so it's okay. But the thing is, if you think that you keep becoming completely dependent on it, critical thinking keeps ending, that is not right. I, I mean, remember that you yourself had given an assignment, I believe in 2014 or 13, that was, I believe it was related to OOP, in it what we had to do was, we had to use a linked list and make a small program, hmm"
+  },
+  {
+   "start": 716,
+   "text": "so now, because before this I had done FSC pre-engineering, so that background of mine was not there, like the ICS one, so when for the very first time I studied ICP, then a mind was formed a little, that, well, this is an interesting thing, so then what did I do, I mean, I used to make whatever programs there were, myself. So I still remember, using a linked list, there was a typing tutor game, in which the words, the letters, were dropping, and then you have to press some button on the keyboard, so with that the letter would collapse, so, well, I made it, so obviously the other students, they were asking, that, man, if you give it to me, we will also change it a little, in this I said, no issue, you take it"
+  },
+  {
+   "start": 760,
+   "text": "take it. Well, they took it, now they had not even literally changed the name in it, I mean, my own name was in it, which was running in it. So you caught that in the viva, what we were just talking about, you caught it from it, so, exactly, this, since then, like, viva, so obviously, first, this is one thing that should be appreciated, that you remember this task from that time, there was such a task, because we keep interacting repeatedly with different students, so this is obviously challenging for a teacher. But, well, one more thing I tell from this, that I make children do programming, or this kind of work, in Notepad, hmm. There are very good editors available, which give you code complete, like you are giving the example of Copilot, editors are available, there are different tools, which write many functions for you, in the programming sense. But I"
+  },
+  {
+   "start": 809,
+   "text": "write many functions for you, in the programming sense. But I make them do it on Notepad, so that they know all the details of the back end. Right, right, right. When, after a certain, I mean, two or three months, when they go to editors, then their efficiency goes ahead exponentially. Right, right, right. So now, in the beginning they feel that I am causing them a loss, I am wasting time, but the thing is that they then realize it. Even, I have seen many children like this, who then don't switch to an editor, they have made batch files and kept them, they run them, and along with that they keep doing the same work which should be done from the editor. Perfect, perfect. So, like, in our time there was Turbo C, I believe it is still there today, and then we switched to Dev C++."
+  },
+  {
+   "start": 853,
+   "text": "Obviously, there was no auto completion or even co-pilot indication, so that was a good learning curve, you are typing yourself, even, I mean, when, what we were talking about off the camera, our other teacher, he also used to do it the same way, like, on his laptop he used to write the whole program, so obviously in it, even a dot, a percentage sign, a percentage 's' sign is used, if it also has a mistake, then obviously the program will not run. So that learning curve, it is very, I mean, good. Yes, in this, look, there are two things, one is your critical thinking, how you have to solve a problem. So the most, I mean, main skill, that is this problem solving skill. You have a new scenario, there are some tools, that is, whichever tool you go to, there are four or five programming structures, hmm, looping, iterative, selections, okay? Hmm, hmm, doing these, you had to make new things, however big, whatever software you look at"
+  },
+  {
+   "start": 911,
+   "text": "look at it, almost all of it is built on this structure. So in it, those, now all these tasks, that is, commas, percentage signs, if you come after correcting that error, then now you can handle them better, you will know the root cause, that is, if this error is coming, or in this, I mean, error is a discussion at a small level, but even those who make big products, let me tell you right here, many of your slightly senior children, they have made quite big companies, in which there are hundreds of employees here in Lahore, hmm, hmm, so, and those were the same children who, I mean, learned these things from the root and then they went ahead. Now, AI, obviously, has wiped out all these things, that is, the people who were in writing, those with writing skills, they kept going, I mean"
+  },
+  {
+   "start": 963,
+   "text": "their utility in that way, I mean, obviously that critical thinking, it has ended, then obviously how much will you be able to grow? You are dependent on something, obviously you are dependent on AI. Yes, that's right. So if we talk about jobs, let's just say, after AI came, how much impact has there been on jobs, because of that, like, because of AI, have job opportunities increased or even decreased? Well, in some fields they have decreased, hmm, hmm, by some fields I mean, like I was giving you the example, those in writing, in translation, these were skills, obviously if you go back a bit, these were skills, and talk skills, exactly the same, now look at its"
+  },
+  {
+   "start": 1004,
+   "text": "I mean, even those people who used to write, they themselves are dependent on AI. This one job has ended. Well, similarly there are many other jobs, like, you understand, automation happened, hmm, yours, in this, look, there are many examples, that is, in this, but the thing is that the jobs that have been created, hmm, hmm, those are AI-integrated jobs, that is, suppose you were doing a task before, now you are doing the same task with AI integration. In this, the one who suffered the most, in freelancing, in it, that child who was of average skill, whose skill was average, below average, hmm, now his, I mean, now let me give you my own example, that some time ago I did a task, just for fun, I did not say no to it, someone approached me, that this is a task, you have to do it"
+  },
+  {
+   "start": 1057,
+   "text": "hmm, hmm, I gave that very same task to AI, okay, okay, it gave me a solution, now for about 15-20 minutes I kept AI engaged, I kept that person engaged, finally we are done, that you have to do this in this much, okay, okay, 100%, 99 minimum, 100% I got it solved from AI, I delivered it. Well, now this thing can go on for some time, hmm, hmm, now when your client, the user, when he also comes to know that I can get this thing done from this, hmm, then he will not get it done from you. So that's why, always, you do such tasks, like, as of currently, if I tell you, there are many domains, in which medical is involved, health is involved, in it AI's support, that is, diagnosis, AI is doing diagnosis many 100 times better as compared to real humans. So to me"
+  },
+  {
+   "start": 1113,
+   "text": "jobs were created, hmm, hmm, people of technology got involved, but they got involved in that direction. Yes, yes. There are antibiotics, their resistance, you can test it by doing an experiment on them, you can also do it by processing their genome sequence, nice. That is, now you see, that trial, and you got the result of an initial trial, after that you take it forward. Similarly there are many other tasks, that is, there are many such people, like there are children with autism, there are people, you are giving them AI assistant support, hmm. Some people's jobs were created"
+  },
+  {
+   "start": 1154,
+   "text": "some people's ended. Now, the problem with those whose ended was that they did not change with technology. This, if they, suppose, a little towards AI, if I say currently, then AI has replaced information technology, which was there 10 years ago, this, currently you can call this information technology, its name is this. This, true, true, true. In my mind, that example of Nokia was coming, like, there used to be Nokia phones, the other button phones, as soon as smartphones came, they did not adopt it, they took it lightly, like, what is it, it won't last, but what happened, such a big brand, Nokia, it collapsed entirely"
+  },
+  {
+   "start": 1201,
+   "text": "I mean, that, again, at a small level, okay, that's a different thing, it was such a big level, such a big brand, all of it, if they don't adopt new things, they will be left behind, simply. Yes, exactly, look, in this too, many things are not working, suppose, one, its technology changed, Nokia's phone technology changed, before, what kind of thing was it, second, second, this is that the things on the back end they started processing, especially Google, hmm, hmm, I made my first Google account in 2000, maybe in two or three, one or two, at that time they used to make it on a reference basis, hmm"
+  },
+  {
+   "start": 1238,
+   "text": "hmm, so now, at that time, he used to say that this Google will take money from you. Now, mostly people of my family are paying for storage, storage. Now, that storage, now in our culture it happens that they say, yes, our data is being used, our pictures are being used. Yes. Now, pictures — nobody used them to openly share anything, I mean. Whatever pictures of yours there are, however they lie there, they don't care about that. They processed them, hmm, hmm, extracted information from them, that information, the companies, they sold it to them, that this person is interested in this. That is, they, that storage, I mean"
+  },
+  {
+   "start": 1277,
+   "text": "you, you understand, like, someone is keeping goods with you, yes, yes, you keep watching him, what things he is interested in, right, right, right. From here they made revenue, if you look at Google's own revenue, hmm, hmm, hmm, hmm, then in my opinion, 160-70 billion, uh, which they earn from this, from recommendations, hmm, hmm, apart from this there will be more, hmm. So, but in their, like, documentation or privacy policies, this thing will not be mentioned, written, hmm, they take consent, that, suppose, use yours. I have personally given them consent, that use it, use whatever you want, okay. My, I mean, photography, I have been doing it for quite"
+  },
+  {
+   "start": 1314,
+   "text": "a long time, hmm, so I have given them permission, I know what they are doing, those features, that is, person features, location tracing, suppose, after some time you will see a Google tool, which will tell you that, suppose, after 10 days, where you will be. Well, yes, some time ago people were saying, yes, I mean, I have been saying for quite a long time that they are doing voice processing, they are doing all this voice processing, so even in your natural language, they are doing voice processing. Right now I am telling you, you will see, in maximum two or three years, this feature will be available, right, right, that how will you be after so many days? Now, how are they doing this on top of it? My pattern is with them"
+  },
+  {
+   "start": 1358,
+   "text": "they know, hmm, hmm, that this person is at such a place on such a day. Now suppose, they do analysis of this pattern, so AI is basing it on probability, so they can tell that this person will be at such and such a place. If someone doesn't know the back end, then he won't understand this, this is a big thing. But if a person has some 15-20 years of data with them, hmm, then they can tell exactly, yes, hmm, exactly, we, the digital footprint we are leaving, so obviously, after back-testing it, they have so many data points, and then they are making the prediction, right, right, right. So, from your first point, that, like, to an extent you can use AI, after that, for example, if you have a client, a client, then he will get the idea that, well, this is it, he didn't do it himself, so from this, an example was coming to my mind, just in the past few days, a"
+  },
+  {
+   "start": 1405,
+   "text": "very big scam happened, Builder.ai, maybe you have heard of it, it was an Indian company, like, I was reading about it, so in 2016, that company was formed, and if I remember, ChatGPT, I believe it was launched in November 2022, OpenAI launched it, so even before that, I mean, 6 years before, they formed the company, and they claim that we will make any program or any platform software, zero code will be involved in it, it will be made through AI, but"
+  },
+  {
+   "start": 1445,
+   "text": "they had one, I believe, code assistant, Natasha, one, they used to claim that all this, our code assistant is handling it, but on the back end, what was it, they had hired 700 employees, and what did they do, sitting there, 700 employees literally used to write code and they used to make the program and give it to the clients. Well, now this was such a big scam that what happened in it was that they raised 40 million, they got funding, and their valuation was around $1.5 billion, and in this, our big tech giants, for example Microsoft, and Qatar, they were also involved in this, in this scam, I mean, involved in such a way that they had invested in it, the same, and then in the end what happened was that when it was revealed that they are not doing it through AI, they had kept manual employees, the manual ones are doing it. So again, this same thing came, that one day or the other, you will get caught, it is sort of illegal, that same thing, it is absolutely so. In this, look, this is called inflated, your, I mean, showing an inflated profile. So they invested in it, suppose they would have kept 500 employees too, then they earned more than that. But this"
+  },
+  {
+   "start": 1502,
+   "text": "actually, the data, no, your data, suppose we are talking about the digital footprint, even if you made a picture, you delete it, immediately delete, its footprints, they are a part of it, hmm, hmm, they are a part of your Google history, hmm, hmm, that, I mean, you understand, suppose, you made some objectionable picture, you deleted it,"
+  },
+  {
+   "start": 1548,
+   "text": "they are not using that picture for any other purpose, never, I mean, never will they say that they will expose it somewhere, I mean, leak it, that does not happen. But the thing is that, its, I mean, contents, they use them, for marketing, for recommendations, and this, they are doing it from that too. Well, then they also, a little, when, suppose, I am getting my picture made, I will try to look a little fancy, or I will make it like this, then they started voice processing, so that how a casual person discusses. Yes, I give a personal example of this, we discussed an unknown thing, a song, a long time ago, sitting together, hmm, hmm, a completely unknown thing, after a few days, that thing started coming in recommendations, from where, for the first time, I got the idea that this voice processing, they are doing it. So gradually, now your writing, emails, conversations, everything is with them, I mean, if I suppose"
+  },
+  {
+   "start": 1607,
+   "text": "yes, I am chatting with my brother, I have been doing it for 10 years, hmm, hmm, this entire record is with them, so even if they remove me from the middle, they can chat with someone like me for many more years, hmm. You can call this shallow cloning, hmm, brain, shallow, this is what they are calling an agent these days, AI agent, that is, a specific task of a person, related to it. So similarly, then things keep evolving, some keep getting known, some are ethically correct, some are incorrect, true, true. So, keeping this in mind, a theory came to my mind, Dead Internet Theory, which is quite famous these days, sort of, so in it they were discussing that the bots, a, for example, a post, that"
+  },
+  {
+   "start": 1658,
+   "text": "bots themselves upload the post, bots themselves promote it, bots themselves comment on it, do likes, so bots are running this entire process. In this, the actual thinking, the human mind, or human involvement, that has ended entirely. In my, like this, I mean, there are many such things. You are saying this in the sense of a bot, bots have now come to that level, that, I mean, one thing slipped my mind, there was one, Turing Test, hmm, hmm, that, I also read somewhere that the bots passed it."
+  },
+  {
+   "start": 1697,
+   "text": "The gist of the Turing Test is that two people are communicating, on one side there is a machine, a human, so if he cannot tell, then understand that he passed that test, right. So, similarly, I mean, this is a continuous evolvement, addition keeps happening. So if, like, we talk about mental health, that with the evolution of AI or job securities, or in the end, how much is mental health disturbed, and like, for example, obviously it is disturbed, what can we do to make it better? Like, what would be your one advice in this? In my opinion, this, mental health"
+  },
+  {
+   "start": 1735,
+   "text": "is becoming the biggest problem, in the next 8 to 10 years. You will see the most psychologists involved in this domain. Well, similarly, and the reason for this is that children's screen time has increased, what about children, the elders' has increased too, right? Hmm, now some friends sit together, but they are all engaged on their phones, hmm. So, I mean, the human brain, it is made for interaction with humans, hmm, when we use it that way, and use it more, then it goes towards a digital toxicity, hmm, hmm. So this, eventually, this is not right, absolutely not right, and physical health getting spoiled, that is another thing, but mental health, this is more"
+  },
+  {
+   "start": 1775,
+   "text": "and its way is that you keep some screen time, some, I mean, some duration, that you stay away from these digital devices, uh, otherwise, yes, right now there is no end to it. So, keeping this in mind, I mean, in Arbi Soft, we made a project, and its name is, like, StepIn, in it what happens is that, like Screen Time in Apple, it is in Android too, so that Screen Time API, Screen Time API, Apple introduced it, 2000,"
+  },
+  {
+   "start": 1814,
+   "text": "in iOS 16, well, it was introduced in iOS 15, but at an individual level, that developers could use it, it was available in iOS 16, so using it, we made an app, and in that app what happens is that, first of all, all your distracting apps, most probably social media, you block all of them. Well, when you block them, then after that you are given tasks, that what is it, let's say, you will take steps, for example, you will take 1000 steps, you can also set its criteria, that I will get so many minutes for so many steps, so, let's say, you have taken 1000 steps, you have kept the equivalent settings that I will get 1 minute, so you will get 1 minute, you take 1000 steps, through HealthKit, all that process is going on, so now for that 1 minute, you can use your apps, as soon as you use them for 1 minute, the apps will automatically get blocked. So its link, I will add it in the description."
+  },
+  {
+   "start": 1869,
+   "text": "So, like, a lot of work is happening on these things now, like, obviously, because everyone has come to know that, like, mental health is going to get quite disturbed by this, so people are working a lot on it, like, on reducing screen time. Well, look at this, to reduce screen time, we are also using a screen. Again, this is quite a discussion of mine, I mean, with fellow developers, even with the team lead, that, like, we are doing it so that people's screen time reduces, but our screen time, yes, I mean, this is the only way, no other option is formed, because if you make children sit somewhere for one and a half hours, turn off the net, then they will feel as if some severe punishment has been given to them, we don't have internet"
+  },
+  {
+   "start": 1915,
+   "text": "Yes, I mean, that classroom environment, we see, they keep scolding, children still keep sitting and using it, so no such work of theirs is going on, from which they are suffering any loss. This, what addiction is, hmm, hmm, this is basically an unnecessary need for something getting created, this is called addiction. I mean, addiction is not something like that, whether it is of your device, whether it is of some food of yours, of anything, so they have basically become addicted, hmm. In the past few days, there was a video, basically he was listening, that there was no internet in my house, so I sat with my parents for a while, so they are good people, man, actually they are right"
+  },
+  {
+   "start": 1957,
+   "text": "so nowadays the situation is the same, that we, I mean, the internet, in this virtual world, have become so involved that the real life, we have completely left it. So if, let's just say, we, I mean, talk about universities, as you were also talking, that mental health, this is a very big, factor that is going to be in the coming years, now you say, so is any work happening in universities regarding this or not? In my opinion, it is not happening, for now it is not happening. Actually, when a problem becomes a crisis, then we start thinking that way, right now it is a problem, but its scale is a little less, when it goes towards that, which I am calling a crisis, then this will happen"
+  },
+  {
+   "start": 2005,
+   "text": "will happen. Right, right, yes. So, like, mine too, uh, now our platform, Muffled Minds, its purpose is also this, that mental health, regarding it, has become a taboo, which you can call 'hawwa' in Urdu, that, like, it has become such a thing, about which discussion, no doubt, is happening nowadays, if 5, 10 years, 4 years ago, it was not at all, people used to hesitate, that, man, my mental health, even with family, what will I discuss, with friends, that is later, so what will they think about me? Like, people are afraid to consult a psychologist, nowadays time has changed a lot, but they used to be afraid before, that, like, will they put the label of mental patient on me, that thing. So I believe that even in universities, we also talked in previous episodes, that this, no doubt, should start from the school level, school and then college and then also in universities, so, I mean, maybe you can give some suggestion to higher management, that regarding this thing too, we should have a dedicated lecture, I mean, it should be there, regarding this thing, that there, the talk should be only about this thing, that"
+  },
+  {
+   "start": 2054,
+   "text": "man, whatever things are going on, whatever tensions there are, whatever things there are, how to get out of them, there is tension of studies, obviously a student can have the most tension of that, after AI came, the world became fast, regarding that, many people have tension, that we will not be left behind, so to get out of that thing, so I believe, such a dedicated slot should be in universities, necessarily. Yes, look, one, a course of psychology, this is from HEC, that it is taught, that psychology"
+  },
+  {
+   "start": 2100,
+   "text": "again, it is not taught at that applied level, hmm. That is, this, this thing, its one application, that is, suppose you remain involved in so much electronics, then this thing will affect it. The second thing is that, then, that one thing, that is, you socially, like you just told, that, socially you will remain cut off, you are using the internet, hmm, from family, from parents, from friends, so that, your, a kind of, I mean, the same thing will create a problem for mental health, hmm"
+  },
+  {
+   "start": 2140,
+   "text": "so its solution is this, that, one, physical activities, they are not there, because they should be there, and there should be some, I mean, its credits too, yes, exactly, yes, that, brother, this, suppose, four credit is your physical health course, in which, children's exercises, these things, otherwise, so look, if a person personally is not fit, healthy, what will he do with the rest of the things? Then the second thing is, one, what you were saying, that children are worried, that, this thing has come, so because of it, that thing has ended, nothing like this is going to happen, the shape of these things is changing. Just a few days ago, a company, its CEO was sitting in my office, so"
+  },
+  {
+   "start": 2188,
+   "text": "he was saying that, however big applications are made, the question does not even arise that you can make them with GPT, hmm. So, for now, he was telling that, yes, we have made HR software, for the USA, so in it there are thousands of forms, wherever you have to go and change it, you change it, the same. Then, second, we have an easy solution, that we take it from Google, we take it from Microsoft, because they are big companies, that's why everyone takes their name. Now, their cost, suppose I tell you the cost of GPT, if GPT sends an API call, then it calculates it on the basis of tokens, that is, per thousand tokens, exactly, exactly. So its cost, that is more expensive than your current labor, hmm"
+  },
+  {
+   "start": 2235,
+   "text": "you calculate this, that is, suppose, I had to get a data set labeled, right, right, uh, there was one, it had 20,000 rows, hmm, hmm, so on it, about $100 was spent, it was done in one day, but $100 means 26,700, in fact, it came to around 28,000, yes, so this is its cost too, so this means that if those solutions exist, they are expensive, computationally expensive, hmm, apparently quick, but expensive, so its way is this, that, I mean, it is a human skill, hmm"
+  },
+  {
+   "start": 2271,
+   "text": "you have tools, like a calculator, hmm, hmm, now a calculator is doing computation, you understand this, that it is the largest scale computation, right, right. Your question is, it took out keywords, it took out probabilities, it prepared its answer, if you felt it was right, then, I mean, it became okay, if not, then that reinforcement, that is, again it is also learning, hmm, hmm, that this thing was right, this was not. So where jobs are ending, there they are also being created, true, true, true. Like, in our time, the extra-curricular activities, students were quite involved in them, but nowadays it is decreasing further, I mean, awareness is coming, like, you can call it exposure, or call it opportunities, say that these sports activities, their opportunities are quite a lot, but again, if you did not take your future, for example, in that direction, for"
+  },
+  {
+   "start": 2327,
+   "text": "example, you did not take it in that direction, for example, there is a sportsman, you are not one, you have to take him part-time, so nowadays, it is decreasing, you believe, that's right, I mean, the talk of physical activities, physical, physical, physical, yes, that is becoming almost non-existent, what less, you go to a university and select a team, you don't even get that many players, as many as the team requires, the reason for that is that they are lying in a pointless virtual world, hmm, and the harm happening from this is that, I mean, their behavior, communication, anger, all these things are changing. True, true. Your mental fitness or health, it is gradually"
+  },
+  {
+   "start": 2370,
+   "text": "disturbing it, and it is not even felt, this, it is a slow poisoning type thing, slow poisoning. Yes, yes. So, like, about this thing, I mean, we can talk, yes, that we are talking, but again, its implementation, that is for higher management, call it upper authorities, they have to do it, it has to happen with their approval, so you must highlight this thing, in any, for example, any conference, in it, this, in university, as much as I studied, okay, I will not remember, which subjects, even the names of the subjects I will not remember, what I learned, I learned it after coming into the professional environment, coming"
+  },
+  {
+   "start": 2415,
+   "text": "so when that university time is, we again talk about the same thing, even in previous episodes we talked about the same thing, that those four years of yours, don't focus them on study, think of them that they will teach you how to live, in your coming years, well, how will you spend your life? So now if this thing gets skipped in it, you keep injecting only and only study and this AI, then there is no, there is no end to it, with it. That is, suppose, I give a challenging task to children, hmm, actually I am not giving a task to children, I am giving the challenging task to GPT, children again, that GPT, so its harm is the same, that when they go somewhere, international, whatever companies there are, I have given interviews at many places"
+  },
+  {
+   "start": 2461,
+   "text": "so they conduct the interview with you in this way, that, suppose, they opened a Notepad editor, gave you the problem, hmm, now you have to type its solution there, without any intelligence, co-pilot, without using any such thing, so when you will not be able to do it, then obviously, whatever theory you have read, it is of no benefit, use AI. Well, then in it, one big, one, I mean, it is that the child who keeps using these things a lot, he keeps walking around having raised his ranking in class, hmm, hmm, when he goes to the market, then, when he gets rejected two or four times, he quickly"
+  },
+  {
+   "start": 2500,
+   "text": "goes into frustration. That is, he will be excellent in grades, in other things, but when he goes here, he will be in frustration, at one company, at the second, at the third, when he goes, then he will feel that, I, I mean, I have come into a problem in this. Apart from that, that child who was on relatively fewer grades, but his skills were better, he will get hired sooner, hmm. So, I still remember, like, at that time there was no concept of AI, my batch was basically of 11 to 15, so at that time also, what was it, the students, for example, who were toppers in FSC, coming into the university, their CGPA is running at 2.5, they are failing in subjects, so that was also the same, that, for example, in FSC or matric, their rote system was running, coming into the university"
+  },
+  {
+   "start": 2549,
+   "text": "conceptual things came, so in them, I mean, they started lagging, so, come, this is also the same thing, then, when you go towards that, let's just say, you gave a task, the teacher, for example, gave you a task, instead of thinking, instead of using your mind, you got it done directly from AI, okay, you got its solution, you saw the solution, you also understood it, you, okay, you also explained it, tomorrow another task comes, for example, you don't have to use this in it, so when you did not use your mind before, then here your mind itself will not work, you will become completely flat. You say, it is not even a new task, yes, you are changing it a little, because you are going from an algorithm towards a solution, in it, a little change will come, then you will get stuck there, because the thing you saw, or the solution you got, then again you are dependent."
+  },
+  {
+   "start": 2589,
+   "text": "If I talk about myself, we also use Google as frequently as we used to use it 15-20 years ago, right, right, we are dependent. When it stops, you will not be able to work ahead of it, but there are some skills of yours which you have, whatever thing you have to do, you have no tool with you, nothing at all, still you will find its solution, right, right, right. Well, if, let's just say, now we, if we talk about our human relationships or social skills, how much impact has AI's evolution had on them? For example"
+  },
+  {
+   "start": 2639,
+   "text": "my relation with family, my relation with relatives, after this, how much impact has there been on that thing? What do you think? Well, in this, a little, inflated things have come, that is, people, now tools have come and things are available, people are showing themselves, I mean, by inflating themselves, again that real, real, real, real, real, real is not there, but now this is also a type of complex, that, I mean, your actual musician, you are showing it by inflating it, by exaggerating it, then again expectations, those, those are also AI enhancements, definitely, here, but its, one, like I say, there is a law of Newton, hmm, hmm, now someone says, where is this used? Hmm, hmm, the biggest fool is the one who asks this"
+  },
+  {
+   "start": 2694,
+   "text": "question. It has utility, yes. Now, some things, you understand, I mean, they are going on in your mind just like that, you calculate them. Now, similarly, look here too, AI is only calculating probabilities, that is, apart from this, there is nothing else, hmm, hmm, that is, suppose, I am sitting here, what is the probability that next time I will sit or behind, I mean, somewhere, this is a kind of probability calculation. So, in this regard, in my opinion, social interaction, communication, email writing"
+  },
+  {
+   "start": 2734,
+   "text": "now things have become very formal, yes, big, I mean, the text, it has increased, but actually, its accent, human, what they call humanize, that was a little different. So it should be used, I don't say it should not be used, to save time, not that, your own, which, at the cost of it, your critical thinking, or at the cost of these things, on top of that, properly. So, like, just in the past few days, if we are talking about that social impact of AI, then in it, in the past few days, there was a video, my father, he was watching a video, so obviously, my fathers, our parents, grand parents, that generation, who, you can say, have seen the journey from horses to cars, and then from cars to planes, they are now seeing this AI too"
+  },
+  {
+   "start": 2782,
+   "text": "so for them, digesting it, this is a very difficult thing, that, so now my father, in the past few days, was watching a video, so in it, there was an AI generated video, in it, a bridge was collapsing, below, the laborers were working, so, obviously, if you look normally, if we also look, at first glance it seems to us, well, man, this is an actual video, but if you look a little, you will get the idea, I told them that this is an AI generated video, they did not believe, that no, how can this be a video, I mean, someone recorded the video, then it is a video, otherwise it is not. So, like, what do you think, like, our elders, how easy is it to convince them, or in what way can you convince them, that, man, these things are going on"
+  },
+  {
+   "start": 2827,
+   "text": "virtual things are going on, you can say. Well, suppose, you don't even convince them, yes, I mean, don't convince them, they get convinced, okay, they don't, but its other impact is this, that when you get such things, videos, content on the net, then there is a whole community like this, I mean, now I would say 70-80% of people who cannot even tell whether this is real content or fake content, so what happens with that is that they form an impression, yes. So I was telling you one thing in the beginning, that opinion changing, opinion harvesting, so now AI, as a tool, is being used for this work. Suppose, I saw a video, on which, around, I mean, around millions of views, it was a fake video, made with AI, hmm, now as many people as saw it, now I got the first impression, because the duration is 7 seconds, so it means, right now, VEO 3 made it or some other tool made it, right, right, right."
+  },
+  {
+   "start": 2884,
+   "text": "So now, this is a kind of, one, I mean, a perception building, people's personal branding, that is, whoever has money, they keep making it and using it, that's how it is. So, like, this is also in our religion, that if you hear something, see something, first verify it, after verifying, then pass it on, that I saw something, I verified it, then I told you. But what is happening nowadays, let's say, before, there were fake videos, they used to crop them, cut them, attach whatever, nowadays, get anything made with AI, okay, so, I mean, like, how can we convey it to that generation, today's generation, even those who know about AI, they still believe that thing, so how can we convey this to them, that, man, first you have to verify this thing, whether it is authentic or not, then you have to convey it further, you have, this is it, you have."
+  },
+  {
+   "start": 2927,
+   "text": "Well, in my opinion, they cannot be convinced, they will learn from experiment, it will take time, like that, right, right, right. Because, look, all the tools, of generation, are coming to such a level that they are going close to reality, that is, the more real it looks, yes, yes, the better the model is, yes. Now, when it looks like a real thing, then, I, how can you judge it? Suppose, there is a video in which two"
+  },
+  {
+   "start": 2974,
+   "text": "people are standing, now he has also made a third person stand in the middle, so now, the reality of those two is there, and the third one, so that is a kind of more than 50%, in fact, 60-70% of people will think that this is true. Now, how can it be verified? Ethically, it should be written below it that this is AI generated content, exactly like that. So, in this, I mean, when they tell, then it is there, but in this, this thing is hidden in the opposite way, a voice-over was done, something like that was done, so that, my, I don't think there is any way to stop it. Its way is this, that people will learn, yes, then, eventually, what they call it, that, I mean, back, I mean, people will start moving back from it, then they will say, is this an actual, actual video or not? If it is actual, they will watch it, if not, they won't watch it, that's how it is."
+  },
+  {
+   "start": 3029,
+   "text": "Now, like, for example, in movies, when a smoking scene comes, it is written below that smoking is injurious to health, so I believe it's more dangerous than smoking. If you are not writing below that it's a generated video, you are not adding a caption below, then this was more dangerous than that, why? Because its effect, you can see it, you cannot see its effect. But this is the same thing, that to change opinion, for opinion engineering, for opinion harvesting, right, right, if you look at Obama's election, hmm, when he won, at that time there was an Indian scientist, whose name has slipped my mind, he was the chief of it, I mean, social media, this, yes, well, I am seeing, he had already forecast that he will win by this much."
+  },
+  {
+   "start": 3082,
+   "text": "Well, what was the reason, he was using multiple tools, hmm, looking at their reach, he was doing its analysis, so, I mean, this is that you changed the opinion of an entire nation, the most sensible nation in the world, with a few tools, YouTube, Twitter and two or three more, such that they voted according to that propagated opinion, hmm. Again, now what happened in this, the elections that happened just now, so, I mean, to say this, money, everyone's, money is the most powerful thing, making a government, it is a more powerful thing than that."
+  },
+  {
+   "start": 3120,
+   "text": "So, do opinion harvesting, put money on opinion, then after that change governments, do whatever you want, that is, then, so this is its biggest wrong, that here, of one person, I mean, you changed his opinion, hmm. So this, in my personal opinion, is its biggest, that thing. I mean, there are many religious things which I don't want to talk about, but the thing is that in it, then many things are problematic. Now, if we talk about opinion, then a documentary was coming to my mind, it is available on Netflix, by the name of Social Dilemma, in it they tell, maybe you have seen it. Well, in it they tell, how these social media platforms, they change your opinion, how do they change your thinking? Their algorithms are designed in such a way that, for example, you did not use social media for two days, okay, so in some way, notifications will come to you, related to anything, they will force you to"
+  },
+  {
+   "start": 3178,
+   "text": "force you to start, when you start using it, then you will merge, you will get so involved in it that you cannot get out of there, so, I mean, they made a documentary in this way, that now, how, in this, you keep sinking, for example, if we use one word of Urdu, then in the end, they tell the same thing, that how can one get out of this, that, like, that percentage, you have to decide yourself, that we have to give this much here, we have to give this much to this, so this is exactly like its thing, come on, if, let's just say, we have, no, discussed everything, let's talk about its end, that now AI has come, before this, as we were talking just now, people used to travel on horses, after that cars came, after cars, planes came."
+  },
+  {
+   "start": 3222,
+   "text": "After planes came, this AI came, virtual, and life kept becoming virtual. What do you think, what is its end? Well, in this, look, whenever you use an AI engine, it uses billions of parameters behind it. That is, to say for a layman, if I am driving a car, I am looking at five or six parameters, what is the speed, who is in front, who is behind, there are 15-20 parameters. If I know that on this road, how many cars are ahead, how many cars are behind, then my decision will become better. If I know left and right, then these parameters, as they keep increasing"
+  },
+  {
+   "start": 3262,
+   "text": "its output keeps becoming that much better. But what is its negative side? Computation cost keeps increasing. Now, when computation cost increases, then, obviously, companies, willingly or unwillingly, stop the parameters somewhere, that this is a model of so many billion parameters, this is of so many billion parameters, they are stopping them, that is, computation is a problem. Well, now, in parallel, another thing is going on, that is quantum computers. Yes, yes. Now, quantum computers, which are the peak computers of today, hmm, there is no comparison with them, they are exponentially higher in power. The day these two integrate, okay, then you should understand that this will be the end. What will the end be? That your human brains, their clones will be created, because computation is not a problem."
+  },
+  {
+   "start": 3315,
+   "text": "In case quantum computers are integrated with AI models, which are at the current rate. Then you should understand, like a virtual world, no, we create it, yes, that these clones of 1 crore or 1 billion people, yes, these are there, and they are communicating with each other, hmm. So, to me, this looks like an end game, that this will be a kind of disaster, that then the human supremacy, I mean, one, its religious side, leaving that aside, its computational side, that is this. Right now, the big problem is computation cost. The day it ends, then you will understand that all this, that will happen, that is"
+  },
+  {
+   "start": 3365,
+   "text": "that is, towards, like, if we talk a little on the Islam side, then we, I mean, we have read, we have been told, that, for example, when Dajjal is to come, Dajjal, he will show people two things, hmm, he will show one scene of heaven and one scene of hell, but in actual, they will be reversed. So I believe, then we, I mean, using AI, he will be showing it, going in the same way, right. Look, things are being manipulated. You put in a little money, you change people's opinions."
+  },
+  {
+   "start": 3404,
+   "text": "So opinion is this, that I, suppose, am I saying this thing is right or wrong. Now if I start calling wrong right, then it means, the one who changes opinion, he is successful. So, in my opinion, its end is going to be this, that your thinking, your data, is being replicated in an unnoticed way, and somewhere, they will start doing soft cloning, shallow cloning, whatever it is, like that, like that. Come on, in the end, one advice from your side for our young generation, whatever, for example, AI is, because of it, in it too, their mental health is disturbed, or how they have to balance their personal life with university life, what would be your one advice for our young generation?"
+  },
+  {
+   "start": 3453,
+   "text": "In it, what I personally observe, then they must go towards physical activities, whether it is one hour, two hours, when they go towards this, then the rest of the things will balance automatically, screen time will reduce, their health will become better. Now, if they don't do this, hmm, then they will gradually keep growing in this abnormality, which you, uh, can call mental health, it will start reducing, a problem will be created in it. So, physical, in my opinion, universities should also add a course of three or four credits, which actually includes your physical contribution. True, true. Such a nice advice. Yes, exactly, I mean, we have also kept that one physical activity involved in our professional life, like, because our work is all day, uh, software, as a software engineer, all day"
+  },
+  {
+   "start": 3511,
+   "text": "is sitting, so that one, maybe, any physical activity, maybe it can be the gym or any sport, you must include it. So yes. So, in the end, one question for our fish jar, like, we have started a little task, a sticky note, we started a task, that whoever our guests are, they will ask one question, random, any question, obviously it will not be personal, any question, we will pick one question from the next guest, he will answer it. So you take one question from this, answer it, quickly, in 1 minute, and write one question and throw it in this, kindly."
+  },
+  {
+   "start": 3548,
+   "text": "Well, basically the question is: Are we actually getting smarter or it's just abundance of information? This is a good question. In this, look, I mean, as much information as we need, we have kept more information than that. Suppose, your actual social circle is of 100-200 people, and suppose, my Facebook page is there, I am connected with many thousands of people, right, right, okay? Now, in this, then what happens is, when I am getting unnecessary information, which I don't require, that is actually creating a problem for you. That is, suppose, you saw that, daily, 50 people"
+  },
+  {
+   "start": 3587,
+   "text": "such and such also died, from this thing, such and such also happened, such and such also happened. Actually, your circle has become bigger, hmm. Now, then, that, I mean, unnecessary information, it creates a demotivation in you. Similarly, there are other things, some accident happened, something happened, so, I mean, the information which is not required, in my opinion, if it is not there, then it is better. Yes, the information which is relevant to your skills, you should keep it too, you should retain it too, and, I mean, you should use it too."
+  },
+  {
+   "start": 3625,
+   "text": "Come on, thank you so much, Shahid sir, for sparing some time with us. Thank you so much, and thank you so much viewers for staying with us. If you really like our content or our initiative then do subscribe, like or share. This is basically a small effort to help our next generation to feel more confident and empowered. So, thank you so much. See you in the next episode. Allah Hafiz."
+  }
+ ]
+}
